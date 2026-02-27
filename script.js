@@ -30,6 +30,12 @@ function renderNews(newsArray) {
                 </div>
                 <small style="color: var(--dim); font-size: 0.75rem;">${new Date(item.date).toLocaleDateString()}</small>
             </div>
+            
+            ${item.tags && item.tags.length > 0 ?
+            `<div style="display:flex; gap:6px; flex-wrap:wrap; margin-bottom:0.5rem;">
+                    ${item.tags.map(tag => `<span class="cat-tag">${tag}</span>`).join('')}
+                </div>` : ''}
+                
             <h3>${item.title}</h3>
             ${item.description ? '<p class="desc">' + item.description + '</p>' : ''}
             <a href="${item.link}" target="_blank" class="read-btn">Leer más →</a>
@@ -42,7 +48,8 @@ document.getElementById('searchInput').addEventListener('input', (e) => {
     const filteredNews = allNews.filter(item =>
         item.title.toLowerCase().includes(searchTerm) ||
         (item.description && item.description.toLowerCase().includes(searchTerm)) ||
-        item.source.toLowerCase().includes(searchTerm)
+        item.source.toLowerCase().includes(searchTerm) ||
+        (item.tags && item.tags.some(t => t.toLowerCase().includes(searchTerm)))
     );
     renderNews(filteredNews);
 });

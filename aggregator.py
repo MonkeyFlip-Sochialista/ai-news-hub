@@ -1,10 +1,14 @@
 import feedparser
 import json
 from datetime import datetime
+import os
+import re
 
-# Lista extendida de feeds RSS de la industria IA y tecnología
+# ==============================================================================
+# 1. MEGA-DICCIONARIO DE FUENTES RSS DE INTELIGENCIA ARTIFICIAL (100+ sitios)
+# ==============================================================================
 FEEDS = {
-    # Laboratorios e Investigadores Principales
+    # --- Laboratorios de IA y Gigantes Tech ---
     "OpenAI": "https://openai.com/news/rss.xml",
     "Google DeepMind": "https://deepmind.google/blog/rss.xml",
     "Google AI Research": "https://blog.research.google/atom.xml",
@@ -22,11 +26,27 @@ FEEDS = {
     "Intel AI": "https://blogs.intel.com/technology/category/artificial-intelligence/feed/",
     "Cohere": "https://txt.cohere.com/rss/",
     "Stability AI": "https://stability.ai/news?format=rss",
+    "Mistral AI": "https://mistral.ai/feed.xml",
+    "Perplexity": "https://www.perplexity.ai/hub/feed",
+    "Scale AI": "https://scale.com/blog/rss",
+    "AI2 (Allen Institute)": "https://allenai.org/blog/rss",
+    "EleutherAI": "https://blog.eleuther.ai/rss/",
+    "RunwayML": "https://runwayml.com/blog/rss",
+
+    # --- Universidades e Instituciones ---
     "BAIR (Berkeley)": "https://bair.berkeley.edu/blog/feed.xml",
     "Stanford HAI": "https://hai.stanford.edu/news/feed",
     "MIT News AI": "https://news.mit.edu/rss/topic/artificial-intelligence2",
+    "CMU ML Blog": "https://blog.ml.cmu.edu/feed/",
+    "Harvard AI": "https://computationalthinking.harvard.edu/feed/",
+    "Oxford AI": "https://www.oii.ox.ac.uk/news-events/news/feed/",
+    "Cambridge AI": "https://www.cst.cam.ac.uk/news/feed",
+    "UCL AI Centre": "https://www.ucl.ac.uk/ai-centre/news/feed",
+    "MILA (Quebec)": "https://mila.quebec/en/news/feed/",
+    "Vector Institute": "https://vectorinstitute.ai/news/feed/",
+    "Alan Turing Institute": "https://www.turing.ac.uk/news/feed",
     
-    # Publicaciones Técnicas y Científicas (ArXiv)
+    # --- Publicaciones Científicas (ArXiv) ---
     "ArXiv (cs.AI)": "http://export.arxiv.org/rss/cs.AI",
     "ArXiv (cs.CL)": "http://export.arxiv.org/rss/cs.CL",
     "ArXiv (cs.CV)": "http://export.arxiv.org/rss/cs.CV",
@@ -34,7 +54,7 @@ FEEDS = {
     "ArXiv (cs.NE)": "http://export.arxiv.org/rss/cs.NE",
     "ArXiv (cs.RO)": "http://export.arxiv.org/rss/cs.RO",
     
-    # Blogs de Científicos y Data Science
+    # --- Blogs de Mentes Brillantes y Data Science ---
     "Karpathy Blog": "https://karpathy.github.io/feed.xml",
     "Lilian Weng": "https://lilianweng.github.io/index.xml",
     "Sebastian Ruder": "https://ruder.io/rss/",
@@ -48,10 +68,15 @@ FEEDS = {
     "Analytics India Mag": "https://analyticsindiamag.com/feed/",
     "Towards AI": "https://towardsai.net/feed",
     "SmartData Collective": "https://www.smartdatacollective.com/feed/",
-    "DataCamp": "https://www.datacamp.com/tutorial/rss.xml",
-    "Springboard AI": "https://www.springboard.com/blog/category/ai-machine-learning/feed/",
     
-    # Revistas de Noticias de Tecnología e IA (Tier 1)
+    # --- Frameworks y Librerías Core ---
+    "PyTorch Blog": "https://pytorch.org/blog/feed.xml",
+    "TensorFlow Blog": "https://blog.tensorflow.org/feeds/posts/default?alt=rss",
+    "Keras Blog": "https://keras.io/feed.xml",
+    "Scikit-Learn Blog": "https://blog.scikit-learn.org/feed.xml",
+    "OpenCV Blog": "https://opencv.org/blog/feed/",
+
+    # --- Medios de Comunicación (Tier 1 en Tech) ---
     "TechCrunch AI": "https://techcrunch.com/category/artificial-intelligence/feed/",
     "The Verge AI": "https://www.theverge.com/rss/artificial-intelligence/index.xml",
     "Wired AI": "https://www.wired.com/feed/tag/ai/latest/rss",
@@ -62,8 +87,6 @@ FEEDS = {
     "Unite.ai": "https://www.unite.ai/feed/",
     "Artificial Intelligence News": "https://www.artificialintelligence-news.com/feed/",
     "AI Business": "https://aibusiness.com/rss.xml",
-    
-    # Revistas de Tecnología Expandidas
     "Ars Technica AI": "https://arstechnica.com/tag/ai/feed/",
     "Singularity Hub": "https://singularityhub.com/tag/artificial-intelligence/feed/",
     "Futurism AI": "https://futurism.com/categories/artificial-intelligence/feed",
@@ -75,58 +98,55 @@ FEEDS = {
     "InfoWorld AI": "https://www.infoworld.com/category/machine-learning/index.rss",
     "TechRepublic AI": "https://www.techrepublic.com/rss/artificial-intelligence/",
     "Hackaday AI": "https://hackaday.com/category/artificial-intelligence/feed/",
-    "GeekWire AI": "https://www.geekwire.com/category/ai-machine-learning/feed/",
-    "DZone AI": "https://feeds.dzone.com/ai",
-    "TNW Neural": "https://thenextweb.com/neural/feed",
-    "Gizmodo AI": "https://gizmodo.com/c/artificial-intelligence/rss",
-    "Nature AI": "https://www.nature.com/subjects/artificial-intelligence.rss",
     
-    # Comunidades de Desarrollo y Substack de IA
-    "Hacker Noon AI": "https://hackernoon.com/feed/tag/ai",
-    "Hacker Noon ML": "https://hackernoon.com/feed/tag/machine-learning",
-    "Hashnode AI": "https://hashnode.com/n/ai/rss",
-    "Dev.to AI": "https://dev.to/feed/tag/ai",
-    "Dev.to ML": "https://dev.to/feed/tag/machinelearning",
-    "Import AI": "https://jackclark.substack.com/feed",
-    "The Sequence": "https://thesequence.substack.com/feed",
-    "Latent Space": "https://www.latent.space/feed",
-    "Interconnects": "https://www.interconnects.ai/feed",
-    "Understanding AI": "https://www.understandingai.org/feed",
-    "AI Snake Oil": "https://www.aisnakeoil.com/feed",
-    "Scott Aaronson": "https://scottaaronson.blog/?feed=rss2",
-    "Gary Marcus": "https://garymarcus.substack.com/feed",
-    "AI Supremacy": "https://aisupremacy.substack.com/feed",
-    "AI Breakfast": "https://aibreakfast.substack.com/feed",
-    "Zvi's Blog": "https://thezvi.substack.com/feed",
+    # --- Periodismo Internacional ---
+    "Forbes AI": "https://www.forbes.com/artificial-intelligence/feed/",
+    "BBC Tech": "http://feeds.bbci.co.uk/news/technology/rss.xml",
+    "The Guardian AI": "https://www.theguardian.com/technology/artificialintelligenceai/rss",
+    "NYT Tech": "https://rss.nytimes.com/services/xml/rss/nyt/Technology.xml",
+    "The Register AI": "https://www.theregister.com/Offbeat/AI/headline.rss",
     
-    # Reddit (Comunidades Open Source & Charla)
+    # --- Comunidades y Substacks Destacados ---
     "r/MachineLearning": "https://www.reddit.com/r/MachineLearning/.rss",
     "r/ArtificialIntelligence": "https://www.reddit.com/r/ArtificialIntelligence/.rss",
     "r/LocalLLaMA": "https://www.reddit.com/r/LocalLLaMA/.rss",
-    "r/singularity": "https://www.reddit.com/r/singularity/.rss",
-    "r/OpenAI": "https://www.reddit.com/r/OpenAI/.rss",
-    
-    # Más Publicaciones Globales 
-    "O'Reilly Radar": "https://www.oreilly.com/radar/feed/",
-    "Emerj": "https://emerj.com/feed/",
-    "Topbots": "https://www.topbots.com/feed/",
-    "AI Trends": "https://www.aitrends.com/feed/",
-    "Forbes AI": "https://www.forbes.com/artificial-intelligence/feed/",
-    "Datanami": "https://www.datanami.com/feed/"
+    "Hacker Noon AI": "https://hackernoon.com/feed/tag/ai",
+    "Hashnode AI": "https://hashnode.com/n/ai/rss",
+    "Dev.to AI": "https://dev.to/feed/tag/ai",
+    "Import AI (Jack Clark)": "https://jackclark.substack.com/feed",
+    "The Sequence": "https://thesequence.substack.com/feed",
+    "Latent Space": "https://www.latent.space/feed",
+    "AI Snake Oil": "https://www.aisnakeoil.com/feed"
 }
+
+
+# ==============================================================================
+# 2. SISTEMA DE DETECCIÓN INTELIGENTE
+# ==============================================================================
 
 IMPORTANT_KEYWORDS = [
     "gpt-4", "gpt-5", "claude 3", "claude 3.5", "llama 3", "gemini", 
     "alphafold", "sora", "midjourney", "breakthrough", "release", 
     "agi", "superintelligence", "open source", "million tokens", 
-    "state of the art", "sota", "new model"
+    "state of the art", "sota", "new model", "revolutionary"
 ]
+
+CATEGORIES = {
+    "💬 LLMs & NLP": ["llm", "llms", "gpt", "claude", "llama", "mistral", "gemini", "prompt", "nlp", "language model", "chatgpt"],
+    "🤖 Robótica": ["robot", "robotics", "boston dynamics", "figure", "humanoid", "drone", "autonomous"],
+    "👁️ Visión por Computador": ["vision", "image generation", "midjourney", "dall-e", "sora", "video generation", "diffusion", "stable diffusion"],
+    "⚖️ Ética y Regulación": ["ethics", "policy", "regulation", "eu ai act", "bias", "safety", "alignment", "deepfake", "copyright"],
+    "⚙️ Hardware de IA": ["gpu", "nvidia", "amd", "tpu", "silicon", "chip", "semiconductor", "cuda"]
+}
+
+# ==============================================================================
+# 3. LÓGICA PRINCIPAL (ETL)
+# ==============================================================================
 
 def fetch_news():
     news_list = []
     
     # Cargar histórico si existe
-    import os
     if os.path.exists('data.json'):
         try:
             with open('data.json', 'r', encoding='utf-8') as f:
@@ -140,22 +160,27 @@ def fetch_news():
     for source, url in FEEDS.items():
         try:
             feed = feedparser.parse(url)
-            for entry in feed.entries: # Tomar TODAS las que el feed ofrezca
+            for entry in feed.entries[:15]: # Limitar a 15 por fuente por pasada para balancear (incluso las hiper-frecuentes)
                 if entry.link in seen_links:
                     continue # Saltar si ya estaba en json
                 
                 summary = entry.get("summary", "")
                 # Limpiar HTML básico
-                import re
                 clean_summary = re.sub('<[^<]+?>', '', summary).strip()
                 if len(clean_summary) > 200:
                     clean_summary = clean_summary[:197] + "..."
 
-                # check for importance
-                is_important = False
                 title_lower = entry.title.lower()
-                if any(kw in title_lower for kw in IMPORTANT_KEYWORDS):
-                    is_important = True
+                desc_lower = clean_summary.lower()
+                
+                # Check for importance VIP badge
+                is_important = any(kw in title_lower for kw in IMPORTANT_KEYWORDS)
+
+                # Auto-Tagging System (Categorización Autónoma)
+                tags = []
+                for cat_name, keywords in CATEGORIES.items():
+                    if any(kw in title_lower or kw in desc_lower for kw in keywords):
+                        tags.append(cat_name)
 
                 news_list.append({
                     "title": entry.title,
@@ -163,12 +188,13 @@ def fetch_news():
                     "date": entry.get("published", datetime.now().isoformat()),
                     "source": source,
                     "description": clean_summary,
-                    "is_important": is_important
+                    "is_important": is_important,
+                    "tags": tags  # <-- NUEVA CARACTERÍSTICA EXTRAORDINARIA
                 })
         except Exception as e:
             print(f"Error fetching {source}: {e}")
     
-    # Ordenar por fecha (asumiendo formato compatible)
+    # Ordenar por fecha 
     news_list.sort(key=lambda x: x['date'], reverse=True)
     
     # Quedarnos con el histórico acumulado masivo (2500 max)

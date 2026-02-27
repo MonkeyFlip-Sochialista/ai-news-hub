@@ -147,3 +147,15 @@ footer {
     font-size: 0.8rem;
     margin-top: 2rem;
 }
+
+.cat-tag {
+    background: rgba(0, 242, 255, 0.1);
+    color: var(--text);
+    border: 1px solid var(--accent);
+    padding: 3px 8px;
+    border-radius: 12px;
+    font-size: 0.65rem;
+    font-weight: bold;
+    text-transform: none;
+    letter-spacing: 0.5px;
+}
