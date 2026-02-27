@@ -20,7 +20,7 @@ def fetch_news():
     news_list = []
     for source, url in FEEDS.items():
         feed = feedparser.parse(url)
-        for entry in feed.entries[:8]: # Tomar las 8 más recientes por fuente
+        for entry in feed.entries[:15]: # Tomar las 15 más recientes por fuente para alcanzar ~100+ en total
             # Extract basic text for description without tags to avoid breaking layout
             summary = entry.get("summary", "")
             # Limpiar HTML básico
@@ -39,6 +39,9 @@ def fetch_news():
     
     # Ordenar por fecha (asumiendo formato compatible)
     news_list.sort(key=lambda x: x['date'], reverse=True)
+    
+    # Quedarnos solo con las 100 noticias más recientes para no sobrecargar el navegador
+    news_list = news_list[:100]
     
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(news_list, f, indent=4, ensure_ascii=False)
