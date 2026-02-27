@@ -2,7 +2,7 @@ name: Update AI News
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # Cada 12 horas
+    - cron: '0 */6 * * *' # Cada 6 horas
   workflow_dispatch: # Permite ejecutarlo manualmente para probar
 
 jobs:
