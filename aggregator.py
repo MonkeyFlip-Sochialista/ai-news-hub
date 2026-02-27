@@ -13,7 +13,15 @@ FEEDS = {
     "NVIDIA Blog": "https://blogs.nvidia.com/feed/",
     "Meta AI": "https://ai.meta.com/blog/rss/", 
     "Anthropic": "https://www.anthropic.com/news/rss",
-    "TechCrunch AI": "https://techcrunch.com/category/artificial-intelligence/feed/"
+    "IBM Research": "https://research.ibm.com/blog/rss",
+    "TechCrunch AI": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "The Verge AI": "https://www.theverge.com/rss/artificial-intelligence/index.xml",
+    "Wired AI": "https://www.wired.com/feed/category/ai/latest/rss",
+    "MIT Tech Review AI": "https://www.technologyreview.com/topic/artificial-intelligence/feed/",
+    "VentureBeat AI": "https://feeds.feedburner.com/venturebeat/SZYF",
+    "KDnuggets": "https://www.kdnuggets.com/feed",
+    "Unite.AI": "https://www.unite.ai/feed/",
+    "AI News": "https://artificialintelligence-news.com/feed/"
 }
 
 def fetch_news():
