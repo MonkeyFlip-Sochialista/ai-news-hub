@@ -1,20 +1,92 @@
 [
-  {
-    "title": "New alignment research techniques for superintelligent models",
-    "link": "https://openai.com/blog",
-    "date": "2026-02-26T12:00:00Z",
-    "source": "OpenAI"
-  },
-  {
-    "title": "AlphaFold 4: Predicting dynamic protein interactions",
-    "link": "https://deepmind.google/blog/",
-    "date": "2026-02-25T15:30:00Z",
-    "source": "Google DeepMind"
-  },
-  {
-    "title": "The BigCode Project releases StarCoder V3",
-    "link": "https://huggingface.co/blog/",
-    "date": "2026-02-27T08:15:00Z",
-    "source": "Hugging Face"
-  }
+    {
+        "title": "Disrupting malicious uses of AI | February 2026",
+        "link": "https://openai.com/index/disrupting-malicious-ai-uses",
+        "date": "Wed, 25 Feb 2026 00:00:00 GMT",
+        "source": "OpenAI"
+    },
+    {
+        "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
+        "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
+        "date": "Wed, 18 Feb 2026 16:15:45 GMT",
+        "source": "Hugging Face"
+    },
+    {
+        "title": "A new way to express yourself: Gemini can now create music",
+        "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
+        "date": "Wed, 18 Feb 2026 16:01:38 +0000",
+        "source": "Google DeepMind"
+    },
+    {
+        "title": "Arvind KC appointed Chief People Officer",
+        "link": "https://openai.com/index/arvind-kc-chief-people-officer",
+        "date": "Tue, 24 Feb 2026 13:40:00 GMT",
+        "source": "OpenAI"
+    },
+    {
+        "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
+        "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
+        "date": "Tue, 24 Feb 2026 00:00:21 GMT",
+        "source": "Hugging Face"
+    },
+    {
+        "title": "Accelerating discovery in India through AI-powered science and education",
+        "link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
+        "date": "Tue, 17 Feb 2026 13:42:20 +0000",
+        "source": "Google DeepMind"
+    },
+    {
+        "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+        "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
+        "date": "Thu, 26 Feb 2026 16:01:50 +0000",
+        "source": "Google DeepMind"
+    },
+    {
+        "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
+        "link": "https://openai.com/index/pacific-northwest-national-laboratory",
+        "date": "Thu, 26 Feb 2026 10:00:00 GMT",
+        "source": "OpenAI"
+    },
+    {
+        "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
+        "link": "https://openai.com/index/figma-partnership",
+        "date": "Thu, 26 Feb 2026 06:00:00 GMT",
+        "source": "OpenAI"
+    },
+    {
+        "title": "Mixture of Experts (MoEs) in Transformers",
+        "link": "https://huggingface.co/blog/moe-transformers",
+        "date": "Thu, 26 Feb 2026 00:00:00 GMT",
+        "source": "Hugging Face"
+    },
+    {
+        "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
+        "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
+        "date": "Thu, 19 Feb 2026 16:06:14 +0000",
+        "source": "Google DeepMind"
+    },
+    {
+        "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
+        "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
+        "date": "Thu, 12 Feb 2026 16:15:09 +0000",
+        "source": "Google DeepMind"
+    },
+    {
+        "title": "Why we no longer evaluate SWE-bench Verified",
+        "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
+        "date": "Mon, 23 Feb 2026 11:00:00 GMT",
+        "source": "OpenAI"
+    },
+    {
+        "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
+        "link": "https://huggingface.co/blog/ggml-joins-hf",
+        "date": "Fri, 20 Feb 2026 00:00:00 GMT",
+        "source": "Hugging Face"
+    },
+    {
+        "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
+        "link": "https://huggingface.co/blog/unsloth-jobs",
+        "date": "Fri, 20 Feb 2026 00:00:00 GMT",
+        "source": "Hugging Face"
+    }
 ]
