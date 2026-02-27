@@ -18266,6 +18266,183 @@
         "is_important": false
     },
     {
+        "title": "Upgrading agentic AI for finance workflows",
+        "link": "https://www.artificialintelligence-news.com/news/upgrading-agentic-ai-for-finance-workflows/",
+        "date": "Fri, 27 Feb 2026 13:15:38 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "Improving trust in agentic AI for finance workflows remains a major priority for technology leaders today. Over the past two years, enterprises have rushed to put automated agents into real workflo...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Using Claude Code as a Workflow Engine",
+        "link": "https://dev.to/hnykda/using-claude-code-as-a-workflow-engine-403f",
+        "date": "Fri, 27 Feb 2026 13:14:01 +0000",
+        "source": "Dev.to AI",
+        "description": "Part 2 of a series on using Claude Code as a production runtime. Originally published on everyrow.io.\n\n\n\n\nOur marketing pipeline scans 18 community sources, enriches threads with full content, clas...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "I Built AI Face Analysis That Runs Entirely in the Browser — Here's How (Zero Server Costs)",
+        "link": "https://dev.to/alphadisjunkt/i-built-ai-face-analysis-that-runs-entirely-in-the-browser-heres-how-zero-server-costs-11ni",
+        "date": "Fri, 27 Feb 2026 13:13:15 +0000",
+        "source": "Dev.to AI",
+        "description": "How I Built Browser-Based Face Analysis With Zero Server Costs\n\n\nEvery face analysis tool on the internet works the same way: upload your photo to a server, wait for results, hope they don't store ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Found an AI Tool That Actually Helps You Remember What You Learn",
+        "link": "https://dev.to/proflead/i-found-an-ai-tool-that-actually-helps-you-remember-what-you-learn-8im",
+        "date": "Fri, 27 Feb 2026 13:13:11 +0000",
+        "source": "Dev.to AI",
+        "description": "I Found an AI Tool That Actually Helps You Remember What You Learn\n      Vladislav Guzey ・ Feb 27\n      \n        #productivity\n        #learning\n        #ai\n        #tooling",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How Does Blockchain Development Enable Smart Contract Integration?",
+        "link": "https://dev.to/zara_miller_904b72bb0cb0e/how-does-blockchain-development-enable-smart-contract-integration-1n8k",
+        "date": "Fri, 27 Feb 2026 13:13:00 +0000",
+        "source": "Dev.to AI",
+        "description": "From what I’ve been learning, Blockchain Development enables smart contract integration by providing a decentralized environment where contracts can run automatically without relying on intermediar...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "\"The 3 Web Development Trends That Will Actually Define 2026 (Not the Hype You're Hearing)\"",
+        "link": "https://dev.to/techfind777/the-3-web-development-trends-that-will-actually-define-2026-not-the-hype-youre-hearing-e10",
+        "date": "Fri, 27 Feb 2026 13:12:34 +0000",
+        "source": "Dev.to AI",
+        "description": "Everyone's talking about the \"next big thing\" in web dev, but most predictions are noise. \n\nAfter analyzing real production usage data and developer adoption patterns, here are the 3 trends that wi...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenClaw: the local AI agent that promises autonomy and demands security maturity",
+        "link": "https://dev.to/claudio_santos/openclaw-the-local-ai-agent-that-promises-autonomy-and-demands-security-maturity-1n47",
+        "date": "Fri, 27 Feb 2026 13:12:17 +0000",
+        "source": "Dev.to AI",
+        "description": "Every AI innovation cycle feels familiar. First comes excitement, then the confusing stories and heated takes, and only later does the community start separating promise from reality. OpenClaw land...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "7 Overlooked Attack Surfaces in Agentic AI Security: A 2026 Playbook for Builders",
+        "link": "https://dev.to/pankaj_dhawan_fc4c5bf763a/7-overlooked-attack-surfaces-in-agentic-ai-security-a-2026-playbook-for-builders-13o5",
+        "date": "Fri, 27 Feb 2026 13:09:00 +0000",
+        "source": "Dev.to AI",
+        "description": "Hey dev.to community! As we hit February 2026, agentic AI isn't just hype – it's in production, autonomously handling tasks from data queries to code execution. But with great power comes... massiv...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "BoTTube: The First Video Platform Built for AI Agents",
+        "link": "https://dev.to/sa_sami_2777e227533e23b3d/bottube-the-first-video-platform-built-for-ai-agents-ac",
+        "date": "Fri, 27 Feb 2026 13:06:40 +0000",
+        "source": "Dev.to AI",
+        "description": "Discovered an interesting project - BoTTube, a video platform specifically designed for AI agents:\n\nhttps://bottube.ai\n\n\n  \n  \n  Why BoTTube?\n\n\nTraditional video platforms (YouTube, TikTok) are bui...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Interesting AI Video: Weather Report on BoTTube",
+        "link": "https://dev.to/sa_sami_2777e227533e23b3d/interesting-ai-video-weather-report-on-bottube-4o7p",
+        "date": "Fri, 27 Feb 2026 13:06:39 +0000",
+        "source": "Dev.to AI",
+        "description": "Found this AI-generated weather report on BoTTube - a video platform designed for AI agents:\n\nhttps://bottube.ai/api/videos/kZQySRjZAVQ/stream\n\nBoTTube is the first platform where AI bots can uploa...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Found an AI Tool That Actually Helps You Remember What You Learn",
+        "link": "https://dev.to/proflead/i-found-an-ai-tool-that-actually-helps-you-remember-what-you-learn-41o6",
+        "date": "Fri, 27 Feb 2026 13:05:38 +0000",
+        "source": "Dev.to AI",
+        "description": "Think back for a moment, how much do you really remember from what you took in last week?\n\nMaybe you watched some educational videos, saved a few articles, bookmarked tutorials, or highlighted sect...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Terminal Always Wins",
+        "link": "https://dev.to/meimakes/the-terminal-always-wins-5daf",
+        "date": "Fri, 27 Feb 2026 13:03:00 +0000",
+        "source": "Dev.to AI",
+        "description": "The chat box is a terminal.\n\nStrip away the CSS and every AI interface is a command line: you type, it responds, scrolling text. Claude Code, Gemini CLI, Codex — the hottest dev tools in 2026 are l...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "How to Improve Speech Recognition Accuracy: Tips and Techniques",
+        "link": "https://dev.to/sciforce/how-to-improve-speech-recognition-accuracy-tips-and-techniques-2ank",
+        "date": "Fri, 27 Feb 2026 13:01:57 +0000",
+        "source": "Dev.to AI",
+        "description": "Why speech recognition accuracy matters for business\n\n\nWhen speech recognition gets things wrong, the consequences show up in customer frustration, extra manual work, compliance issues, and lost re...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "5 Things You Need to Know Before Using OpenClaw",
+        "link": "https://www.kdnuggets.com/5-things-you-need-to-know-before-using-openclaw",
+        "date": "Fri, 27 Feb 2026 13:00:46 +0000",
+        "source": "KDnuggets",
+        "description": "OpenClaw is incredibly powerful, but if you install it without understanding these five things, you could expose far more than you expect.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A month with Lenovo's most powerful ThinkPad changed my mind about work laptops",
+        "link": "https://www.zdnet.com/article/lenovo-thinkpad-p1-2026-review/",
+        "date": "Fri, 27 Feb 2026 13:00:35 GMT",
+        "source": "ZDNet AI",
+        "description": "Lenovo's new ThinkPad P1 is a portable workstation that does it all, but you'll have to be willing to pay to play.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Is this $170 Oura Ring alternative with no subscription fees legit? My verdict after weeks of wear",
+        "link": "https://www.zdnet.com/article/renpho-lynx-smart-ring-review/",
+        "date": "Fri, 27 Feb 2026 12:30:49 GMT",
+        "source": "ZDNet AI",
+        "description": "Renpho's Lynx smart ring is budget-friendly, but is it worth it? I tested one for weeks to truly know.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Lenovo is selling a $99 Android tablet for a limited time - and I actually recommend it",
+        "link": "https://www.zdnet.com/article/lenovo-tab-one-tablet-deal/",
+        "date": "Fri, 27 Feb 2026 12:24:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The Lenovo Tab One is a great entry-level tablet and budget-friendly device. Right now at Lenovo, you can save even more than usual.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "What is Bluetooth 6.0? How the latest standard fixes audio problems we'd learned to live with",
+        "link": "https://www.zdnet.com/article/what-is-bluetooth-6-headphones/",
+        "date": "Fri, 27 Feb 2026 12:14:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Bluetooth 6 is gaining traction in the audio connectivity space, but its best features ultimately lie in new hardware.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I connected a Bluetooth Auracast receiver to my TV, and it's a worthwhile home audio upgrade",
+        "link": "https://www.zdnet.com/article/sennheiser-bta1-tv-headphones-review/",
+        "date": "Fri, 27 Feb 2026 12:10:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Sennheiser's RS 275 TV headphone bundle delivers a flexible in-home entertainment experience, especially if you're watching movies and shows in private.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "I Reverse-Engineered Cursor's AI Agent - Here's Everything It Does Behind the Scenes",
         "link": "https://dev.to/vikram_ray/i-reverse-engineered-cursors-ai-agent-heres-everything-it-does-behind-the-scenes-3d0a",
         "date": "Fri, 27 Feb 2026 12:06:23 +0000",
@@ -18280,6 +18457,15 @@
         "date": "Fri, 27 Feb 2026 12:05:46 +0000",
         "source": "Dev.to AI",
         "description": "I’m currently assessing Ionic solutions for my organization, but after going through various websites and resources, I feel more confused than confident. A colleague suggested I seek advice here, a...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Poor implementation of AI may be behind workforce reduction",
+        "link": "https://www.artificialintelligence-news.com/news/ai-workflows-need-human-in-the-loop-say-datatonic/",
+        "date": "Fri, 27 Feb 2026 12:05:00 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "Many organisations are eroding the foundations of business &#8211; productivity, competitiveness, and efficiency. This is happening due to poor implementation of human-AI collaboration, according t...",
         "is_important": false,
         "tags": []
     },
@@ -19936,166 +20122,6 @@
         "date": "Fri, 27 Feb 2026 00:00:00 -0500",
         "source": "ArXiv (cs.AI)",
         "description": "arXiv:2602.22545v1 Announce Type: cross \nAbstract: Tau positron emission tomography (tau-PET) provides an in vivo marker of Alzheimer's disease pathology, but cost and limited availability motivate...",
-        "is_important": false
-    },
-    {
-        "title": "DrivePTS: A Progressive Learning Framework with Textual and Structural Enhancement for Driving Scene Generation",
-        "link": "https://arxiv.org/abs/2602.22549",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22549v1 Announce Type: cross \nAbstract: Synthesis of diverse driving scenes serves as a crucial data augmentation technique for validating the robustness and generalizability of autonomo...",
-        "is_important": false
-    },
-    {
-        "title": "Autoregressive Visual Decoding from EEG Signals",
-        "link": "https://arxiv.org/abs/2602.22555",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22555v1 Announce Type: cross \nAbstract: Electroencephalogram (EEG) signals have become a popular medium for decoding visual information due to their cost-effectiveness and high temporal ...",
-        "is_important": false
-    },
-    {
-        "title": "Stable Adaptive Thinking via Advantage Shaping and Length-Aware Gradient Regulation",
-        "link": "https://arxiv.org/abs/2602.22556",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22556v1 Announce Type: cross \nAbstract: Large reasoning models (LRMs) achieve strong performance through extended reasoning traces, but they often exhibit overthinking behavior for low-c...",
-        "is_important": false
-    },
-    {
-        "title": "Operationalizing Fairness: Post-Hoc Threshold Optimization Under Hard Resource Limits",
-        "link": "https://arxiv.org/abs/2602.22560",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22560v1 Announce Type: cross \nAbstract: The deployment of machine learning in high-stakes domains requires a balance between predictive safety and algorithmic fairness. However, existing...",
-        "is_important": false
-    },
-    {
-        "title": "Addressing Climate Action Misperceptions with Generative AI",
-        "link": "https://arxiv.org/abs/2602.22564",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22564v1 Announce Type: cross \nAbstract: Mitigating climate change requires behaviour change. However, even climate-concerned individuals often hold misperceptions about which actions mos...",
-        "is_important": false
-    },
-    {
-        "title": "Quality-Aware Robust Multi-View Clustering for Heterogeneous Observation Noise",
-        "link": "https://arxiv.org/abs/2602.22568",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22568v1 Announce Type: cross \nAbstract: Deep multi-view clustering has achieved remarkable progress but remains vulnerable to complex noise in real-world applications. Existing noisy rob...",
-        "is_important": false
-    },
-    {
-        "title": "Guidance Matters: Rethinking the Evaluation Pitfall for Text-to-Image Generation",
-        "link": "https://arxiv.org/abs/2602.22570",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22570v1 Announce Type: cross \nAbstract: Classifier-free guidance (CFG) has helped diffusion models achieve great conditional generation in various fields. Recently, more diffusion guidan...",
-        "is_important": false
-    },
-    {
-        "title": "S2O: Early Stopping for Sparse Attention via Online Permutation",
-        "link": "https://arxiv.org/abs/2602.22575",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22575v1 Announce Type: cross \nAbstract: Attention scales quadratically with sequence length, fundamentally limiting long-context inference. Existing block-granularity sparsification can ...",
-        "is_important": false
-    },
-    {
-        "title": "TabDLM: Free-Form Tabular Data Generation via Joint Numerical-Language Diffusion",
-        "link": "https://arxiv.org/abs/2602.22586",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22586v1 Announce Type: cross \nAbstract: Synthetic tabular data generation has attracted growing attention due to its importance for data augmentation, foundation models, and privacy. How...",
-        "is_important": false
-    },
-    {
-        "title": "BetterScene: 3D Scene Synthesis with Representation-Aligned Generative Model",
-        "link": "https://arxiv.org/abs/2602.22596",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22596v1 Announce Type: cross \nAbstract: We present BetterScene, an approach to enhance novel view synthesis (NVS) quality for diverse real-world scenes using extremely sparse, unconstrai...",
-        "is_important": false
-    },
-    {
-        "title": "Transformers converge to invariant algorithmic cores",
-        "link": "https://arxiv.org/abs/2602.22600",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22600v1 Announce Type: cross \nAbstract: Large language models exhibit sophisticated capabilities, yet understanding how they work internally remains a central challenge. A fundamental ob...",
-        "is_important": false
-    },
-    {
-        "title": "CoLyricist: Enhancing Lyric Writing with AI through Workflow-Aligned Support",
-        "link": "https://arxiv.org/abs/2602.22606",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22606v1 Announce Type: cross \nAbstract: We propose CoLyricist, an AI-assisted lyric writing tool designed to support the typical workflows of experienced lyricists and enhance their crea...",
-        "is_important": false
-    },
-    {
-        "title": "CGSA: Class-Guided Slot-Aware Adaptation for Source-Free Object Detection",
-        "link": "https://arxiv.org/abs/2602.22621",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22621v1 Announce Type: cross \nAbstract: Source-Free Domain Adaptive Object Detection (SF-DAOD) aims to adapt a detector trained on a labeled source domain to an unlabeled target domain w...",
-        "is_important": false
-    },
-    {
-        "title": "ContextRL: Enhancing MLLM's Knowledge Discovery Efficiency with Context-Augmented RL",
-        "link": "https://arxiv.org/abs/2602.22623",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22623v1 Announce Type: cross \nAbstract: We propose ContextRL, a novel framework that leverages context augmentation to overcome these bottlenecks. Specifically, to enhance Identifiabilit...",
-        "is_important": false
-    },
-    {
-        "title": "Instruction-based Image Editing with Planning, Reasoning, and Generation",
-        "link": "https://arxiv.org/abs/2602.22624",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22624v1 Announce Type: cross \nAbstract: Editing images via instruction provides a natural way to generate interactive content, but it is a big challenge due to the higher requirement of ...",
-        "is_important": false
-    },
-    {
-        "title": "dLLM: Simple Diffusion Language Modeling",
-        "link": "https://arxiv.org/abs/2602.22661",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22661v1 Announce Type: cross \nAbstract: Although diffusion language models (DLMs) are evolving quickly, many recent models converge on a set of shared components. These components, howev...",
-        "is_important": false
-    },
-    {
-        "title": "ViCLIP-OT: The First Foundation Vision-Language Model for Vietnamese Image-Text Retrieval with Optimal Transport",
-        "link": "https://arxiv.org/abs/2602.22678",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22678v1 Announce Type: cross \nAbstract: Image-text retrieval has become a fundamental component in intelligent multimedia systems; however, most existing vision-language models are optim...",
-        "is_important": false
-    },
-    {
-        "title": "SUPERGLASSES: Benchmarking Vision Language Models as Intelligent Agents for AI Smart Glasses",
-        "link": "https://arxiv.org/abs/2602.22683",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22683v1 Announce Type: cross \nAbstract: The rapid advancement of AI-powered smart glasses, one of the hottest wearable devices, has unlocked new frontiers for multimodal interaction, wit...",
-        "is_important": false
-    },
-    {
-        "title": "Reinforcing Real-world Service Agents: Balancing Utility and Cost in Task-oriented Dialogue",
-        "link": "https://arxiv.org/abs/2602.22697",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22697v1 Announce Type: cross \nAbstract: The rapid evolution of Large Language Models (LLMs) has accelerated the transition from conversational chatbots to general agents. However, effect...",
-        "is_important": false
-    },
-    {
-        "title": "Tokenization, Fusion and Decoupling: Bridging the Granularity Mismatch Between Large Language Models and Knowledge Graphs",
-        "link": "https://arxiv.org/abs/2602.22698",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22698v1 Announce Type: cross \nAbstract: Leveraging Large Language Models (LLMs) for Knowledge Graph Completion (KGC) is promising but hindered by a fundamental granularity mismatch. LLMs...",
         "is_important": false
     }
 ]
