@@ -18266,6 +18266,24 @@
         "is_important": false
     },
     {
+        "title": "I Reverse-Engineered Cursor's AI Agent - Here's Everything It Does Behind the Scenes",
+        "link": "https://dev.to/vikram_ray/i-reverse-engineered-cursors-ai-agent-heres-everything-it-does-behind-the-scenes-3d0a",
+        "date": "Fri, 27 Feb 2026 12:06:23 +0000",
+        "source": "Dev.to AI",
+        "description": "You type a message. The AI responds. Maybe it edits a file, runs a command, fixes a bug.\n\nBut what actually happens between your keystroke and that response?\n\nI spent a week poking around Cursor's ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Ionic solutions",
+        "link": "https://dev.to/tarang_c26acc3bbeddf339c7/ionic-solutions-3jg8",
+        "date": "Fri, 27 Feb 2026 12:05:46 +0000",
+        "source": "Dev.to AI",
+        "description": "I’m currently assessing Ionic solutions for my organization, but after going through various websites and resources, I feel more confused than confident. A colleague suggested I seek advice here, a...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Running Claude Code as a Kubernetes Job",
         "link": "https://dev.to/hnykda/running-claude-code-as-a-kubernetes-job-25d1",
         "date": "Fri, 27 Feb 2026 12:03:32 +0000",
@@ -20078,22 +20096,6 @@
         "date": "Fri, 27 Feb 2026 00:00:00 -0500",
         "source": "ArXiv (cs.AI)",
         "description": "arXiv:2602.22698v1 Announce Type: cross \nAbstract: Leveraging Large Language Models (LLMs) for Knowledge Graph Completion (KGC) is promising but hindered by a fundamental granularity mismatch. LLMs...",
-        "is_important": false
-    },
-    {
-        "title": "IMMACULATE: A Practical LLM Auditing Framework via Verifiable Computation",
-        "link": "https://arxiv.org/abs/2602.22700",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22700v1 Announce Type: cross \nAbstract: Commercial large language models are typically deployed as black-box API services, requiring users to trust providers to execute inference correct...",
-        "is_important": false
-    },
-    {
-        "title": "Same Words, Different Judgments: Modality Effects on Preference Alignment",
-        "link": "https://arxiv.org/abs/2602.22710",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22710v1 Announce Type: cross \nAbstract: Preference-based reinforcement learning (PbRL) is the dominant framework for aligning AI systems to human preferences, but its application to spee...",
         "is_important": false
     }
 ]
