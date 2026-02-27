@@ -16,12 +16,50 @@ body {
 
 header {
     text-align: center;
-    padding: 4rem 1rem;
+    padding: 4rem 1rem 3rem;
     background: linear-gradient(to bottom, #111, var(--bg));
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5rem;
+}
+
+header p {
+    margin: 0;
+    color: var(--dim);
 }
 
 header h1 span {
     color: var(--accent);
+}
+
+.search-bar {
+    width: 100%;
+    max-width: 600px;
+    margin-top: 1rem;
+}
+
+#searchInput {
+    width: 100%;
+    padding: 1rem 1.5rem;
+    border-radius: 30px;
+    border: 1px solid #333;
+    background: var(--card);
+    color: var(--text);
+    font-family: inherit;
+    font-size: 1rem;
+    outline: none;
+    transition: border-color 0.2s, box-shadow 0.2s;
+}
+
+#searchInput:focus {
+    border-color: var(--accent);
+    box-shadow: 0 0 15px rgba(0, 242, 255, 0.1);
 }
 
 .grid-container {
@@ -39,6 +77,8 @@ header h1 span {
     border-radius: 12px;
     border: 1px solid #222;
     transition: transform 0.2s;
+    display: flex;
+    flex-direction: column;
 }
 
 .card:hover {
@@ -57,14 +97,28 @@ header h1 span {
     font-size: 1.2rem;
 }
 
-.card a {
-    color: var(--dim);
-    text-decoration: none;
+.card p.desc {
     font-size: 0.9rem;
+    color: var(--dim);
+    margin: 0.5rem 0 1rem;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
 }
 
-.card a:hover {
+.card a.read-btn {
+    display: inline-block;
+    color: var(--accent);
+    text-decoration: none;
+    font-size: 0.9rem;
+    font-weight: bold;
+    margin-top: auto;
+}
+
+.card a.read-btn:hover {
     color: var(--text);
+    text-decoration: underline;
 }
 
 footer {

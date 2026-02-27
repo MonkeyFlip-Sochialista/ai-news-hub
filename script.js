@@ -1,20 +1,47 @@
+let allNews = [];
+
 async function loadNews() {
     const container = document.getElementById('news-container');
     try {
         const response = await fetch('data.json');
-        const data = await response.json();
+        allNews = await response.json();
 
-        container.innerHTML = data.map(item => `
-            <article class="card">
-                <span>${item.source}</span>
-                <h3>${item.title}</h3>
-                <p><a href="${item.link}" target="_blank">Leer más →</a></p>
-                <small style="color: #666">${new Date(item.date).toLocaleDateString()}</small>
-            </article>
-        `).join('');
+        allNews.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+        renderNews(allNews);
     } catch (e) {
-        container.innerHTML = '<p>No se pudieron cargar las noticias. El script está recolectando datos...</p>';
+        container.innerHTML = '<p style="grid-column: 1/-1; text-align: center;">No se pudieron cargar las noticias. El script está recolectando datos...</p>';
     }
 }
+
+function renderNews(newsArray) {
+    const container = document.getElementById('news-container');
+    if (newsArray.length === 0) {
+        container.innerHTML = '<p style="grid-column: 1/-1; text-align: center;">No se han encontrado noticias.</p>';
+        return;
+    }
+
+    container.innerHTML = newsArray.map(item => `
+        <article class="card">
+            <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
+                <span>${item.source}</span>
+                <small style="color: var(--dim); font-size: 0.75rem;">${new Date(item.date).toLocaleDateString()}</small>
+            </div>
+            <h3>${item.title}</h3>
+            ${item.description ? '<p class="desc">' + item.description + '</p>' : ''}
+            <a href="${item.link}" target="_blank" class="read-btn">Leer más →</a>
+        </article>
+    `).join('');
+}
+
+document.getElementById('searchInput').addEventListener('input', (e) => {
+    const searchTerm = e.target.value.toLowerCase();
+    const filteredNews = allNews.filter(item =>
+        item.title.toLowerCase().includes(searchTerm) ||
+        (item.description && item.description.toLowerCase().includes(searchTerm)) ||
+        item.source.toLowerCase().includes(searchTerm)
+    );
+    renderNews(filteredNews);
+});
 
 loadNews();
