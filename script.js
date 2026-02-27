@@ -22,9 +22,12 @@ function renderNews(newsArray) {
     }
 
     container.innerHTML = newsArray.map(item => `
-        <article class="card">
+        <article class="card ${item.is_important ? 'vip-card' : ''}">
             <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:0.5rem;">
-                <span>${item.source}</span>
+                <div style="display:flex; gap:8px; align-items:center;">
+                    <span>${item.source}</span>
+                    ${item.is_important ? '<span class="vip-badge">🔥 DESTACADO</span>' : ''}
+                </div>
                 <small style="color: var(--dim); font-size: 0.75rem;">${new Date(item.date).toLocaleDateString()}</small>
             </div>
             <h3>${item.title}</h3>
