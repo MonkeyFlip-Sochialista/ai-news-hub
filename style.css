@@ -1,0 +1,76 @@
+:root {
+    --bg: #0a0a0c;
+    --card: #16161a;
+    --accent: #00f2ff;
+    --text: #e1e1e6;
+    --dim: #a8a8b3;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--text);
+    font-family: 'Inter', -apple-system, sans-serif;
+    margin: 0;
+    line-height: 1.6;
+}
+
+header {
+    text-align: center;
+    padding: 4rem 1rem;
+    background: linear-gradient(to bottom, #111, var(--bg));
+}
+
+header h1 span {
+    color: var(--accent);
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+    gap: 1.5rem;
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 1rem;
+}
+
+.card {
+    background: var(--card);
+    padding: 1.5rem;
+    border-radius: 12px;
+    border: 1px solid #222;
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    border-color: var(--accent);
+}
+
+.card span {
+    font-size: 0.8rem;
+    color: var(--accent);
+    text-transform: uppercase;
+}
+
+.card h3 {
+    margin: 0.5rem 0;
+    font-size: 1.2rem;
+}
+
+.card a {
+    color: var(--dim);
+    text-decoration: none;
+    font-size: 0.9rem;
+}
+
+.card a:hover {
+    color: var(--text);
+}
+
+footer {
+    text-align: center;
+    padding: 2rem;
+    color: var(--dim);
+    font-size: 0.8rem;
+    margin-top: 2rem;
+}
