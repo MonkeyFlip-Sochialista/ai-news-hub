@@ -1,92 +1,450 @@
 [
     {
+        "title": "Efficiently serve dozens of fine-tuned models with vLLM on Amazon SageMaker AI and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/efficiently-serve-dozens-of-fine-tuned-models-with-vllm-on-amazon-sagemaker-ai-and-amazon-bedrock/",
+        "date": "Wed, 25 Feb 2026 20:56:13 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we explain how we implemented multi-LoRA inference for Mixture of Experts (MoE) models in vLLM, describe the kernel-level optimizations we performed, and show you how you can benefit ..."
+    },
+    {
+        "title": "Building intelligent event agents using Amazon Bedrock AgentCore and Amazon Bedrock Knowledge Bases",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-event-agents-using-amazon-bedrock-agentcore-and-amazon-bedrock-knowledge-bases/",
+        "date": "Wed, 25 Feb 2026 19:51:08 +0000",
+        "source": "AWS Machine Learning",
+        "description": "This post demonstrates how to quickly deploy a production-ready event assistant using the components of Amazon Bedrock AgentCore. We'll build an intelligent companion that remembers attendee prefer..."
+    },
+    {
         "title": "Disrupting malicious uses of AI | February 2026",
         "link": "https://openai.com/index/disrupting-malicious-ai-uses",
         "date": "Wed, 25 Feb 2026 00:00:00 GMT",
-        "source": "OpenAI"
+        "source": "OpenAI",
+        "description": "Our latest threat report examines how malicious actors combine AI models with websites and social platforms—and what it means for detection and defense."
     },
     {
         "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
         "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
         "date": "Wed, 18 Feb 2026 16:15:45 GMT",
-        "source": "Hugging Face"
+        "source": "Hugging Face",
+        "description": ""
     },
     {
         "title": "A new way to express yourself: Gemini can now create music",
         "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
         "date": "Wed, 18 Feb 2026 16:01:38 +0000",
-        "source": "Google DeepMind"
+        "source": "Google DeepMind",
+        "description": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
+    },
+    {
+        "title": "India Fuels Its AI Mission With NVIDIA",
+        "link": "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/",
+        "date": "Wed, 18 Feb 2026 00:30:49 +0000",
+        "source": "NVIDIA Blog",
+        "description": "From AI infrastructure leaders to frontier model developers, India is teaming with NVIDIA to drive AI transformation across the nation."
+    },
+    {
+        "title": "India’s Global Systems Integrators Build Next Wave of Enterprise Agents With NVIDIA AI, Transforming Back Office and Customer Support",
+        "link": "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/",
+        "date": "Wed, 18 Feb 2026 00:30:41 +0000",
+        "source": "NVIDIA Blog",
+        "description": "Agentic AI is reshaping India’s tech industry, delivering leaps in services worldwide. Tapping into NVIDIA AI Enterprise software and NVIDIA Nemotron models, India’s technology leaders are accelera..."
+    },
+    {
+        "title": "One-Shot Any Web App with Gradio's gr.HTML",
+        "link": "https://huggingface.co/blog/gradio-html-one-shot-apps",
+        "date": "Wed, 18 Feb 2026 00:00:00 GMT",
+        "source": "Hugging Face",
+        "description": ""
+    },
+    {
+        "title": "Online math tutoring service uses AI to help boost students’ skills and confidence",
+        "link": "https://blogs.microsoft.com/ai/eedi-online-math-quiz/",
+        "date": "Wed, 13 Jul 2022 12:59:50 +0000",
+        "source": "Microsoft AI",
+        "description": "The post Online math tutoring service uses AI to help boost students’ skills and confidence appeared first on The AI Blog."
+    },
+    {
+        "title": "From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative",
+        "link": "https://blogs.microsoft.com/ai/from-hot-wheels-to-handling-content-how-brands-are-using-microsoft-ai-to-be-more-productive-and-imaginative/",
+        "date": "Wed, 12 Oct 2022 16:00:02 +0000",
+        "source": "Microsoft AI",
+        "description": "The post From Hot Wheels to handling content: How brands are using Microsoft AI to be more productive and imaginative appeared first on The AI Blog."
+    },
+    {
+        "title": "AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan",
+        "link": "https://blogs.microsoft.com/accessibility/ai-mimi-is-building-inclusive-tv-experiences-for-deaf-and-hard-of-hearing-user-in-japan/",
+        "date": "Wed, 06 Jul 2022 14:51:23 +0000",
+        "source": "Microsoft AI",
+        "description": "The post AI-Mimi is building inclusive TV experiences for Deaf and Hard of Hearing user in Japan appeared first on The AI Blog."
+    },
+    {
+        "title": "Build an intelligent photo search using Amazon Rekognition, Amazon Neptune, and Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-intelligent-photo-search-using-amazon-rekognition-amazon-neptune-and-amazon-bedrock/",
+        "date": "Tue, 24 Feb 2026 18:22:26 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we show you how to build a comprehensive photo search system using the AWS Cloud Development Kit (AWS CDK) that integrates Amazon Rekognition for face and object detection, Amazon Nep..."
+    },
+    {
+        "title": "Train CodeFu-7B with veRL and Ray on Amazon SageMaker Training jobs",
+        "link": "https://aws.amazon.com/blogs/machine-learning/train-codefu-7b-with-verl-and-ray-on-amazon-sagemaker-training-jobs/",
+        "date": "Tue, 24 Feb 2026 15:46:50 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we demonstrate how to train CodeFu-7B, a specialized 7-billion parameter model for competitive programming, using Group Relative Policy Optimization (GRPO) with veRL, a flexible and e..."
+    },
+    {
+        "title": "Generate structured output from LLMs with Dottxt Outlines in AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/generate-structured-output-from-llms-with-dottxt-outlines-in-aws/",
+        "date": "Tue, 24 Feb 2026 15:42:34 +0000",
+        "source": "AWS Machine Learning",
+        "description": "This post explores the implementation of Dottxt’s Outlines framework as a practical approach to implementing structured outputs using AWS Marketplace in Amazon SageMaker."
+    },
+    {
+        "title": "From Radiology to Drug Discovery, Survey Reveals AI Is Delivering Clear Return on Investment in Healthcare",
+        "link": "https://blogs.nvidia.com/blog/ai-in-healthcare-survey-2026/",
+        "date": "Tue, 24 Feb 2026 14:00:34 +0000",
+        "source": "NVIDIA Blog",
+        "description": "AI is accelerating every aspect of healthcare — from radiology and drug discovery to medical device manufacturing and new treatment methods enabled by digital twins of the human body. NVIDIA&#8217;..."
     },
     {
         "title": "Arvind KC appointed Chief People Officer",
         "link": "https://openai.com/index/arvind-kc-chief-people-officer",
         "date": "Tue, 24 Feb 2026 13:40:00 GMT",
-        "source": "OpenAI"
+        "source": "OpenAI",
+        "description": "OpenAI appoints Arvind KC as Chief People Officer to help scale the company, strengthen its culture, and lead how work evolves in the age of AI."
     },
     {
         "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
         "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
         "date": "Tue, 24 Feb 2026 00:00:21 GMT",
-        "source": "Hugging Face"
+        "source": "Hugging Face",
+        "description": ""
+    },
+    {
+        "title": "Microsoft’s framework for building AI systems responsibly",
+        "link": "https://blogs.microsoft.com/on-the-issues/2022/06/21/microsofts-framework-for-building-ai-systems-responsibly/",
+        "date": "Tue, 21 Jun 2022 17:50:03 +0000",
+        "source": "Microsoft AI",
+        "description": "The post Microsoft’s framework for building AI systems responsibly appeared first on The AI Blog."
     },
     {
         "title": "Accelerating discovery in India through AI-powered science and education",
         "link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
         "date": "Tue, 17 Feb 2026 13:42:20 +0000",
-        "source": "Google DeepMind"
+        "source": "Google DeepMind",
+        "description": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
+    },
+    {
+        "title": "A conversation with Kevin Scott: What’s next in AI",
+        "link": "https://blogs.microsoft.com/ai/a-conversation-with-kevin-scott-whats-next-in-ai/",
+        "date": "Tue, 06 Dec 2022 17:29:09 +0000",
+        "source": "Microsoft AI",
+        "description": "The post A conversation with Kevin Scott: What’s next in AI appeared first on The AI Blog."
+    },
+    {
+        "title": "Project Genie: Experimenting with infinite, interactive worlds",
+        "link": "https://deepmind.google/blog/project-genie-experimenting-with-infinite-interactive-worlds/",
+        "date": "Thu, 29 Jan 2026 17:01:05 +0000",
+        "source": "Google DeepMind",
+        "description": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds."
+    },
+    {
+        "title": "Jack Dorsey just halved the size of Block’s employee base — and he says your company is next",
+        "link": "https://techcrunch.com/2026/02/26/jack-dorsey-block-layoffs-4000-halved-employees-your-company-is-next/",
+        "date": "Thu, 26 Feb 2026 23:43:32 +0000",
+        "source": "TechCrunch AI",
+        "description": "Jack Dorsey has long been an open admirer of Elon Musk. Now, it seems, he may have been taking notes."
+    },
+    {
+        "title": "Anthropic CEO stands firm as Pentagon deadline looms",
+        "link": "https://techcrunch.com/2026/02/26/anthropic-ceo-stands-firm-as-pentagon-deadline-looms/",
+        "date": "Thu, 26 Feb 2026 23:19:06 +0000",
+        "source": "TechCrunch AI",
+        "description": "Anthropic CEO Dario Amodei said Thursday that he \"cannot in good conscience accede\" to the Pentagon's demands to give the military unrestricted access to its AI systems."
+    },
+    {
+        "title": "So, we’re getting Prada Meta AI glasses, right?",
+        "link": "https://techcrunch.com/2026/02/26/so-were-getting-prada-meta-ai-glasses-right/",
+        "date": "Thu, 26 Feb 2026 20:11:55 +0000",
+        "source": "TechCrunch AI",
+        "description": "Mark Zuckerberg was at Prada's fashion week event in Milan, leaving everyone to wonder if we're getting Meta AI glasses under the Prada brand."
+    },
+    {
+        "title": "Sophia Space raises $10M seed to demo novel space computers",
+        "link": "https://techcrunch.com/2026/02/26/sophia-space-raises-10m-seed-to-demo-novel-space-computers/",
+        "date": "Thu, 26 Feb 2026 19:55:20 +0000",
+        "source": "TechCrunch AI",
+        "description": "The company's modular computer tiles offer a new vision for space data centers."
+    },
+    {
+        "title": "Mistral AI inks a deal with global consulting giant Accenture",
+        "link": "https://techcrunch.com/2026/02/26/mistral-ai-inks-a-deal-with-global-consulting-giant-accenture/",
+        "date": "Thu, 26 Feb 2026 19:17:27 +0000",
+        "source": "TechCrunch AI",
+        "description": "Mistral AI lands a partnership with Accenture, the consultant that has also recently announced partnerships with rivals OpenAI and Anthropic."
+    },
+    {
+        "title": "Now Live: The World’s Most Powerful AI Factory for Pharmaceutical Discovery and Development",
+        "link": "https://blogs.nvidia.com/blog/lilly-ai-factory-live/",
+        "date": "Thu, 26 Feb 2026 19:00:58 +0000",
+        "source": "NVIDIA Blog",
+        "description": "Lilly this week launched the most powerful AI factory wholly owned and operated by a pharmaceutical company to help its teams make meaningful medical advancements faster, more accurately and at unp..."
+    },
+    {
+        "title": "Learnings from COBOL modernization in the real world",
+        "link": "https://aws.amazon.com/blogs/machine-learning/learnings-from-cobol-modernization-in-the-real-world/",
+        "date": "Thu, 26 Feb 2026 18:16:43 +0000",
+        "source": "AWS Machine Learning",
+        "description": "Delivering successful COBOL modernization requires a solution that can reverse engineer deterministically, produce validated and traceable specs, and help those specs flow into any AI-powered codin..."
+    },
+    {
+        "title": "Reinforcement fine-tuning for Amazon Nova: Teaching AI through feedback",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-for-amazon-nova-teaching-ai-through-feedback/",
+        "date": "Thu, 26 Feb 2026 17:48:37 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we explore reinforcement fine-tuning (RFT) for Amazon Nova models, which can be a powerful customization technique that learns through evaluation rather than imitation. We'll cover ho..."
+    },
+    {
+        "title": "Large model inference container – latest capabilities and performance enhancements",
+        "link": "https://aws.amazon.com/blogs/machine-learning/large-model-inference-container-latest-capabilities-and-performance-enhancements/",
+        "date": "Thu, 26 Feb 2026 17:45:59 +0000",
+        "source": "AWS Machine Learning",
+        "description": "AWS recently released significant updates to the Large Model Inference (LMI) container, delivering comprehensive performance improvements, expanded model support, and streamlined deployment capabil..."
+    },
+    {
+        "title": "Read AI launches an email-based ‘digital twin’ to help you with schedules and answers",
+        "link": "https://techcrunch.com/2026/02/26/read-ai-launches-an-email-based-digital-twin-to-help-you-with-schedules-and-answers/",
+        "date": "Thu, 26 Feb 2026 17:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "Read AI is launching Ada, which can reply with your availability and extract answers from the company knowledge base and the web."
+    },
+    {
+        "title": "Bumble adds AI-powered photo feedback and profile guidance tools",
+        "link": "https://techcrunch.com/2026/02/26/bumble-adds-ai-powered-photo-feedback-and-profile-guidance-tools/",
+        "date": "Thu, 26 Feb 2026 16:38:59 +0000",
+        "source": "TechCrunch AI",
+        "description": "Bumble and other popular dating apps, like Match Group's Tinder and Hinge, have all embraced AI-powered features."
     },
     {
         "title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
         "link": "https://deepmind.google/blog/nano-banana-2-combining-pro-capabilities-with-lightning-fast-speed/",
         "date": "Thu, 26 Feb 2026 16:01:50 +0000",
-        "source": "Google DeepMind"
+        "source": "Google DeepMind",
+        "description": "Our latest image generation model offers advanced world knowledge, production ready specs, subject consistency and more, all at Flash speed."
+    },
+    {
+        "title": "Google launches Nano Banana 2 model with faster image generation",
+        "link": "https://techcrunch.com/2026/02/26/google-launches-nano-banana-2-model-with-faster-image-generation/",
+        "date": "Thu, 26 Feb 2026 16:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "Google is making Nano Banana 2 a default model in Gemini app and in AI mode."
+    },
+    {
+        "title": "Horror Awakens in the Cloud: GeForce NOW Unleashes Capcom’s ‘Resident Evil Requiem’",
+        "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-resident-evil-requiem/",
+        "date": "Thu, 26 Feb 2026 14:00:48 +0000",
+        "source": "NVIDIA Blog",
+        "description": "GeForce NOW’s anniversary celebration reaches a chilling crescendo as Capcom’s Resident Evil Requiem creeps into the cloud — and the horrors look better than ever on a GeForce NOW Ultimate membersh..."
     },
     {
         "title": "Pacific Northwest National Laboratory and OpenAI partner to accelerate federal permitting",
         "link": "https://openai.com/index/pacific-northwest-national-laboratory",
         "date": "Thu, 26 Feb 2026 10:00:00 GMT",
-        "source": "OpenAI"
+        "source": "OpenAI",
+        "description": "OpenAI and Pacific Northwest National Laboratory introduce DraftNEPABench, a new benchmark evaluating how AI coding agents can accelerate federal permitting—showing potential to reduce NEPA draftin..."
     },
     {
         "title": "OpenAI Codex and Figma launch seamless code-to-design experience",
         "link": "https://openai.com/index/figma-partnership",
         "date": "Thu, 26 Feb 2026 06:00:00 GMT",
-        "source": "OpenAI"
+        "source": "OpenAI",
+        "description": "OpenAI and Figma launch a new Codex integration that connects code and design, enabling teams to move between implementation and the Figma canvas to iterate and ship faster."
     },
     {
         "title": "Mixture of Experts (MoEs) in Transformers",
         "link": "https://huggingface.co/blog/moe-transformers",
         "date": "Thu, 26 Feb 2026 00:00:00 GMT",
-        "source": "Hugging Face"
+        "source": "Hugging Face",
+        "description": ""
+    },
+    {
+        "title": "AI-equipped drones study dolphins on the edge of extinction",
+        "link": "https://news.microsoft.com/apac/features/ai-drones-dolphins-maui63/",
+        "date": "Thu, 21 Jul 2022 14:50:33 +0000",
+        "source": "Microsoft AI",
+        "description": "The post AI-equipped drones study dolphins on the edge of extinction appeared first on The AI Blog."
     },
     {
         "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
         "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
         "date": "Thu, 19 Feb 2026 16:06:14 +0000",
-        "source": "Google DeepMind"
+        "source": "Google DeepMind",
+        "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough."
+    },
+    {
+        "title": "Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs",
+        "link": "https://blogs.nvidia.com/blog/ai-in-telco-survey-2026/",
+        "date": "Thu, 19 Feb 2026 14:00:45 +0000",
+        "source": "NVIDIA Blog",
+        "description": "AI is accelerating the telecommunications industry’s transformation, becoming the backbone of autonomous networks and AI-native wireless infrastructure. At the same time, the technology is unlockin..."
+    },
+    {
+        "title": "All About the Games: Play Over 4,500 Titles With GeForce NOW",
+        "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-season-2/",
+        "date": "Thu, 19 Feb 2026 14:00:35 +0000",
+        "source": "NVIDIA Blog",
+        "description": "The GeForce NOW anniversary celebration keeps on rolling, and this week is all about the games that make it possible. With more than 4,500 titles supported in the cloud — plus 12 new games this wee..."
+    },
+    {
+        "title": "Advancing independent research on AI alignment",
+        "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
+        "date": "Thu, 19 Feb 2026 10:00:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks."
     },
     {
         "title": "Gemini 3 Deep Think: Advancing science, research and engineering",
         "link": "https://deepmind.google/blog/gemini-3-deep-think-advancing-science-research-and-engineering/",
         "date": "Thu, 12 Feb 2026 16:15:09 +0000",
-        "source": "Google DeepMind"
+        "source": "Google DeepMind",
+        "description": "Our most specialized reasoning mode is now updated to solve modern science, research and engineering challenges."
+    },
+    {
+        "title": "OpenEnv in Practice: Evaluating Tool-Using Agents in Real-World Environments",
+        "link": "https://huggingface.co/blog/openenv-turing",
+        "date": "Thu, 12 Feb 2026 00:00:00 GMT",
+        "source": "Hugging Face",
+        "description": ""
+    },
+    {
+        "title": "Microsoft open sources its ‘farm of the future’ toolkit",
+        "link": "https://blogs.microsoft.com/ai/microsoft-open-sources-its-farm-of-the-future-toolkit/",
+        "date": "Thu, 06 Oct 2022 14:58:15 +0000",
+        "source": "Microsoft AI",
+        "description": "The post Microsoft open sources its ‘farm of the future’ toolkit appeared first on The AI Blog."
+    },
+    {
+        "title": "How data and AI will transform contact centres for financial services",
+        "link": "https://cloudblogs.microsoft.com/industry-blog/en-gb/financial-services/2022/07/25/how-data-and-ai-will-transform-contact-centres-for-financial-services/",
+        "date": "Mon, 25 Jul 2022 14:49:33 +0000",
+        "source": "Microsoft AI",
+        "description": "The post How data and AI will transform contact centres for financial services appeared first on The AI Blog."
+    },
+    {
+        "title": "NVIDIA Brings AI-Powered Cybersecurity to World’s Critical Infrastructure",
+        "link": "https://blogs.nvidia.com/blog/ai-cybersecurity-operational-technology-industrial-control-systems/",
+        "date": "Mon, 23 Feb 2026 16:00:57 +0000",
+        "source": "NVIDIA Blog",
+        "description": "As technologies and systems become more digitalized and connected across the world, operational technology (OT) environments and industrial control systems (ICS) — from energy and manufacturing to ..."
     },
     {
         "title": "Why we no longer evaluate SWE-bench Verified",
         "link": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified",
         "date": "Mon, 23 Feb 2026 11:00:00 GMT",
-        "source": "OpenAI"
+        "source": "OpenAI",
+        "description": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro."
+    },
+    {
+        "title": "OpenAI announces Frontier Alliance Partners",
+        "link": "https://openai.com/index/frontier-alliance-partners",
+        "date": "Mon, 23 Feb 2026 05:30:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI announces Frontier Alliance Partners to help enterprises move from AI pilots to production with secure, scalable agent deployments."
+    },
+    {
+        "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
+        "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
+        "date": "Mon, 09 Feb 2026 16:12:06 +0000",
+        "source": "Google DeepMind",
+        "description": "Research papers point to the growing impact of Deep Think across fields"
+    },
+    {
+        "title": "Our First Proof submissions",
+        "link": "https://openai.com/index/first-proof-submissions",
+        "date": "Fri, 20 Feb 2026 14:30:00 GMT",
+        "source": "OpenAI",
+        "description": "We share our AI model’s proof attempts for the First Proof math challenge, testing research-grade reasoning on expert-level problems."
     },
     {
         "title": "GGML and llama.cpp join HF to ensure the long-term progress of Local AI",
         "link": "https://huggingface.co/blog/ggml-joins-hf",
         "date": "Fri, 20 Feb 2026 00:00:00 GMT",
-        "source": "Hugging Face"
+        "source": "Hugging Face",
+        "description": ""
     },
     {
         "title": "Train AI models with Unsloth and Hugging Face Jobs for FREE",
         "link": "https://huggingface.co/blog/unsloth-jobs",
         "date": "Fri, 20 Feb 2026 00:00:00 GMT",
-        "source": "Hugging Face"
+        "source": "Hugging Face",
+        "description": ""
+    },
+    {
+        "title": "D4RT: Teaching AI to see the world in four dimensions",
+        "link": "https://deepmind.google/blog/d4rt-teaching-ai-to-see-the-world-in-four-dimensions/",
+        "date": "Fri, 16 Jan 2026 10:39:00 +0000",
+        "source": "Google DeepMind",
+        "description": "D4RT: Unified, efficient 4D reconstruction and tracking up to 300x faster than prior methods."
+    },
+    {
+        "title": "Custom Kernels for All from Codex and Claude",
+        "link": "https://huggingface.co/blog/custom-cuda-kernels-agent-skills",
+        "date": "Fri, 13 Feb 2026 00:00:00 GMT",
+        "source": "Hugging Face",
+        "description": ""
+    },
+    {
+        "title": "Generative AI to quantify uncertainty in weather forecasting",
+        "link": "http://blog.research.google/2024/03/generative-ai-to-quantify-uncertainty.html",
+        "date": "2024-03-29T11:03:00.000-07:00",
+        "source": "Google AI",
+        "description": "Posted by Lizao (Larry) Li, Software Engineer, and Rob Carver, Research Scientist, Google Research\n\n\n\n\nAccurate weather forecasts can have a direct impact on people’s lives, from helping make routi..."
+    },
+    {
+        "title": "AutoBNN: Probabilistic time series forecasting with compositional bayesian neural networks",
+        "link": "http://blog.research.google/2024/03/autobnn-probabilistic-time-series.html",
+        "date": "2024-03-28T13:53:00.000-07:00",
+        "source": "Google AI",
+        "description": "Posted by Urs Köster, Software Engineer, Google Research\n\n\n\n\nTime series problems are ubiquitous, from forecasting weather and traffic patterns to understanding economic trends. Bayesian approaches..."
+    },
+    {
+        "title": "Computer-aided diagnosis for lung cancer screening",
+        "link": "http://blog.research.google/2024/03/computer-aided-diagnosis-for-lung.html",
+        "date": "2024-03-20T13:54:00.000-07:00",
+        "source": "Google AI",
+        "description": "Posted by Atilla Kiraly, Software Engineer, and Rory Pilgrim, Product Manager, Google Research \n\n\n\n\n\nLung cancer is the leading cause of cancer-related deaths globally with 1.8 million deaths repor..."
+    },
+    {
+        "title": "Using AI to expand global access to reliable flood forecasts",
+        "link": "http://blog.research.google/2024/03/using-ai-to-expand-global-access-to.html",
+        "date": "2024-03-20T09:06:00.000-07:00",
+        "source": "Google AI",
+        "description": "Posted by Yossi Matias, VP Engineering &amp; Research, and Grey Nearing, Research Scientist, Google Research\n\n\n\n\nFloods are the most common natural disaster, and are responsible for roughly $50 bil..."
+    },
+    {
+        "title": "ScreenAI: A visual language model for UI and visually-situated language understanding",
+        "link": "http://blog.research.google/2024/03/screenai-visual-language-model-for-ui.html",
+        "date": "2024-03-19T13:15:00.000-07:00",
+        "source": "Google AI",
+        "description": "Posted by Srinivas Sunkara and Gilles Baechler, Software Engineers, Google Research\n\n\n\n\n\nScreen user interfaces (UIs) and infographics, such as charts, diagrams and tables, play important roles in ..."
+    },
+    {
+        "title": "SCIN: A new resource for representative dermatology images",
+        "link": "http://blog.research.google/2024/03/scin-new-resource-for-representative.html",
+        "date": "2024-03-19T08:00:00.000-07:00",
+        "source": "Google AI",
+        "description": "Posted by Pooja Rao, Research Scientist, Google Research\n\n\n\n\nHealth datasets play a crucial role in research and medical education, but it can be challenging to create a dataset that represents the..."
+    },
+    {
+        "title": "MELON: Reconstructing 3D objects from images with unknown poses",
+        "link": "http://blog.research.google/2024/03/melon-reconstructing-3d-objects-from.html",
+        "date": "2024-03-18T11:41:00.000-07:00",
+        "source": "Google AI",
+        "description": "Posted by Mark Matthews, Senior Software Engineer, and Dmitry Lagun, Research Scientist, Google Research\n\n\n\n\n\nA person's prior experience and understanding of the world generally enables them to ea..."
+    },
+    {
+        "title": "HEAL: A framework for health equity assessment of machine learning performance",
+        "link": "http://blog.research.google/2024/03/heal-framework-for-health-equity.html",
+        "date": "2024-03-15T11:22:00.000-07:00",
+        "source": "Google AI",
+        "description": "Posted by Mike Schaekermann, Research Scientist, Google Research, and Ivor Horn, Chief Health Equity Officer &amp; Director, Google Core\n\n\n\n\nHealth equity is a major societal concern worldwide with..."
     }
 ]
