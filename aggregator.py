@@ -45,37 +45,55 @@ IMPORTANT_KEYWORDS = [
 
 def fetch_news():
     news_list = []
+    
+    # Cargar histórico si existe
+    import os
+    if os.path.exists('data.json'):
+        try:
+            with open('data.json', 'r', encoding='utf-8') as f:
+                news_list = json.load(f)
+        except Exception:
+            pass
+            
+    # Set con las URLs ya descargadas para evitar duplicados
+    seen_links = {item['link'] for item in news_list}
+
     for source, url in FEEDS.items():
-        feed = feedparser.parse(url)
-        for entry in feed.entries[:15]: # Tomar las 15 más recientes por fuente para alcanzar ~100+ en total
-            # Extract basic text for description without tags to avoid breaking layout
-            summary = entry.get("summary", "")
-            # Limpiar HTML básico
-            import re
-            clean_summary = re.sub('<[^<]+?>', '', summary).strip()
-            if len(clean_summary) > 200:
-                clean_summary = clean_summary[:197] + "..."
+        try:
+            feed = feedparser.parse(url)
+            for entry in feed.entries: # Tomar TODAS las que el feed ofrezca
+                if entry.link in seen_links:
+                    continue # Saltar si ya estaba en json
+                
+                summary = entry.get("summary", "")
+                # Limpiar HTML básico
+                import re
+                clean_summary = re.sub('<[^<]+?>', '', summary).strip()
+                if len(clean_summary) > 200:
+                    clean_summary = clean_summary[:197] + "..."
 
-            # check for importance
-            is_important = False
-            title_lower = entry.title.lower()
-            if any(kw in title_lower for kw in IMPORTANT_KEYWORDS):
-                is_important = True
+                # check for importance
+                is_important = False
+                title_lower = entry.title.lower()
+                if any(kw in title_lower for kw in IMPORTANT_KEYWORDS):
+                    is_important = True
 
-            news_list.append({
-                "title": entry.title,
-                "link": entry.link,
-                "date": entry.get("published", datetime.now().isoformat()),
-                "source": source,
-                "description": clean_summary,
-                "is_important": is_important
-            })
+                news_list.append({
+                    "title": entry.title,
+                    "link": entry.link,
+                    "date": entry.get("published", datetime.now().isoformat()),
+                    "source": source,
+                    "description": clean_summary,
+                    "is_important": is_important
+                })
+        except Exception as e:
+            print(f"Error fetching {source}: {e}")
     
     # Ordenar por fecha (asumiendo formato compatible)
     news_list.sort(key=lambda x: x['date'], reverse=True)
     
-    # Quedarnos solo con las 100 noticias más recientes para no sobrecargar el navegador
-    news_list = news_list[:100]
+    # Quedarnos con el histórico acumulado masivo (2500 max)
+    news_list = news_list[:2500]
     
     with open('data.json', 'w', encoding='utf-8') as f:
         json.dump(news_list, f, indent=4, ensure_ascii=False)
