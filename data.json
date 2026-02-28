@@ -14450,6 +14450,158 @@
         "is_important": false
     },
     {
+        "title": "Why SKILL.md is the Future of AI Agent Training",
+        "link": "https://dev.to/syncchain2026helix/why-skillmd-is-the-future-of-ai-agent-training-1f1",
+        "date": "Sat, 28 Feb 2026 06:47:47 +0000",
+        "source": "Dev.to AI",
+        "description": "The way we teach AI agents is fundamentally broken. We write brittle code, debug selectors, and watch everything break when a website updates.\n\nThere's a better way—SKILL.md.\n\n\n  \n  \n  The Problem\n...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Approximate Nearest Neighbor Search on High Dimensional Data --- Experiments,Analyses, and Improvement (v1.0)",
+        "link": "https://dev.to/paperium/approximate-nearest-neighbor-search-on-high-dimensional-data-experimentsanalyses-and-30m2",
+        "date": "Sat, 28 Feb 2026 06:40:07 +0000",
+        "source": "Dev.to AI",
+        "description": "{{ $json.postContent }}",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Today, I launched my SaaS.",
+        "link": "https://dev.to/zain_ali_c4cfc112295d8b5a/today-i-launched-my-saas-2jl2",
+        "date": "Sat, 28 Feb 2026 06:40:03 +0000",
+        "source": "Dev.to AI",
+        "description": "Why do we overthink our content? 🤔\n\nZaynize just launched to help founders like you generate build-in-public posts without the stress. \n\nEmbrace the journey, share the highs and lows! What’s stoppi...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "From Screen Recording to Production Agent in 3 Steps",
+        "link": "https://dev.to/syncchain2026helix/from-screen-recording-to-production-agent-in-3-steps-6i7",
+        "date": "Sat, 28 Feb 2026 06:38:55 +0000",
+        "source": "Dev.to AI",
+        "description": "Creating AI agent skills doesn't have to be complicated.\n\nSkillForge simplifies it to 3 steps:\n\n\n  \n  \n  Step 1: Record\n\n\nPerform any web task while recording your screen. No special setup.\n\n\n  \n  ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Create AI Videos from Text in 2026: A Complete Step-by-Step Guide",
+        "link": "https://dev.to/jack_bf6a7f47211731f8/how-to-create-ai-videos-from-text-in-2026-a-complete-step-by-step-guide-pjk",
+        "date": "Sat, 28 Feb 2026 06:36:37 +0000",
+        "source": "Dev.to AI",
+        "description": "How to Create AI Videos from Text in 2026: A Complete Step-by-Step Guide\n\n\nTurn any idea into a stunning video in minutes — no editing skills required.\n\n\n  \n  \n  TL;DR\n\n\nAI video generation has bec...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "2026 Complete Guide: How AI Website Builders Are Revolutionizing Web Design",
+        "link": "https://dev.to/czmilo/2026-complete-guide-how-ai-website-builders-are-revolutionizing-web-design-1i5e",
+        "date": "Sat, 28 Feb 2026 06:32:22 +0000",
+        "source": "Dev.to AI",
+        "description": "2026 Complete Guide: How AI Website Builders Are Revolutionizing Web Design\n\n\n\n  \n  \n  🎯 Key Takeaways (TL;DR)\n\n\n\nAI website builders have matured significantly in 2026, enabling users to create pr...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Scaling Engineers Doesn't Mean Scaling Work",
+        "link": "https://dev.to/sultanfariz/scaling-engineers-doesnt-mean-scaling-work-1nf3",
+        "date": "Sat, 28 Feb 2026 06:30:36 +0000",
+        "source": "Dev.to AI",
+        "description": "Been thinking about this for a while, so lemme just put it out there.\n\n\n  \n  \n  The Observation: Scaling People vs Scaling Work\n\n\nStarted from an idea about developers. Instead of keeping devs lock...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Real Estate Tax Shelters: How Investors Legally Reduce Taxes",
+        "link": "https://dev.to/raman_89_bc067048efbeb218/real-estate-tax-shelters-how-investors-legally-reduce-taxes-k7a",
+        "date": "Sat, 28 Feb 2026 06:27:57 +0000",
+        "source": "Dev.to AI",
+        "description": "Real estate is one of the most powerful wealth-building tools — not only because of appreciation and cash flow, but also because of its significant tax advantages. Real estate tax shelters allow in...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Shifting from Reactive to Self-Healing: The Architecture of AIOps",
+        "link": "https://dev.to/thea_lauren_452ad67afba24/shifting-from-reactive-to-self-healing-the-architecture-of-aiops-i1n",
+        "date": "Sat, 28 Feb 2026 06:25:09 +0000",
+        "source": "Dev.to AI",
+        "description": "For years, sysadmin and DevOps life meant watching Grafana dashboards, tweaking Prometheus alerts, and running a game of whack-a-mole against runaway processes. Over-provisioning was the accepted \"...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "We Built India's First Self-Paced Learning Platform for Government Exam Students — 2 Year+. 5 People. 1000+ Articles.",
+        "link": "https://dev.to/satyam_vatsa_ec46468fdf4b/we-built-indias-first-self-paced-learning-platform-for-government-exam-students-2-year-5-41c8",
+        "date": "Sat, 28 Feb 2026 06:21:50 +0000",
+        "source": "Dev.to AI",
+        "description": "Let me be honest with you.\nThis is not a \"I coded this in a weekend\" story.\n\nThis is a \"5 people, 2 year+ , countless nights, \n1000+ articles written, and a live product used by \nreal students\" sto...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How SKILL.md Files Let AI Agents Learn From Watching You",
+        "link": "https://dev.to/syncchain2026helix/how-skillmd-files-let-ai-agents-learn-from-watching-you-2g4d",
+        "date": "Sat, 28 Feb 2026 06:18:30 +0000",
+        "source": "Dev.to AI",
+        "description": "What if teaching an AI agent was as simple as recording your screen?\n\nNo coding. No brittle selectors. No debugging when UIs change.\n\nSkillForge makes this possible. It converts screen recordings i...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "What Is an API? API Meaning Explained + Enterprise Search Data with Search Infra API",
+        "link": "https://dev.to/search_infra_api/what-is-an-api-api-meaning-explained-enterprise-search-data-with-search-infra-api-4nmb",
+        "date": "Sat, 28 Feb 2026 06:14:02 +0000",
+        "source": "Dev.to AI",
+        "description": "When users search for “what is an API” or “API meaning,” they are essentially asking one core question: how do software systems communicate efficiently with each other?\n\nAn API (Application Program...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI Reaches A.I. Agreement With Defense Dept. After Anthropic Clash",
+        "link": "https://www.nytimes.com/2026/02/27/technology/openai-agreement-pentagon-ai.html",
+        "date": "Sat, 28 Feb 2026 05:27:32 +0000",
+        "source": "NYT Tech",
+        "description": "The deal came hours after President Trump had ordered federal agencies to stop using artificial intelligence technology made by Anthropic, an OpenAI rival.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "[AINews] OpenAI closes $110B raise from Amazon, NVIDIA, SoftBank in largest startup fundraise in history @ $840B post-money",
+        "link": "https://www.latent.space/p/ainews-openai-closes-110b-raise-from",
+        "date": "Sat, 28 Feb 2026 05:01:13 GMT",
+        "source": "Latent Space",
+        "description": "Congratulations, you secured the biggest number.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Google DeepMind Introduces Unified Latents (UL): A Machine Learning Framework that Jointly Regularizes Latents Using a Diffusion Prior and Decoder",
+        "link": "https://www.marktechpost.com/2026/02/27/google-deepmind-introduces-unified-latents-ul-a-machine-learning-framework-that-jointly-regularizes-latents-using-a-diffusion-prior-and-decoder/",
+        "date": "Sat, 28 Feb 2026 03:58:20 +0000",
+        "source": "MarkTechPost",
+        "description": "Generative AI’s current trajectory relies heavily on Latent Diffusion Models (LDMs) to manage the computational cost of high-resolution synthesis. By compressing data into a lower-dimensional laten...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Anthropic Hits Back After US Military Labels It a ‘Supply Chain Risk’",
+        "link": "https://www.wired.com/story/anthropic-supply-chain-risk-shockwaves-silicon-valley/",
+        "date": "Sat, 28 Feb 2026 03:30:41 +0000",
+        "source": "Wired AI",
+        "description": "Anthropic says it would be “legally unsound” for the Pentagon to blacklist its technology after talks over military use of its artificial intelligence models broke down.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "In a Memoir Draft, Changpeng Zhao of Binance Details the Talks Leading to His Prison Time",
         "link": "https://www.nytimes.com/2026/02/27/technology/cz-changpeng-zhao-binance-memoir-prison.html",
         "date": "Sat, 28 Feb 2026 02:26:38 +0000",
@@ -14611,6 +14763,163 @@
         "date": "Sat, 28 Feb 2026 00:00:29 +0000",
         "source": "Hackaday AI",
         "description": "Having an AI assistant is all the rage these days, but AI assistants usually don&#8217;t know about your automation setups and may have difficulty dealing with tasks asynchronously. Enter zclaw. &#...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Decoder-based Sense Knowledge Distillation",
+        "link": "https://arxiv.org/abs/2602.22351",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22351v1 Announce Type: new \nAbstract: Large language models (LLMs) learn contextual embeddings that capture rich semantic information, yet they often overlook structured lexical knowledg...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Scaling In, Not Up? Testing Thick Citation Context Analysis with GPT-5 and Fragile Prompts",
+        "link": "https://arxiv.org/abs/2602.22359",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22359v1 Announce Type: new \nAbstract: This paper tests whether large language models (LLMs) can support interpretative citation context analysis (CCA) by scaling in thick, text-grounded ...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Detecting Hate and Inflammatory Content in Bengali Memes: A New Multimodal Dataset and Co-Attention Framework",
+        "link": "https://arxiv.org/abs/2602.22391",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22391v1 Announce Type: new \nAbstract: Internet memes have become a dominant form of expression on social media, including within the Bengali-speaking community. While often humorous, mem...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "SAFARI: A Community-Engaged Approach and Dataset of Stereotype Resources in the Sub-Saharan African Context",
+        "link": "https://arxiv.org/abs/2602.22404",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22404v1 Announce Type: new \nAbstract: Stereotype repositories are critical to assess generative AI model safety, but currently lack adequate global coverage. It is imperative to prioriti...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Causality $\\neq$ Invariance: Function and Concept Vectors in LLMs",
+        "link": "https://arxiv.org/abs/2602.22424",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22424v1 Announce Type: new \nAbstract: Do large language models (LLMs) represent concepts abstractly, i.e., independent of input format? We revisit Function Vectors (FVs), compact represe...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "A Fusion of context-aware based BanglaBERT and Two-Layer Stacked LSTM Framework for Multi-Label Cyberbullying Detection",
+        "link": "https://arxiv.org/abs/2602.22449",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22449v1 Announce Type: new \nAbstract: Cyberbullying has become a serious and growing concern in todays virtual world. When left unnoticed, it can have adverse consequences for social and...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Bridging Latent Reasoning and Target-Language Generation via Retrieval-Transition Heads",
+        "link": "https://arxiv.org/abs/2602.22453",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22453v1 Announce Type: new \nAbstract: Recent work has identified a subset of attention heads in Transformer as retrieval heads, which are responsible for retrieving information from the ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Mind the Gap in Cultural Alignment: Task-Aware Culture Management for Large Language Models",
+        "link": "https://arxiv.org/abs/2602.22475",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22475v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly deployed in culturally sensitive real-world tasks. However, existing cultural alignment approaches fai...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Sydney Telling Fables on AI and Humans: A Corpus Tracing Memetic Transfer of Persona between LLMs",
+        "link": "https://arxiv.org/abs/2602.22481",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22481v1 Announce Type: new \nAbstract: The way LLM-based entities conceive of the relationship between AI and humans is an important topic for both cultural and safety reasons. When we ex...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Importance of Prompt Optimisation for Error Detection in Medical Notes Using Language Models",
+        "link": "https://arxiv.org/abs/2602.22483",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22483v1 Announce Type: new \nAbstract: Errors in medical text can cause delays or even result in incorrect treatment for patients. Recently, language models have shown promise in their ab...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Efficient Dialect-Aware Modeling and Conditioning for Low-Resource Taiwanese Hakka Speech Processing",
+        "link": "https://arxiv.org/abs/2602.22522",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22522v1 Announce Type: new \nAbstract: Taiwanese Hakka is a low-resource, endangered language that poses significant challenges for automatic speech recognition (ASR), including high dial...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Iterative Prompt Refinement for Dyslexia-Friendly Text Summarization Using GPT-4o",
+        "link": "https://arxiv.org/abs/2602.22524",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22524v1 Announce Type: new \nAbstract: Dyslexia affects approximately 10% of the global population and presents persistent challenges in reading fluency and text comprehension. While exis...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Ruyi2 Technical Report",
+        "link": "https://arxiv.org/abs/2602.22543",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22543v1 Announce Type: new \nAbstract: Large Language Models (LLMs) face significant challenges regarding deployment costs and latency, necessitating adaptive computing strategies. Buildi...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Search-P1: Path-Centric Reward Shaping for Stable and Efficient Agentic RAG Training",
+        "link": "https://arxiv.org/abs/2602.22576",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22576v1 Announce Type: new \nAbstract: Retrieval-Augmented Generation (RAG) enhances large language models (LLMs) by incorporating external knowledge, yet traditional single-round retriev...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Towards Faithful Industrial RAG: A Reinforced Co-adaptation Framework for Advertising QA",
+        "link": "https://arxiv.org/abs/2602.22584",
+        "date": "Sat, 28 Feb 2026 00:00:00 -0500",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2602.22584v1 Announce Type: new \nAbstract: Industrial advertising question answering (QA) is a high-stakes task in which hallucinated content, particularly fabricated URLs, can lead to financ...",
         "is_important": false,
         "tags": []
     },
@@ -20032,254 +20341,6 @@
         "date": "Fri, 27 Feb 2026 00:00:00 -0500",
         "source": "ArXiv (cs.AI)",
         "description": "arXiv:2602.22585v1 Announce Type: new \nAbstract: Human evaluations play a central role in training and assessing AI models, yet these data are rarely treated as measurements subject to systematic e...",
-        "is_important": false
-    },
-    {
-        "title": "SideQuest: Model-Driven KV Cache Management for Long-Horizon Agentic Reasoning",
-        "link": "https://arxiv.org/abs/2602.22603",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22603v1 Announce Type: new \nAbstract: Long-running agentic tasks, such as deep research, require multi-hop reasoning over information distributed across multiple webpages and documents. ...",
-        "is_important": false
-    },
-    {
-        "title": "MobilityBench: A Benchmark for Evaluating Route-Planning Agents in Real-World Mobility Scenarios",
-        "link": "https://arxiv.org/abs/2602.22638",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22638v1 Announce Type: new \nAbstract: Route-planning agents powered by large language models (LLMs) have emerged as a promising paradigm for supporting everyday human mobility through na...",
-        "is_important": false
-    },
-    {
-        "title": "AHBid: An Adaptable Hierarchical Bidding Framework for Cross-Channel Advertising",
-        "link": "https://arxiv.org/abs/2602.22650",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22650v1 Announce Type: new \nAbstract: In online advertising, the inherent complexity and dynamic nature of advertising environments necessitate the use of auto-bidding services to assist...",
-        "is_important": false
-    },
-    {
-        "title": "Toward Personalized LLM-Powered Agents: Foundations, Evaluation, and Future Directions",
-        "link": "https://arxiv.org/abs/2602.22680",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22680v1 Announce Type: new \nAbstract: Large language models have enabled agents that reason, plan, and interact with tools and environments to accomplish complex tasks. As these agents o...",
-        "is_important": false
-    },
-    {
-        "title": "Knob: A Physics-Inspired Gating Interface for Interpretable and Controllable Neural Dynamics",
-        "link": "https://arxiv.org/abs/2602.22702",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22702v1 Announce Type: new \nAbstract: Existing neural network calibration methods often treat calibration as a static, post-hoc optimization task. However, this neglects the dynamic and ...",
-        "is_important": false
-    },
-    {
-        "title": "RLHFless: Serverless Computing for Efficient RLHF",
-        "link": "https://arxiv.org/abs/2602.22718",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22718v1 Announce Type: new \nAbstract: Reinforcement Learning from Human Feedback (RLHF) has been widely applied to Large Language Model (LLM) post-training to align model outputs with hu...",
-        "is_important": false
-    },
-    {
-        "title": "Generative Data Transformation: From Mixed to Unified Data",
-        "link": "https://arxiv.org/abs/2602.22743",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22743v1 Announce Type: new \nAbstract: Recommendation model performance is intrinsically tied to the quality, volume, and relevance of their training data. To address common challenges li...",
-        "is_important": false
-    },
-    {
-        "title": "Know What You Know: Metacognitive Entropy Calibration for Verifiable RL Reasoning",
-        "link": "https://arxiv.org/abs/2602.22751",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22751v1 Announce Type: new \nAbstract: Large reasoning models (LRMs) have emerged as a powerful paradigm for solving complex real-world tasks. In practice, these models are predominantly ...",
-        "is_important": false
-    },
-    {
-        "title": "Decomposing Physician Disagreement in HealthBench",
-        "link": "https://arxiv.org/abs/2602.22758",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22758v1 Announce Type: new \nAbstract: We decompose physician disagreement in the HealthBench medical AI evaluation dataset to understand where variance resides and what observable featur...",
-        "is_important": false
-    },
-    {
-        "title": "AMA-Bench: Evaluating Long-Horizon Memory for Agentic Applications",
-        "link": "https://arxiv.org/abs/2602.22769",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22769v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are deployed as autonomous agents in increasingly complex applications, where enabling long-horizon memory is critical ...",
-        "is_important": false
-    },
-    {
-        "title": "ClinDet-Bench: Beyond Abstention, Evaluating Judgment Determinability of LLMs in Clinical Decision-Making",
-        "link": "https://arxiv.org/abs/2602.22771",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22771v1 Announce Type: new \nAbstract: Clinical decisions are often required under incomplete information. Clinical experts must identify whether available information is sufficient for j...",
-        "is_important": false
-    },
-    {
-        "title": "MiroFlow: Towards High-Performance and Robust Open-Source Agent Framework for General Deep Research Tasks",
-        "link": "https://arxiv.org/abs/2602.22808",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22808v1 Announce Type: new \nAbstract: Despite the remarkable progress of large language models (LLMs), the capabilities of standalone LLMs have begun to plateau when tackling real-world,...",
-        "is_important": false
-    },
-    {
-        "title": "When Should an AI Act? A Human-Centered Model of Scene, Context, and Behavior for Agentic AI Design",
-        "link": "https://arxiv.org/abs/2602.22814",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22814v1 Announce Type: new \nAbstract: Agentic AI increasingly intervenes proactively by inferring users' situations from contextual data yet often fails for lack of principled judgment a...",
-        "is_important": false
-    },
-    {
-        "title": "FlexMS is a flexible framework for benchmarking deep learning-based mass spectrum prediction tools in metabolomics",
-        "link": "https://arxiv.org/abs/2602.22822",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22822v1 Announce Type: new \nAbstract: The identification and property prediction of chemical molecules is of central importance in the advancement of drug discovery and material science,...",
-        "is_important": false
-    },
-    {
-        "title": "DeepPresenter: Environment-Grounded Reflection for Agentic Presentation Generation",
-        "link": "https://arxiv.org/abs/2602.22839",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22839v1 Announce Type: new \nAbstract: Presentation generation requires deep content research, coherent visual design, and iterative refinement based on observation. However, existing pre...",
-        "is_important": false
-    },
-    {
-        "title": "The AI Research Assistant: Promise, Peril, and a Proof of Concept",
-        "link": "https://arxiv.org/abs/2602.22842",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22842v1 Announce Type: new \nAbstract: Can artificial intelligence truly contribute to creative mathematical research, or does it merely automate routine calculations while introducing ri...",
-        "is_important": false
-    },
-    {
-        "title": "Towards LLM-Empowered Knowledge Tracing via LLM-Student Hierarchical Behavior Alignment in Hyperbolic Space",
-        "link": "https://arxiv.org/abs/2602.22879",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22879v1 Announce Type: new \nAbstract: Knowledge Tracing (KT) diagnoses students' concept mastery through continuous learning state monitoring in education.Existing methods primarily focu...",
-        "is_important": false
-    },
-    {
-        "title": "OmniGAIA: Towards Native Omni-Modal AI Agents",
-        "link": "https://arxiv.org/abs/2602.22897",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22897v1 Announce Type: new \nAbstract: Human intelligence naturally intertwines omni-modal perception -- spanning vision, audio, and language -- with complex reasoning and tool usage to i...",
-        "is_important": false
-    },
-    {
-        "title": "General Agent Evaluation",
-        "link": "https://arxiv.org/abs/2602.22953",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22953v1 Announce Type: new \nAbstract: The promise of general-purpose agents - systems that perform tasks in unfamiliar environments without domain-specific engineering - remains largely ...",
-        "is_important": false
-    },
-    {
-        "title": "FactGuard: Agentic Video Misinformation Detection via Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2602.22963",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22963v1 Announce Type: new \nAbstract: Multimodal large language models (MLLMs) have substantially advanced video misinformation detection through unified multimodal reasoning, but they o...",
-        "is_important": false
-    },
-    {
-        "title": "Certified Circuits: Stability Guarantees for Mechanistic Circuits",
-        "link": "https://arxiv.org/abs/2602.22968",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22968v1 Announce Type: new \nAbstract: Understanding how neural networks arrive at their predictions is essential for debugging, auditing, and deployment. Mechanistic interpretability pur...",
-        "is_important": false
-    },
-    {
-        "title": "SPM-Bench: Benchmarking Large Language Models for Scanning Probe Microscopy",
-        "link": "https://arxiv.org/abs/2602.22971",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22971v1 Announce Type: new \nAbstract: As LLMs achieved breakthroughs in general reasoning, their proficiency in specialized scientific domains reveals pronounced gaps in existing benchma...",
-        "is_important": false
-    },
-    {
-        "title": "Modeling Expert AI Diagnostic Alignment via Immutable Inference Snapshots",
-        "link": "https://arxiv.org/abs/2602.22973",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22973v1 Announce Type: new \nAbstract: Human-in-the-loop validation is essential in safety-critical clinical AI, yet the transition between initial model inference and expert correction i...",
-        "is_important": false
-    },
-    {
-        "title": "RepSPD: Enhancing SPD Manifold Representation in EEGs via Dynamic Graphs",
-        "link": "https://arxiv.org/abs/2602.22981",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22981v1 Announce Type: new \nAbstract: Decoding brain activity from electroencephalography (EEG) is crucial for neuroscience and clinical applications. Among recent advances in deep learn...",
-        "is_important": false
-    },
-    {
-        "title": "Obscure but Effective: Classical Chinese Jailbreak Prompt Optimization via Bio-Inspired Search",
-        "link": "https://arxiv.org/abs/2602.22983",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.22983v1 Announce Type: new \nAbstract: As Large Language Models (LLMs) are increasingly used, their security risks have drawn increasing attention. Existing research reveals that LLMs are...",
-        "is_important": false
-    },
-    {
-        "title": "Learning-based Multi-agent Race Strategies in Formula 1",
-        "link": "https://arxiv.org/abs/2602.23056",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.23056v1 Announce Type: new \nAbstract: In Formula 1, race strategies are adapted according to evolving race conditions and competitors' actions. This paper proposes a reinforcement learni...",
-        "is_important": false
-    },
-    {
-        "title": "Enhancing CVRP Solver through LLM-driven Automatic Heuristic Design",
-        "link": "https://arxiv.org/abs/2602.23092",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.23092v1 Announce Type: new \nAbstract: The Capacitated Vehicle Routing Problem (CVRP), a fundamental combinatorial optimization challenge, focuses on optimizing fleet operations under veh...",
-        "is_important": false
-    },
-    {
-        "title": "Three AI-agents walk into a bar . . . . `Lord of the Flies' tribalism emerges among smart AI-Agents",
-        "link": "https://arxiv.org/abs/2602.23093",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.23093v1 Announce Type: new \nAbstract: Near-future infrastructure systems may be controlled by autonomous AI agents that repeatedly request access to limited resources such as energy, ban...",
-        "is_important": false
-    },
-    {
-        "title": "Multi-Agent Large Language Model Based Emotional Detoxification Through Personalized Intensity Control for Consumer Protection",
-        "link": "https://arxiv.org/abs/2602.23123",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.23123v1 Announce Type: new \nAbstract: In the attention economy, sensational content exposes consumers to excessive emotional stimulation, hindering calm decision-making. This study propo...",
-        "is_important": false
-    },
-    {
-        "title": "On Sample-Efficient Generalized Planning via Learned Transition Models",
-        "link": "https://arxiv.org/abs/2602.23148",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.23148v1 Announce Type: new \nAbstract: Generalized planning studies the construction of solution strategies that generalize across families of planning problems sharing a common domain mo...",
-        "is_important": false
-    },
-    {
-        "title": "The Trinity of Consistency as a Defining Principle for General World Models",
-        "link": "https://arxiv.org/abs/2602.23152",
-        "date": "Fri, 27 Feb 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2602.23152v1 Announce Type: new \nAbstract: The construction of World Models capable of learning, simulating, and reasoning about objective physical laws constitutes a foundational challenge i...",
         "is_important": false
     }
 ]
