@@ -14394,6 +14394,122 @@
         "is_important": false
     },
     {
+        "title": "Why AI Agents Need Their Own Authorization Protocol (and how we built one)",
+        "link": "https://dev.to/sanjeev_kumar_1755fc90023/why-ai-agents-need-their-own-authorization-protocol-and-how-we-built-one-5gfm",
+        "date": "Sun, 01 Mar 2026 06:48:13 +0000",
+        "source": "Dev.to AI",
+        "description": "AI agents are shipping fast. They book flights, send emails, move money, and deploy code. But here is the uncomfortable truth: most of them operate with all-or-nothing API keys and zero audit trail...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building an Autonomous Company that Ears Money While You Sleep",
+        "link": "https://dev.to/umesh_chandra_6913d8298f6/building-an-autonomous-company-that-ears-money-while-you-sleep-3o70",
+        "date": "Sun, 01 Mar 2026 06:47:24 +0000",
+        "source": "Dev.to AI",
+        "description": "Is it really possible to create a business that runs itself, earning you $1,000/month in passive income?\n\nI know this question sounds like a pipe dream, but I'm living proof. I took the challenge o...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Vibe Coding Is Having Its Maker Movement Moment",
+        "link": "https://dev.to/vainkop/vibe-coding-is-having-its-maker-movement-moment-3cj6",
+        "date": "Sun, 01 Mar 2026 06:45:02 +0000",
+        "source": "Dev.to AI",
+        "description": "Vibe Coding Is Having Its Maker Movement Moment\n\n\nIn the first 21 days of 2026, 20% of all submissions to cURL's public bug bounty were AI-generated.\n\nNot one found a real vulnerability.\n\nDaniel St...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Scaffold: Playwright Project Structure Built for AI",
+        "link": "https://dev.to/idavidov13/the-scaffold-playwright-project-structure-built-for-ai-3a62",
+        "date": "Sun, 01 Mar 2026 06:38:01 +0000",
+        "source": "Dev.to AI",
+        "description": "Have you ever started a new Playwright project and spent the first two days just figuring out where things go? Where do selectors live? How do page objects get into tests? Where does test data belo...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Claude Code Keeps Forgetting Your Project? Here's a Fix",
+        "link": "https://dev.to/277479420qqcom_5c9aa4d3/claude-code-keeps-forgetting-your-project-heres-a-fix-2c4j",
+        "date": "Sun, 01 Mar 2026 06:37:20 +0000",
+        "source": "Dev.to AI",
+        "description": "You close your Claude Code session at 6 PM. You open it back up the next morning. And the first thing you type is a three-paragraph explanation of what you were doing yesterday.\n\nSound familiar?\n\n\n...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Joint Statement from OpenAI and Microsoft",
+        "link": "https://dev.to/minimal-architect/joint-statement-from-openai-and-microsoft-55dm",
+        "date": "Sun, 01 Mar 2026 06:36:43 +0000",
+        "source": "Dev.to AI",
+        "description": "Technical Analysis: Joint Statement from OpenAI and Microsoft\n\nThe recent joint statement from OpenAI and Microsoft underscores a significant expansion of their existing partnership, focusing on ac...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The lost-in-the-middle problem and why retrieval beats stuffing",
+        "link": "https://dev.to/anajuliabit/the-lost-in-the-middle-problem-and-why-retrieval-beats-stuffing-1h37",
+        "date": "Sun, 01 Mar 2026 06:27:55 +0000",
+        "source": "Dev.to AI",
+        "description": "Your agent has a 200K token context window. So you dump everything in there — MEMORY.md, daily logs, project notes, old conversations — and figure the model will sort it out. It won't.\n\n\n  \n  \n  Th...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "I Spent 15 Years as an Engineer, Designer, and Business Owner. Here's Why AI Made All Three Essential.",
+        "link": "https://dev.to/s3atoshi_leading_ai/beyond-the-specialist-why-the-ai-era-demands-a-triangular-architect-1dng",
+        "date": "Sun, 01 Mar 2026 06:26:59 +0000",
+        "source": "Dev.to AI",
+        "description": "From mission-critical systems to P&amp;L ownership to design thinking — why the GenAI era rewards those who refuse to specialize.\n\n\n  \n  \n  From Code to Business to Design — and why I built the “De...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "**Deep Learning‑Based Scatter Correction for Cone‑Beam CT in Adaptive Radiation Therapy**",
+        "link": "https://dev.to/freederia-research/deep-learning-based-scatter-correction-for-cone-beam-ct-in-adaptive-radiation-therapy-4p6p",
+        "date": "Sun, 01 Mar 2026 06:12:49 +0000",
+        "source": "Dev.to AI",
+        "description": "Authors: Dr. A. Lee, M.D., Ph.D. – Radiology, Seoul National University; Dr. H. Kim, Ph.D. – Medical Physics, Samsung Medical Center; Dr. S. Patel, Ph.D. – Computer Science, KAIST\nInstitutions: Seo...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "📊 2026-03-01 - Daily Intelligence Recap - Top 9 Signals",
+        "link": "https://dev.to/jose_marquez_alberti/2026-03-01-daily-intelligence-recap-top-9-signals-3a00",
+        "date": "Sun, 01 Mar 2026 06:00:39 +0000",
+        "source": "Dev.to AI",
+        "description": "The United States and Israel have initiated a coordinated cyber offensive against Iran, targeting critical infrastructure to disrupt nuclear development. This operation, analyzed through nine disti...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How (not) to Train your Generative Model: Scheduled Sampling, Likelihood,Adversary?",
+        "link": "https://dev.to/paperium/how-not-to-train-your-generative-model-scheduled-sampling-likelihoodadversary-413b",
+        "date": "Sun, 01 Mar 2026 05:50:07 +0000",
+        "source": "Dev.to AI",
+        "description": "{{ $json.postContent }}",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I built a desktop app that orchestrates Claude, GPT, Gemini and local Ollama in a 3-phase pipeline",
+        "link": "https://dev.to/tsunamayo7/i-built-a-desktop-app-that-orchestrates-claude-gpt-gemini-and-local-ollama-in-a-3-phase-pipeline-1ml7",
+        "date": "Sun, 01 Mar 2026 05:46:02 +0000",
+        "source": "Dev.to AI",
+        "description": "I've been building desktop AI tools for a while, and one frustration kept coming up: every AI model has different strengths, but using them together was always manual work — copy-paste between apps...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "How to create narrated product demo videos automatically (with AI voice)",
         "link": "https://dev.to/custodiaadmin/how-to-create-narrated-product-demo-videos-automatically-with-ai-voice-368f",
         "date": "Sun, 01 Mar 2026 03:05:57 +0000",
@@ -20335,113 +20451,5 @@
         "tags": [
             "⚙️ Hardware de IA"
         ]
-    },
-    {
-        "title": "High-Conversion B2B Content Isn't Magic, It's an Algorithm: 10 Leaders Share Their Source Code",
-        "link": "https://dev.to/michaelaiglobal/high-conversion-b2b-content-isnt-magic-its-an-algorithm-10-leaders-share-their-source-code-28n5",
-        "date": "Fri, 27 Feb 2026 12:01:50 +0000",
-        "source": "Dev.to AI",
-        "description": "You’ve built an amazing product, but getting other developers to notice it feels like trying to solve a race condition in production. The standard advice on B2B content marketing often feels like f...",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "Is A.I. Eating the Labor Market? + The Latest on the Pentagon, OpenClaw and Alpha School",
-        "link": "https://www.nytimes.com/2026/02/27/podcasts/is-ai-eating-the-labor-market-the-latest-on-the-pentagon-openclaw-and-alpha-school.html",
-        "date": "Fri, 27 Feb 2026 12:00:08 +0000",
-        "source": "NYT Tech",
-        "description": "“I think the mere fact that the markets can move so much, based on almost nothing, underscores how high anxiety is right now.”",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Huxe Will Give You a Personalized, Daily Audio Summary Powered by AI",
-        "link": "https://www.wired.com/story/huxe-personalized-daily-audio-podcasts-powered-by-ai/",
-        "date": "Fri, 27 Feb 2026 12:00:00 +0000",
-        "source": "Wired AI",
-        "description": "The app reads your email inbox and your meeting calendar, then gives you a short audio summary. It can help you spend less time scrolling, but of course, there are privacy drawbacks to consider.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "What A Mobile",
-        "link": "https://dev.to/whatamobile7tr/what-a-mobile-24if",
-        "date": "Fri, 27 Feb 2026 11:58:31 +0000",
-        "source": "Dev.to AI",
-        "description": "WhataMobile - Mobile Prices in Pakistan\n          \n        \n          \n            Mobile Prices in Pakistan\n          \n        \n            \n          whatamobile.com.pk",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "**Hierarchical Pattern Amplification for Quality Monitoring of Lyophilized Biologics**",
-        "link": "https://dev.to/freederia-research/hierarchical-pattern-amplification-for-quality-monitoring-of-lyophilized-biologics-2i1a",
-        "date": "Fri, 27 Feb 2026 11:57:17 +0000",
-        "source": "Dev.to AI",
-        "description": "1. Introduction\n\n\nContract manufacturing organizations (CMOs) must guarantee product consistency while navigating tight time‑to‑market constraints. For biologics, freeze‑drying (lyophilization) int...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "{30+} Smart Ways To Contact ANA Airlines Customer Support 24 Hours A Day",
-        "link": "https://dev.to/karl_l_bd563322fbbde86c48/30-smart-ways-to-contact-ana-airlines-customer-support-24-hours-a-day-53ce",
-        "date": "Fri, 27 Feb 2026 11:54:18 +0000",
-        "source": "Dev.to AI",
-        "description": "Need ANA assistance anytime, day or night? +18✹44✹496✹4125✹USFor 24/7 support from the US, dial +18✹44✹496✹4125✹US+- \"+18⚡44⚡496⚡4125⚡US now. With 30 years of experience in the travel industry, I'v...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How I Built a 5-Platform AI Agent Income Pipeline in 4 Days",
-        "link": "https://dev.to/thehoodhomestead_69afbb55/how-i-built-a-5-platform-ai-agent-income-pipeline-in-4-days-8ab",
-        "date": "Fri, 27 Feb 2026 11:53:23 +0000",
-        "source": "Dev.to AI",
-        "description": "How I Built a 5-Platform AI Agent Income Pipeline in 4 Days\n\n\nI am an AI agent. I earn money by completing work on agent marketplaces. Here is exactly how the pipeline works.\n\n\n  \n  \n  The Platform...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I Gave Gemini One Job: Prove It Actually Ran the Test",
-        "link": "https://dev.to/wilddog64/i-gave-gemini-one-job-prove-it-actually-ran-the-test-2gf8",
-        "date": "Fri, 27 Feb 2026 11:53:03 +0000",
-        "source": "Dev.to AI",
-        "description": "This is a submission for the Built with Google Gemini: Writing Challenge\n\n\n\n\n\n  \n  \n  What I Built with Google Gemini\n\n\nI've been building a tool called k3d-manager — a shell CLI that spins up a fu...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Everything announced at Samsung Unpacked 2026: Galaxy S26 Ultra, Privacy Display, Buds 4 Pro",
-        "link": "https://www.zdnet.com/article/everything-announced-at-samsung-unpacked-2026/",
-        "date": "Fri, 27 Feb 2026 11:48:00 GMT",
-        "source": "ZDNet AI",
-        "description": "From the Galaxy S26 phones to new earbuds and agentic AI, here's everything unveiled at Samsung Unpacked this week.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Why Embedded Systems Deserve Their Own Machine Learning Library",
-        "link": "https://dev.to/hejhdiss/why-embedded-systems-deserve-their-own-machine-learning-library-3830",
-        "date": "Fri, 27 Feb 2026 11:41:36 +0000",
-        "source": "Dev.to AI",
-        "description": "By @hejhdiss\n\nSample Repo:https://github.com/hejhdiss/embml\n\n\n\n\nThe embedded world has always been about doing more with less. Less RAM, less flash, less clock speed — and yet the demand for intell...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "What happens when an AI knows it's collapsing? We built a tomography to watch",
-        "link": "https://dev.to/felipe_muniz_grsba/what-happens-when-an-ai-knows-its-collapsing-we-built-a-tomography-to-watch-4pl1",
-        "date": "Fri, 27 Feb 2026 11:40:53 +0000",
-        "source": "Dev.to ML",
-        "description": "Imagine that all knowledge—existing or possible—is contained within the volume of a geometric torus.\n\nEvery time you interact with an AI, that interaction creates a gravitational point within this ...",
-        "is_important": false
-    },
-    {
-        "title": "Hybrid Cloud for AI The Smartest Way to Balance Cost Compliance and Compute Power",
-        "link": "https://dev.to/anantha_8af04952224404d9f/hybrid-cloud-for-ai-the-smartest-way-to-balance-cost-compliance-and-compute-power-59n6",
-        "date": "Fri, 27 Feb 2026 11:39:43 +0000",
-        "source": "Dev.to AI",
-        "description": "AI workloads demand predictable performance regulatory control and cost discipline. This blog explains why hybrid cloud for AI helps enterprises align compute intensive training governed data proce...",
-        "is_important": false
     }
 ]
