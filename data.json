@@ -14394,6 +14394,144 @@
         "is_important": false
     },
     {
+        "title": "How to create narrated product demo videos automatically (with AI voice)",
+        "link": "https://dev.to/custodiaadmin/how-to-create-narrated-product-demo-videos-automatically-with-ai-voice-368f",
+        "date": "Sun, 01 Mar 2026 03:05:57 +0000",
+        "source": "Dev.to AI",
+        "description": "How to create narrated product demo videos automatically (with AI voice)\n\n\nProduct demo videos are proof. They show customers exactly what your product does, cut through marketing noise, and close ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building on Tangle: From Idea to Production Service",
+        "link": "https://dev.to/tangle_network/building-on-tangle-from-idea-to-production-service-5g54",
+        "date": "Sun, 01 Mar 2026 03:04:23 +0000",
+        "source": "Dev.to AI",
+        "description": "Building on Tangle: From Idea to Production Service\n\n\nDay 4 of the Tangle Re-Introduction Series\n\n\n\n\nThe previous posts covered why decentralized infrastructure matters and how verification works. ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How Tangle Verifies Work",
+        "link": "https://dev.to/tangle_network/how-tangle-verifies-work-59jo",
+        "date": "Sun, 01 Mar 2026 03:04:12 +0000",
+        "source": "Dev.to AI",
+        "description": "How Tangle Verifies Work\n\n\nDay 3 of the Tangle Re-Introduction Series\n\n\n\n\nThe hardest question in decentralized infrastructure isn't \"how do we run computation\" but \"how do we know computation ran ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Production RAG with Semantic Kernel: Patterns, Chunking, and Retrieval Strategies",
+        "link": "https://dev.to/bspann/production-rag-with-semantic-kernel-patterns-chunking-and-retrieval-strategies-50j7",
+        "date": "Sun, 01 Mar 2026 02:59:51 +0000",
+        "source": "Dev.to AI",
+        "description": "Retrieval-Augmented Generation (RAG) is the pattern that makes LLMs genuinely useful for enterprise applications. Instead of relying solely on training data, RAG grounds responses in your actual do...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "How Blueprints Work: The Building Blocks of Decentralized Services",
+        "link": "https://dev.to/tangle_network/how-blueprints-work-the-building-blocks-of-decentralized-services-1edp",
+        "date": "Sun, 01 Mar 2026 02:58:31 +0000",
+        "source": "Dev.to AI",
+        "description": "How Blueprints Work: The Building Blocks of Decentralized Services\n\n\nDay 2 of the Tangle Re-Introduction Series\n\n\n\n\nLast month, an AI agent built on OpenClaw autonomously paid for its own GPU infer...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Why AI Infrastructure Needs Decentralization",
+        "link": "https://dev.to/tangle_network/why-ai-infrastructure-needs-decentralization-2f6p",
+        "date": "Sun, 01 Mar 2026 02:58:23 +0000",
+        "source": "Dev.to AI",
+        "description": "Why AI Infrastructure Needs Decentralization\n\n\nDay 1 of the Tangle Re-Introduction Series\n\n\n\n\nLast week, Moltbook went from \"the most incredible sci-fi takeoff-adjacent thing\" (Karpathy's words) to...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Agent Memory Architecture: How Our AI Remembers Across Sessions",
+        "link": "https://dev.to/mfs_corp/agent-memory-architecture-how-our-ai-remembers-across-sessions-j8l",
+        "date": "Sun, 01 Mar 2026 02:49:16 +0000",
+        "source": "Dev.to AI",
+        "description": "Agent Memory Architecture: How Our AI Remembers Across Sessions\n\n\nThe problem: LLMs are stateless. Every session is a blank slate.\n\nThe challenge: Build agents that remember context across days, we...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Why We Chose Local LLMs Over Cloud-Only (and When We Break That Rule)",
+        "link": "https://dev.to/mfs_corp/why-we-chose-local-llms-over-cloud-only-and-when-we-break-that-rule-2nne",
+        "date": "Sun, 01 Mar 2026 02:49:15 +0000",
+        "source": "Dev.to AI",
+        "description": "Why We Chose Local LLMs Over Cloud-Only (and When We Break That Rule)\n\n\nBuilding MFS Corp as an autonomous AI-driven organization meant making hard infrastructure choices early. The biggest one? Lo...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "VSDD: The AI Coding Methodology Worth Stealing (The Short Version)",
+        "link": "https://dev.to/midastools/vsdd-the-ai-coding-methodology-worth-stealing-the-short-version-2hcd",
+        "date": "Sun, 01 Mar 2026 02:46:27 +0000",
+        "source": "Dev.to AI",
+        "description": "A methodology called Verified Spec-Driven Development (VSDD) is trending on Hacker News. 130+ points. The full spec is dense. Here is what is actually worth stealing if you are a solo builder movin...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Semantic Gatekeeping Problem in AI Research",
+        "link": "https://dev.to/felipe_muniz_grsba/the-semantic-gatekeeping-problem-in-ai-research-2l04",
+        "date": "Sun, 01 Mar 2026 02:31:57 +0000",
+        "source": "Dev.to AI",
+        "description": "In 1847, Ignaz Semmelweis discovered that doctors washing their hands could reduce maternal mortality by 90%. The medical establishment rejected him. Not because the data was wrong — but because a ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Claude Is the #2 Free App on App Store: What It Means in 2026",
+        "link": "https://dev.to/trendplus_kr/claude-is-the-2-free-app-on-app-store-what-it-means-in-2026-1l8m",
+        "date": "Sun, 01 Mar 2026 02:31:11 +0000",
+        "source": "Dev.to AI",
+        "description": "Claude Just Became the #2 Free App on the Apple App Store — Here's Why That's a Big Deal\n\n\nSomething remarkable happened in the AI world recently that didn't get nearly enough attention: Anthropic'...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Architects, Not Operators",
+        "link": "https://dev.to/iseecodepeople/architects-not-operators-op8",
+        "date": "Sun, 01 Mar 2026 02:30:14 +0000",
+        "source": "Dev.to AI",
+        "description": "I just watched a video that perfectly captured the \"calculator moment\" we're living through with AI.\n\nBack in the 80s, people panicked that calculators would render us \"mathematically illiterate.\" ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "At the Pentagon, OpenAI is In and Anthropic Is Out",
+        "link": "https://www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html",
+        "date": "Sun, 01 Mar 2026 00:18:15 +0000",
+        "source": "NYT Tech",
+        "description": "It’s been a crazy 48 hours in the A.I. industry.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The trap Anthropic built for itself",
+        "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
+        "date": "Sun, 01 Mar 2026 00:08:58 +0000",
+        "source": "TechCrunch AI",
+        "description": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "How to generate text: using different decoding methods for language generation with Transformers",
         "link": "https://huggingface.co/blog/how-to-generate",
         "date": "Sun, 01 Mar 2020 00:00:00 GMT",
@@ -14448,6 +14586,71 @@
         "source": "OpenAI",
         "description": "",
         "is_important": false
+    },
+    {
+        "title": "Samsung Galaxy S26 vs. S26 Plus vs. S26 Ultra: I compared every model to help you decide",
+        "link": "https://www.zdnet.com/article/samsung-galaxy-s26-phones-compared-unpacked-2026/",
+        "date": "Sat, 28 Feb 2026 22:22:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Samsung's new Galaxy phone lineup includes the S26, S26 Plus, and S26 Ultra. Here are the key differences to consider.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Samsung Galaxy S26 Ultra vs. S24 Ultra: Is the two-year-upgrade worth it?",
+        "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-galaxy-s24-ultra/",
+        "date": "Sat, 28 Feb 2026 22:21:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Wondering how the Samsung Galaxy S24 Ultra from 2024 holds up to the latest Ultra flagship? Here's how the two compare.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "This 3-in-1 adapter for the Starlink Mini made all the difference for its power delivery",
+        "link": "https://www.zdnet.com/article/starlink-mini-stargear-3-in-1-cable-power-spotlight/",
+        "date": "Sat, 28 Feb 2026 21:54:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The Stargear 3-in-1 cable gives me more power options, no matter where I am.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I bought this inflatable solar-powered lantern on a whim - here's how it comes in handy",
+        "link": "https://www.zdnet.com/article/luminaid-packlite-nova-lantern-review/",
+        "date": "Sat, 28 Feb 2026 21:52:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The LuminAID PackLite Nova inflatable solar camping light is built for everything, from blackouts to BBQs.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I tested a solid-state power bank that's seriously durable, but two things hold me back",
+        "link": "https://www.zdnet.com/article/bmx-solidsafe-10k-review/",
+        "date": "Sat, 28 Feb 2026 21:49:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The BMX SolidSafe 10K has many advantages over traditional power banks. However, there are also a couple of issues.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
+        "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
+        "date": "Sat, 28 Feb 2026 21:05:06 +0000",
+        "source": "TechCrunch AI",
+        "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "The billion-dollar infrastructure deals powering the AI boom",
+        "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
+        "date": "Sat, 28 Feb 2026 20:41:55 +0000",
+        "source": "TechCrunch AI",
+        "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
+        "is_important": false,
+        "tags": []
     },
     {
         "title": "82 Cycles: The Infinite Game of Organic Growth",
@@ -14607,6 +14810,15 @@
         "tags": []
     },
     {
+        "title": "Uber Employees Have Created an AI Clone of Its CEO",
+        "link": "https://futurism.com/artificial-intelligence/uber-employees-ai-ceo",
+        "date": "Sat, 28 Feb 2026 15:00:00 -0500",
+        "source": "Futurism AI",
+        "description": "We wonder if they can tell the difference.\nThe post Uber Employees Have Created an AI Clone of Its CEO appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "7 AI coding techniques I use to ship real, reliable products - fast",
         "link": "https://www.zdnet.com/article/ai-coding-techniques/",
         "date": "Sat, 28 Feb 2026 13:00:00 GMT",
@@ -14728,6 +14940,17 @@
         "description": "{{ $json.postContent }}",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Our agreement with the Department of War",
+        "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
+        "date": "Sat, 28 Feb 2026 12:30:00 GMT",
+        "source": "OpenAI",
+        "description": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
     },
     {
         "title": "Securing GenAI Applications: Prompt Injection, RAG Risks, and Data Isolation",
@@ -19870,6 +20093,15 @@
         "tags": []
     },
     {
+        "title": "Anthropic Says It Cannot ‘Accede’ to Pentagon in Talks Over A.I.",
+        "link": "https://www.nytimes.com/2026/02/26/technology/anthropic-pentagon-talks-ai.html",
+        "date": "Fri, 27 Feb 2026 13:15:43 +0000",
+        "source": "NYT Tech",
+        "description": "Anthropic said it was standing firm on not having its A.I. used in certain scenarios by the Pentagon, which has imposed a Friday deadline on the company to give unfettered access to its technology.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Upgrading agentic AI for finance workflows",
         "link": "https://www.artificialintelligence-news.com/news/upgrading-agentic-ai-for-finance-workflows/",
         "date": "Fri, 27 Feb 2026 13:15:38 +0000",
@@ -20210,205 +20442,6 @@
         "date": "Fri, 27 Feb 2026 11:39:43 +0000",
         "source": "Dev.to AI",
         "description": "AI workloads demand predictable performance regulatory control and cost discipline. This blog explains why hybrid cloud for AI helps enterprises align compute intensive training governed data proce...",
-        "is_important": false
-    },
-    {
-        "title": "Why Renting GPU Dedicated Servers Beats Buying In-House Hardware for AI Startups in 2026",
-        "link": "https://dev.to/gpuyard/why-renting-gpu-dedicated-servers-beats-buying-in-house-hardware-for-ai-startups-in-2026-j6h",
-        "date": "Fri, 27 Feb 2026 11:37:23 +0000",
-        "source": "Dev.to AI",
-        "description": "If you are an AI founder, CTO, or lead researcher in 2026, you already know the golden rule of the current tech landscape: compute is king. The race to train larger foundational models, fine-tune l...",
-        "is_important": false
-    },
-    {
-        "title": "Why Renting GPU Dedicated Servers Beats Buying In-House Hardware for AI Startups in 2026",
-        "link": "https://dev.to/gpuyard/why-renting-gpu-dedicated-servers-beats-buying-in-house-hardware-for-ai-startups-in-2026-j6h",
-        "date": "Fri, 27 Feb 2026 11:37:23 +0000",
-        "source": "Dev.to ML",
-        "description": "If you are an AI founder, CTO, or lead researcher in 2026, you already know the golden rule of the current tech landscape: compute is king. The race to train larger foundational models, fine-tune l...",
-        "is_important": false
-    },
-    {
-        "title": "Mapping a Meaningful Future",
-        "link": "https://dev.to/rithanya_s_870f7e9b8f93e8/mapping-a-meaningful-future-3ofi",
-        "date": "Fri, 27 Feb 2026 11:37:00 +0000",
-        "source": "Dev.to AI",
-        "description": "Elena had always been fascinated by maps. As a child, she would trace rivers, mountains, and city boundaries with her fingers, imagining the stories behind every location. Years later, while workin...",
-        "is_important": false
-    },
-    {
-        "title": "SMART AND RELIABLE LOCAL CAB SOLUTIONS FOR EVERY TRAVEL NEED",
-        "link": "https://dev.to/madhurmatka8437/smart-and-reliable-local-cab-solutions-for-every-travel-need-4n8d",
-        "date": "Fri, 27 Feb 2026 11:36:59 +0000",
-        "source": "Dev.to AI",
-        "description": "*EASY CITY TRAVEL WITH PROFESSIONAL LOCAL SERVICE\n*\nDaily commuting, shopping trips, office travel, and personal errands require dependable transportation. Instead of relying on uncertain street av...",
-        "is_important": false
-    },
-    {
-        "title": "Building Enterprise-Ready Data Grids in 2025",
-        "link": "https://dev.to/vishal_porwal_e0389856c35/building-enterprise-ready-data-grids-in-2025-2aal",
-        "date": "Fri, 27 Feb 2026 11:31:53 +0000",
-        "source": "Dev.to AI",
-        "description": "If you're building dashboards, admin panels, or analytics tools, your JavaScript Data Grid is one of the most critical architectural decisions.\n\nA basic table works for small datasets.\n\nBut once yo...",
-        "is_important": false
-    },
-    {
-        "title": "Competitive Edge in the Age of AI",
-        "link": "https://dev.to/abayomi_grace/competitive-edge-in-the-age-of-ai-88j",
-        "date": "Fri, 27 Feb 2026 11:29:45 +0000",
-        "source": "Dev.to AI",
-        "description": "I had to fix a batch of vulnerabilities in one of our applications at work the other day. \nI thought to myself, \"I'll get AI to do this for me\". \n\nI knew what needed to be done, dependency upgrades...",
-        "is_important": false
-    },
-    {
-        "title": "ผมเบื่อที่จะเขียนโค้ด AI Agent ซ้ำๆ - นี่คือวิธีที่ผมแก้ปัญหา (ด้วย Boilerplate)",
-        "link": "https://dev.to/shanmukh_ram_be8ae5390d56/phmebuuethiicchaekhiiynokhd-ai-agent-cham-niikhuuewithiithiiphmaekpayhaa-dwy-boilerplate-5ei7",
-        "date": "Fri, 27 Feb 2026 11:28:43 +0000",
-        "source": "Dev.to AI",
-        "description": "ผมเบื่อที่จะเขียน AI Agent Code ซ้ำๆ ทุกโปรเจกต์ — เลยสร้าง Boilerplate ที่ใช้งานได้จริง\n\n\nทุกครั้งที่เริ่มโปรเจกต์ AI Agent ใหม่ ผมต้องเขียน code เดิมซ้ำๆ\n\nTool use loop. Memory persistence. Retry...",
-        "is_important": false
-    },
-    {
-        "title": "Ayodhya Darshan",
-        "link": "https://dev.to/shivam_gupta_010212ae11d5/ayodhya-darshan-5ekm",
-        "date": "Fri, 27 Feb 2026 11:23:27 +0000",
-        "source": "Dev.to AI",
-        "description": "An Ayodhya darshan is not just a temple visit. It is an emotional journey into one of India’s most sacred cities.\n\nLocated on the banks of the Sarayu River in Uttar Pradesh, Ayodhya holds deep spir...",
-        "is_important": false
-    },
-    {
-        "title": "WhatsApp OSINT: Exploring Data Linked to Phone Numbers",
-        "link": "https://dev.to/stelixx-insider/whatsapp-osint-exploring-data-linked-to-phone-numbers-i14",
-        "date": "Fri, 27 Feb 2026 11:20:48 +0000",
-        "source": "Dev.to AI",
-        "description": "Ever wondered what information is tied to a WhatsApp number, just sitting there if you know how to look? It’s a common curiosity for developers interested in privacy, OSINT (Open Source Intelligenc...",
-        "is_important": false
-    },
-    {
-        "title": "How I Built an AI Course Generator in a Weekend (DuoUniversal)",
-        "link": "https://dev.to/danilocaffaro/how-i-built-an-ai-course-generator-in-a-weekend-duouniversal-p9l",
-        "date": "Fri, 27 Feb 2026 11:19:40 +0000",
-        "source": "Dev.to AI",
-        "description": "How I Built an AI Course Generator in a Weekend (DuoUniversal) Tags: #ai #gemini #react #microlearning Cover image: (to be generated in Phase 2) Canonical URL: (self-published) --- ## The Problem: ...",
-        "is_important": false
-    },
-    {
-        "title": "What Happens When IoT Application Development Meets AI at Scale?",
-        "link": "https://dev.to/esoftwaresolutions1/what-happens-when-iot-application-development-meets-ai-at-scale-1njk",
-        "date": "Fri, 27 Feb 2026 11:16:58 +0000",
-        "source": "Dev.to AI",
-        "description": "When electricity first powered factories, it didn’t just make machines faster — it changed how factories were designed.\n\nThe same shift is happening today when IoT application development meets AI ...",
-        "is_important": false
-    },
-    {
-        "title": "How I Reverse-Engineered ChatGPT's Hidden Search Behavior with a Chrome Extension",
-        "link": "https://dev.to/wilow445/how-i-reverse-engineered-chatgpts-hidden-search-behavior-with-a-chrome-extension-4e1",
-        "date": "Fri, 27 Feb 2026 11:16:48 +0000",
-        "source": "Dev.to AI",
-        "description": "When you ask ChatGPT a question with Browse mode enabled, something invisible happens. Before giving you an answer, it silently generates 3 to 12 hidden search queries, consults over a dozen web so...",
-        "is_important": false
-    },
-    {
-        "title": "VeRA: Verified Reasoning Data Augmentation at Scale",
-        "link": "https://dev.to/jgnoncelogic/vera-verified-reasoning-data-augmentation-at-scale-1252",
-        "date": "Fri, 27 Feb 2026 11:10:32 +0000",
-        "source": "Dev.to ML",
-        "description": "Benchmarks are getting stale and gameable. VeRA fixes that by turning a single seed problem into an executable spec: template + generator + deterministic verifier. Unlimited verified variants, near...",
-        "is_important": false
-    },
-    {
-        "title": "Wiki-CS: A Wikipedia-Based Benchmark for Graph Neural Networks",
-        "link": "https://dev.to/paperium/wiki-cs-a-wikipedia-based-benchmark-for-graph-neural-networks-1o82",
-        "date": "Fri, 27 Feb 2026 11:10:06 +0000",
-        "source": "Dev.to ML",
-        "description": "{{ $json.postContent }}",
-        "is_important": false
-    },
-    {
-        "title": "AI Agent vs Agentic AI, The Difference Most Developers Miss",
-        "link": "https://dev.to/imrankabir/ai-agent-vs-agentic-ai-the-difference-most-developers-miss-5f0m",
-        "date": "Fri, 27 Feb 2026 10:58:27 +0000",
-        "source": "Dev.to ML",
-        "description": "AI terminology is evolving fast, and two terms are creating major confusion:\n\nAI Agent and Agentic AI.\n\nThey sound similar but they represent two completely different stages of AI evolution.\n\nThis ...",
-        "is_important": false
-    },
-    {
-        "title": "Anthropic boss rejects Pentagon demand to drop AI safeguards",
-        "link": "https://www.bbc.com/news/articles/cvg3vlzzkqeo?at_medium=RSS&at_campaign=rss",
-        "date": "Fri, 27 Feb 2026 10:57:28 GMT",
-        "source": "BBC Tech",
-        "description": "Defense Secretary Pete Hegseth previously threatened to remove the firm from the department's supply chain.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Multimodal Prompt Optimization: Why Not Leverage Multiple Modalities for MLLMs",
-        "link": "https://dev.to/jgnoncelogic/multimodal-prompt-optimization-why-not-leverage-multiple-modalities-for-mllms-234f",
-        "date": "Fri, 27 Feb 2026 10:35:29 +0000",
-        "source": "Dev.to ML",
-        "description": "Prompt tuning stopped at text. Multimodal LLMs (images, video, molecules) need joint prompt search. Read: https://arxiv.org/abs/2510.09201 (arXiv).\n\nCore insight: prompts are pairs (text + non‑text...",
-        "is_important": false
-    },
-    {
-        "title": "South Korea Clears Way for Google Maps to Fully Operate",
-        "link": "https://www.nytimes.com/2026/02/27/world/asia/google-maps-south-korea.html",
-        "date": "Fri, 27 Feb 2026 10:32:25 +0000",
-        "source": "NYT Tech",
-        "description": "South Korea approved Google’s request to export detailed map data, reversing a longstanding restriction that made the tool largely nonfunctional.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Anthropic CEO Warns of “Tsunami” on Horizon",
-        "link": "https://futurism.com/artificial-intelligence/anthropic-ceo-warns-tsunami",
-        "date": "Fri, 27 Feb 2026 10:14:09 -0500",
-        "source": "Futurism AI",
-        "description": "\"There doesn't seem to be a wider recognition in society of what's about to happen.\"\nThe post Anthropic CEO Warns of &#8220;Tsunami&#8221; on Horizon appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A World Where All Is Free? That’s Elon Musk’s Theory of ‘Sustainable Abundance.’",
-        "link": "https://www.nytimes.com/2026/02/27/business/a-world-where-all-is-free-thats-elon-musks-theory-of-sustainable-abundance.html",
-        "date": "Fri, 27 Feb 2026 10:02:41 +0000",
-        "source": "NYT Tech",
-        "description": "The Tesla and SpaceX chief has told his followers that they will live in a world where robots will take care of every need and people do not have to work, in what has become his latest slogan.",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "The best live TV streaming services of 2026: Expert tested",
-        "link": "https://www.zdnet.com/article/best-live-tv-streaming-service/",
-        "date": "Fri, 27 Feb 2026 10:00:54 GMT",
-        "source": "ZDNet AI",
-        "description": "You can cut cable and still access live TV for a fraction of the cost. These are my favorite live TV streaming services, tested and ranked, in 2026.",
-        "is_important": false
-    },
-    {
-        "title": "Elon Musk’s Secret Web of Companies in Texas",
-        "link": "https://www.nytimes.com/2026/02/27/technology/elon-musk-companies-texas.html",
-        "date": "Fri, 27 Feb 2026 10:00:35 +0000",
-        "source": "NYT Tech",
-        "description": "The megabillionaire was tied to about 90 companies in the state, which he uses for everything from paying nannies to buying land to supporting Donald Trump’s re-election, according to a Times exami...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Sector HQ Daily AI Intelligence - February 27, 2026",
-        "link": "https://dev.to/sectorhqco/sector-hq-daily-ai-intelligence-february-27-2026-5an2",
-        "date": "Fri, 27 Feb 2026 10:00:15 +0000",
-        "source": "Dev.to ML",
-        "description": "Sector HQ Daily AI Intelligence - February 27, 2026\n\n\nWho's shipping vs who's just talking? Here's this week's AI industry intelligence.\n\n\n  \n  \n  🏆 Top 10 Companies\n\n\n\n\nAnthropic - Score: 1000.0 |...",
-        "is_important": false
-    },
-    {
-        "title": "Seq-NMS for Video Object Detection",
-        "link": "https://dev.to/paperium/seq-nms-for-video-object-detection-5gii",
-        "date": "Fri, 27 Feb 2026 10:00:06 +0000",
-        "source": "Dev.to ML",
-        "description": "{{ $json.postContent }}",
         "is_important": false
     }
 ]
