@@ -14394,6 +14394,86 @@
         "is_important": false
     },
     {
+        "title": "Consultation on social media ban for under-16s to begin",
+        "link": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss",
+        "date": "Sun, 01 Mar 2026 22:35:18 GMT",
+        "source": "BBC Tech",
+        "description": "Discussions over what measures to implement to protect children's wellbeing will last for three months.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Deterministic vs Stochastic – Machine Learning Fundamentals",
+        "link": "https://www.analyticsvidhya.com/blog/2026/03/deterministic-vs-stochastic/",
+        "date": "Sun, 01 Mar 2026 21:59:00 +0000",
+        "source": "Analytics Vidhya",
+        "description": "Deterministic and stochastic models are two core approaches used in machine learning, risk assessment, and decision-making systems. Deterministic models produce fixed outputs for a given input, whi...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Google AI Introduces STATIC: A Sparse Matrix Framework Delivering 948x Faster Constrained Decoding for LLM Based Generative Retrieval",
+        "link": "https://www.marktechpost.com/2026/03/01/google-ai-introduces-static-a-sparse-matrix-framework-delivering-948x-faster-constrained-decoding-for-llm-based-generative-retrieval/",
+        "date": "Sun, 01 Mar 2026 21:47:04 +0000",
+        "source": "MarkTechPost",
+        "description": "In industrial recommendation systems, the shift toward Generative Retrieval (GR) is replacing traditional embedding-based nearest neighbor search with Large Language Models (LLMs). These models rep...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "The best PS5 settings to change if you want better performance (and privacy)",
+        "link": "https://www.zdnet.com/article/best-ps5-settings-improve-performance/",
+        "date": "Sun, 01 Mar 2026 21:47:00 GMT",
+        "source": "ZDNet AI",
+        "description": "With a few simple adjustments, you can quickly upgrade your experience across gaming, streaming, and even online security.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
+        "link": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
+        "date": "Sun, 01 Mar 2026 20:47:22 +0000",
+        "source": "NYT Tech",
+        "description": "The Pentagon and Anthropic were close to agreeing on the use of artificial intelligence. But strong personalities, mutual dislike and a rival company unraveled a deal.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "This gimbal-stabilized camera phone is the most bizarre thing I've seen at MWC so far",
+        "link": "https://www.zdnet.com/article/honor-robot-phone-hands-on-mwc-2026/",
+        "date": "Sun, 01 Mar 2026 19:32:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The Honor Robot Phone has made another public appearance, this time with its flagship feature in action.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "How to Design a Production-Grade Multi-Agent Communication System Using LangGraph Structured Message Bus, ACP Logging, and Persistent Shared State Architecture",
+        "link": "https://www.marktechpost.com/2026/03/01/how-to-design-a-production-grade-multi-agent-communication-system-using-langgraph-structured-message-bus-acp-logging-and-persistent-shared-state-architecture/",
+        "date": "Sun, 01 Mar 2026 19:20:17 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we build an advanced multi-agent communication system using a structured message bus architecture powered by LangGraph and Pydantic. We define a strict ACP-style message schema th...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Best AI Recruitment Software Solution: Transforming Hiring with Smarter Tech",
+        "link": "https://www.smartdatacollective.com/best-ai-recruitment-software-solution-transforming-hiring-with-smarter-tech/",
+        "date": "Sun, 01 Mar 2026 19:07:07 +0000",
+        "source": "SmartData Collective",
+        "description": "Beyond resume screening: The transformative power of AI to match talent, reduce bias, and save time.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
         "title": "How I reduced medical no-shows from 21% to 8.1% with an AI Telegram bot",
         "link": "https://dev.to/grekcreator/how-i-reduced-medical-no-shows-from-21-to-81-with-an-ai-telegram-bot-1a4o",
         "date": "Sun, 01 Mar 2026 18:44:26 +0000",
@@ -19669,6 +19749,138 @@
         "is_important": false
     },
     {
+        "title": "Protocol Launcher Series: Powering Cursor with MCP Services and AI",
+        "link": "https://dev.to/zhensherlock/protocol-launcher-series-powering-cursor-with-mcp-services-and-ai-3dif",
+        "date": "Mon, 02 Mar 2026 02:37:01 +0000",
+        "source": "Dev.to AI",
+        "description": "After introducing one-click configuration for GitHub Desktop, today we turn to one of the hottest AI code editors — Cursor.\n\n\nCursor has changed how developers write code with its deeply integrated...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "5 AI Automation Workflows That Replace 40 Hours of Manual Work (With Templates)",
+        "link": "https://dev.to/danilocaffaro/5-ai-automation-workflows-that-replace-40-hours-of-manual-work-with-templates-5akp",
+        "date": "Mon, 02 Mar 2026 02:34:55 +0000",
+        "source": "Dev.to AI",
+        "description": "The Automation That Changed My Business\n\n\nLast month, I spent 3 hours setting up 5 automations.\n\nThis month, those automations saved me 40+ hours of manual work.\n\nHere are the exact workflows, how ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How I Built a Personal AI Agent Team That Saves Me 20+ Hours/Week",
+        "link": "https://dev.to/danilocaffaro/how-i-built-a-personal-ai-agent-team-that-saves-me-20-hoursweek-3g49",
+        "date": "Mon, 02 Mar 2026 02:34:16 +0000",
+        "source": "Dev.to AI",
+        "description": "I Was Using AI Wrong\n\n\nFor months, I was opening ChatGPT, asking a question, getting an answer, and closing the tab. Repeat 50 times a day.\n\nThat's like hiring a brilliant employee and only asking ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "A beginner's guide to the Flux-2-Klein-4b model by Black-Forest-Labs on Replicate",
+        "link": "https://dev.to/aimodels-fyi/a-beginners-guide-to-the-flux-2-klein-4b-model-by-black-forest-labs-on-replicate-kog",
+        "date": "Mon, 02 Mar 2026 02:28:59 +0000",
+        "source": "Dev.to AI",
+        "description": "This is a simplified guide to an AI model called Flux-2-Klein-4b maintained by Black-Forest-Labs. If you like these kinds of analysis, you should join AImodels.fyi or follow us on Twitter.\n\n\n  \n  \n...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Migrated Years of ChatGPT Conversations to Claude Using Cowork. Here's How.",
+        "link": "https://dev.to/robiul_islam/i-migrated-years-of-chatgpt-conversations-to-claude-using-cowork-heres-how-plc",
+        "date": "Mon, 02 Mar 2026 02:27:19 +0000",
+        "source": "Dev.to AI",
+        "description": "By Robiul Islam — Founder, ExpertsCircle.io\n\n\n\n\n\n  \n  \n  Why I Switched\n\n\nI used ChatGPT heavily for about two years. Product decisions, architecture, legal work, financials. And it was fine — unti...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "**Adaptive Deep Reinforcement Learning‑Based Equalizer for 400 G E Ethernet over Long‑Reach Copper Cabling**",
+        "link": "https://dev.to/freederia-research/adaptive-deep-reinforcement-learning-based-equalizer-for-400-g-e-ethernet-over-long-reach-copper-n32",
+        "date": "Mon, 02 Mar 2026 02:21:51 +0000",
+        "source": "Dev.to AI",
+        "description": "Abstract –\nModern 400 G E Ethernet deployments over long‑reach copper enforce stringent signal‑integrity (SI) constraints such as high‑order inter‑symbol interference (ISI), dielectric loss, and re...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "MeraSociety — I Turned My Apartment Society's WhatsApp Chaos into a Real App",
+        "link": "https://dev.to/jackbright/merasociety-i-turned-my-apartment-societys-whatsapp-chaos-into-a-real-app-4o85",
+        "date": "Mon, 02 Mar 2026 02:19:56 +0000",
+        "source": "Dev.to AI",
+        "description": "This is a submission for the DEV Weekend Challenge: Community\n\n\n  \n  \n  The Community\n\n\nI live in an apartment society in Bengaluru, India. 500 families. Multiple WhatsApp groups. Pure chaos.\n\nThis...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "February 2026 AI Roundup: Agents Take the Wheel",
+        "link": "https://dev.to/joeljstephen/february-2026-ai-roundup-agents-take-the-wheel-11jo",
+        "date": "Mon, 02 Mar 2026 02:16:37 +0000",
+        "source": "Dev.to AI",
+        "description": "February was the month things moved from interesting to consequential. Agents got their own environments to operate in, the economics of running them flipped, and the wider world started pushing ba...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Using NadirClaw with Claude Code",
+        "link": "https://dev.to/dor_amir_dbb52baafff7ca5b/using-nadirclaw-with-claude-code-dba",
+        "date": "Mon, 02 Mar 2026 02:15:54 +0000",
+        "source": "Dev.to AI",
+        "description": "Using NadirClaw with Claude Code\n\n\nClaude Code burns through Sonnet 4.5 tokens faster than you'd expect. A typical refactoring session can rack up $2-3 in API costs. NadirClaw cuts that by 50-70% b...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "The future engineer is not replaced by AI.\n\nThey are elevated by it, from someone who writes code to someone who shapes intelligent systems.",
+        "link": "https://dev.to/jaideepparashar/the-future-engineer-is-not-replaced-by-ai-they-are-elevated-by-it-from-someone-who-writes-code-410l",
+        "date": "Mon, 02 Mar 2026 02:10:11 +0000",
+        "source": "Dev.to AI",
+        "description": "Software Engineering After AI: What Actually Changes (And What Doesn’t)\n      Jaideep Parashar ・ Mar 2\n      \n        #webdev\n        #ai\n        #software\n        #programming",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Software Engineering After AI: What Actually Changes (And What Doesn’t)",
+        "link": "https://dev.to/jaideepparashar/software-engineering-after-ai-what-actually-changes-and-what-doesnt-1n2p",
+        "date": "Mon, 02 Mar 2026 02:08:12 +0000",
+        "source": "Dev.to AI",
+        "description": "Every major technological shift produces two extreme reactions.\n\nOne side says nothing will change. The other says everything will disappear.\n\nAI has triggered both.\n\nSome believe software engineer...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Scaling Ad Production: How AI-Assisted Workflows Solve the Content Velocity Problem",
+        "link": "https://dev.to/lee_stuart_2b43a7d7d520ce/scaling-ad-production-how-ai-assisted-workflows-solve-the-content-velocity-problem-3n44",
+        "date": "Mon, 02 Mar 2026 02:05:47 +0000",
+        "source": "Dev.to AI",
+        "description": "In the current landscape of digital marketing, the primary challenge isn't just creativity—it’s content velocity. For ad creators, the transition from high-production \"hero\" videos to high-volume, ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to disable ACR on your TV - and why it makes such a big difference",
+        "link": "https://www.zdnet.com/article/how-to-disable-acr-tv/",
+        "date": "Mon, 02 Mar 2026 02:00:40 GMT",
+        "source": "ZDNet AI",
+        "description": "Your Samsung, LG, and even TCL TV comes with risks you should know about. Here's how to avoid one of the biggest.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Deal alert: Lenovo is still selling a $99 Android tablet that I can honestly recommend",
+        "link": "https://www.zdnet.com/article/lenovo-tab-one-tablet-deal/",
+        "date": "Mon, 02 Mar 2026 01:01:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The Lenovo Tab One is a great entry-level tablet and budget-friendly device. And I highly recommend it at its discounted price.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "AI for Game Development: Creating a Farming Game in 5 Days. Part 1",
         "link": "https://huggingface.co/blog/ml-for-games-1",
         "date": "Mon, 02 Jan 2023 00:00:00 GMT",
@@ -20241,224 +20453,5 @@
         "tags": [
             "🤖 Robótica"
         ]
-    },
-    {
-        "title": "OpenAI Fires an Employee for Prediction Market Insider Trading",
-        "link": "https://www.wired.com/story/openai-fires-employee-insider-trading-polymarket-kalshi/",
-        "date": "Fri, 27 Feb 2026 19:07:28 +0000",
-        "source": "Wired AI",
-        "description": "Prediction markets like Polymarket and Kalshi are big business, and some Big Tech employees are testing boundaries by making trades based on insider knowledge.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "7 Ways Developers Accidentally Sound Like ChatGPT (and How to Fix Each One)",
-        "link": "https://dev.to/adrianvegaresearch/7-ways-developers-accidentally-sound-like-chatgpt-and-how-to-fix-each-one-1f20",
-        "date": "Fri, 27 Feb 2026 18:59:41 +0000",
-        "source": "Dev.to AI",
-        "description": "You shipped a great open source project. Your README is clean, your blog post announcing it is polished, and your launch tweet is crisp.\n\nBut something's off. The GitHub stars aren't coming. The bl...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Why Every AI Agent Needs a Skill File Format",
-        "link": "https://dev.to/syncchain2026helix/why-every-ai-agent-needs-a-skill-file-format-2k4h",
-        "date": "Fri, 27 Feb 2026 18:57:00 +0000",
-        "source": "Dev.to AI",
-        "description": "The Missing Standard in AI Agent Development\n\n\nWe've standardized data with JSON, APIs with OpenAPI, and documentation with Markdown. But when it comes to AI agent skills, we're still writing britt...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Questions loom over FBI raid of LA superintendent’s home and district office",
-        "link": "https://www.theguardian.com/us-news/2026/feb/27/los-angeles-superintendent-fbi-raid",
-        "date": "Fri, 27 Feb 2026 18:55:23 GMT",
-        "source": "The Guardian AI",
-        "description": "Media outlets indicate connection to bankrupt educational technology company that created chatbot for districtTwo days after the FBI searched the headquarters of the Los Angeles unified school dist...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Semantic Kernel Memory: Vector Stores, Embeddings, and Semantic Search",
-        "link": "https://dev.to/bspann/semantic-kernel-memory-vector-stores-embeddings-and-semantic-search-13e5",
-        "date": "Fri, 27 Feb 2026 18:53:48 +0000",
-        "source": "Dev.to AI",
-        "description": "LLMs have a fundamental limitation: they're stateless. Every request starts fresh with no memory of previous conversations or your organization's knowledge. This is where Semantic Kernel's memory s...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How to Monetize Your MCP Server in 5 Minutes",
-        "link": "https://dev.to/nicolas_fainstein/how-to-monetize-your-mcp-server-in-5-minutes-3n6a",
-        "date": "Fri, 27 Feb 2026 18:52:44 +0000",
-        "source": "Dev.to AI",
-        "description": "TL;DR\n\n\n\nThe MCP ecosystem has 16,000+ servers but almost zero monetization\nTraditional SaaS pricing doesn't map to MCP (no logins, no dashboards, no seats)\nContextual ads for AI agents work: relev...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Missing Layer in Every AI Pipeline",
-        "link": "https://dev.to/surfacedocs/the-missing-layer-in-every-ai-pipeline-5hk4",
-        "date": "Fri, 27 Feb 2026 18:51:49 +0000",
-        "source": "Dev.to AI",
-        "description": "You built the pipeline. The model works. The output is good — surprisingly good, actually. You paste it into Slack to show your team.\n\nThen someone asks: \"Cool, but where do users see this?\"\n\nAnd y...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Where to Buy Verified LinkedIn Accounts Safely in 2026",
-        "link": "https://dev.to/cathy_holt_752afd99e4b4d2/where-to-buy-verified-linkedin-accounts-safely-in-2026-3phl",
-        "date": "Fri, 27 Feb 2026 18:42:30 +0000",
-        "source": "Dev.to AI",
-        "description": "Where to Buy Verified LinkedIn Accounts Safely in 2026\nLooking for the best sites to buy verified LinkedIn accounts in 2026? Discover trusted providers like ONACCSHOP for secure, aged, and business...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Teaching AI Agents by Example: A New Paradigm in Automation",
-        "link": "https://dev.to/syncchain2026helix/teaching-ai-agents-by-example-a-new-paradigm-in-automation-12cl",
-        "date": "Fri, 27 Feb 2026 18:37:51 +0000",
-        "source": "Dev.to AI",
-        "description": "The Shift from Code to Demonstration\n\n\nWe've been teaching computers the wrong way. For decades, we've been writing explicit instructions—line after line of code—telling machines exactly what to do...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Fitbit Founders’ AI Health Platform: Family Wellness 2026",
-        "link": "https://dev.to/george_edward_e86697697d3/fitbit-founders-ai-health-platform-family-wellness-2026-14c6",
-        "date": "Fri, 27 Feb 2026 18:36:19 +0000",
-        "source": "Dev.to AI",
-        "description": "In 2026, families face growing challenges when it come to health &amp; wellness tracking. Moreover, the Fitbit founder introduce the Fitbit AI health platform 2026, design specifically to simplify ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "What a Hilariously Wrong Time Estimate Taught Me About the Future of Organizations",
-        "link": "https://dev.to/nantero/what-a-hilariously-wrong-time-estimate-taught-me-about-the-future-of-organizations-31j5",
-        "date": "Fri, 27 Feb 2026 18:30:53 +0000",
-        "source": "Dev.to AI",
-        "description": "The Funniest Bug in AI\n\n\nHere's something that made me laugh out loud last week. I asked an LLM to plan the upgrade of a legacy application — Frontend AngularJS 1.8 and Backend Java 11 — to a more ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Why Overall AI Accuracy Scores Miss Critical Domain-Specific Failures",
-        "link": "https://dev.to/amartyajha/why-overall-ai-accuracy-scores-miss-critical-domain-specific-failures-12n7",
-        "date": "Fri, 27 Feb 2026 18:30:00 +0000",
-        "source": "Dev.to AI",
-        "description": "That AI code review tool you are evaluating claims 94% accuracy. Impressive, right? But here is what the marketing page will not tell you: that number might mean almost nothing for your actual code...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The New AWS AI Era: When the Cloud Becomes a Platform for Agents, Chips, and Scalable Productivity",
-        "link": "https://dev.to/claudio_santos/the-new-aws-ai-era-when-the-cloud-becomes-a-platform-for-agents-chips-and-scalable-productivity-iil",
-        "date": "Fri, 27 Feb 2026 18:27:52 +0000",
-        "source": "Dev.to AI",
-        "description": "There are moments when a company does not just ship new features, it changes how it works internally to deliver a new era externally. That is exactly what AWS has been signaling with its most recen...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "I Built a Health Check CLI for Claude Code. My Setup Scored 63 on the First Run.",
-        "link": "https://dev.to/yurukusa/i-built-a-health-check-cli-for-claude-code-my-setup-scored-63-on-the-first-run-2glb",
-        "date": "Fri, 27 Feb 2026 18:26:21 +0000",
-        "source": "Dev.to AI",
-        "description": "My Claude Code setup has been running autonomously for 200+ hours. I assumed it was solid.\n\nThen I built a diagnostic tool and ran it against my own config. 63/100. \"Getting There.\"\n\nTurns out I ha...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "ChatGPT reaches 900M weekly active users",
-        "link": "https://techcrunch.com/2026/02/27/chatgpt-reaches-900m-weekly-active-users/",
-        "date": "Fri, 27 Feb 2026 18:25:51 +0000",
-        "source": "TechCrunch AI",
-        "description": "OpenAI shared the new numbers as part of its announcement that it has raised $110 billion in private funding.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Ultrahuman takes aim at Oura with new ring's 15-day battery - but not everyone can buy it",
-        "link": "https://www.zdnet.com/article/ultrahuman-ring-pro-takes-on-oura-with-15-day-battery-life/",
-        "date": "Fri, 27 Feb 2026 18:05:02 GMT",
-        "source": "ZDNet AI",
-        "description": "The Ultrahuman Ring Pro also packs a new safety feature that makes the smart ring easier to cut off - just in case.",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Sakana AI Introduces Doc-to-LoRA and Text-to-LoRA: Hypernetworks that Instantly Internalize Long Contexts and Adapt LLMs via Zero-Shot Natural Language",
-        "link": "https://www.marktechpost.com/2026/02/27/sakana-ai-introduces-doc-to-lora-and-text-to-lora-hypernetworks-that-instantly-internalize-long-contexts-and-adapt-llms-via-zero-shot-natural-language/",
-        "date": "Fri, 27 Feb 2026 17:53:54 +0000",
-        "source": "MarkTechPost",
-        "description": "Customizing Large Language Models (LLMs) currently presents a significant engineering trade-off between the flexibility of In-Context Learning (ICL) and the efficiency of Context Distillation (CD) ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Pentagon-Anthropic Standoff Is a Decisive Moment for How A.I. Will Be Used in War",
-        "link": "https://www.nytimes.com/2026/02/27/technology/defense-department-anthropic-ai-safety.html",
-        "date": "Fri, 27 Feb 2026 17:44:00 +0000",
-        "source": "NYT Tech",
-        "description": "The Pentagon’s contract dispute with Anthropic is part of a wider clash about the use of artificial intelligence for national security and who decides on any safeguards.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "7 ways Nano Banana 2 just got better and faster - how to try Google's latest image model",
-        "link": "https://www.zdnet.com/article/google-nano-banana-2-image-generation/",
-        "date": "Fri, 27 Feb 2026 17:39:15 GMT",
-        "source": "ZDNet AI",
-        "description": "Google's new default model for generating images, Nano Banana 2 offers faster speeds, better text rendering, and higher resolutions than its predecessor.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The best satellite phones of 2026: Expert tested and reviewed",
-        "link": "https://www.zdnet.com/article/best-satellite-phone/",
-        "date": "Fri, 27 Feb 2026 17:38:00 GMT",
-        "source": "ZDNet AI",
-        "description": "I went hands on with the best satellite phones and communicators from companies like SpaceX, Garmin, and Inmarsat. These devices offer features like messaging, live tracking, and SOS capabilities.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Who’s really running AI? Inside the billion-dollar battle over regulation with Alex Bores",
-        "link": "https://techcrunch.com/podcast/whos-really-running-ai-inside-the-billion-dollar-battle-over-regulation-with-alex-bores/",
-        "date": "Fri, 27 Feb 2026 17:35:50 +0000",
-        "source": "TechCrunch AI",
-        "description": "The&#160;Pentagon is&#160;playing chicken with Anthropic&#160;over&#160;who gets to control&#160;how the&#160;military uses AI&#160;while communities across the country are&#160;blocking data cente...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "The best Samsung TVs of 2026: Expert tested OLEDs, big-screens, and more",
-        "link": "https://www.zdnet.com/article/best-samsung-tv/",
-        "date": "Fri, 27 Feb 2026 17:29:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Samsung offers everything from high-end OLED TVs to budget-friendly options, and we've tested them all to help you find the best fit for your home theater.",
-        "is_important": false,
-        "tags": []
     }
 ]
