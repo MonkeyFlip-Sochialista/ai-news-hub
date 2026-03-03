@@ -8231,6 +8231,388 @@
         "is_important": false
     },
     {
+        "title": "Global News Summary — March 3, 2026",
+        "link": "https://dev.to/globalperspectives/global-news-summary-march-3-2026-21gm",
+        "date": "Tue, 03 Mar 2026 13:06:08 +0000",
+        "source": "Dev.to AI",
+        "description": "Global Perspectives is an AI-powered news platform tracking global events. Read live analysis →\n\n\nToday's digest covers 50 stories from around the world across 5 categories.\n\n\n\n\n\n  \n  \n  Today's Ca...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "10 Agentic AI Concepts Explained in Under 10 Minutes",
+        "link": "https://www.kdnuggets.com/10-agentic-ai-concepts-explained-in-under-10-minutes",
+        "date": "Tue, 03 Mar 2026 13:00:30 +0000",
+        "source": "KDnuggets",
+        "description": "An AI agent combines a large language model for reasoning, access to tools or APIs for action, memory to retain context and a control loop to decide what happens next.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Trailer: The Shape of Things to Come",
+        "link": "https://www.microsoft.com/en-us/research/podcast/trailer-the-shape-of-things-to-come/",
+        "date": "Tue, 03 Mar 2026 13:00:18 +0000",
+        "source": "Microsoft Research",
+        "description": "Microsoft research lead Doug Burger introduces his new podcast series, The Shape of Things to Come, an exploration into the fundamental truths about AI and how the technology will reshape the futur...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Schools are using AI counselors to track students’ mental health. Is it safe?",
+        "link": "https://www.theguardian.com/technology/ng-interactive/2026/mar/03/schools-student-ai-counselor",
+        "date": "Tue, 03 Mar 2026 13:00:04 GMT",
+        "source": "The Guardian AI",
+        "description": "As hundreds of schools implement an automated monitoring tool, educators say that students can find talking to chatbots ‘more natural’ than confiding in a human• Produced in partnership with EdSurg...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Deploy OpenClaw on AWS with Amazon Bedrock (and the gotchas nobody mentions)",
+        "link": "https://dev.to/yixn_io/how-to-deploy-openclaw-on-aws-with-amazon-bedrock-and-the-gotchas-nobody-mentions-237",
+        "date": "Tue, 03 Mar 2026 13:00:00 +0000",
+        "source": "Dev.to AI",
+        "description": "AWS just dropped an official CloudFormation template for OpenClaw + Amazon Bedrock. One click, 8 minutes, and you get IAM auth (no API keys on disk), VPC private networking, and CloudTrail logging....",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "2026 AI Form Builder Showdown: Why Unlimited Responses Beat Flashy UI",
+        "link": "https://dev.to/devashish_shukla_08faf275/2026-ai-form-builder-showdown-why-unlimited-responses-beat-flashy-ui-3dnd",
+        "date": "Tue, 03 Mar 2026 12:52:58 +0000",
+        "source": "Dev.to AI",
+        "description": "Your survey goes viral. Then you hit the 100-response cap. Sound familiar? In 2026, the best AI form builder isn’t the one with the prettiest interface—it’s the one that doesn’t cap you when it mat...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Review: Pantheon Content Publisher Quality Assistant — Capabilities, Workflow Impact, and Governance Risks",
+        "link": "https://dev.to/victorstackai/review-pantheon-content-publisher-quality-assistant-capabilities-workflow-impact-and-3g6e",
+        "date": "Tue, 03 Mar 2026 12:51:48 +0000",
+        "source": "Dev.to AI",
+        "description": "Pantheon Content Publisher has moved from pre-release messaging (October 2025) into general availability, with AI-assistive capabilities positioned around content acceleration and quality. For CMS ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "12 Radical AI Ideas Beyond the Horseless Carriage",
+        "link": "https://dev.to/turtleand/12-radical-ai-ideas-beyond-the-horseless-carriage-2l3d",
+        "date": "Tue, 03 Mar 2026 12:49:13 +0000",
+        "source": "Dev.to AI",
+        "description": "I've been thinking about the \"horseless carriage\" problem a lot lately. We get a powerful new technology, and our first instinct is to use it to do the same things we've always done, just a little ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Complete Guide to AI Event Assistants (2026)",
+        "link": "https://dev.to/eventtechinsider/the-complete-guide-to-ai-event-assistants-2026-1mpa",
+        "date": "Tue, 03 Mar 2026 12:41:26 +0000",
+        "source": "Dev.to AI",
+        "description": "AI event assistants went from novelty to necessity faster than most organizers expected. Two years ago, the pitch was \"imagine if attendees could ask a chatbot for directions.\" Now the conversation...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenClaw：安裝教學，在 macOS 用虛擬機 (Ubuntu) 安全部署龍蝦 AI",
+        "link": "https://dev.to/letswrite/openclawan-zhuang-jiao-xue-zai-macos-yong-xu-ni-ji-ubuntu-an-quan-bu-shu-long-xia-ai-4b00",
+        "date": "Tue, 03 Mar 2026 12:39:26 +0000",
+        "source": "Dev.to AI",
+        "description": "OpenClaw：安裝教學，在 macOS 用虛擬機 (Ubuntu) 安全部署龍蝦 AI\n\n\n\n  \n  \n  本篇要解決的問題\n\n\n自從 OpenClaw 橫空出世後，三不五時就會看到相關的文章和影音介紹，看起來是個跨時代的產物。不過伴隨而來的，也有不少資安方面的疑慮。\n\n相信很多人都想試試龍蝦的威力，但說實話，安裝起來沒那麼簡單。\n\n本篇主要筆記怎麼安裝 OpenClaw。為了安全考量...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "We're Not Cutting Jobs Because of AI. We're Multiplying People.",
+        "link": "https://dev.to/soon_seahtoh_3e917beae5e/were-not-cutting-jobs-because-of-ai-were-multiplying-people-3le8",
+        "date": "Tue, 03 Mar 2026 12:38:46 +0000",
+        "source": "Dev.to AI",
+        "description": "The Conversation Nobody Is Having\n\n\nThere's a conversation happening right now about AI replacing jobs and disrupting industries. But nobody is talking about what AI does for the lean, focused comp...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Who is linuxSujith?",
+        "link": "https://dev.to/linux_sujith_81f99b5a34a6/who-is-linuxsujith-52g0",
+        "date": "Tue, 03 Mar 2026 12:38:33 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI Engineer Building the Future of Intelligent Systems\n\nIn a rapidly evolving digital world powered by Artificial Intelligence, cybersecurity, and advanced software systems, one name steadily e...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How AI Is Actually Transforming Travel & Tourism (Beyond the Buzzwords)",
+        "link": "https://dev.to/anmol1/how-ai-is-actually-transforming-travel-tourism-beyond-the-buzzwords-1h3e",
+        "date": "Tue, 03 Mar 2026 12:30:31 +0000",
+        "source": "Dev.to AI",
+        "description": "Artificial Intelligence in travel isn’t just about chatbots and recommendation engines anymore.\n\nBehind most modern travel platforms today, there’s a growing layer of machine learning models optimi...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "LLMs can unmask pseudonymous users at scale with surprising accuracy",
+        "link": "https://arstechnica.com/security/2026/03/llms-can-unmask-pseudonymous-users-at-scale-with-surprising-accuracy/",
+        "date": "Tue, 03 Mar 2026 12:30:24 +0000",
+        "source": "Ars Technica AI",
+        "description": "Pseudonymity has never been perfect for preserving privacy. Soon it may be pointless.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "The Backend Setup Every Developer Should Follow",
+        "link": "https://dev.to/naweli_verma/the-backend-setup-every-developer-should-follow-3d03",
+        "date": "Tue, 03 Mar 2026 12:27:59 +0000",
+        "source": "Dev.to AI",
+        "description": "Before you write your backend code, it is very important to have a clean and organized setup — one that helps you scale, debug, and collaborate better.\n\nThere are 6 major layers of it.\n\n\nRoutes\nCon...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "When Delivery Confirmation Is Still Manual",
+        "link": "https://dev.to/scannyai/when-delivery-confirmation-is-still-manual-4m03",
+        "date": "Tue, 03 Mar 2026 12:25:56 +0000",
+        "source": "Dev.to AI",
+        "description": "Logistics is built around speed.\n\nBut proof-of-delivery workflows often aren’t.\n\nA document gets signed.\nIt’s scanned or photographed.\nSomeone uploads it later.\nThen someone updates the system.\n\nTh...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenClaw vs Claude Code: Which AI Coding Agent Should You Use in 2026?",
+        "link": "https://www.analyticsvidhya.com/blog/2026/03/openclaw-vs-claude-code/",
+        "date": "Tue, 03 Mar 2026 12:14:46 +0000",
+        "source": "Analytics Vidhya",
+        "description": "AI coding agents are evolving fast. In 2026, OpenClaw and Claude Code dominate the conversation. Claude Code, backed by&#160;Anthropic, offers a polished, ready-to-use experience. OpenClaw, created...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Showdown over datacenter politics at heart of North Carolina primary",
+        "link": "https://www.theguardian.com/us-news/2026/mar/03/datacenter-politics-north-carolina-primary",
+        "date": "Tue, 03 Mar 2026 12:00:03 GMT",
+        "source": "The Guardian AI",
+        "description": "Democratic rematch in Durham-area district draws focus to fight over AI datacenters increasingly shaping US electionsA North Carolina congressional primary on Tuesday is an early test of datacenter...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI changes deal with US military after backlash",
+        "link": "https://www.bbc.com/news/articles/c3rz1nd0egro?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 03 Mar 2026 11:51:31 GMT",
+        "source": "BBC Tech",
+        "description": "Chief Executive Sam Altman said the group would prohibit the use of its systems to spy on Americans.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI amends Pentagon deal as Sam Altman admits it looks ‘sloppy’",
+        "link": "https://www.theguardian.com/technology/2026/mar/03/openai-pentagon-ceo-sam-altman-chatgpt",
+        "date": "Tue, 03 Mar 2026 11:35:34 GMT",
+        "source": "The Guardian AI",
+        "description": "ChatGPT owner’s CEO says it will bar its technology being used for mass surveillance or by intelligence servicesBusiness live – latest updatesOpenAI is amending its hastily arranged deal to supply ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Physical AI adoption boosts customer service ROI",
+        "link": "https://www.artificialintelligence-news.com/news/physical-ai-adoption-boosts-customer-service-roi/",
+        "date": "Tue, 03 Mar 2026 11:32:47 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "The adoption of physical AI drives ROI in frontline customer service by merging digital intelligence with human-like physical interaction. As businesses navigate shrinking labour pools, they are fi...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "20 OpenClaw Prompts to Automate Your Daily Life and Work",
+        "link": "https://www.analyticsvidhya.com/blog/2026/03/openclaw-prompts/",
+        "date": "Tue, 03 Mar 2026 11:30:28 +0000",
+        "source": "Analytics Vidhya",
+        "description": "Autonomous AI agents are easily among the most efficient uses of AI to date. And once you begin to put it to work, OpenClaw shines out as one of the leading enablers of AI automation. If you&#8217;...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "OpenClaw Won’t Bite, A Zero-to-Hero Guide for People Who Hate Terminal",
+        "link": "https://towardsai.net/p/machine-learning/openclaw-wont-bite-a-zero-to-hero-guide-for-people-who-hate-terminal",
+        "date": "Tue, 03 Mar 2026 11:20:26 +0000",
+        "source": "Towards AI",
+        "description": "Author(s): Kamrun Nahar Originally published on Towards AI. What Even Is OpenClaw, Though? Let me tell it straight. OpenClaw is an open-source, self-hosted AI agent built by Peter Steinberger. It s...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Runtime Reinforcement: Preventing “Instruction Decay” in Long Context Windows",
+        "link": "https://towardsai.net/p/machine-learning/runtime-reinforcement-preventing-instruction-decay-in-long-context-windows",
+        "date": "Tue, 03 Mar 2026 11:19:27 +0000",
+        "source": "Towards AI",
+        "description": "Author(s): Shreyash Shukla Originally published on Towards AI. Image Source: Google Gemini The “Floating Brain” Problem In our previous articles, we discussed how to give the agent knowledge (Graph...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Anthropic Says Coding Jobs Are at Risk. OpenAI Says It’s the Best Time Ever. Who Actually Needs to Worry.",
+        "link": "https://towardsai.net/p/machine-learning/anthropic-says-coding-jobs-are-at-risk-openai-says-its-the-best-time-ever-who-actually-needs-to-worry",
+        "date": "Tue, 03 Mar 2026 11:17:14 +0000",
+        "source": "Towards AI",
+        "description": "Author(s): Rekha Originally published on Towards AI. Two AI leaders. Two opposite signals. One career move you can’t afford to misread in 2026. If you’re a software engineer in 2026, you woke up th...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "When AI Finally Learned That “Dog” and 🐕 Are the Same Thing, aka CLIP",
+        "link": "https://towardsai.net/p/machine-learning/when-ai-finally-learned-that-dog-and-are-the-same-thing-aka-clip",
+        "date": "Tue, 03 Mar 2026 11:07:02 +0000",
+        "source": "Towards AI",
+        "description": "Author(s): DrSwarnenduAI Originally published on Towards AI. How CLIP used 400 million internet image-caption pairs to solve the 60-year problem of connecting vision and language by making them occ...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Essential Python Libraries for Data Science",
+        "link": "https://towardsai.net/p/machine-learning/essential-python-libraries-for-data-science",
+        "date": "Tue, 03 Mar 2026 11:05:48 +0000",
+        "source": "Towards AI",
+        "description": "Author(s): Raj kumar Originally published on Towards AI. If you look closely at real-world tabular machine learning systems, a clear pattern emerges. Across industries, datasets, and problem domain...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Essential Python Libraries for Data Science",
+        "link": "https://towardsai.net/p/machine-learning/essential-python-libraries-for-data-science-2",
+        "date": "Tue, 03 Mar 2026 11:05:21 +0000",
+        "source": "Towards AI",
+        "description": "Author(s): Raj kumar Originally published on Towards AI. In Part 1, we focused on how data is represented, transformed, and computed using NumPy and Pandas. By the end of that part, the dataset was...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Essential Python Libraries for Data Science",
+        "link": "https://towardsai.net/p/machine-learning/essential-python-libraries-for-data-science-3",
+        "date": "Tue, 03 Mar 2026 11:05:08 +0000",
+        "source": "Towards AI",
+        "description": "Author(s): Raj kumar Originally published on Towards AI. In Part 1, we built the foundations of the data pipeline. We loaded a real dataset, structured it using Pandas, selected relevant features, ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "What If I Told You the Most Powerful Algorithm in Statistics Is Just… Guessing?",
+        "link": "https://towardsai.net/p/machine-learning/what-if-i-told-you-the-most-powerful-algorithm-in-statistics-is-just-guessing",
+        "date": "Tue, 03 Mar 2026 11:03:56 +0000",
+        "source": "Towards AI",
+        "description": "Author(s): Kamrun Nahar Originally published on Towards AI. I stared at the Wikipedia page for MCMC for forty-five minutes. The page had seventeen Greek letters in the first paragraph. I understood...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Deploying AI Agents to Production: Architecture, Infrastructure, and Implementation Roadmap",
+        "link": "https://machinelearningmastery.com/deploying-ai-agents-to-production-architecture-infrastructure-and-implementation-roadmap/",
+        "date": "Tue, 03 Mar 2026 11:00:22 +0000",
+        "source": "Machine Learning Mastery",
+        "description": "&nbsp; You've built an AI agent that works well in development.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "You’re Not Bad at AI. You’re Bad at Asking.",
+        "link": "https://towardsai.net/p/machine-learning/youre-not-bad-at-ai-youre-bad-at-asking",
+        "date": "Tue, 03 Mar 2026 10:56:31 +0000",
+        "source": "Towards AI",
+        "description": "Author(s): Nagaraj Originally published on Towards AI. Stop blaming the model and start fixing your requests. You copied a prompt from Twitter. The method worked flawlessly for other people. Your r...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Tech firms and AI farming tools ‘playing with the food system’, warns thinktank",
+        "link": "https://www.theguardian.com/global-development/2026/mar/03/tech-firms-ai-farming-tools-food-system-security",
+        "date": "Tue, 03 Mar 2026 10:31:08 GMT",
+        "source": "The Guardian AI",
+        "description": "Google, Microsoft and Amazon among companies using algorithms and AI to influence what crops are grown and how, say criticsTech companies and industrial agriculture are “playing with the food syste...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Ford and G.M. Face a Dilemma as China Excels in Electric Vehicles",
+        "link": "https://www.nytimes.com/2026/03/03/business/ford-gm-ev-self-driving-cars-china.html",
+        "date": "Tue, 03 Mar 2026 10:06:58 +0000",
+        "source": "NYT Tech",
+        "description": "General Motors, Ford and other established automakers risk becoming relics if they don’t catch up to Chinese carmakers and technology companies in electric vehicles and self-driving cars.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Trump is using AI to fight his wars – this is a dangerous turning point | Chris Stokel-Walker",
+        "link": "https://www.theguardian.com/commentisfree/2026/mar/03/trump-using-ai-to-fight-wars-dangerous-us-military",
+        "date": "Tue, 03 Mar 2026 10:00:11 GMT",
+        "source": "The Guardian AI",
+        "description": "The technology most people use only as a chatty tool for daily tasks is reportedly aiding US military aggression. And there is not much we can do about itThere are a lot of things that AI can do. I...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Santander and Mastercard run Europe’s first AI-executed payment pilot",
+        "link": "https://www.artificialintelligence-news.com/news/santander-and-mastercard-run-europe-first-ai-executed-payment-pilot/",
+        "date": "Tue, 03 Mar 2026 10:00:00 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "An artificial intelligence system has, for the first time in Europe, completed a payment inside a live banking network without a human entering the final command. Banco Santander and Mastercard con...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building a Dependency-Free GPT on a Custom OS",
+        "link": "https://hackaday.com/2026/03/03/building-a-dependency-free-gpt-on-a-custom-os/",
+        "date": "Tue, 03 Mar 2026 09:00:07 +0000",
+        "source": "Hackaday AI",
+        "description": "The construction of a large language model (LLM) depends on many things: banks of GPUs, vast reams of training data, massive amounts of power, and matrix manipulation libraries like Numpy. &#8230;r...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Alibaba Releases OpenSandbox to Provide Software Developers with a Unified, Secure, and Scalable API for Autonomous AI Agent Execution",
+        "link": "https://www.marktechpost.com/2026/03/03/alibaba-releases-opensandbox-to-provide-software-developers-with-a-unified-secure-and-scalable-api-for-autonomous-ai-agent-execution/",
+        "date": "Tue, 03 Mar 2026 08:32:06 +0000",
+        "source": "MarkTechPost",
+        "description": "Alibaba has released OpenSandbox, an open-source tool designed to provide AI agents with secure, isolated environments for code execution, web browsing, and model training. Released under the Apach...",
+        "is_important": true,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "[AINews] Truth in the time of Artifice",
+        "link": "https://www.latent.space/p/ainews-truth-in-the-time-of-artifice",
+        "date": "Tue, 03 Mar 2026 08:01:30 GMT",
+        "source": "Latent Space",
+        "description": "A quiet day lets us question the nature of reality",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI-Native networks are no longer a 6G promise–MWC 2026 just proved it",
+        "link": "https://www.artificialintelligence-news.com/news/ai-native-networks-mwc-2026/",
+        "date": "Tue, 03 Mar 2026 08:00:00 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "AI-native networks have been a recurring talking point at Mobile World Congress for years. What made MWC 2026 in Barcelona different was the evidence. A cascade of announcements from the world&#821...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Show HN: Private AI Document Server",
         "link": "https://dev.to/minimal-architect/show-hn-private-ai-document-server-23lb",
         "date": "Tue, 03 Mar 2026 06:54:03 +0000",
@@ -8373,6 +8755,17 @@
         "description": "I was a newcomer, negotiating all of usual classroom difficulties for the first time. Throwing AI into the mix felt like downing a coffee in the middle of a panic attackTwo years ago, at the age of...",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Your Sentence Has a Secret Structure. Here’s How GPT Sees It.",
+        "link": "https://towardsai.net/p/machine-learning/your-sentence-has-a-secret-structure-heres-how-gpt-sees-it",
+        "date": "Tue, 03 Mar 2026 04:01:02 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on March 3, 2026 by Editorial Team Author(s): Rohini Joshi Originally published on Towards AI. Image Generated by ChatGPT The sentence “dog bites man” and “man bites dog” contain the e...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "Amazon says drones damaged three facilities in UAE and Bahrain",
@@ -20339,334 +20732,6 @@
         "date": "Mon, 09 Jul 2018 07:00:00 GMT",
         "source": "OpenAI",
         "description": "We introduce Glow, a reversible generative model which uses invertible 1x1 convolutions. It extends previous work on reversible generative models and simplifies the architecture. Our model can gene...",
-        "is_important": false
-    },
-    {
-        "title": "AI for Game Development: Creating a Farming Game in 5 Days. Part 2",
-        "link": "https://huggingface.co/blog/ml-for-games-2",
-        "date": "Mon, 09 Jan 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Startup Introduces 'Large Tabular Model' for Spreadsheet Data",
-        "link": "https://aibusiness.com/foundation-models/startup-large-tabular-model-spreadsheet-data",
-        "date": "Mon, 09 Feb 2026 20:27:53 GMT",
-        "source": "AI Business",
-        "description": "The company's AI tool was built to make sense of structured data, an area where large language models struggle.",
-        "is_important": false
-    },
-    {
-        "title": "Living in the (LLM) Past",
-        "link": "https://hackaday.com/2026/02/09/living-in-the-llm-past/",
-        "date": "Mon, 09 Feb 2026 16:30:27 +0000",
-        "source": "Hackaday AI",
-        "description": "In the early days of AI, a common example program was the hexapawn game. This extremely simplified version of a chess program learned to play with your help. When the &#8230;read more",
-        "is_important": false
-    },
-    {
-        "title": "AI Lawsuits in 2026: Settlements, Licensing Deals, Litigation",
-        "link": "https://aibusiness.com/generative-ai/ai-lawsuits-in-2026-settlements-licensing-deals-litigation",
-        "date": "Mon, 09 Feb 2026 16:26:18 GMT",
-        "source": "AI Business",
-        "description": "The outlook for AI lawsuits in 2026 is still unclear. While there could be more settlements, the debate over fair use and copyright infringement will likely remain unresolved.",
-        "is_important": false
-    },
-    {
-        "title": "Accelerating Mathematical and Scientific Discovery with Gemini Deep Think",
-        "link": "https://deepmind.google/blog/accelerating-mathematical-and-scientific-discovery-with-gemini-deep-think/",
-        "date": "Mon, 09 Feb 2026 16:12:06 +0000",
-        "source": "Google DeepMind",
-        "description": "Research papers point to the growing impact of Deep Think across fields"
-    },
-    {
-        "title": "New study warns of risks in AI chatbots giving medical advice",
-        "link": "https://www.oii.ox.ac.uk/news-events/new-study-warns-of-risks-in-ai-chatbots-giving-medical-advice/",
-        "date": "Mon, 09 Feb 2026 16:00:48 +0000",
-        "source": "Oxford AI",
-        "description": "Study finds AI chatbots less helpful than search engines for medical advice",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Opus 4.6, Codex 5.3, and the post-benchmark era",
-        "link": "https://www.interconnects.ai/p/opus-46-vs-codex-53",
-        "date": "Mon, 09 Feb 2026 14:03:12 GMT",
-        "source": "Interconnects",
-        "description": "On comparing models in 2026.",
-        "is_important": false
-    },
-    {
-        "title": "The many masks LLMs wear",
-        "link": "https://www.understandingai.org/p/the-many-masks-that-llms-wear",
-        "date": "Mon, 09 Feb 2026 14:01:26 GMT",
-        "source": "Understanding AI",
-        "description": "Why frontier labs struggle to keep their chatbots in character.",
-        "is_important": false
-    },
-    {
-        "title": "Designing Effective Multi-Agent Architectures",
-        "link": "https://www.oreilly.com/radar/designing-effective-multi-agent-architectures/",
-        "date": "Mon, 09 Feb 2026 12:21:50 +0000",
-        "source": "O'Reilly Radar",
-        "description": "Papers on agentic and multi-agent systems (MAS) skyrocketed from 820 in 2024 to over 2,500 in 2025. This surge suggests that MAS are now a primary focus for the world’s top research labs and univer...",
-        "is_important": false
-    },
-    {
-        "title": "Bringing ChatGPT to GenAI.mil",
-        "link": "https://openai.com/index/bringing-chatgpt-to-genaimil",
-        "date": "Mon, 09 Feb 2026 11:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI for Government announces the deployment of a custom ChatGPT on GenAI.mil, bringing secure, safety-forward AI to U.S. defense teams.",
-        "is_important": false
-    },
-    {
-        "title": "Testing ads in ChatGPT",
-        "link": "https://openai.com/index/testing-ads-in-chatgpt",
-        "date": "Mon, 09 Feb 2026 11:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI begins testing ads in ChatGPT to support free access, with clear labeling, answer independence, strong privacy protections, and user control.",
-        "is_important": false
-    },
-    {
-        "title": "Architecting Enterprise AI for Generative and Agentic Systems – with Ranjan Sinha of IBM",
-        "link": "https://emerj.com/architecting-enterprise-ai-for-generative-and-agentic-systems-with-ranjan-sinha-of-ibm/",
-        "date": "Mon, 09 Feb 2026 11:00:00 +0000",
-        "source": "Emerj",
-        "description": "Maintaining legacy IT platforms has become a massive financial and operational drag. Research from Pegasystems Inc., in partnership with research firm Savanta, found that the average global enterpr...",
-        "is_important": false
-    },
-    {
-        "title": "Transformers.js v4 Preview: Now Available on NPM!",
-        "link": "https://huggingface.co/blog/transformersjs-v4",
-        "date": "Mon, 09 Feb 2026 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Study: Platforms that rank the latest LLMs can be unreliable",
-        "link": "https://news.mit.edu/2026/study-platforms-rank-latest-llms-can-be-unreliable-0209",
-        "date": "Mon, 09 Feb 2026 00:00:00 -0500",
-        "source": "MIT News AI",
-        "description": "Removing just a tiny fraction of the crowdsourced data that informs online ranking platforms can significantly change the results.",
-        "is_important": false
-    },
-    {
-        "title": "Sora is here",
-        "link": "https://openai.com/index/sora-is-here",
-        "date": "Mon, 09 Dec 2024 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Our video generation model, Sora, is now available to use at sora.com. Users can generate videos up to 1080p resolution, up to 20 sec long, and in widescreen, vertical or square aspect ratios. You ...",
-        "is_important": true
-    },
-    {
-        "title": "Minne Atairu & Sora",
-        "link": "https://openai.com/index/sora-minne-atairu",
-        "date": "Mon, 09 Dec 2024 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Interdisciplinary artist Minne Atairu discusses how Sora helps realize her vision.",
-        "is_important": true
-    },
-    {
-        "title": "Put AI to work for your product team",
-        "link": "https://openai.com/index/put-ai-to-work-for-your-product-team",
-        "date": "Mon, 09 Dec 2024 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Put AI to work for your product team",
-        "is_important": false
-    },
-    {
-        "title": "Sora System Card",
-        "link": "https://openai.com/index/sora-system-card",
-        "date": "Mon, 09 Dec 2024 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Sora is OpenAI’s video generation model, designed to take text, image, and video inputs and generate a new video as an output. Sora builds on learnings from DALL-E and GPT models, and is designed t...",
-        "is_important": true
-    },
-    {
-        "title": "Animator Lyndon Barrois creates new worlds with Sora",
-        "link": "https://openai.com/index/sora-lyndon-barrois",
-        "date": "Mon, 09 Dec 2024 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Filmmaker Lyndon Barrois describes how to use Sora as a storytelling tool.",
-        "is_important": true
-    },
-    {
-        "title": "Vallée Duhamel & Sora",
-        "link": "https://openai.com/index/sora-vallee-duhamel",
-        "date": "Mon, 09 Dec 2024 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Filmmaking duo Vallée Duhamel explains how Sora helps build new worlds.",
-        "is_important": true
-    },
-    {
-        "title": "Hugging Face models in Amazon Bedrock",
-        "link": "https://huggingface.co/blog/bedrock-marketplace",
-        "date": "Mon, 09 Dec 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Open Preference Dataset for Text-to-Image Generation by the 🤗 Community",
-        "link": "https://huggingface.co/blog/image-preferences",
-        "date": "Mon, 09 Dec 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "A People-First AI Fund: $50M to support nonprofits",
-        "link": "https://openai.com/index/people-first-ai-fund",
-        "date": "Mon, 08 Sep 2025 14:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Applications are now open for OpenAI’s People-First AI Fund, a $50M initiative supporting U.S. nonprofits advancing education, community innovation, and economic opportunity. Apply by October 8, 20...",
-        "is_important": false
-    },
-    {
-        "title": "A Dive into Text-to-Video Models",
-        "link": "https://huggingface.co/blog/text-to-video",
-        "date": "Mon, 08 May 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Announcing New Dataset Search Features",
-        "link": "https://huggingface.co/blog/datasets-filters",
-        "date": "Mon, 08 Jul 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI and journalism",
-        "link": "https://openai.com/index/openai-and-journalism",
-        "date": "Mon, 08 Jan 2024 08:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We support journalism, partner with news organizations, and believe The New York Times lawsuit is without merit.",
-        "is_important": false
-    },
-    {
-        "title": "Instacart and OpenAI partner on AI shopping experiences",
-        "link": "https://openai.com/index/instacart-partnership",
-        "date": "Mon, 08 Dec 2025 06:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI and Instacart are deepening their longstanding partnership by bringing the first fully integrated grocery shopping and Instant Checkout payment app to ChatGPT.",
-        "is_important": false
-    },
-    {
-        "title": "This tiny implant sends secret messages to the brain",
-        "link": "https://www.sciencedaily.com/releases/2025/12/251208052515.htm",
-        "date": "Mon, 08 Dec 2025 05:25:15 EST",
-        "source": "ScienceDaily AI",
-        "description": "Researchers have built a fully implantable device that sends light-based messages directly to the brain. Mice learned to interpret these artificial patterns as meaningful signals, even without touc...",
-        "is_important": false
-    },
-    {
-        "title": "The state of enterprise AI",
-        "link": "https://openai.com/index/the-state-of-enterprise-ai-2025-report",
-        "date": "Mon, 08 Dec 2025 04:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Key findings from OpenAI’s enterprise data show accelerating AI adoption, deeper integration, and measurable productivity gains across industries in 2025.",
-        "is_important": false
-    },
-    {
-        "title": "How Virgin Atlantic uses AI to enhance every step of travel",
-        "link": "https://openai.com/index/virgin-atlantic-oliver-byers",
-        "date": "Mon, 08 Dec 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Virgin Atlantic CFO Oliver Byers shares how the airline is using AI to speed up development, improve decision-making, and elevate customer experience.",
-        "is_important": false
-    },
-    {
-        "title": "Public Policy at Hugging Face",
-        "link": "https://huggingface.co/blog/policy-blog",
-        "date": "Mon, 08 Apr 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Generative language modeling for automated theorem proving",
-        "link": "https://openai.com/index/generative-language-modeling-for-automated-theorem-proving",
-        "date": "Mon, 07 Sep 2020 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Training Stable Diffusion with Dreambooth using Diffusers",
-        "link": "https://huggingface.co/blog/dreambooth",
-        "date": "Mon, 07 Nov 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI’s EU Economic Blueprint",
-        "link": "https://openai.com/global-affairs/openais-eu-economic-blueprint",
-        "date": "Mon, 07 Apr 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Today, OpenAI is sharing the EU Economic Blueprint—a set of proposals to help Europe seize the promise of artificial intelligence, drive sustainable economic growth across the region, and ensure th...",
-        "is_important": false
-    },
-    {
-        "title": "Canva enables creativity with AI",
-        "link": "https://openai.com/index/canva-cam-adams",
-        "date": "Mon, 07 Apr 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "A conversation with Cameron Adams, Chief Product Officer and Co-founder of Canva.",
-        "is_important": false
-    },
-    {
-        "title": "Codex is now generally available",
-        "link": "https://openai.com/index/codex-now-generally-available",
-        "date": "Mon, 06 Oct 2025 10:50:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI Codex is now generally available with powerful new features for developers: a Slack integration, Codex SDK, and admin tools like usage dashboards and workspace management—making Codex easier...",
-        "is_important": false
-    },
-    {
-        "title": "Introducing apps in ChatGPT and the new Apps SDK",
-        "link": "https://openai.com/index/introducing-apps-in-chatgpt",
-        "date": "Mon, 06 Oct 2025 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’re introducing a new generation of apps you can chat with, right inside ChatGPT. Developers can start building them today with the new Apps SDK, available in preview.",
-        "is_important": false
-    },
-    {
-        "title": "AMD and OpenAI announce strategic partnership to deploy 6 gigawatts of AMD GPUs",
-        "link": "https://openai.com/index/openai-amd-strategic-partnership",
-        "date": "Mon, 06 Oct 2025 06:00:00 GMT",
-        "source": "OpenAI",
-        "description": "AMD and OpenAI have announced a multi-year partnership to deploy 6 gigawatts of AMD Instinct GPUs, beginning with 1 gigawatt in 2026, to power OpenAI’s next-generation AI infrastructure and acceler...",
-        "is_important": false
-    },
-    {
-        "title": "Introducing AgentKit, new Evals, and RFT for agents",
-        "link": "https://openai.com/index/introducing-agentkit",
-        "date": "Mon, 06 Oct 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Today, we’re releasing  new tools to help developers go from prototype to production faster: AgentKit, expanded evals capabilities, and reinforcement fine-tuning for agents.",
-        "is_important": false
-    },
-    {
-        "title": "Accelerating AI adoption in Europe",
-        "link": "https://openai.com/global-affairs/accelerating-ai-uptake-in-europe",
-        "date": "Mon, 06 Oct 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI and Allied for Startups release the Hacktivate AI report with 20 actionable policy ideas to accelerate AI adoption in Europe, boost competitiveness, and empower innovators.",
-        "is_important": false
-    },
-    {
-        "title": "Introducing GPTs",
-        "link": "https://openai.com/index/introducing-gpts",
-        "date": "Mon, 06 Nov 2023 08:00:00 GMT",
-        "source": "OpenAI",
-        "description": "You can now create custom versions of ChatGPT that combine instructions, extra knowledge, and any combination of skills.",
         "is_important": false
     }
 ]
