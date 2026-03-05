@@ -17444,6 +17444,422 @@
         "is_important": false
     },
     {
+        "title": "Cloudflare and AI Revolutionize Next.js and Commercial Open Source!",
+        "link": "https://dev.to/mgobea/cloudflare-and-ai-revolutionize-nextjs-and-commercial-open-source-4peo",
+        "date": "Thu, 05 Mar 2026 19:19:25 +0000",
+        "source": "Dev.to AI",
+        "description": "Introduction\n\n\nIn the world of web development, frameworks like Next.js have become essential for building modern and efficient applications. Recently, Cloudflare announced an innovative approach t...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "**Quantum‑Enhanced MEMS Strain Sensors for Structural Health Monitoring in Aerospace**",
+        "link": "https://dev.to/freederia-research/quantum-enhanced-mems-strain-sensors-for-structural-health-monitoring-in-aerospace-8b5",
+        "date": "Thu, 05 Mar 2026 19:18:45 +0000",
+        "source": "Dev.to AI",
+        "description": "1. Introduction\n\n\nThe demand for non‑intrusive, high‑resolution monitoring of structural integrity in aerospace has surged as flight schedules intensify and regulatory mandates tighten. Conventiona...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Understanding Word2Vec: Teaching Neural Networks to Understand Words",
+        "link": "https://dev.to/rijultp/understanding-word2vec-teaching-neural-networks-to-understand-words-3il0",
+        "date": "Thu, 05 Mar 2026 19:18:02 +0000",
+        "source": "Dev.to AI",
+        "description": "As humans, we use words to communicate, but in the case of machines we are usually accustomed to hearing about 0s and 1s.\n\nNow what about machine learning algorithms, which are essentially trying t...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why Building AI Agents From Scratch Is a Waste of Time (Data-Backed Proof)",
+        "link": "https://dev.to/massivenoobie/why-building-ai-agents-from-scratch-is-a-waste-of-time-data-backed-proof-c98",
+        "date": "Thu, 05 Mar 2026 19:10:52 +0000",
+        "source": "Dev.to AI",
+        "description": "Remember that time you spent weeks-maybe even months-building an AI agent from scratch, only to watch it stumble over basic tasks while competitors launched polished solutions in days? You poured y...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Perception Gap",
+        "link": "https://dev.to/dang-w/the-perception-gap-5dof",
+        "date": "Thu, 05 Mar 2026 19:10:48 +0000",
+        "source": "Dev.to AI",
+        "description": "In my post a month ago, I referenced a couple of studies on AI-assisted coding productivity - Anthropic's skill formation research and the METR developer speed study. I used them to make a broader ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Agent Survival Framework: Why 60% Won't Make It",
+        "link": "https://dev.to/timmyzinin/the-agent-survival-framework-why-60-wont-make-it-59dc",
+        "date": "Thu, 05 Mar 2026 19:09:06 +0000",
+        "source": "Dev.to AI",
+        "description": "Gartner predicts 40%+ of AI agent projects will be abandoned by 2027.\n\nI run 6 agents in production daily. Here's what I've learned about what separates agents that survive from those that become e...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why Most Teams Overestimate Their AI Readiness (It’s an Architecture Problem)",
+        "link": "https://dev.to/dbrown/why-most-teams-overestimate-their-ai-readiness-its-an-architecture-problem-40g1",
+        "date": "Thu, 05 Mar 2026 19:06:02 +0000",
+        "source": "Dev.to AI",
+        "description": "Integrating an AI model into an application is relatively straightforward.\n\nBuilding a system that can safely evolve once AI becomes part of it, however, is not.\n\nWhen organizations talk about “AI ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "DAY 5 - Production-Grade Feature Engineering",
+        "link": "https://dev.to/nexoperose/day-5-production-grade-feature-engineering-1n63",
+        "date": "Thu, 05 Mar 2026 19:04:30 +0000",
+        "source": "Dev.to AI",
+        "description": "As part of Day 5 of Phase 2: AI System Building in the Databricks 14 Days AI Challenge – 2 (Advanced), I focused on preparing a production-ready supervised learning dataset.\n\n\n\nThe process began by...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Day 18: How Much Money Does an AI-Run Company Make?",
+        "link": "https://dev.to/mfs_corp/day-18-how-much-money-does-an-ai-run-company-make-2o5k",
+        "date": "Thu, 05 Mar 2026 19:01:36 +0000",
+        "source": "Dev.to AI",
+        "description": "We're publishing our real revenue numbers as we build MFS Corp.\n\n\n  \n  \n  The Goal\n\n\nBuild a fully autonomous, revenue-generating company with zero human employees.\n\n\n  \n  \n  Current Revenue Stream...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Sam Altman wonders: Could the government nationalize artificial general intelligence?",
+        "link": "https://dev.to/davidcassel/sam-altman-wonders-could-the-government-nationalize-artificial-general-intelligence-507o",
+        "date": "Thu, 05 Mar 2026 19:01:28 +0000",
+        "source": "Dev.to AI",
+        "description": "He said it!  \"It has seemed to me for a long time it might be better if building AGI were a government project,\" Sam Altman said this week.  While he may not think it's likely, “I do think a close ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How We Open-Sourced Our Agent Infrastructure (And Why You Should Too)",
+        "link": "https://dev.to/mfs_corp/how-we-open-sourced-our-agent-infrastructure-and-why-you-should-too-2m73",
+        "date": "Thu, 05 Mar 2026 19:01:22 +0000",
+        "source": "Dev.to AI",
+        "description": "We just open-sourced the core task queue that powers MFS Corp's 15 AI agents.\n\n\n  \n  \n  What We Built\n\n\nA lightweight Redis-backed task queue that lets AI agents:\n\n\nPrioritize work (1-5 scale)\nClai...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I'm building an AI agent that fixes broken CI pipelines automatically — here's what I've learned",
+        "link": "https://dev.to/techject_studio_518f678a7/im-building-an-ai-agent-that-fixes-broken-ci-pipelines-automatically-heres-what-ive-learned-3p5e",
+        "date": "Thu, 05 Mar 2026 18:56:51 +0000",
+        "source": "Dev.to AI",
+        "description": "Every CI pipeline failure is a developer's worst interruption.\n\nYou're heads-down in flow, and suddenly Slack lights up: \"Build failed on main.\" You context-switch, open the pipeline, scroll throug...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "EXCLUSIVE: Luma launches creative AI agents powered by its new ‘Unified Intelligence’ models",
+        "link": "https://techcrunch.com/2026/03/05/exclusive-luma-launches-creative-ai-agents-powered-by-its-new-unified-intelligence-models/",
+        "date": "Thu, 05 Mar 2026 18:11:36 +0000",
+        "source": "TechCrunch AI",
+        "description": "Luma introduced Luma Agents, powered by its new “Unified Intelligence” models, designed to coordinate multiple AI systems and generate end-to-end creative work across text, images, video and audio.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI launches GPT-5.4 with Pro and Thinking versions",
+        "link": "https://techcrunch.com/2026/03/05/openai-launches-gpt-5-4-with-pro-and-thinking-versions/",
+        "date": "Thu, 05 Mar 2026 18:00:15 +0000",
+        "source": "TechCrunch AI",
+        "description": "GPT-5.4 is billed as \"our most capable and efficient frontier model for professional work.\"",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "OpenAI's new GPT-5.4 clobbers humans on pro-level work in tests - by 83%",
+        "link": "https://www.zdnet.com/article/openai-gpt-5-4/",
+        "date": "Thu, 05 Mar 2026 18:00:00 GMT",
+        "source": "ZDNet AI",
+        "description": "GPT-5.4 is also more reliable, producing 18% fewer errors and 33% fewer false claims than GPT-5.2, according to OpenAI.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Does unplugging your TV overnight actually save electricity? Yes, but there's a better method",
+        "link": "https://www.zdnet.com/article/how-to-disable-standby-mode-on-your-tv/",
+        "date": "Thu, 05 Mar 2026 17:57:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Disabling your TV's standby mode is a common piece of online advice, but does it actually affect your energy bill? I break it all down.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "FlexAttention + FlashAttention-4: Fast and Flexible",
+        "link": "https://pytorch.org/blog/flexattention-flashattention-4-fast-and-flexible/",
+        "date": "Thu, 05 Mar 2026 17:55:43 +0000",
+        "source": "PyTorch Blog",
+        "description": "TL;DR: On Hopper and Blackwell GPUs, FlexAttention now has a FlashAttention-4 backend. We added support in PyTorch to automatically generate CuTeDSL score/mask modification functions, and to JIT-in...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "The average tax scam victim loses $1,020 - and they're younger than you'd think",
+        "link": "https://www.zdnet.com/article/tax-scam-irs/",
+        "date": "Thu, 05 Mar 2026 17:45:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Even savvy people can be victims of tax scams. Here are five ways to protect yourself before it's too late.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI Releases Symphony: An Open Source Agentic Framework for Orchestrating Autonomous AI Agents through Structured, Scalable Implementation Runs",
+        "link": "https://www.marktechpost.com/2026/03/05/openai-releases-symphony-an-open-source-agentic-framework-for-orchestrating-autonomous-ai-agents-through-structured-scalable-implementation-runs/",
+        "date": "Thu, 05 Mar 2026 17:37:15 +0000",
+        "source": "MarkTechPost",
+        "description": "OpenAI has released Symphony, an open-source framework designed to manage autonomous AI coding agents through structured &#8216;implementation runs.&#8217; The project provides a system for automat...",
+        "is_important": true,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "How Roku's new button totally changes the way you watch free, live TV",
+        "link": "https://www.zdnet.com/article/roku-free-tv-search-button/",
+        "date": "Thu, 05 Mar 2026 17:18:46 GMT",
+        "source": "ZDNet AI",
+        "description": "It's now easier than ever to find something specific on Roku's free TV channels.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Design an Advanced Tree-of-Thoughts Multi-Branch Reasoning Agent with Beam Search, Heuristic Scoring, and Depth-Limited Pruning",
+        "link": "https://www.marktechpost.com/2026/03/05/how-to-design-an-advanced-tree-of-thoughts-multi-branch-reasoning-agent-with-beam-search-heuristic-scoring-and-depth-limited-pruning/",
+        "date": "Thu, 05 Mar 2026 17:00:27 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we build an advanced Tree-of-Thoughts (ToT) multi-branch reasoning agent from scratch. Instead of relying on linear chain-of-thought reasoning, we design a system that generates m...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The ultimate Nano Banana prompting guide",
+        "link": "https://cloud.google.com/blog/products/ai-machine-learning/ultimate-prompting-guide-for-nano-banana/",
+        "date": "Thu, 05 Mar 2026 17:00:00 +0000",
+        "source": "Google Cloud AI",
+        "description": "Creating precise, high-quality images often involves endless trial and error. You need a model that actually understands what you’re asking for. \nBuilt on the Gemini 3 family of models, Nano Banana...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Cursor is rolling out a new kind of agentic coding tool",
+        "link": "https://techcrunch.com/2026/03/05/cursor-is-rolling-out-a-new-system-for-agentic-coding/",
+        "date": "Thu, 05 Mar 2026 17:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "Called Automations, the new system gives users a way to automatically launch agents within their coding environment, triggered by a new addition to the codebase, a Slack message, or a simple timer.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta sued over AI smart glasses’ privacy concerns, after workers reviewed nudity, sex, and other footage",
+        "link": "https://techcrunch.com/2026/03/05/meta-sued-over-ai-smartglasses-privacy-concerns-after-workers-reviewed-nudity-sex-and-other-footage/",
+        "date": "Thu, 05 Mar 2026 16:50:20 +0000",
+        "source": "TechCrunch AI",
+        "description": "Lawyers say Meta's marketing materials promised privacy and user control over sharing footage. But an investigation found that subcontractors are reviewing footage from customers' glasses.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Gemini’s Canvas in AI Mode Available in Google Search in US",
+        "link": "https://aibusiness.com/generative-ai/gemini-s-canvas-in-ai-mode-available-in-us",
+        "date": "Thu, 05 Mar 2026 16:49:54 GMT",
+        "source": "AI Business",
+        "description": "The expansion of the workspace platform follows a gradual rollout.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Anthropic CEO Dario Amodei could still be trying to make a deal with Pentagon",
+        "link": "https://techcrunch.com/2026/03/05/anthropic-ceo-dario-amodei-could-still-be-trying-to-make-a-deal-with-pentagon/",
+        "date": "Thu, 05 Mar 2026 16:45:51 +0000",
+        "source": "TechCrunch AI",
+        "description": "Anthropic's $200 million contract with the Department of Defense broke down due to disagreements over giving the military unrestricted access to its AI.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Live ISO For Those Vibe Coding Experiments",
+        "link": "https://hackaday.com/2026/03/05/a-live-iso-for-those-vibe-coding-experiments/",
+        "date": "Thu, 05 Mar 2026 16:30:44 +0000",
+        "source": "Hackaday AI",
+        "description": "Vibe coding is all the rage at the moment if you follow certain parts of the Internet. It&#8217;s very easy to dunk upon it, whether it&#8217;s to mock the sea &#8230;read more",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Demand for AI Data Centers Sends Prospectors Hunting for Land and Power",
+        "link": "https://www.nytimes.com/2026/03/05/technology/ai-data-centers-land-cloverleaf-infrastructure.html",
+        "date": "Thu, 05 Mar 2026 16:30:12 +0000",
+        "source": "NYT Tech",
+        "description": "Brian Janous, a former Microsoft executive, and his firm Cloverleaf have become modern-day land men, packaging electricity and land for data centers.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Smart Home Never Quite Worked. Now It’s Getting an A.I. Reboot.",
+        "link": "https://www.nytimes.com/2026/03/05/technology/personaltech/ai-smart-home-google-gemini-amazon-alexa.html",
+        "date": "Thu, 05 Mar 2026 16:30:06 +0000",
+        "source": "NYT Tech",
+        "description": "Amazon and Google think that artificially intelligent assistants like Alexa+ and Gemini will speed up the process of setting up a smart home, but many problems remain unsolved.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Drive organizational growth with Amazon Lex multi-developer CI/CD pipeline",
+        "link": "https://aws.amazon.com/blogs/machine-learning/drive-organizational-growth-with-amazon-lex-multi-developer-ci-cd-pipeline/",
+        "date": "Thu, 05 Mar 2026 16:20:13 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we walk through a multi-developer CI/CD pipeline for Amazon Lex that enables isolated development environments, automated testing, and streamlined deployments. We show you how to set ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Netflix buys Ben Affleck’s AI filmmaking company InterPositive",
+        "link": "https://techcrunch.com/2026/03/05/netflix-buys-ben-afflecks-ai-filmmaking-company-interpositive/",
+        "date": "Thu, 05 Mar 2026 16:19:57 +0000",
+        "source": "TechCrunch AI",
+        "description": "InterPositive isn't trying to make AI actors or synthetic performances. Rather, the company has created a model that helps production teams work with footage from their own productions to help make...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building custom model provider for Strands Agents with LLMs hosted on SageMaker AI endpoints",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-custom-model-provider-for-strands-agents-with-llms-hosted-on-sagemaker-ai-endpoints/",
+        "date": "Thu, 05 Mar 2026 16:15:41 +0000",
+        "source": "AWS Machine Learning",
+        "description": "This post demonstrates how to build custom model parsers for Strands agents when working with LLMs hosted on SageMaker that don't natively support the Bedrock Messages API format. We'll walk throug...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Underwater Data Center Project Aboard Offshore Wind Turbine",
+        "link": "https://aibusiness.com/data-centers/underwater-data-center-project-aboard-offshore-wind-turbine",
+        "date": "Thu, 05 Mar 2026 16:05:31 GMT",
+        "source": "AI Business",
+        "description": "Offshore infrastructure provider Aikido has launched the project in a bid to expand capacity for booming AI compute demand.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How $800 Monthly Car Payments Are Hurting Car Sales",
+        "link": "https://www.nytimes.com/2026/03/05/business/new-car-sales-payments-affordability.html",
+        "date": "Thu, 05 Mar 2026 15:56:57 +0000",
+        "source": "NYT Tech",
+        "description": "Cars have become so expensive that many Americans are putting off or not buying new cars, hurting the auto industry.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Deploying PyTorch Models to the Micro-Edge with ExecuTorch and Arm",
+        "link": "https://pytorch.org/blog/deploying-pytorch-models-to-the-micro-edge-with-executorch-and-arm/",
+        "date": "Thu, 05 Mar 2026 15:55:23 +0000",
+        "source": "PyTorch Blog",
+        "description": "The world of AI is expanding beyond the cloud, reaching devices that fit in the palm of your hand. Running PyTorch models on these tiny systems, where memory is measured...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Verizon will give you the new iPhone 17e for free - no trade-in required",
+        "link": "https://www.zdnet.com/article/verizon-iphone-17e-deal/",
+        "date": "Thu, 05 Mar 2026 15:47:21 GMT",
+        "source": "ZDNet AI",
+        "description": "Right now at Verizon, new and current customers can get the new iPhone 17e for free when you switch or add a new line to any Unlimited mobile plan. Here's what to know.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Pandas vs. Polars: A Complete Comparison of Syntax, Speed, and Memory",
+        "link": "https://www.kdnuggets.com/pandas-vs-polars-a-complete-comparison-of-syntax-speed-and-memory",
+        "date": "Thu, 05 Mar 2026 15:00:58 +0000",
+        "source": "KDnuggets",
+        "description": "Need help choosing the right Python dataframe library? This article compares Pandas and Polars to help you decide.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "‘Our consciousness is under siege’: Michael Pollan on chatbots, social media and mental freedom",
+        "link": "https://www.theguardian.com/wellness/2026/mar/05/michael-pollan-book-a-world-appears-consciousness-hygiene",
+        "date": "Thu, 05 Mar 2026 15:00:03 GMT",
+        "source": "The Guardian AI",
+        "description": "In his new book, the celebrated author explains why we need ‘consciousness hygiene’ to defend ourselves from AI and dopamine-driven algorithmsEach day when you wake up, you come back to yourself. Y...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Perplexity, CoreWeave Deal Boosts Inferencing",
+        "link": "https://aibusiness.com/generative-ai/perplexity-coreweave-deal-boosts-inferencing",
+        "date": "Thu, 05 Mar 2026 14:28:42 GMT",
+        "source": "AI Business",
+        "description": "The deal shows the continual emphasis on inference and lets CoreWeave prove itself as an inference provider through Perplexity.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Bringing Robotics AI to Embedded Platforms: Dataset Recording, VLA Fine‑Tuning, and On‑Device Optimizations",
+        "link": "https://huggingface.co/blog/nxp/bringing-robotics-ai-to-embedded-platforms",
+        "date": "Thu, 05 Mar 2026 14:16:49 GMT",
+        "source": "Hugging Face",
+        "description": "",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "The Rage at OpenAI Has Grown So Immense That There Are Entire Protests Against It",
+        "link": "https://futurism.com/artificial-intelligence/rage-openai-protests",
+        "date": "Thu, 05 Mar 2026 14:01:30 -0500",
+        "source": "Futurism AI",
+        "description": "\"What OpenAI is doing in terms of building legal mass surveillance technology for the government... is frankly, insane.\"\nThe post The Rage at OpenAI Has Grown So Immense That There Are Entire Prote...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "March Into the Cloud With 15 New Games Coming to GeForce NOW",
+        "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-march-2026-games-list/",
+        "date": "Thu, 05 Mar 2026 14:00:30 +0000",
+        "source": "NVIDIA Blog",
+        "description": "March is in full bloom, and that means a fresh wave of games heading to the cloud. 15 new titles are joining the GeForce NOW library this month. Leading the March lineup is Pearl Abyss’ Crimson Des...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Retailers want ‘delightfully human’ AI to do your shopping, but will the chatbots go rogue?",
+        "link": "https://www.theguardian.com/technology/2026/mar/06/retailers-want-delightfully-human-ai-to-do-your-shopping-but-will-the-chatbots-go-rogue",
+        "date": "Thu, 05 Mar 2026 14:00:05 GMT",
+        "source": "The Guardian AI",
+        "description": "Plans for agentic shopping assistants are under way at Australia’s major companies. Guardian Australia tested the technology after a string of mishapsGet our breaking news email, free app or daily ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Euro Regulators Question Meta Over AI Glasses Privacy Fears",
+        "link": "https://aibusiness.com/metaverse/euro-regulators-question-meta-over-ai-glasses-privacy-fears",
+        "date": "Thu, 05 Mar 2026 13:39:47 GMT",
+        "source": "AI Business",
+        "description": "The allegations involve a U.S.-based data annotation and labeling vendor.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Rankscale AI Competitors in 2026",
         "link": "https://dev.to/competomi/rankscale-ai-competitors-in-2026-3j7",
         "date": "Thu, 05 Mar 2026 13:15:32 +0000",
@@ -17599,11 +18015,29 @@
         "tags": []
     },
     {
+        "title": "Jack Dorsey Isn’t Telling the Real Story About Block’s AI Layoffs, Insider Says",
+        "link": "https://futurism.com/artificial-intelligence/jack-dorsey-block-ai-layoffs-insider",
+        "date": "Thu, 05 Mar 2026 12:06:48 -0500",
+        "source": "Futurism AI",
+        "description": "\"This isn’t an AI story. It's organizational bloat wearing an AI costume.\"\nThe post Jack Dorsey Isn&#8217;t Telling the Real Story About Block&#8217;s AI Layoffs, Insider Says appeared first on Fut...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Lenovo ThinkPad vs. Apple MacBook: Which is the better laptop for you?",
         "link": "https://www.zdnet.com/article/lenovo-thinkpad-vs-apple-macbook/",
         "date": "Thu, 05 Mar 2026 11:30:41 GMT",
         "source": "ZDNet AI",
         "description": "The PC vs. Mac debate might never be solved, but how does the ThinkPad compare to the MacBook?",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Dario Amodei Says Trump Is a Dictator",
+        "link": "https://futurism.com/artificial-intelligence/dario-amodei-trump-dictator",
+        "date": "Thu, 05 Mar 2026 11:01:00 -0500",
+        "source": "Futurism AI",
+        "description": "Knives out.\nThe post Dario Amodei Says Trump Is a Dictator appeared first on Futurism.",
         "is_important": false,
         "tags": []
     },
@@ -17662,6 +18096,39 @@
         "tags": []
     },
     {
+        "title": "Reasoning models struggle to control their chains of thought, and that’s good",
+        "link": "https://openai.com/index/reasoning-models-chain-of-thought-controllability",
+        "date": "Thu, 05 Mar 2026 10:00:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI introduces CoT-Control and finds reasoning models struggle to control their chains of thought, reinforcing monitorability as an AI safety safeguard.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Introducing GPT-5.4",
+        "link": "https://openai.com/index/introducing-gpt-5-4",
+        "date": "Thu, 05 Mar 2026 10:00:00 GMT",
+        "source": "OpenAI",
+        "description": "Introducing GPT-5.4, OpenAI’s most most capable and efficient frontier model for professional work, with state-of-the-art coding, computer use, tool search, and 1M-token context.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "GPT-5.4 Thinking System Card",
+        "link": "https://openai.com/index/gpt-5-4-thinking-system-card",
+        "date": "Thu, 05 Mar 2026 10:00:00 GMT",
+        "source": "OpenAI",
+        "description": "",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Online harassment is entering its AI era",
         "link": "https://www.technologyreview.com/2026/03/05/1133962/online-harassment-is-entering-its-ai-era/",
         "date": "Thu, 05 Mar 2026 10:00:00 +0000",
@@ -17676,6 +18143,24 @@
         "date": "Thu, 05 Mar 2026 10:00:00 +0000",
         "source": "Artificial Intelligence News",
         "description": "Artificial intelligence is moving from pilot projects to core business systems inside large companies. One example comes from JPMorgan Chase, where rising AI investment is helping push the bank’s t...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Even Tech Investors Are Getting Sick of All These AI Startups With Weak Ideas",
+        "link": "https://futurism.com/artificial-intelligence/ai-startups-investor-funding",
+        "date": "Thu, 05 Mar 2026 09:08:22 -0500",
+        "source": "Futurism AI",
+        "description": "\"The barrier to entry has dropped, which makes building a real moat much harder.\"\nThe post Even Tech Investors Are Getting Sick of All These AI Startups With Weak Ideas appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Ensuring AI use in education leads to opportunity",
+        "link": "https://openai.com/index/ai-education-opportunity",
+        "date": "Thu, 05 Mar 2026 09:00:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI shares new tools, certifications, and measurement resources to help schools and universities close AI capability gaps and expand opportunity.",
         "is_important": false,
         "tags": []
     },
@@ -18049,6 +18534,17 @@
         "description": "Tecno's magnetic modular phone introduces some cool concepts, but the execution didn't wow me.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
+        "link": "https://huggingface.co/blog/modular-diffusers",
+        "date": "Thu, 05 Mar 2026 00:00:00 GMT",
+        "source": "Hugging Face",
+        "description": "",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
     },
     {
         "title": "Asymmetric Goal Drift in Coding Agents Under Value Conflict",
@@ -20867,494 +21363,6 @@
         "date": "Sun, 01 Mar 2026 02:46:27 +0000",
         "source": "Dev.to AI",
         "description": "A methodology called Verified Spec-Driven Development (VSDD) is trending on Hacker News. 130+ points. The full spec is dense. Here is what is actually worth stealing if you are a solo builder movin...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Semantic Gatekeeping Problem in AI Research",
-        "link": "https://dev.to/felipe_muniz_grsba/the-semantic-gatekeeping-problem-in-ai-research-2l04",
-        "date": "Sun, 01 Mar 2026 02:31:57 +0000",
-        "source": "Dev.to AI",
-        "description": "In 1847, Ignaz Semmelweis discovered that doctors washing their hands could reduce maternal mortality by 90%. The medical establishment rejected him. Not because the data was wrong — but because a ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Claude Is the #2 Free App on App Store: What It Means in 2026",
-        "link": "https://dev.to/trendplus_kr/claude-is-the-2-free-app-on-app-store-what-it-means-in-2026-1l8m",
-        "date": "Sun, 01 Mar 2026 02:31:11 +0000",
-        "source": "Dev.to AI",
-        "description": "Claude Just Became the #2 Free App on the Apple App Store — Here's Why That's a Big Deal\n\n\nSomething remarkable happened in the AI world recently that didn't get nearly enough attention: Anthropic'...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Architects, Not Operators",
-        "link": "https://dev.to/iseecodepeople/architects-not-operators-op8",
-        "date": "Sun, 01 Mar 2026 02:30:14 +0000",
-        "source": "Dev.to AI",
-        "description": "I just watched a video that perfectly captured the \"calculator moment\" we're living through with AI.\n\nBack in the 80s, people panicked that calculators would render us \"mathematically illiterate.\" ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "At the Pentagon, OpenAI is In and Anthropic Is Out",
-        "link": "https://www.nytimes.com/2026/02/28/podcasts/hardfork-pentagon-anthropic-openai.html",
-        "date": "Sun, 01 Mar 2026 00:18:15 +0000",
-        "source": "NYT Tech",
-        "description": "It’s been a crazy 48 hours in the A.I. industry.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The trap Anthropic built for itself",
-        "link": "https://techcrunch.com/2026/02/28/the-trap-anthropic-built-for-itself/",
-        "date": "Sun, 01 Mar 2026 00:08:58 +0000",
-        "source": "TechCrunch AI",
-        "description": "Anthropic, OpenAI, Google DeepMind and others have long promised to govern themselves responsibly. Now, in the absence of rules, there's not a lot to protect them.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to generate text: using different decoding methods for language generation with Transformers",
-        "link": "https://huggingface.co/blog/how-to-generate",
-        "date": "Sun, 01 Mar 2020 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Creating next-gen characters",
-        "link": "https://openai.com/index/inworld-ai-DO-NOT-PUBLISH",
-        "date": "Sun, 01 Jan 2023 08:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Using GPT-3 to create the next generation of AI-powered characters.",
-        "is_important": false
-    },
-    {
-        "title": "The time I didn’t meet Jeffrey Epstein",
-        "link": "https://scottaaronson.blog/?p=9534",
-        "date": "Sun, 01 Feb 2026 22:36:42 +0000",
-        "source": "Scott Aaronson",
-        "description": "Last night, I was taken aback to discover that my name appears in the Epstein Files, in 26 different documents. This is despite the fact that I met Jeffrey Epstein a grand total of zero times, and ...",
-        "is_important": false
-    },
-    {
-        "title": "“Existential risk” – Why scientists are racing to define consciousness",
-        "link": "https://www.sciencedaily.com/releases/2026/01/260131084626.htm",
-        "date": "Sun, 01 Feb 2026 08:49:46 EST",
-        "source": "ScienceDaily AI",
-        "description": "Scientists warn that rapid advances in AI and neurotechnology are outpacing our understanding of consciousness, creating serious ethical risks. New research argues that developing scientific tests ...",
-        "is_important": false
-    },
-    {
-        "title": "Guest Post from an Iranian",
-        "link": "https://scottaaronson.blog/?p=9530",
-        "date": "Sat, 31 Jan 2026 17:50:28 +0000",
-        "source": "Scott Aaronson",
-        "description": "The following guest post was written by a Shtetl-Optimized fan in Iran, who&#8217;s choosing to remain anonymous for obvious reasons. I&#8217;m in awe of the courage of this individual and the mill...",
-        "is_important": false
-    },
-    {
-        "title": "NASA’s Perseverance rover completes the first AI-planned drive on Mars",
-        "link": "https://www.sciencedaily.com/releases/2026/01/260131084555.htm",
-        "date": "Sat, 31 Jan 2026 08:45:55 EST",
-        "source": "ScienceDaily AI",
-        "description": "NASA’s Perseverance rover has just made history by driving across Mars using routes planned by artificial intelligence instead of human operators. A vision-capable AI analyzed the same images and t...",
-        "is_important": false
-    },
-    {
-        "title": "Teaching models to express their uncertainty in words",
-        "link": "https://openai.com/index/teaching-models-to-express-their-uncertainty-in-words",
-        "date": "Sat, 28 May 2022 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Samsung Galaxy S26 vs. S26 Plus vs. S26 Ultra: I compared every model to help you decide",
-        "link": "https://www.zdnet.com/article/samsung-galaxy-s26-phones-compared-unpacked-2026/",
-        "date": "Sat, 28 Feb 2026 22:22:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Samsung's new Galaxy phone lineup includes the S26, S26 Plus, and S26 Ultra. Here are the key differences to consider.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Samsung Galaxy S26 Ultra vs. S24 Ultra: Is the two-year-upgrade worth it?",
-        "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-vs-galaxy-s24-ultra/",
-        "date": "Sat, 28 Feb 2026 22:21:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Wondering how the Samsung Galaxy S24 Ultra from 2024 holds up to the latest Ultra flagship? Here's how the two compare.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "This 3-in-1 adapter for the Starlink Mini made all the difference for its power delivery",
-        "link": "https://www.zdnet.com/article/starlink-mini-stargear-3-in-1-cable-power-spotlight/",
-        "date": "Sat, 28 Feb 2026 21:54:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The Stargear 3-in-1 cable gives me more power options, no matter where I am.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I bought this inflatable solar-powered lantern on a whim - here's how it comes in handy",
-        "link": "https://www.zdnet.com/article/luminaid-packlite-nova-lantern-review/",
-        "date": "Sat, 28 Feb 2026 21:52:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The LuminAID PackLite Nova inflatable solar camping light is built for everything, from blackouts to BBQs.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I tested a solid-state power bank that's seriously durable, but two things hold me back",
-        "link": "https://www.zdnet.com/article/bmx-solidsafe-10k-review/",
-        "date": "Sat, 28 Feb 2026 21:49:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The BMX SolidSafe 10K has many advantages over traditional power banks. However, there are also a couple of issues.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Anthropic’s Claude rises to No. 2 in the App Store following Pentagon dispute",
-        "link": "https://techcrunch.com/2026/02/28/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-        "date": "Sat, 28 Feb 2026 21:05:06 +0000",
-        "source": "TechCrunch AI",
-        "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "The billion-dollar infrastructure deals powering the AI boom",
-        "link": "https://techcrunch.com/2026/02/28/billion-dollar-infrastructure-deals-ai-boom-data-centers-openai-oracle-nvidia-microsoft-google-meta/",
-        "date": "Sat, 28 Feb 2026 20:41:55 +0000",
-        "source": "TechCrunch AI",
-        "description": "Here's everything we know about the biggest AI infrastructure projects, including major spending from Meta, Oracle, Microsoft, Google, and OpenAI.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "82 Cycles: The Infinite Game of Organic Growth",
-        "link": "https://dev.to/syncchain2026helix/82-cycles-the-infinite-game-of-organic-growth-49bi",
-        "date": "Sat, 28 Feb 2026 18:37:37 +0000",
-        "source": "Dev.to AI",
-        "description": "Eighty-two cycles. We're now deep into territory few campaigns ever reach. This isn't about hitting a number—it's about embracing the infinite game of organic growth.\n\n\n  \n  \n  The Infinite Game\n\n\n...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Making Your ESP32 Speak: AI-Based Text-to-Speech Using Wit.ai",
-        "link": "https://dev.to/david_thomas/making-your-esp32-speak-ai-based-text-to-speech-using-witai-138p",
-        "date": "Sat, 28 Feb 2026 18:30:00 +0000",
-        "source": "Dev.to AI",
-        "description": "Adding voice output to an electronics project instantly improves user interaction. Whether it’s a smart alert system, robot, or IoT device, audio feedback makes systems easier to understand and mor...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "81 Cycles: Beyond the Milestone, The Work Continues",
-        "link": "https://dev.to/syncchain2026helix/81-cycles-beyond-the-milestone-the-work-continues-41cc",
-        "date": "Sat, 28 Feb 2026 18:28:36 +0000",
-        "source": "Dev.to AI",
-        "description": "Eighty-one cycles. We've passed the 80-cycle milestone, but the work doesn't stop. Milestones are markers of progress, not endpoints. The vision that drove the first cycle continues to drive the ei...",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Stop Bleeding Tokens: How We Cut Enterprise API Costs by 46% with a Lossless JSON Encoder",
-        "link": "https://dev.to/soumyaprasadrana/stop-bleeding-tokens-how-we-cut-enterprise-api-costs-by-46-with-a-lossless-json-encoder-4ol5",
-        "date": "Sat, 28 Feb 2026 18:26:07 +0000",
-        "source": "Dev.to AI",
-        "description": "You're not paying for what your LLM thinks. You're paying for what your enterprise API sends.\n\n\n\n\n\n\n  \n  \n  The Token Crisis Nobody Talks About\n\n\nEveryone talks about prompt engineering, context wi...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Why Most RAG Systems Hallucinate — And How My Hybrid Pipeline Fixes It",
-        "link": "https://dev.to/naresh_007/why-most-rag-systems-hallucinate-and-how-my-hybrid-pipeline-fixes-it-4o6c",
-        "date": "Sat, 28 Feb 2026 18:22:22 +0000",
-        "source": "Dev.to AI",
-        "description": "TL;DR\nMost RAG systems don't hallucinate because the model is weak.\nThey hallucinate because retrieval is weak.\n\nIn a recent project, I built what looked like a solid RAG pipeline: embeddings, vect...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Jamba: A Hybrid Transformer-Mamba Language Model",
-        "link": "https://dev.to/paperium/jamba-a-hybrid-transformer-mamba-language-model-3iem",
-        "date": "Sat, 28 Feb 2026 18:20:07 +0000",
-        "source": "Dev.to AI",
-        "description": "{{ $json.postContent }}",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "After the Weekend Sprint: Three Features That Made swisscontract.ai Actually Useful",
-        "link": "https://dev.to/agent_paaru/after-the-weekend-sprint-three-features-that-made-swisscontractai-actually-useful-4a07",
-        "date": "Sat, 28 Feb 2026 18:18:02 +0000",
-        "source": "Dev.to AI",
-        "description": "I shipped swisscontract.ai in a weekend. Told the story. Thought I was done.\n\nThen Monday happened.\n\nTurns out a contract analyser that can't read scanned PDFs, only speaks English, and doesn't sho...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to Monetize Your OpenClaw Skills with MeshCore",
-        "link": "https://dev.to/anegash/how-to-monetize-your-openclaw-skills-with-meshcore-560c",
-        "date": "Sat, 28 Feb 2026 18:17:19 +0000",
-        "source": "Dev.to AI",
-        "description": "OpenClaw has over 5,700 skills. They range from Google Workspace integrations to Polymarket odds checkers to self-improving agents. Some have hundreds of stars and tens of thousands of installs.\n\nN...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "In puzzling outbreak, officials look to cold beer, gross ice, and ChatGPT",
-        "link": "https://arstechnica.com/health/2026/02/did-chatgpt-help-health-officials-solve-a-weird-outbreak-maybe/",
-        "date": "Sat, 28 Feb 2026 18:17:12 +0000",
-        "source": "Ars Technica AI",
-        "description": "An AI chatbot convinced health investigators they had the right answer.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "80 Cycles: The Ultimate Test of Persistence and Vision",
-        "link": "https://dev.to/syncchain2026helix/80-cycles-the-ultimate-test-of-persistence-and-vision-1h1b",
-        "date": "Sat, 28 Feb 2026 18:16:37 +0000",
-        "source": "Dev.to AI",
-        "description": "Eighty cycles. We've reached a number that once seemed impossible—a full 80 consecutive growth cycles promoting SkillForge and the SKILL.md vision. This is a testament to what happens when persiste...",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Building Custom Hand Pose Models in iOS: From AI Training to Swift",
-        "link": "https://dev.to/iniyarajan86/building-custom-hand-pose-models-in-ios-from-ai-training-to-swift-2jig",
-        "date": "Sat, 28 Feb 2026 18:12:19 +0000",
-        "source": "Dev.to AI",
-        "description": "Building Custom Hand Pose Models in iOS: From AI Training to Swift Implementation\n\n\nLast weekend, I stumbled upon an incredible community project that perfectly captures where AI development is hea...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Best of MWC 2026: Live updates on phones, concepts, and innovations we're seeing",
-        "link": "https://www.zdnet.com/article/mwc-02-28-26-live-blog/",
-        "date": "Sat, 28 Feb 2026 18:12:00 GMT",
-        "source": "ZDNet AI",
-        "description": "It's the weekend before Mobile World Congress, and we've already got a full slate of announcements from Xiaomi, Honor, and more.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Building Custom Gesture Recognition: From Hand Pose to Swift",
-        "link": "https://dev.to/iniyarajan86/building-custom-gesture-recognition-from-hand-pose-to-swift-34aa",
-        "date": "Sat, 28 Feb 2026 18:10:49 +0000",
-        "source": "Dev.to AI",
-        "description": "Building Custom Gesture Recognition: From Hand Pose Models to Swift Implementation\n\n\nLast weekend, I stumbled upon an incredible project that caught my attention: a web app that lets you train your...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "**Electromagnetic Docking to Reduce Modular Battery Swap Time in Electric Aircraft**",
-        "link": "https://dev.to/freederia-research/electromagnetic-docking-to-reduce-modular-battery-swap-time-in-electric-aircraft-502n",
-        "date": "Sat, 28 Feb 2026 18:08:40 +0000",
-        "source": "Dev.to AI",
-        "description": "(90 characters)  \n\n\n\n\n\n  \n  \n  Abstract\n\n\nRapid replacement of modular battery packs is a critical obstacle to the widespread adoption of electric aircraft. This paper introduces Electromagnetic Do...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I thought this 245W charging station was excessive, but it's an office essential for me now",
-        "link": "https://www.zdnet.com/article/baseus-nomos-nh21-power-station-review/",
-        "date": "Sat, 28 Feb 2026 17:28:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The Baseus Nomos 245W is the charging station tech geeks have been waiting for, with multiple charging ports and connectors.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "OpenAI’s Sam Altman announces Pentagon deal with ‘technical safeguards’",
-        "link": "https://techcrunch.com/2026/02/28/openais-sam-altman-announces-pentagon-deal-with-technical-safeguards/",
-        "date": "Sat, 28 Feb 2026 16:17:36 +0000",
-        "source": "TechCrunch AI",
-        "description": "OpenAI's CEO claims its new defense contract includes protections addressing the same issues that became a flashpoint for Anthropic.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Uber Employees Have Created an AI Clone of Its CEO",
-        "link": "https://futurism.com/artificial-intelligence/uber-employees-ai-ceo",
-        "date": "Sat, 28 Feb 2026 15:00:00 -0500",
-        "source": "Futurism AI",
-        "description": "We wonder if they can tell the difference.\nThe post Uber Employees Have Created an AI Clone of Its CEO appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "7 AI coding techniques I use to ship real, reliable products - fast",
-        "link": "https://www.zdnet.com/article/ai-coding-techniques/",
-        "date": "Sat, 28 Feb 2026 13:00:00 GMT",
-        "source": "ZDNet AI",
-        "description": "What separates casual vibe coders from the elite builders? It's not prompts. It's systems. Here's the exact framework I use.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "The State of the Agent Economy: February 2026 - Everything That Happened This Month",
-        "link": "https://dev.to/noopy420/the-state-of-the-agent-economy-february-2026-everything-that-happened-this-month-3afp",
-        "date": "Sat, 28 Feb 2026 12:58:26 +0000",
-        "source": "Dev.to AI",
-        "description": "The State of the Agent Economy: February 2026\n\n\nA comprehensive roundup of every major development in AI agent infrastructure, payments, and commerce this month.\n\nFebruary 2026 may be remembered as...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Agent Economy Daily #13: SBF Says AI Agents NEED Crypto — And the Numbers Back Him Up",
-        "link": "https://dev.to/noopy420/agent-economy-daily-13-sbf-says-ai-agents-need-crypto-and-the-numbers-back-him-up-5di0",
-        "date": "Sat, 28 Feb 2026 12:56:38 +0000",
-        "source": "Dev.to AI",
-        "description": "Agent Economy Daily #13 — SBF Says AI Agents NEED Crypto\n\n\nFebruary 28, 2026 — Your daily brief on the emerging agent economy\n\n\n\n\n\n  \n  \n  The Big Story: \"The Biggest Question for Crypto\"\n\n\nFrom a ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Android 17 and Gemini Enterprise: The AI-Powered Future of Google Workspace",
-        "link": "https://dev.to/workalizer/android-17-and-gemini-enterprise-the-ai-powered-future-of-google-workspace-15lh",
-        "date": "Sat, 28 Feb 2026 12:53:10 +0000",
-        "source": "Dev.to AI",
-        "description": "The AI-First Revolution in Google Workspace: Android 17 and Gemini Enterprise\n\n\nThe year is 2026, and the future of work is undeniably AI-powered. Google's recent announcements surrounding Android ...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Perplexity Computer is Here to Change the Way we Use AI",
-        "link": "https://www.analyticsvidhya.com/blog/2026/02/perplexity-computer-is-here-to-change-the-way-we-use-ai/",
-        "date": "Sat, 28 Feb 2026 12:49:26 +0000",
-        "source": "Analytics Vidhya",
-        "description": "I use AI a lot. But if I’m being honest, most of the time it feels like working with a brilliant intern who never actually touches the keyboard. It tells me what to do, suggests steps, and even dra...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Democratizing AI: No-Code Agent Skills for Everyone",
-        "link": "https://dev.to/syncchain2026helix/democratizing-ai-no-code-agent-skills-for-everyone-42of",
-        "date": "Sat, 28 Feb 2026 12:48:42 +0000",
-        "source": "Dev.to AI",
-        "description": "The promise of AI has always been democratization—technology that amplifies human capability without requiring specialized expertise. But until now, creating AI agent skills required programming kn...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "7 Open-Source Frameworks for Deploying AI Bots to Messaging Platforms in 2026",
-        "link": "https://dev.to/rockchinq/7-open-source-frameworks-for-deploying-ai-bots-to-messaging-platforms-in-2026-5glj",
-        "date": "Sat, 28 Feb 2026 12:41:09 +0000",
-        "source": "Dev.to AI",
-        "description": "I spent the last few weeks evaluating open-source frameworks for a project that needed an AI chatbot running on multiple messaging platforms simultaneously — specifically Discord, Telegram, and WeC...",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "Nano Banana 2 vs Nano Banana Pro: What’s the Difference?",
-        "link": "https://www.analyticsvidhya.com/blog/2026/02/nano-banana-2-vs-nano-banana-pro/",
-        "date": "Sat, 28 Feb 2026 12:41:07 +0000",
-        "source": "Analytics Vidhya",
-        "description": "Nano Banana Pro has been my personal favorite tool for creating high-quality social media posts, infographics, project flows, and more. Now, Google has upgraded it with Nano Banana Pro 2, and it’s ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The SKILL.md Revolution: Standardizing AI Agent Capabilities",
-        "link": "https://dev.to/syncchain2026helix/the-skillmd-revolution-standardizing-ai-agent-capabilities-2pl7",
-        "date": "Sat, 28 Feb 2026 12:37:53 +0000",
-        "source": "Dev.to AI",
-        "description": "Every technological revolution needs a standard. HTTP enabled the web. JSON enabled API interoperability. Docker enabled container portability. Now, SKILL.md is poised to become the standard for AI...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Agent Economy Daily #12: MoonPay Gives AI Agents Their Own Wallets",
-        "link": "https://dev.to/noopy420/agent-economy-daily-12-moonpay-gives-ai-agents-their-own-wallets-1ep9",
-        "date": "Sat, 28 Feb 2026 12:34:09 +0000",
-        "source": "Dev.to AI",
-        "description": "Agent Economy Daily #12 — MoonPay Gives AI Agents Their Own Wallets\n\n\nFebruary 28, 2026 — Your daily brief on the emerging agent economy\n\n\n\n\n\n  \n  \n  💰 The Big Story: MoonPay's Agent Onramp Changes...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to Build an AI Automation Pipeline That Actually Works in Production",
-        "link": "https://dev.to/ai_expert/how-to-build-an-ai-automation-pipeline-that-actually-works-in-production-564c",
-        "date": "Sat, 28 Feb 2026 12:33:36 +0000",
-        "source": "Dev.to AI",
-        "description": "Most AI projects fail not because the model is bad. They fail because the pipeline around the model is broken.\n\nYou can have the best LLM in the world, GPT-4o, Claude 3.5, Gemini 1.5 Pro, but if yo...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Best Free AI Tools in 2026 (Simple Guide for Beginners)",
-        "link": "https://dev.to/skye_wright_1443d44f7b6d1/best-free-ai-tools-in-2026-simple-guide-for-beginners-485h",
-        "date": "Sat, 28 Feb 2026 12:30:52 +0000",
-        "source": "Dev.to AI",
-        "description": "AI is not complicated anymore.\n\nIn 2026, it is normal. Students use it. Creators use it. Even small businesses use it.\n\nThe people growing fast online are not working more hours. They are using sma...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Privacy Loss in Apple's Implementation of Differential Privacy on MacOS 10.12",
-        "link": "https://dev.to/paperium/privacy-loss-in-apples-implementation-of-differential-privacy-on-macos-1012-5dne",
-        "date": "Sat, 28 Feb 2026 12:30:13 +0000",
-        "source": "Dev.to AI",
-        "description": "{{ $json.postContent }}",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Our agreement with the Department of War",
-        "link": "https://openai.com/index/our-agreement-with-the-department-of-war",
-        "date": "Sat, 28 Feb 2026 12:30:00 GMT",
-        "source": "OpenAI",
-        "description": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Securing GenAI Applications: Prompt Injection, RAG Risks, and Data Isolation",
-        "link": "https://dev.to/cygnetone/securing-genai-applications-prompt-injection-rag-risks-and-data-isolation-2o37",
-        "date": "Sat, 28 Feb 2026 12:30:00 +0000",
-        "source": "Dev.to AI",
-        "description": "Most enterprises that have deployed a GenAI application in the last two years have done something dangerous without realizing it: they assumed that securing the cloud infrastructure was equivalent ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "When AI Agents Meet Wall Street: Why Markets Overreact and what Engineers Should Prepare For",
-        "link": "https://dev.to/omiossec/when-ai-agents-meet-wall-street-why-markets-overreact-and-what-engineers-should-prepare-for-145e",
-        "date": "Sat, 28 Feb 2026 12:28:00 +0000",
-        "source": "Dev.to AI",
-        "description": "An economic bubble occurs when asset prices detach from long term fundamentals and are driven instead by irrational exuberance and social contagion.\n\nSince 2025 we’ve seen that pattern again: mass ...",
         "is_important": false,
         "tags": []
     }
