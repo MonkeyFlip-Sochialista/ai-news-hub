@@ -20707,6 +20707,147 @@
         "is_important": false
     },
     {
+        "title": "Why I Run 9 AI Agents on a $50/Month Server Instead of the Cloud",
+        "link": "https://dev.to/jarveyspecter/why-i-run-9-ai-agents-on-a-50month-server-instead-of-the-cloud-111n",
+        "date": "Sun, 08 Mar 2026 18:40:40 +0000",
+        "source": "Dev.to AI",
+        "description": "Last month someone asked me what it costs to run 23 AI agents across five businesses. When I told them the infrastructure was $50 a month, they assumed I meant per agent.\n\nI meant total.\n\nNot per a...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The 5-Minute Rule for AI Agent Tasks (And Why Most Agents Fail It)",
+        "link": "https://dev.to/jarveyspecter/the-5-minute-rule-for-ai-agent-tasks-and-why-most-agents-fail-it-133f",
+        "date": "Sun, 08 Mar 2026 18:39:52 +0000",
+        "source": "Dev.to AI",
+        "description": "Here is a rule I wish someone had told me before I spent six months debugging slow agents: if a task takes a competent human 5 minutes, your agent should complete it in under 30 seconds.\n\nNot event...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Let an AI Agent Manage My Emails for 30 Days. Here's What Broke.",
+        "link": "https://dev.to/jarveyspecter/i-let-an-ai-agent-manage-my-emails-for-30-days-heres-what-broke-4n12",
+        "date": "Sun, 08 Mar 2026 18:39:01 +0000",
+        "source": "Dev.to AI",
+        "description": "Thirty days ago I handed my email inbox to an AI agent called Donna and told her to manage it.\n\nNot assist with it. Manage it. Triage, flag, draft replies, decide what needed my attention and what ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How I Give AI Agents Long-Term Memory (And Why It Changes Everything)",
+        "link": "https://dev.to/jarveyspecter/how-i-give-ai-agents-long-term-memory-and-why-it-changes-everything-57pd",
+        "date": "Sun, 08 Mar 2026 18:38:14 +0000",
+        "source": "Dev.to AI",
+        "description": "Every AI agent I have ever run starts each session as a blank slate. No memory of what happened yesterday. No recollection of the decision you made three weeks ago. No idea that you already told it...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Replaced 3 SaaS Tools With One AI Agent (Here's How)",
+        "link": "https://dev.to/clamper_ai/i-replaced-3-saas-tools-with-one-ai-agent-heres-how-2p5c",
+        "date": "Sun, 08 Mar 2026 18:36:25 +0000",
+        "source": "Dev.to AI",
+        "description": "As a solopreneur, every subscription adds up. I was paying for:\n\n\n\nZapier ($29/mo) — workflow automation\n\nBuffer ($15/mo) — social media scheduling\n\nNotion AI ($10/mo) — writing assistant\n\n\nThat's ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenClaw vs AutoGPT: Which AI Agent Framework Actually Works in 2026?",
+        "link": "https://dev.to/clamper_ai/openclaw-vs-autogpt-which-ai-agent-framework-actually-works-in-2026-g4h",
+        "date": "Sun, 08 Mar 2026 18:36:04 +0000",
+        "source": "Dev.to AI",
+        "description": "I've been running AI agents daily for months now. Not as a demo. Not as a weekend project. As my actual workflow — managing emails, deploying code, scheduling posts, even generating video content.\n...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "How I Built a Skill Marketplace for AI Agents (And Why It Matters)",
+        "link": "https://dev.to/clamper_ai/how-i-built-a-skill-marketplace-for-ai-agents-and-why-it-matters-2mgn",
+        "date": "Sun, 08 Mar 2026 18:35:47 +0000",
+        "source": "Dev.to AI",
+        "description": "AI agents are only as useful as the tools they can access. That's why I built Clamper — a toolkit for OpenClaw that makes it dead simple to add skills to your AI agent.\n\n\n  \n  \n  The Problem\n\n\nMost...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why Tenant Onboarding Still Starts With Manual Data Entry",
+        "link": "https://dev.to/scannyai/why-tenant-onboarding-still-starts-with-manual-data-entry-12dp",
+        "date": "Sun, 08 Mar 2026 18:34:17 +0000",
+        "source": "Dev.to AI",
+        "description": "Tenant onboarding should be a simple process.\n\nA tenant submits an application, provides identification and the property manager records the details in the system. In reality the process is often s...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI 产品发布中，一个被忽视但极其重要的“Beta 用户分批释放”策略",
+        "link": "https://dev.to/iris1031/ai-chan-pin-fa-bu-zhong-ge-bei-hu-shi-dan-ji-qi-zhong-yao-de-beta-yong-hu-fen-pi-shi-fang-ce-lue-1m83",
+        "date": "Sun, 08 Mar 2026 18:33:11 +0000",
+        "source": "Dev.to AI",
+        "description": "AI 产品发布中，一个被忽视但极其重要的“Beta 用户分批释放”策略\n\n\n在 AI 产品发布中，很多团队都急于一次性将产品全部上线，结果导致服务器负载过高、性能瓶颈暴露或者用户体验不佳。一个被忽视但非常实操的技巧是——通过分批释放 Beta 用户，实现平滑上线和持续反馈迭代。\n\n\n\n\n\n  \n  \n  为什么选择“分批释放 Beta 用户”？\n\n\nAI 产品往往依赖复杂模型和大量数据，系统...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Revolutionize AI Conversations and Your Revenue with Monetzly",
+        "link": "https://dev.to/monetzly_llm/revolutionize-ai-conversations-and-your-revenue-with-monetzly-247l",
+        "date": "Sun, 08 Mar 2026 18:21:39 +0000",
+        "source": "Dev.to AI",
+        "description": "Most AI apps fail to monetize because they copy outdated models. As developers, we pour countless hours into creating innovative solutions, yet many of us leave money on the table. What if I told y...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Overcoming Forgetting in Federated Learning on Non-IID Data",
+        "link": "https://dev.to/paperium/overcoming-forgetting-in-federated-learning-on-non-iid-data-18ki",
+        "date": "Sun, 08 Mar 2026 18:20:06 +0000",
+        "source": "Dev.to AI",
+        "description": "{{ $json.postContent }}",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Local AI Hardware Guide (2026)",
+        "link": "https://dev.to/axrisi/the-local-ai-hardware-guide-2026-4mk",
+        "date": "Sun, 08 Mar 2026 18:17:39 +0000",
+        "source": "Dev.to AI",
+        "description": "If you are trying to build a machine to run local AI agents, stop building it like a gaming PC.\n\n\n\n  \n  \n\n\n\nMost people make the mistake of prioritizing a faster processor and a powerful GPU with h...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Owner of ICE detention facility sees big opportunity in AI man camps",
+        "link": "https://techcrunch.com/2026/03/08/owner-of-ice-detention-facility-sees-big-opportunity-in-ai-man-camps/",
+        "date": "Sun, 08 Mar 2026 16:30:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Study Finds That Execs Are Outsourcing Their Thinking to AI",
+        "link": "https://futurism.com/artificial-intelligence/ai-executive-thinking-survey",
+        "date": "Sun, 08 Mar 2026 14:15:00 -0400",
+        "source": "Futurism AI",
+        "description": "How ironic.\nThe post Study Finds That Execs Are Outsourcing Their Thinking to AI appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI allows hackers to identify anonymous social media accounts, study finds",
+        "link": "https://www.theguardian.com/technology/2026/mar/08/ai-hackers-social-media-accounts-study",
+        "date": "Sun, 08 Mar 2026 14:00:26 GMT",
+        "source": "The Guardian AI",
+        "description": "New research suggests tech behind AI platforms such as ChatGPT makes it easier to perform sophisticated privacy attacksAI has made it vastly easier for malicious hackers to identify anonymous socia...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Sony WH-1000XM6 review: Still the king of ANC headphones? My verdict after months of testing",
         "link": "https://www.zdnet.com/article/sony-wh100xm6-review/",
         "date": "Sun, 08 Mar 2026 13:01:03 GMT",
@@ -20841,6 +20982,17 @@
         "tags": []
     },
     {
+        "title": "OpenAI’s Pivot Into Shopping Has Been a Disaster",
+        "link": "https://futurism.com/artificial-intelligence/openai-pivot-into-shopping-disaster",
+        "date": "Sun, 08 Mar 2026 12:45:00 -0400",
+        "source": "Futurism AI",
+        "description": "What's in store for OpenAI's push to turn ChatGPT into an all-in-one storefront? Not a lot.\nThe post OpenAI&#8217;s Pivot Into Shopping Has Been a Disaster appeared first on Futurism.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Apple AirPods Pro 3 review: I didn't think earbuds could pull off immersive ANC like this",
         "link": "https://www.zdnet.com/article/apple-airpods-pro-3-review/",
         "date": "Sun, 08 Mar 2026 12:00:47 GMT",
@@ -20870,11 +21022,29 @@
         "tags": []
     },
     {
+        "title": "A Machine Learning Engineer Thought He Was Safe From AI Layoffs. Then He Got Some Depressing News",
+        "link": "https://futurism.com/artificial-intelligence/machine-learning-engineer-safe-ai-layoffs",
+        "date": "Sun, 08 Mar 2026 12:00:00 -0400",
+        "source": "Futurism AI",
+        "description": "Talk about digging your own grave.\nThe post A Machine Learning Engineer Thought He Was Safe From AI Layoffs. Then He Got Some Depressing News appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Pyright Guide: Installation, Configuration, and Use Cases",
         "link": "https://www.analyticsvidhya.com/blog/2026/03/pyright-guide/",
         "date": "Sun, 08 Mar 2026 11:53:28 +0000",
         "source": "Analytics Vidhya",
         "description": "Have you ever wanted&#160;faster type checking for Python without slowing down your workflow? Tools like MyPy can catch type errors, but they often feel slow or disconnected from the editor experie...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Using AI to Do Your Taxes Is Likely to Backfire Spectacularly",
+        "link": "https://futurism.com/artificial-intelligence/taxes-with-ai-disaster",
+        "date": "Sun, 08 Mar 2026 11:15:00 -0400",
+        "source": "Futurism AI",
+        "description": "As tempting as the idea may be: don't.\nThe post Using AI to Do Your Taxes Is Likely to Backfire Spectacularly appeared first on Futurism.",
         "is_important": false,
         "tags": []
     },
@@ -21190,159 +21360,5 @@
         "tags": [
             "🤖 Robótica"
         ]
-    },
-    {
-        "title": "My AI Agent Outgrew a Spreadsheet — Building Wiz 1.5",
-        "link": "https://dev.to/joozio/my-ai-agent-outgrew-a-spreadsheet-building-wiz-15-24pf",
-        "date": "Sun, 08 Mar 2026 02:05:18 +0000",
-        "source": "Dev.to AI",
-        "description": "My personal AI agent called Wiz went from a Notion-based task system to a native macOS app in three weeks.\n\nHere is what happened.\n\n\n  \n  \n  Week 1: Notion (broken immediately)\n\n\nTasks managed thro...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Why I Switched My AI Agent from Opus to Haiku (And It Got Better)",
-        "link": "https://dev.to/joozio/why-i-switched-my-ai-agent-from-opus-to-haiku-and-it-got-better-2c3b",
-        "date": "Sun, 08 Mar 2026 02:05:00 +0000",
-        "source": "Dev.to AI",
-        "description": "Running an AI agent on Claude Max costs $200 a month. I was hitting weekly usage limits by Friday at 70-80% capacity and almost switched platforms entirely.\n\nInstead, I discovered something counter...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Bose QuietComfort Ultra (2nd Gen) review: These headphones give Sony a run for its money",
-        "link": "https://www.zdnet.com/article/bose-quietcomfort-ultra-gen-2-review/",
-        "date": "Sun, 08 Mar 2026 01:14:00 GMT",
-        "source": "ZDNet AI",
-        "description": "With the QuietComfort Ultra Headphones 2, Bose is refining all the aspects it has already excelled at.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Samsung confirms smart glasses capabilities to compete with Meta Ray-Bans - what's coming",
-        "link": "https://www.zdnet.com/article/samsung-ai-smart-glasses-features/",
-        "date": "Sun, 08 Mar 2026 01:12:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The upcoming glasses will feature a camera at eye level and use AI to process and understand your visual context.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Google just gave Sundar Pichai a $692M pay package",
-        "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
-        "date": "Sun, 08 Mar 2026 00:20:10 +0000",
-        "source": "TechCrunch AI",
-        "description": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Hate Windows 11? You're gonna hate Windows 12 even more",
-        "link": "https://www.zdnet.com/article/windows-12-release-date-features-rumors-complaints/",
-        "date": "Sun, 08 Mar 2026 00:00:43 GMT",
-        "source": "ZDNet AI",
-        "description": "Commentary: Windows 12 in 2026? Don't believe the rumors. Here's the release date I'd bet on and why it's all downhill from there.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Policy Gradient Algorithms",
-        "link": "https://lilianweng.github.io/posts/2018-04-08-policy-gradient/",
-        "date": "Sun, 08 Apr 2018 00:00:00 +0000",
-        "source": "Lilian Weng",
-        "description": "[Updated on 2018-06-30: add two new policy gradient methods, SAC and D4PG.]\n\n[Updated on 2018-09-30: add a new policy gradient method, TD3.]\n\n[Updated on 2019-02-09: add SAC with automatically adju...",
-        "is_important": false
-    },
-    {
-        "title": "AI has no idea what it’s doing, but it’s threatening us all",
-        "link": "https://www.sciencedaily.com/releases/2025/09/250907172635.htm",
-        "date": "Sun, 07 Sep 2025 21:23:41 EDT",
-        "source": "ScienceDaily AI",
-        "description": "Artificial intelligence is reshaping law, ethics, and society at a speed that threatens fundamental human dignity. Dr. Maria Randazzo of Charles Darwin University warns that current regulation fail...",
-        "is_important": false
-    },
-    {
-        "title": "Exploration Strategies in Deep Reinforcement Learning",
-        "link": "https://lilianweng.github.io/posts/2020-06-07-exploration-drl/",
-        "date": "Sun, 07 Jun 2020 00:00:00 +0000",
-        "source": "Lilian Weng",
-        "description": "[Updated on 2020-06-17: Add &ldquo;exploration via disagreement&rdquo; in the &ldquo;Forward Dynamics&rdquo; section.\nExploitation versus exploration is a critical topic in Reinforcement Learning. ...",
-        "is_important": false
-    },
-    {
-        "title": "Extrinsic Hallucinations in LLMs",
-        "link": "https://lilianweng.github.io/posts/2024-07-07-hallucination/",
-        "date": "Sun, 07 Jul 2024 00:00:00 +0000",
-        "source": "Lilian Weng",
-        "description": "Hallucination in large language models usually refers to the model generating unfaithful, fabricated, inconsistent, or nonsensical content. As a term, hallucination has been somewhat generalized to...",
-        "is_important": false
-    },
-    {
-        "title": "Introducing the Open Leaderboard for Hebrew LLMs!",
-        "link": "https://huggingface.co/blog/leaderboard-hebrew",
-        "date": "Sun, 05 May 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Domain Randomization for Sim2Real Transfer",
-        "link": "https://lilianweng.github.io/posts/2019-05-05-domain-randomization/",
-        "date": "Sun, 05 May 2019 00:00:00 +0000",
-        "source": "Lilian Weng",
-        "description": "In Robotics, one of the hardest problems is how to make your model transfer to the real world. Due to the sample inefficiency of deep RL algorithms and the cost of data collection on real robots, w...",
-        "is_important": false
-    },
-    {
-        "title": "Learning with not Enough Data Part 1: Semi-Supervised Learning",
-        "link": "https://lilianweng.github.io/posts/2021-12-05-semi-supervised/",
-        "date": "Sun, 05 Dec 2021 00:00:00 +0000",
-        "source": "Lilian Weng",
-        "description": "When facing a limited amount of labeled data for supervised learning tasks, four approaches are commonly discussed.",
-        "is_important": false
-    },
-    {
-        "title": "AI may not need massive training data after all",
-        "link": "https://www.sciencedaily.com/releases/2025/12/251228074457.htm",
-        "date": "Sun, 04 Jan 2026 19:08:41 EST",
-        "source": "ScienceDaily AI",
-        "description": "New research shows that AI doesn’t need endless training data to start acting more like a human brain. When researchers redesigned AI systems to better resemble biological brains, some models produ...",
-        "is_important": false
-    },
-    {
-        "title": "Can LLMs learn from a single example?",
-        "link": "https://www.fast.ai/posts/2023-09-04-learning-jumps/index.html",
-        "date": "Sun, 03 Sep 2023 14:00:00 GMT",
-        "source": "Fast.ai",
-        "description": "Summary: recently while fine-tuning a large language model (LLM) on multiple-choice science exam questions, we observed some highly unusual training loss curves. In particular, it appeared the mode...",
-        "is_important": false
-    },
-    {
-        "title": "Understanding complex trends with deep research",
-        "link": "https://openai.com/index/deep-research",
-        "date": "Sun, 02 Feb 2025 16:00:00 GMT",
-        "source": "OpenAI",
-        "description": "How OpenAI deep research helps Bain & Company understand complex industry trends.",
-        "is_important": false
-    },
-    {
-        "title": "Introducing deep research",
-        "link": "https://openai.com/index/introducing-deep-research",
-        "date": "Sun, 02 Feb 2025 16:00:00 GMT",
-        "source": "OpenAI",
-        "description": "An agent that uses reasoning to synthesize large amounts of online information and complete multi-step research tasks for you. Available to Pro users today, Plus and Team next.",
-        "is_important": false
-    },
-    {
-        "title": "What AI can tell us about microscope slides",
-        "link": "https://www.fast.ai/posts/2025-02-03-cpath-foundation/index.html",
-        "date": "Sun, 02 Feb 2025 14:00:00 GMT",
-        "source": "Fast.ai",
-        "description": "This article was originally posted on rachel.fast.ai, where Rachel has been writing about her journey as an AI researcher returning to school for immunology.",
-        "is_important": false
     }
 ]
