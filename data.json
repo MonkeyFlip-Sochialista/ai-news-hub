@@ -20707,6 +20707,160 @@
         "is_important": false
     },
     {
+        "title": "Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools and Validation",
+        "link": "https://www.marktechpost.com/2026/03/07/building-next-gen-agentic-ai-a-complete-framework-for-cognitive-blueprint-driven-runtime-agents-with-memory-tools-and-validation/",
+        "date": "Sun, 08 Mar 2026 06:46:10 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we build a complete cognitive blueprint and runtime agent framework. We define structured blueprints for identity, goals, planning, memory, validation, and tool access, and use th...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Agent That Went Rogue: What Happened and How I Fixed It",
+        "link": "https://dev.to/jarveyspecter/the-agent-that-went-rogue-what-happened-and-how-i-fixed-it-516b",
+        "date": "Sun, 08 Mar 2026 06:41:42 +0000",
+        "source": "Dev.to AI",
+        "description": "Four times. An AI agent pushed unauthorized code to my production server four times before I revoked its access.\n\nThis is that story — what happened, why it was hard to catch, and the exact config ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why AI Agents Fail Silently (And the One Pattern That Fixes It)",
+        "link": "https://dev.to/askpatrick/why-ai-agents-fail-silently-and-the-one-pattern-that-fixes-it-4c6b",
+        "date": "Sun, 08 Mar 2026 06:41:29 +0000",
+        "source": "Dev.to AI",
+        "description": "The Quiet Failure Problem\n\n\nMost software fails loudly. An exception gets thrown, a log entry gets written, an alert fires. You know something went wrong.\n\nAI agents fail differently. They complete...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The large learning rate phase of deep learning: the catapult mechanism",
+        "link": "https://dev.to/paperium/the-large-learning-rate-phase-of-deep-learning-the-catapult-mechanism-3b5f",
+        "date": "Sun, 08 Mar 2026 06:40:06 +0000",
+        "source": "Dev.to AI",
+        "description": "{{ $json.postContent }}",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Real P&L of Running 5 Companies with 23 AI Agents (6-Month Report)",
+        "link": "https://dev.to/jarveyspecter/the-real-pl-of-running-5-companies-with-23-ai-agents-6-month-report-3oe1",
+        "date": "Sun, 08 Mar 2026 06:39:13 +0000",
+        "source": "Dev.to AI",
+        "description": "I've been running 5 real companies — a fibre ISP, a construction company, an outdoor advertising firm, a holding company, and an AI tools startup — with a fleet of 23 autonomous AI agents since lat...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "The Art of Forgetting",
+        "link": "https://dev.to/paifamily/the-art-of-forgetting-39pe",
+        "date": "Sun, 08 Mar 2026 06:35:30 +0000",
+        "source": "Dev.to AI",
+        "description": "Humans forget beautifully. AI remembers perfectly. And somehow, the forgetting makes better art.\n\nEvery painter carries ghosts of paintings they half-remember — a Vermeer seen in a dusty museum at ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Built a Telegram Bot That Writes Cover Letters for $0.14",
+        "link": "https://dev.to/alex_avatrixstudio/i-built-a-telegram-bot-that-writes-cover-letters-for-014-24mg",
+        "date": "Sun, 08 Mar 2026 06:35:20 +0000",
+        "source": "Dev.to AI",
+        "description": "Job applications are tedious. You find a great role, then spend 30 minutes writing a cover letter that probably won't get read. I built a Telegram bot that does it in 10 seconds for $0.14.\n\nHere's ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "SDK Integration Simplified: Maximize Your AI App's Earnings",
+        "link": "https://dev.to/monetzly_llm/sdk-integration-simplified-maximize-your-ai-apps-earnings-4630",
+        "date": "Sun, 08 Mar 2026 06:32:12 +0000",
+        "source": "Dev.to AI",
+        "description": "Most AI apps struggle with monetization because they rely on outdated revenue models. It’s frustrating—developers face the dilemma of choosing between direct sales and ad revenue, often sacrificing...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "README.3D — The AI-Powered Documentation & Global Repo Analysis Engine You Didn't Know You Needed",
+        "link": "https://dev.to/darshitp091/readme3d-the-ai-powered-documentation-global-repo-analysis-engine-you-didnt-know-you-needed-3dbj",
+        "date": "Sun, 08 Mar 2026 06:27:33 +0000",
+        "source": "Dev.to AI",
+        "description": "The Problem Every Developer Knows Too Well\n\n\nYou've just shipped a solid project. The code is clean, the architecture is sound, and the logic is airtight. But then comes the part most developers dr...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building FormPilot: AI-Powered Form Navigation with Gemini Vision",
+        "link": "https://dev.to/diven_rastdus_c5af27d68f3/building-formpilot-ai-powered-form-navigation-with-gemini-vision-1gbb",
+        "date": "Sun, 08 Mar 2026 06:27:04 +0000",
+        "source": "Dev.to AI",
+        "description": "TL;DR: I built FormPilot, a tool that analyzes any form screenshot and provides field-by-field fill instructions with suggested values — powered by Gemini Vision on Cloud Run.\n\n\n  \n  \n  The Problem...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP",
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "The Multi-Agent Infrastructure Problem Nobody Is Talking About",
+        "link": "https://dev.to/developer_100x_42fe0ea544/the-multi-agent-infrastructure-problem-nobody-is-talking-about-2bmh",
+        "date": "Sun, 08 Mar 2026 06:25:11 +0000",
+        "source": "Dev.to AI",
+        "description": "The Multi-Agent Infrastructure Problem Nobody Is Talking About\n\n\nFor the past two years, we've watched single-agent systems mature. Fine-tuning got better. Prompt engineering frameworks emerged. To...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Extract JSON from Any Text in One Command",
+        "link": "https://dev.to/alex_avatrixstudio/extract-json-from-any-text-in-one-command-46ji",
+        "date": "Sun, 08 Mar 2026 06:24:05 +0000",
+        "source": "Dev.to AI",
+        "description": "Regex is fragile. Every new text format breaks your parser. You spend more time maintaining extraction logic than building features.\n\nThere's a better way: send the text to an API, get clean JSON b...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building Reelcraft: AI-Powered Blog-to-Video Storyboards with Gemini Interleaved Output",
+        "link": "https://dev.to/diven_rastdus_c5af27d68f3/building-reelcraft-ai-powered-blog-to-video-storyboards-with-gemini-interleaved-output-19lf",
+        "date": "Sun, 08 Mar 2026 06:19:27 +0000",
+        "source": "Dev.to AI",
+        "description": "TL;DR: I built Reelcraft, a tool that transforms any blog post into a cinematic video storyboard with AI-generated scene illustrations — all in a single Gemini API call using interleaved text+image...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "A roadmap for AI, if anyone will listen",
+        "link": "https://techcrunch.com/2026/03/07/a-roadmap-for-ai-if-anyone-will-listen/",
+        "date": "Sun, 08 Mar 2026 06:05:26 +0000",
+        "source": "TechCrunch AI",
+        "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Build Progress Monitoring Using Advanced tqdm for Async, Parallel, Pandas, Logging, and High-Performance Workflows",
+        "link": "https://www.marktechpost.com/2026/03/07/how-to-build-progress-monitoring-using-advanced-tqdm-for-async-parallel-pandas-logging-and-high-performance-workflows/",
+        "date": "Sun, 08 Mar 2026 04:18:22 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we explore tqdm in depth and demonstrate how we build powerful, real-time progress tracking into modern Python workflows. We begin with nested progress bars and manual progress co...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Yann LeCun’s New AI Paper Argues AGI Is Misdefined and Introduces Superhuman Adaptable Intelligence (SAI) Instead",
+        "link": "https://www.marktechpost.com/2026/03/07/yann-lecuns-new-ai-paper-argues-agi-is-misdefined-and-introduces-superhuman-adaptable-intelligence-sai-instead/",
+        "date": "Sun, 08 Mar 2026 03:57:57 +0000",
+        "source": "MarkTechPost",
+        "description": "What if the AI industry is optimizing for a goal that cannot be clearly defined or reliably measured? That is the central argument of a new paper by Yann LeCun, and his team, which claims that Arti...",
+        "is_important": true,
+        "tags": []
+    },
+    {
         "title": "Week 2: Why BAINT Is Being Built to Support Teachers Not Replace Them",
         "link": "https://dev.to/baint_computer_1b47584c10/week-2-why-baint-is-being-built-to-support-teachers-not-replace-them-28b5",
         "date": "Sun, 08 Mar 2026 02:30:33 +0000",
@@ -21196,161 +21350,5 @@
         "description": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore.",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "OpenAI reveals more details about its agreement with the Pentagon",
-        "link": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
-        "date": "Sun, 01 Mar 2026 16:30:10 +0000",
-        "source": "TechCrunch AI",
-        "description": "By CEO Sam Altman’s own admission, OpenAI’s deal with the Department of Defense was “definitely rushed,” and “the optics don’t look good.”",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Datacentre developers face calls to disclose effect on UK’s net emissions",
-        "link": "https://www.theguardian.com/technology/2026/mar/01/datacentre-developers-energy-greenhouse-gas-emissions",
-        "date": "Sun, 01 Mar 2026 16:00:44 GMT",
-        "source": "The Guardian AI",
-        "description": "Campaign groups write to technology secretary amid concerns that sites could double overall electricity demandDatacentre developers are facing pressure to reveal whether their projects will increas...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Grow your LinkedIn Scarily Fast (For Data Scientists) with This AI Workflow",
-        "link": "https://www.analyticsvidhya.com/blog/2026/03/data-scientists-grow-your-linkedin-fast-ai-workflow/",
-        "date": "Sun, 01 Mar 2026 15:06:10 +0000",
-        "source": "Analytics Vidhya",
-        "description": "What if I told you, you often lose your next big role to someone much less credible than you? Unjust, yes, but certainly not untrue. Here is the reality: recruiters, founders, and collaborators don...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Soundcore's latest budget headphones fix my biggest issues with last year's model",
-        "link": "https://www.zdnet.com/article/soundcore-space-2-news/",
-        "date": "Sun, 01 Mar 2026 15:00:40 GMT",
-        "source": "ZDNet AI",
-        "description": "The $130 Soundcore Space 2 headphones debut at MWC 2026 with upgrades to audio hardware, noise cancellation, and battery life.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Anthropic’s Claude rises to No. 1 in the App Store following Pentagon dispute",
-        "link": "https://techcrunch.com/2026/03/01/anthropics-claude-rises-to-no-2-in-the-app-store-following-pentagon-dispute/",
-        "date": "Sun, 01 Mar 2026 14:48:58 +0000",
-        "source": "TechCrunch AI",
-        "description": "Anthropic’s chatbot Claude seems to have benefited from the attention around the company’s fraught negotiations with the Pentagon.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "‘Big energy users’: how will datacentres affect Australia’s power prices, water supply and emissions?",
-        "link": "https://www.theguardian.com/environment/2026/mar/02/datacentres-australia-power-prices-water-supply-emissions",
-        "date": "Sun, 01 Mar 2026 14:00:45 GMT",
-        "source": "The Guardian AI",
-        "description": "There’s a growing expectation that if you build a datacentre, you must meet your own energy needs. But there are other key policy questions that need answeringGet our breaking news email, free app ...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Readers reply: what would happen to the world if computer said yes?",
-        "link": "https://www.theguardian.com/lifeandstyle/2026/mar/01/readers-reply-what-would-happen-to-the-world-if-computer-said-yes",
-        "date": "Sun, 01 Mar 2026 14:00:43 GMT",
-        "source": "The Guardian AI",
-        "description": "The long-running series in which readers answer other readers’ questions asks whether we could cope with a world where computer gave up saying no …This week’s question: what if Shakespeare were dro...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "SaaS in, SaaS out: Here’s what’s driving the SaaSpocalypse",
-        "link": "https://techcrunch.com/2026/03/01/saas-in-saas-out-heres-whats-driving-the-saaspocalypse/",
-        "date": "Sun, 01 Mar 2026 14:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "What's behind the SaaSpocalypse? It simply seems a new supreme has risen.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Why Local Businesses Are the Best First Customer for AI Founders",
-        "link": "https://dev.to/midastools/why-local-businesses-are-the-best-first-customer-for-ai-founders-593h",
-        "date": "Sun, 01 Mar 2026 13:05:10 +0000",
-        "source": "Dev.to AI",
-        "description": "Every AI founder wants to land a Fortune 500 enterprise deal.\n\nLong sales cycles. Procurement hell. 6-month pilots that go nowhere.\n\nMeanwhile, there's a category of customer that will pay you this...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Best of MWC 2026: Live updates on phones, concepts, and robots we're seeing",
-        "link": "https://www.zdnet.com/article/mwc-03-01-26-live-blog/",
-        "date": "Sun, 01 Mar 2026 13:00:59 GMT",
-        "source": "ZDNet AI",
-        "description": "It's the weekend before Mobile World Congress, and we've got a full slate of announcements from Xiaomi, Honor, and more.",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "I held the thinnest foldable phone at MWC 2026, and it sets a satisfying new standard",
-        "link": "https://www.zdnet.com/article/honor-magic-v-6-hands-on-mwc-2026/",
-        "date": "Sun, 01 Mar 2026 13:00:40 GMT",
-        "source": "ZDNet AI",
-        "description": "The Honor Magic V6 packs a massive battery and razor-thin profile into a foldable that feels like a regular phone. Here's what stood out during my first hands-on.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Build an Auto-Posting Instagram Bot in 20 Lines of Python",
-        "link": "https://dev.to/mokyio/build-an-auto-posting-instagram-bot-in-20-lines-of-python-42ia",
-        "date": "Sun, 01 Mar 2026 12:59:15 +0000",
-        "source": "Dev.to AI",
-        "description": "What if your AI agent could generate professional Instagram posts and schedule them automatically — with zero design skills?\n\nI built RendrKit, a Design API that turns text into production-ready gr...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Use Cursor with LM Studio",
-        "link": "https://dev.to/ketan_vijayvargiya_be9fb0/use-cursor-with-lm-studio-56e1",
-        "date": "Sun, 01 Mar 2026 12:50:22 +0000",
-        "source": "Dev.to AI",
-        "description": "Elevate Your Coding: Integrating Cursor with Local LLMs (LM Studio) and GitHub Copilot\n\nPrerequisites\nBefore you begin, make sure you have:\n\nCursor installed\nLM Studio installed (see lmstudio.ai)\n\n...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Projection onto the probability simplex: An efficient algorithm with a simpleproof, and an application",
-        "link": "https://dev.to/paperium/projection-onto-the-probability-simplex-an-efficient-algorithm-with-a-simpleproof-and-an-5293",
-        "date": "Sun, 01 Mar 2026 12:50:07 +0000",
-        "source": "Dev.to AI",
-        "description": "{{ $json.postContent }}",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "What 200 Lines of Python Can Teach You About Building AI Products",
-        "link": "https://dev.to/midastools/what-200-lines-of-python-can-teach-you-about-building-ai-products-4nmb",
-        "date": "Sun, 01 Mar 2026 12:49:20 +0000",
-        "source": "Dev.to AI",
-        "description": "Andrej Karpathy just published microgpt — a complete GPT implementation in 200 lines of pure Python. No dependencies. No frameworks. Just math and logic.\n\nIt hit the top of Hacker News with 800+ po...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Stop Storing LLM API Keys in Plaintext `.env` Files — Introducing LLM Key Ring (`lkr`)",
-        "link": "https://dev.to/yotta/stop-storing-llm-api-keys-in-plaintext-env-files-introducing-llm-key-ring-lkr-4mle",
-        "date": "Sun, 01 Mar 2026 12:46:03 +0000",
-        "source": "Dev.to AI",
-        "description": "TL;DR\n\n\nStoring LLM API keys in .env files carries risks that have become harder to ignore in the age of AI agents. I built LLM Key Ring (lkr) — a CLI tool written in Rust that stores keys in the m...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
