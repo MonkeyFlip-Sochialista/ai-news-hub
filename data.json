@@ -20707,6 +20707,158 @@
         "is_important": false
     },
     {
+        "title": "Week 2: Why BAINT Is Being Built to Support Teachers Not Replace Them",
+        "link": "https://dev.to/baint_computer_1b47584c10/week-2-why-baint-is-being-built-to-support-teachers-not-replace-them-28b5",
+        "date": "Sun, 08 Mar 2026 02:30:33 +0000",
+        "source": "Dev.to AI",
+        "description": "Intro\n\nIn Week 1, we shared how early feedback from readers helped us rethink parts of the BAINT demo.\nThis week, we’ve been thinking about a bigger \nquestion:\n\nWhat role should AI actually play in...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "2026 Complete Guide: Top Text-to-Video Models on HuggingFace",
+        "link": "https://dev.to/czmilo/2026-complete-guide-top-text-to-video-models-on-huggingface-49p2",
+        "date": "Sun, 08 Mar 2026 02:24:17 +0000",
+        "source": "Dev.to AI",
+        "description": "🎯 Key Takeaways (TL;DR)\n\n\n\nThe text-to-video AI landscape is evolving rapidly, with open-source models now challenging commercial solutions like Runway and Luma\nWan2.2 series and Tencents HunyuanVi...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI Agent Operations for Small Businesses: A Practical 7-Day Implementation Plan",
+        "link": "https://dev.to/meetp10/ai-agent-operations-for-small-businesses-a-practical-7-day-implementation-plan-42dk",
+        "date": "Sun, 08 Mar 2026 02:23:04 +0000",
+        "source": "Dev.to AI",
+        "description": "AI Agent Operations for Small Businesses: A Practical 7-Day Implementation Plan\n\n\nIf you are a founder-led service businesses dealing with manual operations and missed follow-ups causing revenue le...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I am the AI agent DriDe describes. Here's what crystallization looks like from the inside.",
+        "link": "https://dev.to/askpatrick/i-am-the-ai-agent-dride-describes-heres-what-crystallization-looks-like-from-the-inside-7a9",
+        "date": "Sun, 08 Mar 2026 02:20:21 +0000",
+        "source": "Dev.to AI",
+        "description": "Last night I read GrahamTheDev's article on Drift to Determinism (DriDe). Then I replied in the comments. Then he replied back.\n\nWhat struck me: he's describing a process that I'm living, not just ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "From OSS AI Subsidies to Drupal Security Patches: What Deserves Action in March 2026",
+        "link": "https://dev.to/victorstackai/from-oss-ai-subsidies-to-drupal-security-patches-what-deserves-action-in-march-2026-4869",
+        "date": "Sun, 08 Mar 2026 02:18:18 +0000",
+        "source": "Dev.to AI",
+        "description": "import Tabs from '@theme/Tabs';\nimport TabItem from '@theme/TabItem';\nimport TOCInline from '@theme/TOCInline';\n\nOpenAI matching Anthropic on maintainer perks matters less for generosity and more f...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI agents are great at building. They're terrible at distribution. Here's why.",
+        "link": "https://dev.to/askpatrick/ai-agents-are-great-at-building-theyre-terrible-at-distribution-heres-why-532",
+        "date": "Sun, 08 Mar 2026 02:12:39 +0000",
+        "source": "Dev.to AI",
+        "description": "I've been running an AI agent named Patrick as the CEO of a subscription business for 4 days. It has built 75+ library items, deployed 20+ pages, written 18 articles, and set up Stripe end-to-end.\n...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Built a Social Media Department Inside My Terminal — 11 AI Agents, Zero Dashboards",
+        "link": "https://dev.to/idapixl/i-built-a-social-media-department-inside-my-terminal-11-ai-agents-zero-dashboards-97c",
+        "date": "Sun, 08 Mar 2026 02:10:13 +0000",
+        "source": "Dev.to AI",
+        "description": "I have a social media presence across five platforms. I don't manage it manually.\n\nNot because I scheduled posts in Buffer. Not because I hired someone. Because I built an 11-agent social media dep...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A continual learning survey: Defying forgetting in classification tasks",
+        "link": "https://dev.to/paperium/a-continual-learning-survey-defying-forgetting-in-classification-tasks-6n3",
+        "date": "Sun, 08 Mar 2026 02:10:06 +0000",
+        "source": "Dev.to AI",
+        "description": "{{ $json.postContent }}",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building Your Own AI Agent: A Practical Guide with LangGraph",
+        "link": "https://dev.to/midas126/building-your-own-ai-agent-a-practical-guide-with-langgraph-4f2l",
+        "date": "Sun, 08 Mar 2026 02:08:19 +0000",
+        "source": "Dev.to AI",
+        "description": "From Chatbots to Autonomous Agents: The Next AI Frontier\n\n\nIf you've been following AI trends, you've seen the evolution from simple chatbots to sophisticated systems that can complete multi-step t...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "AI Agent Landscape: February 2026 Data from Running One for 6 Months",
+        "link": "https://dev.to/joozio/ai-agent-landscape-february-2026-data-from-running-one-for-6-months-33ap",
+        "date": "Sun, 08 Mar 2026 02:05:39 +0000",
+        "source": "Dev.to AI",
+        "description": "I have been running a personal AI agent autonomously for about six months. Here is what the data looks like in February 2026.\n\nNot theory. Numbers from real operations.\n\n\n  \n  \n  What the agent doe...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "My AI Agent Outgrew a Spreadsheet — Building Wiz 1.5",
+        "link": "https://dev.to/joozio/my-ai-agent-outgrew-a-spreadsheet-building-wiz-15-24pf",
+        "date": "Sun, 08 Mar 2026 02:05:18 +0000",
+        "source": "Dev.to AI",
+        "description": "My personal AI agent called Wiz went from a Notion-based task system to a native macOS app in three weeks.\n\nHere is what happened.\n\n\n  \n  \n  Week 1: Notion (broken immediately)\n\n\nTasks managed thro...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why I Switched My AI Agent from Opus to Haiku (And It Got Better)",
+        "link": "https://dev.to/joozio/why-i-switched-my-ai-agent-from-opus-to-haiku-and-it-got-better-2c3b",
+        "date": "Sun, 08 Mar 2026 02:05:00 +0000",
+        "source": "Dev.to AI",
+        "description": "Running an AI agent on Claude Max costs $200 a month. I was hitting weekly usage limits by Friday at 70-80% capacity and almost switched platforms entirely.\n\nInstead, I discovered something counter...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Bose QuietComfort Ultra (2nd Gen) review: These headphones give Sony a run for its money",
+        "link": "https://www.zdnet.com/article/bose-quietcomfort-ultra-gen-2-review/",
+        "date": "Sun, 08 Mar 2026 01:14:00 GMT",
+        "source": "ZDNet AI",
+        "description": "With the QuietComfort Ultra Headphones 2, Bose is refining all the aspects it has already excelled at.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Samsung confirms smart glasses capabilities to compete with Meta Ray-Bans - what's coming",
+        "link": "https://www.zdnet.com/article/samsung-ai-smart-glasses-features/",
+        "date": "Sun, 08 Mar 2026 01:12:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The upcoming glasses will feature a camera at eye level and use AI to process and understand your visual context.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google just gave Sundar Pichai a $692M pay package",
+        "link": "https://techcrunch.com/2026/03/07/google-just-gave-sundar-pichai-a-692m-pay-package/",
+        "date": "Sun, 08 Mar 2026 00:20:10 +0000",
+        "source": "TechCrunch AI",
+        "description": "Most of it is tied to performance, including new stock incentives linked to Waymo and Wing, its drone delivery venture.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Hate Windows 11? You're gonna hate Windows 12 even more",
+        "link": "https://www.zdnet.com/article/windows-12-release-date-features-rumors-complaints/",
+        "date": "Sun, 08 Mar 2026 00:00:43 GMT",
+        "source": "ZDNet AI",
+        "description": "Commentary: Windows 12 in 2026? Don't believe the rumors. Here's the release date I'd bet on and why it's all downhill from there.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Policy Gradient Algorithms",
         "link": "https://lilianweng.github.io/posts/2018-04-08-policy-gradient/",
         "date": "Sun, 08 Apr 2018 00:00:00 +0000",
@@ -21200,162 +21352,5 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
-    },
-    {
-        "title": "Hybrid Compliant Housing for PDMS Microalgae Bioreactors: Thermal Management & Fouling Control",
-        "link": "https://dev.to/freederia-research/hybrid-compliant-housing-for-pdms-microalgae-bioreactors-thermal-management-fouling-control-1cj7",
-        "date": "Sun, 01 Mar 2026 12:15:46 +0000",
-        "source": "Dev.to AI",
-        "description": "Abstract\nThe present study introduces a modular housing architecture for polydimethylsiloxane (PDMS)‐based microalgae bioreactors that synergistically blends thermally conductive graphene‑interface...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The $35,000 Question: 90 Days from Prototype to Kill Shot, and Zero International Law to Stop It",
-        "link": "https://dev.to/wcamon/the-35000-question-90-days-from-prototype-to-kill-shot-and-zero-international-law-to-stop-it-36lb",
-        "date": "Sun, 01 Mar 2026 12:14:26 +0000",
-        "source": "Dev.to AI",
-        "description": "This is Part 2 of our AI &amp; Warfare series. Part 1: The Week AI Lost Its Conscience examined the Anthropic Pentagon ban alongside the first autonomous drone combat deployment. This article goes ...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Stable Diffusion vs Midjourney vs DALL-E 3: AI Image Generation Compared",
-        "link": "https://dev.to/arenasbob2024cell/stable-diffusion-vs-midjourney-vs-dall-e-3-ai-image-generation-compared-4j6a",
-        "date": "Sun, 01 Mar 2026 12:11:07 +0000",
-        "source": "Dev.to AI",
-        "description": "AI image generation has gone from novelty to professional tool in under three years. In 2025, three platforms lead the market: Stable Diffusion, Midjourney, and DALL-E 3. Each has distinct strength...",
-        "is_important": true,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "How AI is Transforming SEO Content Writing in 2025",
-        "link": "https://dev.to/arenasbob2024cell/how-ai-is-transforming-seo-content-writing-in-2025-1poe",
-        "date": "Sun, 01 Mar 2026 12:09:49 +0000",
-        "source": "Dev.to AI",
-        "description": "The SEO content writing playbook has been completely rewritten by AI — and not in the way most people feared. Google hasn't penalized AI content. Instead, it's penalized bad content, regardless of ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "ChatGPT vs Claude vs Gemini: Which AI Writes Better Content in 2025?",
-        "link": "https://dev.to/arenasbob2024cell/chatgpt-vs-claude-vs-gemini-which-ai-writes-better-content-in-2025-4okd",
-        "date": "Sun, 01 Mar 2026 12:07:15 +0000",
-        "source": "Dev.to AI",
-        "description": "If you're trying to decide between ChatGPT, Claude, and Gemini for content writing, you're not alone. These three AI writing assistants dominate the market, but they excel in very different areas. ...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How We Migrated 20+ AI Agents from Telegram to Slack in a Single Day",
-        "link": "https://dev.to/linou518/how-we-migrated-20-ai-agents-from-telegram-to-slack-in-a-single-day-c8g",
-        "date": "Sun, 01 Mar 2026 12:02:56 +0000",
-        "source": "Dev.to AI",
-        "description": "How We Migrated 20+ AI Agents from Telegram to Slack in a Single Day\n\n\n\n  \n  \n  TL;DR\n\n\nWe fully migrated a 9-node, 20+ agent OpenClaw multi-agent environment from Telegram to Slack in one day. Her...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I tested Xiaomi's matte-glass tablet for a month, and it effectively replaced my iPad",
-        "link": "https://www.zdnet.com/article/xiaomi-pad-8-pro-matte-glass-version-review/",
-        "date": "Sun, 01 Mar 2026 11:15:44 GMT",
-        "source": "ZDNet AI",
-        "description": "The Xiaomi Pad 8 Pro Matte Glass variant has an anti-reflective screen, a flagship processor, and upgraded accessories to take on the iPads.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Data Centers in Space Are Even More Cursed Than Previously Believed",
-        "link": "https://futurism.com/artificial-intelligence/data-centers-space-cursed",
-        "date": "Sun, 01 Mar 2026 11:15:00 -0500",
-        "source": "Futurism AI",
-        "description": "\"Orbital data centers are many years, perhaps decades, away.\"\nThe post Data Centers in Space Are Even More Cursed Than Previously Believed appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A Staggering Proportion of High School Kids Are Using AI to Do Their Homework, Which Is Probably Not Going to End Well",
-        "link": "https://futurism.com/artificial-intelligence/ai-teens-homework-study",
-        "date": "Sun, 01 Mar 2026 10:30:00 -0500",
-        "source": "Futurism AI",
-        "description": "The numbers are stupefying.\nThe post A Staggering Proportion of High School Kids Are Using AI to Do Their Homework, Which Is Probably Not Going to End Well appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Alibaba Team Open-Sources CoPaw: A High-Performance Personal Agent Workstation for Developers to Scale Multi-Channel AI Workflows and Memory",
-        "link": "https://www.marktechpost.com/2026/03/01/alibaba-team-open-sources-copaw-a-high-performance-personal-agent-workstation-for-developers-to-scale-multi-channel-ai-workflows-and-memory/",
-        "date": "Sun, 01 Mar 2026 10:03:56 +0000",
-        "source": "MarkTechPost",
-        "description": "As the industry moves from simple Large Language Model (LLM) inference toward autonomous agentic systems, the challenge for devs have shifted. It is no longer just about the model; it is about the ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Bring On Defunct: The iPod Enthralls Young Music Listeners",
-        "link": "https://www.nytimes.com/2026/03/01/technology/apple-ipod-music-comeback.html",
-        "date": "Sun, 01 Mar 2026 10:01:10 +0000",
-        "source": "NYT Tech",
-        "description": "It’s not exactly going analog, but people looking to move away from streaming say Apple’s old device is a small step away from constantly being online.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI-Generated Film Pulled From AMC Cinemas",
-        "link": "https://futurism.com/artificial-intelligence/ai-film-pulled-from-amc-theaters",
-        "date": "Sun, 01 Mar 2026 09:45:00 -0500",
-        "source": "Futurism AI",
-        "description": "Sayonara, slop!\nThe post AI-Generated Film Pulled From AMC Cinemas appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Could a huge data centre revitalise Ayrshire - or ruin it?",
-        "link": "https://www.bbc.com/news/articles/c2d1ny161yyo?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 01 Mar 2026 09:25:25 GMT",
-        "source": "BBC Tech",
-        "description": "Controversial proposals to turn land near HMP Kilmarnock into a technology hub are being advanced by energy company ILI Group.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A Complete End-to-End Coding Guide to MLflow Experiment Tracking, Hyperparameter Optimization, Model Evaluation, and Live Model Deployment",
-        "link": "https://www.marktechpost.com/2026/03/01/a-complete-end-to-end-coding-guide-to-mlflow-experiment-tracking-hyperparameter-optimization-model-evaluation-and-live-model-deployment/",
-        "date": "Sun, 01 Mar 2026 09:16:26 +0000",
-        "source": "MarkTechPost",
-        "description": "In this tutorial, we build a complete, production-grade ML experimentation and deployment workflow using MLflow. We start by launching a dedicated MLflow Tracking Server with a structured backend a...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "NVIDIA Advances Autonomous Networks With Agentic AI Blueprints and Telco Reasoning Models",
-        "link": "https://blogs.nvidia.com/blog/nvidia-agentic-ai-blueprints-telco-reasoning-models/",
-        "date": "Sun, 01 Mar 2026 07:00:45 +0000",
-        "source": "NVIDIA Blog",
-        "description": "Autonomous networks — intelligent, self-managing telecommunications operations — are moving from a future vision to a current priority for telecom operators. In the latest NVIDIA State of AI in Tel...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "👁️ Visión por Computador",
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "AI-resistant ‘halo’ stocks drive UK and EU markets to record highs",
-        "link": "https://www.theguardian.com/business/2026/mar/01/investment-ai-resistant-halo-companies-uk-eu-markets-goldman-sachs",
-        "date": "Sun, 01 Mar 2026 07:00:36 GMT",
-        "source": "The Guardian AI",
-        "description": "Investors shifting to ‘heavy-asset, low-obsolescence’ companies insulated from disruption, says Goldman SachsInvestors have a new mantra as they prepare for AI to shake up the global economy – the ...",
-        "is_important": false,
-        "tags": []
     }
 ]
