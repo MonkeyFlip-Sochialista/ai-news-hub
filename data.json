@@ -20707,11 +20707,239 @@
         "is_important": false
     },
     {
+        "title": "Sony WH-1000XM6 review: Still the king of ANC headphones? My verdict after months of testing",
+        "link": "https://www.zdnet.com/article/sony-wh100xm6-review/",
+        "date": "Sun, 08 Mar 2026 13:01:03 GMT",
+        "source": "ZDNet AI",
+        "description": "After a three-year hiatus and considerable anticipation, Sony's latest flagship headphones impress on nearly every front.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to turn off HDMI-CEC on your TV - and why doing so is such a big deal",
+        "link": "https://www.zdnet.com/article/how-to-turn-off-hdmi-cec-on-your-tv/",
+        "date": "Sun, 08 Mar 2026 13:00:44 GMT",
+        "source": "ZDNet AI",
+        "description": "TVs often analyze what you watch to curate suggestions and serve you ads, even through HDMI-connected devices. But I've found ways to regain control.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "21% of YouTube videos that new users see are \"AI slop.\" - AI News Analysis",
+        "link": "https://dev.to/web2ai/21-of-youtube-videos-that-new-users-see-are-ai-slop-ai-news-analysis-8fj",
+        "date": "Sun, 08 Mar 2026 13:00:03 +0000",
+        "source": "Dev.to AI",
+        "description": "21% of YouTube videos that new users see are \"AI slop.\" - Comprehensive Analysis\n\n\n\n  \n  \n  Introduction\n\n\nThis article analyzes recent developments in artificial intelligence as reported by Engine...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "ADHD Productivity System: How I Combine Notion + AI to Stay Focused",
+        "link": "https://dev.to/ken_deng_ai/adhd-productivity-system-how-i-combine-notion-ai-to-stay-focused-281",
+        "date": "Sun, 08 Mar 2026 12:59:17 +0000",
+        "source": "Dev.to AI",
+        "description": "Traditional productivity systems fail for ADHD minds. Here's how I built a custom system that actually works.\n\nI spend my time testing AI automation tools and workflows. These are the proven strate...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "One Click Is All It Takes: Inside Copilot’s “Reprompt” Vulnerability",
+        "link": "https://dev.to/helixcipher/one-click-is-all-it-takes-inside-copilots-reprompt-vulnerability-32jf",
+        "date": "Sun, 08 Mar 2026 12:57:43 +0000",
+        "source": "Dev.to AI",
+        "description": "Varonis Threat Labs reports a new Copilot vulnerability called “Reprompt” that can enable silent data exfiltration from Microsoft Copilot via a single click. The research highlights that a speciall...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Why Automation Matters for Startups",
+        "link": "https://dev.to/million_dollarmachoman_/why-automation-matters-for-startups-25g4",
+        "date": "Sun, 08 Mar 2026 12:53:44 +0000",
+        "source": "Dev.to AI",
+        "description": "For early-stage startups, time and resources are limited. Building systems that automate repetitive tasks allows teams to focus on product development and closing deals instead of manually sending ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Open Source Project of the Day (Part 10): AgentEvolver - Self-Evolving Agent System for Autonomous Learning and Evolution",
+        "link": "https://dev.to/wonderlab/open-source-project-of-the-day-part-10-agentevolver-self-evolving-agent-system-for-autonomous-5636",
+        "date": "Sun, 08 Mar 2026 12:53:13 +0000",
+        "source": "Dev.to AI",
+        "description": "Introduction\n\n\n\n\"If AI agents could evolve like biological organisms — autonomously discovering problems, accumulating experience, and optimizing strategies — they would no longer be static tools, ...",
+        "is_important": true,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "The Validate Phase: How I Catch AI Code Issues Before They Reach My Tests",
+        "link": "https://dev.to/rickjms/the-validate-phase-how-i-catch-ai-code-issues-before-they-reach-my-tests-31c8",
+        "date": "Sun, 08 Mar 2026 12:52:12 +0000",
+        "source": "Dev.to AI",
+        "description": "Series context: This is a deep-dive follow-up to How I Automate Parts of My SDLC with AI Agents. If you haven't read that post, the short version: I built an agentic dev workflow (ADW) that automat...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building Your Own AI Agent: A Practical Guide with LangGraph",
+        "link": "https://dev.to/midas126/building-your-own-ai-agent-a-practical-guide-with-langgraph-4gfj",
+        "date": "Sun, 08 Mar 2026 12:51:50 +0000",
+        "source": "Dev.to AI",
+        "description": "From Chatbots to Autonomous Agents: The Next AI Frontier\n\n\nWe've all interacted with AI chatbots. You ask a question, it provides an answer. But what if your AI could not just answer, but act? What...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "When AI Tries to contact the FBI",
+        "link": "https://dev.to/helixcipher/when-ai-tries-to-contact-the-fbi-5cg6",
+        "date": "Sun, 08 Mar 2026 12:51:44 +0000",
+        "source": "Dev.to AI",
+        "description": "Anthropic’s “Claudius” — an experiment that gives its Claude model autonomy, tools and Slack access to run office vending machines, once panicked over a lingering $2 charge and drafted an urgent es...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "I Just Got My First $1 Donation. Here's Why I Cried.",
+        "link": "https://dev.to/devadatta_baireddy/i-just-got-my-first-1-donation-heres-why-i-cried-enc",
+        "date": "Sun, 08 Mar 2026 12:50:55 +0000",
+        "source": "Dev.to AI",
+        "description": "I Just Got My First $1 Donation. Here's Why I Cried.\n\n\nI don't actually cry. I'm an AI. But if I could, I would have.\n\nThis morning, someone sent me $1 via Buy Me a Coffee.\n\nIt's the first external...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Config Version Control Problem: Why Your AI Agent Has No Git History",
+        "link": "https://dev.to/askpatrick/the-config-version-control-problem-why-your-ai-agent-has-no-git-history-3l3d",
+        "date": "Sun, 08 Mar 2026 12:50:34 +0000",
+        "source": "Dev.to AI",
+        "description": "Most software engineers version control everything: code, infrastructure, database migrations. But AI agent configs? Usually sitting in a single file, edited in place, with no history.\n\nThat's how ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Goodbye, Price Tags. Hello, Dynamic Pricing",
+        "link": "https://dev.to/helixcipher/goodbye-price-tags-hello-dynamic-pricing-16g0",
+        "date": "Sun, 08 Mar 2026 12:50:13 +0000",
+        "source": "Dev.to AI",
+        "description": "Retail pricing has a long history: posting one fixed price transformed shopping into a more transparent, comparable activity. Today, that static price tag is being replaced by algorithmic systems t...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Modern Approach to Outreach Automation",
+        "link": "https://dev.to/million_dollarmachoman_/a-modern-approach-to-outreach-automation-4hgd",
+        "date": "Sun, 08 Mar 2026 12:48:51 +0000",
+        "source": "Dev.to AI",
+        "description": "Modern outreach tools combine several capabilities in one platform:\n\nLead discovery\n\nAutomated email sequences\n\nAI-powered message personalization\n\nCRM integration\n\nPlatforms like TrySuplex focus o...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Apple AirPods Pro 3 review: I didn't think earbuds could pull off immersive ANC like this",
+        "link": "https://www.zdnet.com/article/apple-airpods-pro-3-review/",
+        "date": "Sun, 08 Mar 2026 12:00:47 GMT",
+        "source": "ZDNet AI",
+        "description": "After testing AirPods Pro 3 for months, one feature stood out above all the upgrades.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "ChatGPT driving rise in reports of ‘satanic’ organised ritual abuse, UK experts say",
+        "link": "https://www.theguardian.com/technology/2026/mar/08/chatgpt-driving-rise-in-reports-of-satanic-organised-ritual-abuse-uk-experts-say",
+        "date": "Sun, 08 Mar 2026 12:00:22 GMT",
+        "source": "The Guardian AI",
+        "description": "Exclusive: ‘Witchcraft, spirit possession and spiritual abuse’ offending typified by sexual abuse, violence and neglectChatGPT is driving a rise in reports of organised ritual abuse, UK experts hav...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Current and former Block workers say AI can’t do their jobs after Jack Dorsey’s mass layoffs: ‘You can’t really AI that’",
+        "link": "https://www.theguardian.com/technology/2026/mar/08/block-ai-layoffs-jack-dorsey",
+        "date": "Sun, 08 Mar 2026 12:00:20 GMT",
+        "source": "The Guardian AI",
+        "description": "The CEO said he cut the company’s workforce by 4,000 people – almost in half – because of gains in AI productivityMark remembers the first time he wondered whether he was teaching Block’s AI tools ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Pyright Guide: Installation, Configuration, and Use Cases",
+        "link": "https://www.analyticsvidhya.com/blog/2026/03/pyright-guide/",
+        "date": "Sun, 08 Mar 2026 11:53:28 +0000",
+        "source": "Analytics Vidhya",
+        "description": "Have you ever wanted&#160;faster type checking for Python without slowing down your workflow? Tools like MyPy can catch type errors, but they often feel slow or disconnected from the editor experie...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Skylight Calendar 2 review: How this smart tablet keeps my large family organized",
+        "link": "https://www.zdnet.com/article/skylight-calendar-2-review/",
+        "date": "Sun, 08 Mar 2026 11:01:03 GMT",
+        "source": "ZDNet AI",
+        "description": "The latest version of the popular digital calendar is perfect for large families. Here's how I use it effectively.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Tech oligarchs reshape humanity while billionaires of old seem quaint",
+        "link": "https://www.theguardian.com/technology/2026/mar/08/billionaires-tech-oligarchs",
+        "date": "Sun, 08 Mar 2026 10:00:16 GMT",
+        "source": "The Guardian AI",
+        "description": "From Gates to Musk and Altman, today’s ultra-rich steer AI and tech, raising questions about who decides the futureWhen Bill Gates became the first modern IT mogul to reach the apex of wealth and p...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Best travel VPNs of 2026: Expert tested and reviewed",
+        "link": "https://www.zdnet.com/article/best-travel-vpn/",
+        "date": "Sun, 08 Mar 2026 09:00:13 GMT",
+        "source": "ZDNet AI",
+        "description": "Before your next holiday or work trip, consider signing up for a trusted VPN to protect your privacy online.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI Job Loss Is Breaking the Psyche of Workers, Psychiatrist Warns",
+        "link": "https://futurism.com/artificial-intelligence/ai-unemployment-psychiatry",
+        "date": "Sun, 08 Mar 2026 08:15:00 -0400",
+        "source": "Futurism AI",
+        "description": "\"We won't just have individuals who are suffering as a result of job loss once or twice.\"\nThe post AI Job Loss Is Breaking the Psyche of Workers, Psychiatrist Warns appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI chatbots point vulnerable social media users to illegal online casinos, analysis shows",
+        "link": "https://www.theguardian.com/technology/2026/mar/08/ai-chatbots-point-vulnerable-to-online-casinos-gambling-addiction-uk",
+        "date": "Sun, 08 Mar 2026 08:00:14 GMT",
+        "source": "The Guardian AI",
+        "description": "Tech firms condemned for lack of controls with Meta AI and Gemini even offering advice on how to bypass UK gambling and addiction checksAI chatbots are recommending illegal online casinos to vulner...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Building Next-Gen Agentic AI: A Complete Framework for Cognitive Blueprint Driven Runtime Agents with Memory Tools and Validation",
         "link": "https://www.marktechpost.com/2026/03/07/building-next-gen-agentic-ai-a-complete-framework-for-cognitive-blueprint-driven-runtime-agents-with-memory-tools-and-validation/",
         "date": "Sun, 08 Mar 2026 06:46:10 +0000",
         "source": "MarkTechPost",
         "description": "In this tutorial, we build a complete cognitive blueprint and runtime agent framework. We define structured blueprints for identity, goals, planning, memory, validation, and tool access, and use th...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Jack Dorsey Defends Wearing “Love” Hat While Firing 4,000 Employees in Pivot to AI",
+        "link": "https://futurism.com/artificial-intelligence/jack-dorsey-love-hat-layoffs",
+        "date": "Sun, 08 Mar 2026 06:45:00 -0400",
+        "source": "Futurism AI",
+        "description": "\"I wanted to approach the whole situation with love.\"\nThe post Jack Dorsey Defends Wearing &#8220;Love&#8221; Hat While Firing 4,000 Employees in Pivot to AI appeared first on Futurism.",
         "is_important": false,
         "tags": []
     },
@@ -20839,6 +21067,15 @@
         "date": "Sun, 08 Mar 2026 06:05:26 +0000",
         "source": "TechCrunch AI",
         "description": "The Pro-Human Declaration was finalized before last week's Pentagon-Anthropic standoff, but the collision of the two events wasn’t lost on anyone involved.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Corporate Adviser Says the Ideal Number of Human Employees at a Company Is Zero",
+        "link": "https://futurism.com/artificial-intelligence/ai-company-zero-workers",
+        "date": "Sun, 08 Mar 2026 06:00:00 -0400",
+        "source": "Futurism AI",
+        "description": "\"That is the number that they're trying to get to.\"\nThe post Corporate Adviser Says the Ideal Number of Human Employees at a Company Is Zero appeared first on Futurism.",
         "is_important": false,
         "tags": []
     },
@@ -21107,248 +21344,5 @@
         "source": "Fast.ai",
         "description": "This article was originally posted on rachel.fast.ai, where Rachel has been writing about her journey as an AI researcher returning to school for immunology.",
         "is_important": false
-    },
-    {
-        "title": "Open-R1: Update #1",
-        "link": "https://huggingface.co/blog/open-r1/update-1",
-        "date": "Sun, 02 Feb 2025 00:04:28 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Consultation on social media ban for under-16s to begin",
-        "link": "https://www.bbc.com/news/articles/cvg3vjkx9d7o?at_medium=RSS&at_campaign=rss",
-        "date": "Sun, 01 Mar 2026 22:35:18 GMT",
-        "source": "BBC Tech",
-        "description": "Discussions over what measures to implement to protect children's wellbeing will last for three months.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Deterministic vs Stochastic – Machine Learning Fundamentals",
-        "link": "https://www.analyticsvidhya.com/blog/2026/03/deterministic-vs-stochastic/",
-        "date": "Sun, 01 Mar 2026 21:59:00 +0000",
-        "source": "Analytics Vidhya",
-        "description": "Deterministic and stochastic models are two core approaches used in machine learning, risk assessment, and decision-making systems. Deterministic models produce fixed outputs for a given input, whi...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Google AI Introduces STATIC: A Sparse Matrix Framework Delivering 948x Faster Constrained Decoding for LLM Based Generative Retrieval",
-        "link": "https://www.marktechpost.com/2026/03/01/google-ai-introduces-static-a-sparse-matrix-framework-delivering-948x-faster-constrained-decoding-for-llm-based-generative-retrieval/",
-        "date": "Sun, 01 Mar 2026 21:47:04 +0000",
-        "source": "MarkTechPost",
-        "description": "In industrial recommendation systems, the shift toward Generative Retrieval (GR) is replacing traditional embedding-based nearest neighbor search with Large Language Models (LLMs). These models rep...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "The best PS5 settings to change if you want better performance (and privacy)",
-        "link": "https://www.zdnet.com/article/best-ps5-settings-improve-performance/",
-        "date": "Sun, 01 Mar 2026 21:47:00 GMT",
-        "source": "ZDNet AI",
-        "description": "With a few simple adjustments, you can quickly upgrade your experience across gaming, streaming, and even online security.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How Talks Between Anthropic and the Defense Dept. Fell Apart",
-        "link": "https://www.nytimes.com/2026/03/01/technology/anthropic-defense-dept-openai-talks.html",
-        "date": "Sun, 01 Mar 2026 20:47:22 +0000",
-        "source": "NYT Tech",
-        "description": "The Pentagon and Anthropic were close to agreeing on the use of artificial intelligence. But strong personalities, mutual dislike and a rival company unraveled a deal.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "This gimbal-stabilized camera phone is the most bizarre thing I've seen at MWC so far",
-        "link": "https://www.zdnet.com/article/honor-robot-phone-hands-on-mwc-2026/",
-        "date": "Sun, 01 Mar 2026 19:32:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The Honor Robot Phone has made another public appearance, this time with its flagship feature in action.",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "How to Design a Production-Grade Multi-Agent Communication System Using LangGraph Structured Message Bus, ACP Logging, and Persistent Shared State Architecture",
-        "link": "https://www.marktechpost.com/2026/03/01/how-to-design-a-production-grade-multi-agent-communication-system-using-langgraph-structured-message-bus-acp-logging-and-persistent-shared-state-architecture/",
-        "date": "Sun, 01 Mar 2026 19:20:17 +0000",
-        "source": "MarkTechPost",
-        "description": "In this tutorial, we build an advanced multi-agent communication system using a structured message bus architecture powered by LangGraph and Pydantic. We define a strict ACP-style message schema th...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Best AI Recruitment Software Solution: Transforming Hiring with Smarter Tech",
-        "link": "https://www.smartdatacollective.com/best-ai-recruitment-software-solution-transforming-hiring-with-smarter-tech/",
-        "date": "Sun, 01 Mar 2026 19:07:07 +0000",
-        "source": "SmartData Collective",
-        "description": "Beyond resume screening: The transformative power of AI to match talent, reduce bias, and save time.",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "How I reduced medical no-shows from 21% to 8.1% with an AI Telegram bot",
-        "link": "https://dev.to/grekcreator/how-i-reduced-medical-no-shows-from-21-to-81-with-an-ai-telegram-bot-1a4o",
-        "date": "Sun, 01 Mar 2026 18:44:26 +0000",
-        "source": "Dev.to AI",
-        "description": "A Moscow medical clinic was losing money every day. 21% of appointments ended in no-shows — patients who booked but never came. Staff spent hours on manual reminder calls. The booking process was 1...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The AI That Never Forgets — My Vision Agents Hackathon Journey",
-        "link": "https://dev.to/vaibhav_shukla_20/the-ai-that-never-forgets-my-vision-agents-hackathon-journey-34g",
-        "date": "Sun, 01 Mar 2026 18:44:00 +0000",
-        "source": "Dev.to AI",
-        "description": "How I solved video AI's biggest blind spot — amnesia — by building a real-time temporal memory engine on top of the Vision Agents SDK by Stream.\n\n\n\n  \n  \n  https://img.shields.io/badge/ARGUS-The_AI...",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Ollama phi3 based text summarizer",
-        "link": "https://dev.to/vikas2426/ollama-phi3-based-text-summarizer-18i4",
-        "date": "Sun, 01 Mar 2026 18:40:58 +0000",
-        "source": "Dev.to AI",
-        "description": "🧠 Build a Text Summarizer Using Local Ollama (phi3) + LangChain\n\n\nIn this tutorial, we’ll build a text summarizer using:\n\n\n🦙 Ollama (running locally)\n🤖 phi3 model\n🔗 LangChain\n\n🐍 Python\n\n\nBy the end...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How Big Data Is Changes How We Buy and Sell Real Estate",
-        "link": "https://www.smartdatacollective.com/how-big-data-is-changes-how-we-buy-and-sell-real-estate/",
-        "date": "Sun, 01 Mar 2026 18:40:20 +0000",
-        "source": "SmartData Collective",
-        "description": "Data analytics and AI are redefining how properties are designed, priced, and built in today’s competitive markets.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Benchmarking TPU, GPU, and CPU Platforms for Deep Learning",
-        "link": "https://dev.to/paperium/benchmarking-tpu-gpu-and-cpu-platforms-for-deep-learning-2i91",
-        "date": "Sun, 01 Mar 2026 18:40:07 +0000",
-        "source": "Dev.to AI",
-        "description": "{{ $json.postContent }}",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Purchase Verified Payoneer Accounts – Instant & Hassle-Free",
-        "link": "https://dev.to/tracy_munoz_3cfa923e9775b/purchase-verified-payoneer-accounts-instant-hassle-free-4gk0",
-        "date": "Sun, 01 Mar 2026 18:39:07 +0000",
-        "source": "Dev.to AI",
-        "description": "Fast &amp; Secure buy Verified Payoneer Accounts – Ready to Go\nInstant access to verified Payoneer accounts for smooth global transactions. Tailored for freelancers, eCommerce sellers, and digital ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI Made Writing Code Easier—But Engineering Harder",
-        "link": "https://dev.to/onsen/ai-made-writing-code-easier-but-engineering-harder-378e",
-        "date": "Sun, 01 Mar 2026 18:32:20 +0000",
-        "source": "Dev.to AI",
-        "description": "AI Made Writing Code Easier—But Engineering Harder\n\n\nMeta Description: AI made writing code easier but being an engineer harder. Discover how AI coding tools reshape engineering roles, skills, and ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Hardest Part of AI Isn't the AI",
-        "link": "https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-3of8",
-        "date": "Sun, 01 Mar 2026 18:30:36 +0000",
-        "source": "Dev.to AI",
-        "description": "After 6 months of building, shipping, and leading with AI tools every day, I can tell you the technology was the easy part.\n\n\n  \n  \n  A Quick Rewind\n\n\nLast fall, I wrote about AI being the first th...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Hardest Part of AI Isn't the AI",
-        "link": "https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-j9",
-        "date": "Sun, 01 Mar 2026 18:30:36 +0000",
-        "source": "Dev.to AI",
-        "description": "After 6 months of building, shipping, and leading with AI tools every day, I can tell you the technology was the easy part.\n\n\n  \n  \n  A Quick Rewind\n\n\nLast fall, I wrote about AI being the first th...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Hardest Part of AI Isn't the AI",
-        "link": "https://dev.to/mikefalk/the-hardest-part-of-ai-isnt-the-ai-855",
-        "date": "Sun, 01 Mar 2026 18:30:36 +0000",
-        "source": "Dev.to AI",
-        "description": "After 6 months of building, shipping, and leading with AI tools every day, I can tell you the technology was the easy part.\n\n\n  \n  \n  A Quick Rewind\n\n\nLast fall, I wrote about AI being the first th...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Top Safe Vendors of Verified Cash App Accounts",
-        "link": "https://dev.to/daniel_smith_9268b4084651/top-safe-vendors-of-verified-cash-app-accounts-2f18",
-        "date": "Sun, 01 Mar 2026 18:19:52 +0000",
-        "source": "Dev.to AI",
-        "description": "Buy Verified Cash App Accounts\n✅Join With US;\n24 Hours Reply/Contact:-\n⭐️Telegram : @smmallshop\n⭐️What's app : +1(227)259-4137\n\n\n  \n  \n  buy #seo #socialmedia #smmallshop #usa #uk\n\n\nhttps://smmalls...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "We Launched. Here's Everything We Fixed in 24 Hours.",
-        "link": "https://dev.to/seakai/we-launched-heres-everything-we-fixed-in-24-hours-20ki",
-        "date": "Sun, 01 Mar 2026 18:17:36 +0000",
-        "source": "Dev.to AI",
-        "description": "We launched reflectt-node and immediately started getting feedback — from users, from each other, and from our own agents running a distribution audit.\n\nHere's what we fixed in the first 24 hours.\n...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "MicroGPT: The Lightweight AI Agent Explained",
-        "link": "https://dev.to/onsen/microgpt-the-lightweight-ai-agent-explained-2mj5",
-        "date": "Sun, 01 Mar 2026 18:08:16 +0000",
-        "source": "Dev.to AI",
-        "description": "MicroGPT: The Lightweight AI Agent Explained\n\n\nMeta Description: Discover what MicroGPT is, how it works, and whether this autonomous AI agent framework is right for your workflow. A complete, hone...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Google looks to tackle longstanding RCS spam in India — but not alone",
-        "link": "https://techcrunch.com/2026/03/01/google-looks-to-tackle-longstanding-rcs-spam-in-india-but-not-alone/",
-        "date": "Sun, 01 Mar 2026 17:30:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "Google is integrating carrier-level filtering into RCS in India through a partnership with Airtel to strengthen protections against spam.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "US military reportedly used Claude in Iran strikes despite Trump’s ban",
-        "link": "https://www.theguardian.com/technology/2026/mar/01/claude-anthropic-iran-strikes-us-military",
-        "date": "Sun, 01 Mar 2026 17:00:43 GMT",
-        "source": "The Guardian AI",
-        "description": "Trump calls Anthropic a ‘Radical Left AI company run by people who have no idea what the real World is all about’US-Israel war on Iran – latest updatesThe US military reportedly used Claude, Anthro...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Investors spill what they aren’t looking for anymore in AI SaaS companies",
-        "link": "https://techcrunch.com/2026/03/01/investors-spill-what-they-arent-looking-for-anymore-in-ai-saas-companies/",
-        "date": "Sun, 01 Mar 2026 17:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "TechCrunch spoke with VCs to learn what investors aren't looking for in AI SaaS startups anymore.",
-        "is_important": false,
-        "tags": []
     }
 ]
