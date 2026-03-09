@@ -20716,6 +20716,15 @@
         "tags": []
     },
     {
+        "title": "Beyond Accuracy: Quantifying the Production Fragility Caused by Excessive, Redundant, and Low-Signal Features in Regression",
+        "link": "https://www.marktechpost.com/2026/03/08/beyond-accuracy-quantifying-the-production-fragility-caused-by-excessive-redundant-and-low-signal-features-in-regression/",
+        "date": "Sun, 08 Mar 2026 19:07:53 +0000",
+        "source": "MarkTechPost",
+        "description": "At first glance, adding more features to a model seems like an obvious way to improve performance. If a model can learn from more information, it should be able to make better predictions. In pract...",
+        "is_important": true,
+        "tags": []
+    },
+    {
         "title": "Why I Run 9 AI Agents on a $50/Month Server Instead of the Cloud",
         "link": "https://dev.to/jarveyspecter/why-i-run-9-ai-agents-on-a-50month-server-instead-of-the-cloud-111n",
         "date": "Sun, 08 Mar 2026 18:40:40 +0000",
@@ -21348,15 +21357,6 @@
         "date": "Sun, 08 Mar 2026 02:10:13 +0000",
         "source": "Dev.to AI",
         "description": "I have a social media presence across five platforms. I don't manage it manually.\n\nNot because I scheduled posts in Buffer. Not because I hired someone. Because I built an 11-agent social media dep...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A continual learning survey: Defying forgetting in classification tasks",
-        "link": "https://dev.to/paperium/a-continual-learning-survey-defying-forgetting-in-classification-tasks-6n3",
-        "date": "Sun, 08 Mar 2026 02:10:06 +0000",
-        "source": "Dev.to AI",
-        "description": "{{ $json.postContent }}",
         "is_important": false,
         "tags": []
     }
