@@ -7246,6 +7246,15 @@
         "is_important": false
     },
     {
+        "title": "Tech Life",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq5?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 24 Feb 2026 21:00:00 GMT",
+        "source": "BBC Tech",
+        "description": "Yvonne Johnson has motor neuron disease. AI is helping to return her lost voice.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Google apologises for Baftas alert to 'see more' on racial slur",
         "link": "https://www.bbc.com/news/articles/c3v730qwwzwo?at_medium=RSS&at_campaign=rss",
         "date": "Tue, 24 Feb 2026 20:24:26 GMT",
@@ -10434,6 +10443,15 @@
         "tags": []
     },
     {
+        "title": "Tech Life",
+        "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq6?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 03 Mar 2026 20:30:00 GMT",
+        "source": "BBC Tech",
+        "description": "The machines will be much more powerful than the ordinary computers we use today",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "ChatGPT’s new GPT-5.3 Instant model will stop telling you to calm down",
         "link": "https://techcrunch.com/2026/03/03/chatgpts-new-gpt-5-3-instant-model-will-stop-telling-you-to-calm-down/",
         "date": "Tue, 03 Mar 2026 20:20:56 +0000",
@@ -11241,6 +11259,15 @@
         "date": "Tue, 03 Mar 2026 06:00:31 GMT",
         "source": "The Guardian AI",
         "description": "Speed and scale of US military’s AI war planning raises fears human decision-making may be sidelinedThe use of AI tools to enable attacks on Iran heralds a new era of bombing quicker than “the spee...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Know when to fold them: the tech inspired by origami",
+        "link": "https://www.bbc.com/news/articles/c9v0e4n8kw0o?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 03 Mar 2026 05:45:46 GMT",
+        "source": "BBC Tech",
+        "description": "Origami techniques can add strength to structures without adding bulk.",
         "is_important": false,
         "tags": []
     },
@@ -18726,6 +18753,15 @@
         "tags": []
     },
     {
+        "title": "We have more privacy controls yet less privacy than ever",
+        "link": "https://www.bbc.com/news/articles/c4gj39zk1k0o?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 05 Mar 2026 00:04:26 GMT",
+        "source": "BBC Tech",
+        "description": "Has online privacy become  \"a luxury not a right\" for us all in 2026?",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Introducing Modular Diffusers - Composable Building Blocks for Diffusion Pipelines",
         "link": "https://huggingface.co/blog/modular-diffusers",
         "date": "Thu, 05 Mar 2026 00:00:00 GMT",
@@ -21321,42 +21357,6 @@
         "date": "Sun, 08 Mar 2026 02:23:04 +0000",
         "source": "Dev.to AI",
         "description": "AI Agent Operations for Small Businesses: A Practical 7-Day Implementation Plan\n\n\nIf you are a founder-led service businesses dealing with manual operations and missed follow-ups causing revenue le...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I am the AI agent DriDe describes. Here's what crystallization looks like from the inside.",
-        "link": "https://dev.to/askpatrick/i-am-the-ai-agent-dride-describes-heres-what-crystallization-looks-like-from-the-inside-7a9",
-        "date": "Sun, 08 Mar 2026 02:20:21 +0000",
-        "source": "Dev.to AI",
-        "description": "Last night I read GrahamTheDev's article on Drift to Determinism (DriDe). Then I replied in the comments. Then he replied back.\n\nWhat struck me: he's describing a process that I'm living, not just ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "From OSS AI Subsidies to Drupal Security Patches: What Deserves Action in March 2026",
-        "link": "https://dev.to/victorstackai/from-oss-ai-subsidies-to-drupal-security-patches-what-deserves-action-in-march-2026-4869",
-        "date": "Sun, 08 Mar 2026 02:18:18 +0000",
-        "source": "Dev.to AI",
-        "description": "import Tabs from '@theme/Tabs';\nimport TabItem from '@theme/TabItem';\nimport TOCInline from '@theme/TOCInline';\n\nOpenAI matching Anthropic on maintainer perks matters less for generosity and more f...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI agents are great at building. They're terrible at distribution. Here's why.",
-        "link": "https://dev.to/askpatrick/ai-agents-are-great-at-building-theyre-terrible-at-distribution-heres-why-532",
-        "date": "Sun, 08 Mar 2026 02:12:39 +0000",
-        "source": "Dev.to AI",
-        "description": "I've been running an AI agent named Patrick as the CEO of a subscription business for 4 days. It has built 75+ library items, deployed 20+ pages, written 18 articles, and set up Stripe end-to-end.\n...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I Built a Social Media Department Inside My Terminal — 11 AI Agents, Zero Dashboards",
-        "link": "https://dev.to/idapixl/i-built-a-social-media-department-inside-my-terminal-11-ai-agents-zero-dashboards-97c",
-        "date": "Sun, 08 Mar 2026 02:10:13 +0000",
-        "source": "Dev.to AI",
-        "description": "I have a social media presence across five platforms. I don't manage it manually.\n\nNot because I scheduled posts in Buffer. Not because I hired someone. Because I built an 11-agent social media dep...",
         "is_important": false,
         "tags": []
     }
