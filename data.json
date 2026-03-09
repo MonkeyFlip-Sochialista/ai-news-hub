@@ -20707,6 +20707,15 @@
         "is_important": false
     },
     {
+        "title": "Will the Pentagon’s Anthropic controversy scare startups away from defense work?",
+        "link": "https://techcrunch.com/2026/03/08/will-the-pentagons-anthropic-controversy-scare-startups-away-from-defense-work/",
+        "date": "Sun, 08 Mar 2026 20:14:42 +0000",
+        "source": "TechCrunch AI",
+        "description": "On the latest episode of TechCrunch’s Equity podcast, we discussed what the controversy means for other startups seeking to work with the federal government.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Why I Run 9 AI Agents on a $50/Month Server Instead of the Cloud",
         "link": "https://dev.to/jarveyspecter/why-i-run-9-ai-agents-on-a-50month-server-instead-of-the-cloud-111n",
         "date": "Sun, 08 Mar 2026 18:40:40 +0000",
@@ -20826,6 +20835,18 @@
         "description": "AI data center developers are increasingly relying on a style of camp popularized as housing for men working in remote oil fields.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "The Supreme Court Just Dealt a Crushing Blow to “AI Artists”",
+        "link": "https://futurism.com/artificial-intelligence/supreme-court-blow-ai-artists-copyright",
+        "date": "Sun, 08 Mar 2026 15:00:00 -0400",
+        "source": "Futurism AI",
+        "description": "\"Although the Copyright Act does not define the term 'author,' multiple provisions of the act make clear that the term refers to a human rather than a machine.\"\nThe post The Supreme Court Just Deal...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador",
+            "⚖️ Ética y Regulación"
+        ]
     },
     {
         "title": "Study Finds That Execs Are Outsourcing Their Thinking to AI",
@@ -21338,27 +21359,5 @@
         "description": "{{ $json.postContent }}",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "Building Your Own AI Agent: A Practical Guide with LangGraph",
-        "link": "https://dev.to/midas126/building-your-own-ai-agent-a-practical-guide-with-langgraph-4f2l",
-        "date": "Sun, 08 Mar 2026 02:08:19 +0000",
-        "source": "Dev.to AI",
-        "description": "From Chatbots to Autonomous Agents: The Next AI Frontier\n\n\nIf you've been following AI trends, you've seen the evolution from simple chatbots to sophisticated systems that can complete multi-step t...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "AI Agent Landscape: February 2026 Data from Running One for 6 Months",
-        "link": "https://dev.to/joozio/ai-agent-landscape-february-2026-data-from-running-one-for-6-months-33ap",
-        "date": "Sun, 08 Mar 2026 02:05:39 +0000",
-        "source": "Dev.to AI",
-        "description": "I have been running a personal AI agent autonomously for about six months. Here is what the data looks like in February 2026.\n\nNot theory. Numbers from real operations.\n\n\n  \n  \n  What the agent doe...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
     }
 ]
