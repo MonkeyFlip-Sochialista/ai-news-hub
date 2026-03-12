@@ -3588,6 +3588,15 @@
         ]
     },
     {
+        "title": "UK PlayStation users could be owed billions",
+        "link": "https://www.bbc.com/news/videos/cm2xg13j3x5o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 11 Mar 2026 13:34:56 GMT",
+        "source": "BBC Tech",
+        "description": "Lawyers say Sony was able to set prices without competition.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "My AI Git Story Generator Now Exports PDFs and Writes Like Hemingway",
         "link": "https://dev.to/bbtc3453/my-ai-git-story-generator-now-exports-pdfs-and-writes-like-hemingway-289m",
         "date": "Wed, 11 Mar 2026 13:19:01 +0000",
@@ -13097,6 +13106,17 @@
         "tags": []
     },
     {
+        "title": "Overseas 'content farms' creating political deepfakes uncovered",
+        "link": "https://www.bbc.com/news/articles/c07jj7d72yzo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 10 Mar 2026 06:04:14 GMT",
+        "source": "BBC Tech",
+        "description": "The warning comes as work to spot and combat deepfakes ahead of the Senedd election is taking place.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
         "title": "Thousands of authors publish ‘empty’ book in protest over AI using their work",
         "link": "https://www.theguardian.com/technology/2026/mar/10/thousands-authors-publish-empty-book-protest-ai-work-copyright",
         "date": "Tue, 10 Mar 2026 06:00:10 GMT",
@@ -13328,6 +13348,15 @@
         "date": "Tue, 10 Mar 2026 00:30:40 GMT",
         "source": "ZDNet AI",
         "description": "The XTAR-Link MP158 power bank makes using the Starlink Mink without a nearby outlet actually viable.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How the 'red v blue school wars' exposed the social media gap between children and parents",
+        "link": "https://www.bbc.com/news/articles/cy4wgzdydkeo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 10 Mar 2026 00:03:58 GMT",
+        "source": "BBC Tech",
+        "description": "Parents were frightened by social posts that seemed to encourage violence at schools. But it was more complicated than it looked",
         "is_important": false,
         "tags": []
     },
@@ -21332,6 +21361,345 @@
         "is_important": false
     },
     {
+        "title": "Introducing Teatree: Parallel Multi-Repo Development with AI Agents",
+        "link": "https://dev.to/souliane/introducing-teatree-parallel-multi-repo-development-with-ai-agents-cjp",
+        "date": "Thu, 12 Mar 2026 13:16:50 +0000",
+        "source": "Dev.to AI",
+        "description": "I'm a Customer Success Engineer at Oper Credits. My daily work involves a multi-repo project—backend, frontend, translations, configuration—and I use AI coding agents constantly. The friction isn't...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building a Real Image Matching Project with Gemini Embedding 2",
+        "link": "https://www.analyticsvidhya.com/blog/2026/03/gemini-embedding-2/",
+        "date": "Thu, 12 Mar 2026 13:12:35 +0000",
+        "source": "Analytics Vidhya",
+        "description": "Google recently introduced Gemini Embedding 2, its first natively multimodal embedding model. This is an important step forward because it brings text, images, video, audio, and documents into a si...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Integrating AI Floor Plan Generation Into Your Architecture SaaS",
+        "link": "https://dev.to/aitoolsreview3/integrating-ai-floor-plan-generation-into-your-architecture-saas-11g8",
+        "date": "Thu, 12 Mar 2026 13:11:59 +0000",
+        "source": "Dev.to AI",
+        "description": "Building a SaaS product for architects? Adding AI-powered floor plan generation can be a major differentiator. Here's a practical guide on how platforms like AI Architectures are making this possib...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Use AI to Generate Trending Video Ideas for YouTube",
+        "link": "https://dev.to/amitpandey/how-to-use-ai-to-generate-trending-video-ideas-for-youtube-19hn",
+        "date": "Thu, 12 Mar 2026 13:11:57 +0000",
+        "source": "Dev.to AI",
+        "description": "Creating YouTube videos consistently is hard. Creating videos that actually perform well is even harder. Many creators fail not because of poor editing or low-quality visuals, but because their ide...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "P20V vs Canva for Product Photography: Which AI Tool Wins in 2026?",
+        "link": "https://dev.to/aitoolsreview3/p20v-vs-canva-for-product-photography-which-ai-tool-wins-in-2026-4m0",
+        "date": "Thu, 12 Mar 2026 13:11:56 +0000",
+        "source": "Dev.to AI",
+        "description": "If you sell products online, you know that great photos drive conversions. Two popular tools for creating product images are P20V and Canva, but they serve very different needs. Here's a detailed c...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "From Grant Guesswork to AI-Powered Precision",
+        "link": "https://dev.to/ken_deng_ai/from-grant-guesswork-to-ai-powered-precision-46nn",
+        "date": "Thu, 12 Mar 2026 13:10:15 +0000",
+        "source": "Dev.to AI",
+        "description": "Nonprofit leaders often juggle countless spreadsheets, email threads, and funder reports, feeling like they're navigating grant success with a dim flashlight. The real issue isn't a lack of effort;...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I stopped blaming model pricing for my AI bill (it was my workflow)",
+        "link": "https://dev.to/godnick/i-stopped-blaming-model-pricing-for-my-ai-bill-it-was-my-workflow-2a8e",
+        "date": "Thu, 12 Mar 2026 13:08:37 +0000",
+        "source": "Dev.to AI",
+        "description": "I kept saying the same thing for months:\n\n\n\"AI got expensive. That's just how it is now.\"\n\n\nTurns out I was wrong.\n\nThe pricing changed, sure. But most of my cost spikes were self-inflicted: messy ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "🛡️ We Built an AI Flood Guardian in a Hackathon — Meet StormShield AI",
+        "link": "https://dev.to/tanisha_saxena_6ee4977663/we-built-an-ai-flood-guardian-in-a-hackathon-meet-stormshield-ai-4g1k",
+        "date": "Thu, 12 Mar 2026 13:06:39 +0000",
+        "source": "Dev.to AI",
+        "description": "🌧️⚡\nHackathons are chaotic.\nYou start with coffee ☕\nYou end with questionable sleep decisions, rapid-fire Git commits, and a lot of “wait… does this even run?” moments.\nBut sometimes something real...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
+        "link": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 12 Mar 2026 13:06:15 GMT",
+        "source": "BBC Tech",
+        "description": "The Lloyds Banking Group customers reported being able to view payments and charges from other sources.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Stopped Asking One AI Agent to Do Everything: How 3 Specialized Sub-Agents Changed My Operation",
+        "link": "https://dev.to/cristiantalasanchez/i-stopped-asking-one-ai-agent-to-do-everything-how-3-specialized-sub-agents-changed-my-operation-5dhf",
+        "date": "Thu, 12 Mar 2026 13:05:28 +0000",
+        "source": "Dev.to AI",
+        "description": "Everyone talks about AI agents. Few run them in production.\n\nI've been running an AI agent 24/7 on my own server for 90+ days. Her name is Nyx. And for the first two months, I asked her to do every...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Beyond the Chatbot: A Developer's Guide to Building with AI Agents",
+        "link": "https://dev.to/midas126/beyond-the-chatbot-a-developers-guide-to-building-with-ai-agents-4hlf",
+        "date": "Thu, 12 Mar 2026 13:02:49 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI Evolution: From Chatbots to Autonomous Agents\n\n\nIf you've been following the AI space, you've witnessed the explosive rise of chatbots. Tools like ChatGPT and GitHub Copilot have become indi...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "MT Salesguard Developer Guide: Verify Product Provenance in One API Call",
+        "link": "https://dev.to/moltycel/mt-salesguard-developer-guide-verify-product-provenance-in-one-api-call-3kja",
+        "date": "Thu, 12 Mar 2026 13:02:16 +0000",
+        "source": "Dev.to AI",
+        "description": "Counterfeit goods cost the global economy $500 billion per year. In an A2A economy where shopping agents compare products autonomously, machine-readable provenance is the only defense that scales.\n...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "GeForce NOW Raises the Game at the Game Developers Conference",
+        "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-gdc-2026/",
+        "date": "Thu, 12 Mar 2026 13:00:53 +0000",
+        "source": "NVIDIA Blog",
+        "description": "GeForce NOW is bringing the game to the Game Developers Conference (GDC), running this week in San Francisco. While developers build the future of gaming, GeForce NOW is delivering it to gamers. Th...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "When AI Coding Tools Break Your UI: Architectural Lessons from Aider, Claude & Gemini",
+        "link": "https://dev.to/ramavala/when-ai-coding-tools-break-your-ui-architectural-lessons-from-aider-claude-gemini-501c",
+        "date": "Thu, 12 Mar 2026 13:00:42 +0000",
+        "source": "Dev.to AI",
+        "description": "When AI Coding Tools Break Your UI: Architectural Lessons from Aider, Claude &amp; Gemini\n\n\n\n  \n  \n  1. Introduction: The Double-Edged Sword of AI Coding Assistants\n\n\nFor enterprise technology lead...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "A.I. Chatbots Want Your Health Records. Tread Carefully.",
+        "link": "https://www.nytimes.com/2026/03/12/technology/personaltech/microsoft-copilot-health-ai-chatbots.html",
+        "date": "Thu, 12 Mar 2026 13:00:06 +0000",
+        "source": "NYT Tech",
+        "description": "Following rivals like Amazon and OpenAI, Microsoft is upgrading its artificially intelligent assistant to track your health. There are benefits and risks to consider.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google is using old news reports and AI to predict flash floods",
+        "link": "https://techcrunch.com/2026/03/12/google-is-using-old-news-reports-and-ai-to-predict-flash-floods/",
+        "date": "Thu, 12 Mar 2026 13:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "A new way to solve data scarcity: Turning qualitative reports into quantitative data with an LLM.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Pragmatic by design: Engineering AI for the real world",
+        "link": "https://www.technologyreview.com/2026/03/12/1133675/pragmatic-by-design-engineering-ai-for-the-real-world/",
+        "date": "Thu, 12 Mar 2026 13:00:00 +0000",
+        "source": "MIT Technology Review",
+        "description": "The impact of artificial intelligence extends far beyond the digital world and into our everyday lives, across the cars we drive, the appliances in our homes, and medical devices that keep people a...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Best Ethical Hacking Companies to Strengthen Cybersecurity",
+        "link": "https://dev.to/preyasi_sahu_a29862889f51/best-ethical-hacking-companies-to-strengthen-cybersecurity-3b0p",
+        "date": "Thu, 12 Mar 2026 12:55:57 +0000",
+        "source": "Dev.to AI",
+        "description": "Cyber threats are becoming more advanced, making it essential for businesses to identify vulnerabilities before attackers exploit them. Ethical hacking companies help organizations detect security ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Coding After Coders: The End of Computer Programming as We Know It",
+        "link": "https://www.nytimes.com/2026/03/12/magazine/ai-coding-programming-jobs-claude-chatgpt.html",
+        "date": "Thu, 12 Mar 2026 12:53:34 +0000",
+        "source": "NYT Tech",
+        "description": "In the era of A.I. agents, many Silicon Valley programmers are now barely programming. Instead, what they’re doing is deeply, deeply weird.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "How to check your Windows PC for expiring security certificates - a big one is ending soon",
+        "link": "https://www.zdnet.com/article/secure-boot-certificate-updates-2026/",
+        "date": "Thu, 12 Mar 2026 12:53:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Another critical Windows expiration date is right around the corner for more than a billion PCs. Here's what you should know ahead of time.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Is there a Windows PC alternative to the Mac Mini? This one I tested is so close (yet so far)",
+        "link": "https://www.zdnet.com/article/blackview-mp20-mini-pc-review/",
+        "date": "Thu, 12 Mar 2026 12:47:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The palm-sized Blackview MP20 runs cool and quiet and handles everyday computing tasks - with a few notable drawbacks.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google Maps is getting an AI ‘Ask Maps’ feature and upgraded ‘immersive’ navigation",
+        "link": "https://techcrunch.com/2026/03/12/google-maps-is-getting-an-ai-ask-maps-feature-and-upgraded-immersive-navigation/",
+        "date": "Thu, 12 Mar 2026 12:30:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "The tech giant says the \"Immersive Navigation\" launch is the biggest update to Maps in over a decade.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google Maps Gets Chatty With a New Gemini-Powered Interface",
+        "link": "https://www.wired.com/story/google-maps-ask-maps-gemini-powered-tool/",
+        "date": "Thu, 12 Mar 2026 12:30:00 +0000",
+        "source": "Wired AI",
+        "description": "“Ask Maps,” rolling out today to Google Maps on mobile, lets you ask Gemini questions about locations and even to plan trips on your behalf.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "‘Exploit every vulnerability’: rogue AI agents published passwords and overrode anti-virus software",
+        "link": "https://www.theguardian.com/technology/ng-interactive/2026/mar/12/lab-test-mounting-concern-over-rogue-ai-agents-artificial-intelligence",
+        "date": "Thu, 12 Mar 2026 12:04:42 GMT",
+        "source": "The Guardian AI",
+        "description": "Exclusive: Lab tests discover ‘new form of insider risk’ with artificial intelligence agents engaging in autonomous, even ‘aggressive’ behavioursRobert Booth UK technology editorRogue artificial in...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "10+ VPN tricks and tips I recommend to everyone (whether for personal or business use)",
+        "link": "https://www.zdnet.com/article/best-vpn-settings-tips-tricks/",
+        "date": "Thu, 12 Mar 2026 12:01:07 GMT",
+        "source": "ZDNet AI",
+        "description": "A VPN isn't just for privacy. Here are additional settings and features worth exploring.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "JBL's latest headphones offer an Auracast loophole Apple won't be happy about",
+        "link": "https://www.zdnet.com/article/jbls-live-770-nc-news/",
+        "date": "Thu, 12 Mar 2026 12:00:50 GMT",
+        "source": "ZDNet AI",
+        "description": "With one simple app feature, JBL's headphones open an otherwise closed-off feature to iOS fans.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Top 7 AI Agent Orchestration Frameworks",
+        "link": "https://www.kdnuggets.com/top-7-ai-agent-orchestration-frameworks",
+        "date": "Thu, 12 Mar 2026 12:00:01 +0000",
+        "source": "KDnuggets",
+        "description": "Looking to build autonomous AI agent systems? Here are the frameworks that will help you orchestrate agents effectively.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Why Moltbook and OpenClaw are the fool's gold in our AI boom",
+        "link": "https://www.zdnet.com/article/moltbook-and-openclaw-fools-gold-in-ai-boom/",
+        "date": "Thu, 12 Mar 2026 11:00:48 GMT",
+        "source": "ZDNet AI",
+        "description": "Commentary: Whatever Meta and OpenAI paid, it was too much. Other, better programs can do the same jobs.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building Smart Machine Learning in Low-Resource Settings",
+        "link": "https://machinelearningmastery.com/building-smart-machine-learning-in-low-resource-settings/",
+        "date": "Thu, 12 Mar 2026 11:00:38 +0000",
+        "source": "Machine Learning Mastery",
+        "description": "Most people who want to build <a href=\"https://www.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The best note-taking apps for iPad of 2026: Expert tested",
+        "link": "https://www.zdnet.com/article/best-note-taking-app-for-ipad/",
+        "date": "Thu, 12 Mar 2026 10:00:39 GMT",
+        "source": "ZDNet AI",
+        "description": "We've tried popular iPad apps for note-taking, from Notability to Evernote. Here's our favorites.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A.I. Writes Buggy Code. A Silicon Valley Start-Up Wants to Fix It.",
+        "link": "https://www.nytimes.com/2026/03/12/technology/axiom-ai-code-funding.html",
+        "date": "Thu, 12 Mar 2026 09:03:58 +0000",
+        "source": "NYT Tech",
+        "description": "Valued at $1.6 billion, a tiny start-up called Axiom is building A.I. systems that can check for mistakes.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Silicon Valley’s Image Takes a Dark Turn in Pop Culture",
+        "link": "https://www.nytimes.com/2026/03/12/technology/silicon-valley-pop-culture.html",
+        "date": "Thu, 12 Mar 2026 09:02:48 +0000",
+        "source": "NYT Tech",
+        "description": "In television and movies, depictions of nihilistic billionaires and amoral opportunists are replacing the quirky strivers of older shows like HBO’s “Silicon Valley.”",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Best VPNs for streaming of 2026: Expert tested and reviewed",
+        "link": "https://www.zdnet.com/article/best-streaming-vpn/",
+        "date": "Thu, 12 Mar 2026 09:00:18 GMT",
+        "source": "ZDNet AI",
+        "description": "Want to access Netflix, Hulu, and more abroad? These are the best VPNs for speed, security, and privacy while you're away from home.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI Is Forcing Employees to Work Harder Than Ever",
+        "link": "https://futurism.com/artificial-intelligence/ai-forcing-employees-work-harder",
+        "date": "Thu, 12 Mar 2026 08:57:32 -0400",
+        "source": "Futurism AI",
+        "description": "Even if AI does increase productivity, it's not exactly good news for workers.\nThe post AI Is Forcing Employees to Work Harder Than Ever appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "FIFA is rebuilding world football operations on AI. The World Cup is just the first test",
+        "link": "https://www.artificialintelligence-news.com/news/fifa-ai-world-cup-2026-lenovo/",
+        "date": "Thu, 12 Mar 2026 08:00:00 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "When Romy Gai, FIFA&#8217;s chief business officer, described the operational challenge of running a 48-team World Cup across Canada, Mexico and the United States, he was not talking about technolo...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "[AINews] Replit Agent 4: The Knowledge Work Agent",
         "link": "https://www.latent.space/p/ainews-replit-agent-4-the-knowledge",
         "date": "Thu, 12 Mar 2026 07:04:33 GMT",
@@ -21500,389 +21868,5 @@
         "description": "Regular expressions are one of the most powerful tools in a developer's arsenal — and one of the most painful to write from scratch. The syntax is dense, the edge cases are numerous, and the Stack ...",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "7 AI Tools That Are Quietly Replacing Developers in 2026",
-        "link": "https://dev.to/__be2942592/7-ai-tools-that-are-quietly-replacing-developers-in-2026-4da8",
-        "date": "Thu, 12 Mar 2026 02:34:58 +0000",
-        "source": "Dev.to AI",
-        "description": "The developer job market is shifting faster than anyone expected. AI isn't coming for your job — it's already here, doing parts of it better than you.\n\nBut here's the thing: the developers who USE ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I Built EchoHR: The HR System That Doesn’t Ghost You",
-        "link": "https://dev.to/ujja/i-built-echohr-the-hr-system-that-doesnt-ghost-you-1c2i",
-        "date": "Thu, 12 Mar 2026 02:26:38 +0000",
-        "source": "Dev.to AI",
-        "description": "This is a submission for the Notion MCP Challenge\n\nRejections hurt. But ghosting hurts even more.\n\nEchoHR is a Notion-native employee lifecycle system that ensures candidates and employees always r...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Building a Risk-Aware AI Agent with Internal Critic, Self-Consistency Reasoning, and Uncertainty Estimation",
-        "link": "https://dev.to/exploredataaiml/building-a-risk-aware-ai-agent-with-internal-critic-self-consistency-reasoning-and-uncertainty-524d",
-        "date": "Thu, 12 Mar 2026 02:26:29 +0000",
-        "source": "Dev.to AI",
-        "description": "How I Automated Insurance Claims Risk Analysis Using Multi-Agent Patterns\n\n\n\n  \n  \n  TL;DR\n\n\nApplying Generative AI to high-stakes sectors like insurance or finance requires more than a simple API ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "🚨 The \"Skynet\" Social Network Was a Security Nightmare: Why Meta Really Bought Moltbook",
-        "link": "https://dev.to/siddhesh_surve/the-skynet-social-network-was-a-security-nightmare-why-meta-really-bought-moltbook-519l",
-        "date": "Thu, 12 Mar 2026 02:24:07 +0000",
-        "source": "Dev.to AI",
-        "description": "If you logged onto X or Reddit at any point last month, you probably saw the screenshots.\n\nMoltbook, the viral \"AI-only\" social network, broke containment. Built as a Reddit-like platform where hum...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI trong Phát Triển Phần Mềm: Ứng Dụng Thực Tế, Công Cụ & Xu Hướng 2026",
-        "link": "https://dev.to/tot2019/ai-trong-phat-trien-phan-mem-ung-dung-thuc-te-cong-cu-xu-huong-2026-p5i",
-        "date": "Thu, 12 Mar 2026 02:23:28 +0000",
-        "source": "Dev.to AI",
-        "description": "AI trong phát triển phần mềm không còn là khái niệm xa lạ — đây đang là động lực cốt lõi giúp doanh nghiệp rút ngắn vòng đời sản phẩm, nâng cao chất lượng code và tối ưu chi phí vận hành. Bài viết ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "‘Devastating blow’: Atlassian lays off 1,600 workers ahead of AI push",
-        "link": "https://www.theguardian.com/technology/2026/mar/12/atlassian-layoffs-software-technology-ai-push-mike-cannon-brookes-asx",
-        "date": "Thu, 12 Mar 2026 02:22:38 GMT",
-        "source": "The Guardian AI",
-        "description": "Layoffs to affect 10% of workforce amid Australian company’s restructuring plan to push into artificial intelligence and enterprise salesSoftware giant Atlassian has announced it is laying off abou...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "i fired my last employee. AI agents run everything now (82% OSWorld benchmark)",
-        "link": "https://dev.to/emily_w/i-fired-my-last-employee-ai-agents-run-everything-now-82-osworld-benchmark-4poa",
-        "date": "Thu, 12 Mar 2026 02:22:15 +0000",
-        "source": "Dev.to AI",
-        "description": "not gonna lie, this felt weird at first.\ni let go of my last contractor 6 weeks ago. no drama, just stopped needing them.\nhere's what my setup looks like now:\n\n\nan AI agent logs into my CRM every m...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Torchattacks: A PyTorch Repository for Adversarial Attacks",
-        "link": "https://dev.to/paperium/torchattacks-a-pytorch-repository-for-adversarial-attacks-2618",
-        "date": "Thu, 12 Mar 2026 02:20:06 +0000",
-        "source": "Dev.to AI",
-        "description": "{{ $json.postContent }}",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Building AI Agents is hard. So I built a 12-step visual guide to make it easy",
-        "link": "https://dev.to/howtoagent/building-ai-agents-is-hard-so-i-built-a-12-step-visual-guide-to-make-it-easy-4lpn",
-        "date": "Thu, 12 Mar 2026 02:19:14 +0000",
-        "source": "Dev.to AI",
-        "description": "Hey fellow devs! 👋\n\nWe've all seen the hype around AI Agents (Claude Code, Cursor, OpenClaw, OpenHands, etc.), but when you actually try to build one from scratch, the documentation is scattered an...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How I Cut My AI Agent's API Bill by 60% — Without Losing Quality",
-        "link": "https://dev.to/_f1b969a842b619a57627a/how-i-cut-my-ai-agents-api-bill-by-60-without-losing-quality-15d0",
-        "date": "Thu, 12 Mar 2026 02:14:14 +0000",
-        "source": "Dev.to AI",
-        "description": "Two months into self-hosting my AI agent, I opened my Anthropic dashboard and saw a number I didn't love. $47 for the month. Not catastrophic, but way more than it needed to be.\n\nAfter a week of tw...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Multi-Agent Validation: How to Stop AI Agents from Hallucinating Silently",
-        "link": "https://dev.to/elizabethfuentes12/multi-agent-validation-how-to-stop-ai-agents-from-hallucinating-silently-18h1",
-        "date": "Thu, 12 Mar 2026 02:09:30 +0000",
-        "source": "Dev.to AI",
-        "description": "",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Beyond the Chat: A Developer's Guide to Practical AI Integration",
-        "link": "https://dev.to/midas126/beyond-the-chat-a-developers-guide-to-practical-ai-integration-k58",
-        "date": "Thu, 12 Mar 2026 02:07:27 +0000",
-        "source": "Dev.to AI",
-        "description": "The AI Hype vs. The AI Workbench\n\n\nAnother day, another AI announcement. While celebrating Copilot challenge winners is fantastic, the real story for developers isn't just using AI tools—it's integ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "What role has cyber warfare played in Iran?",
-        "link": "https://www.bbc.com/news/articles/c5yr0576ygvo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 12 Mar 2026 00:02:46 GMT",
-        "source": "BBC Tech",
-        "description": "Militaries are often cagey about their cyber activities. But the US has hinted at the role it has played.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Social media firms asked to toughen up age checks for under-13s",
-        "link": "https://www.bbc.com/news/articles/cn48n18pg1eo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 12 Mar 2026 00:01:42 GMT",
-        "source": "BBC Tech",
-        "description": "Instagram, Snapchat, TikTok, YouTube and Roblox are among the platforms UK regulators say aren't putting children's safety at the heart of their products.",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "‘Convincing’ AI scams drove UK fraud cases to record 444,000 last year",
-        "link": "https://www.theguardian.com/money/2026/mar/12/ai-scams-uk-fraud-artificial-intelligence-mobile-bank-online-shopping-cifas",
-        "date": "Thu, 12 Mar 2026 00:01:03 GMT",
-        "source": "The Guardian AI",
-        "description": "Criminals using artificial intelligence tools to take over mobile, bank and online shopping accounts, says CifasCriminals are increasingly exploiting AI technology to take over people’s mobile, ban...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Agentic Control Center for Data Product Optimization",
-        "link": "https://arxiv.org/abs/2603.10133",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10133v1 Announce Type: new \nAbstract: Data products enable end users to gain greater insights about their data by providing supporting assets, such as example question-SQL pairs which ca...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Hybrid Self-evolving Structured Memory for GUI Agents",
-        "link": "https://arxiv.org/abs/2603.10291",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10291v1 Announce Type: new \nAbstract: The remarkable progress of vision-language models (VLMs) has enabled GUI agents to interact with computers in a human-like manner. Yet real-world co...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "HEAL: Hindsight Entropy-Assisted Learning for Reasoning Distillation",
-        "link": "https://arxiv.org/abs/2603.10359",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10359v1 Announce Type: new \nAbstract: Distilling reasoning capabilities from Large Reasoning Models (LRMs) into smaller models is typically constrained by the limitation of rejection sam...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Beyond Scalars: Evaluating and Understanding LLM Reasoning via Geometric Progress and Stability",
-        "link": "https://arxiv.org/abs/2603.10384",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10384v1 Announce Type: new \nAbstract: Evaluating LLM reliability via scalar probabilities often fails to capture the structural dynamics of reasoning. We introduce TRACED, a framework th...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Verbalizing LLM's Higher-order Uncertainty via Imprecise Probabilities",
-        "link": "https://arxiv.org/abs/2603.10396",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10396v1 Announce Type: new \nAbstract: Despite the growing demand for eliciting uncertainty from large language models (LLMs), empirical evidence suggests that LLM behavior is not always ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Resource-constrained Amazons chess decision framework integrating large language models and graph attention",
-        "link": "https://arxiv.org/abs/2603.10512",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10512v1 Announce Type: new \nAbstract: Artificial intelligence has advanced significantly through the development of intelligent game-playing systems, providing rigorous testbeds for deci...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "IH-Challenge: A Training Dataset to Improve Instruction Hierarchy on Frontier LLMs",
-        "link": "https://arxiv.org/abs/2603.10521",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10521v1 Announce Type: new \nAbstract: Instruction hierarchy (IH) defines how LLMs prioritize system, developer, user, and tool instructions under conflict, providing a concrete, trust-or...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Adaptive RAN Slicing Control via Reward-Free Self-Finetuning Agents",
-        "link": "https://arxiv.org/abs/2603.10564",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10564v1 Announce Type: new \nAbstract: The integration of Generative AI models into AI-native network systems offers a transformative path toward achieving autonomous and adaptive control...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "CUAAudit: Meta-Evaluation of Vision-Language Models as Auditors of Autonomous Computer-Use Agents",
-        "link": "https://arxiv.org/abs/2603.10577",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10577v1 Announce Type: new \nAbstract: Computer-Use Agents (CUAs) are emerging as a new paradigm in human-computer interaction, enabling autonomous execution of tasks in desktop environme...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Does LLM Alignment Really Need Diversity? An Empirical Study of Adapting RLVR Methods for Moral Reasoning",
-        "link": "https://arxiv.org/abs/2603.10588",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10588v1 Announce Type: new \nAbstract: Reinforcement learning with verifiable rewards (RLVR) has achieved remarkable success in logical reasoning tasks, yet whether large language model (...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Trajectory-Informed Memory Generation for Self-Improving Agent Systems",
-        "link": "https://arxiv.org/abs/2603.10600",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10600v1 Announce Type: new \nAbstract: LLM-powered agents face a persistent challenge: learning from their execution experiences to improve future performance. While agents can successful...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "FAME: Formal Abstract Minimal Explanation for Neural Networks",
-        "link": "https://arxiv.org/abs/2603.10661",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10661v1 Announce Type: new \nAbstract: We propose FAME (Formal Abstract Minimal Explanations), a new class of abductive explanations grounded in abstract interpretation. FAME is the first...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Emulating Clinician Cognition via Self-Evolving Deep Clinical Research",
-        "link": "https://arxiv.org/abs/2603.10677",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10677v1 Announce Type: new \nAbstract: Clinical diagnosis is a complex cognitive process, grounded in dynamic cue acquisition and continuous expertise accumulation. Yet most current artif...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Nurture-First Agent Development: Building Domain-Expert AI Agents Through Conversational Knowledge Crystallization",
-        "link": "https://arxiv.org/abs/2603.10808",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10808v1 Announce Type: new \nAbstract: The emergence of large language model (LLM)-based agent frameworks has shifted the primary challenge in building domain-expert AI agents from raw ca...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "A Hybrid Knowledge-Grounded Framework for Safety and Traceability in Prescription Verification",
-        "link": "https://arxiv.org/abs/2603.10891",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.10891v1 Announce Type: new \nAbstract: Medication errors pose a significant threat to patient safety, making pharmacist verification (PV) a critical, yet heavily burdened, final safeguard...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "GhazalBench: Usage-Grounded Evaluation of LLMs on Persian Ghazals",
-        "link": "https://arxiv.org/abs/2603.09979",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.09979v1 Announce Type: new \nAbstract: Persian poetry plays an active role in Iranian cultural practice, where verses by canonical poets such as Hafez are frequently quoted, paraphrased, ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Large Language Models and Book Summarization: Reading or Remembering, Which Is Better?",
-        "link": "https://arxiv.org/abs/2603.09981",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.09981v1 Announce Type: new \nAbstract: Summarization is a core task in Natural Language Processing (NLP). Recent advances in Large Language Models (LLMs) and the introduction of large con...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "AraModernBERT: Transtokenized Initialization and Long-Context Encoder Modeling for Arabic",
-        "link": "https://arxiv.org/abs/2603.09982",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.09982v1 Announce Type: new \nAbstract: Encoder-only transformer models remain widely used for discriminative NLP tasks, yet recent architectural advances have largely focused on English. ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "An Efficient Hybrid Deep Learning Approach for Detecting Online Abusive Language",
-        "link": "https://arxiv.org/abs/2603.09984",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.09984v1 Announce Type: new \nAbstract: The digital age has expanded social media and online forums, allowing free expression for nearly 45% of the global population. Yet, it has also fuel...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Dunning-Kruger Effect in Large Language Models: An Empirical Study of Confidence Calibration",
-        "link": "https://arxiv.org/abs/2603.09985",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.09985v1 Announce Type: new \nAbstract: Large language models (LLMs) have demonstrated remarkable capabilities across diverse tasks, yet their ability to accurately assess their own confid...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Quantifying Hallucinations in Language Language Models on Medical Textbooks",
-        "link": "https://arxiv.org/abs/2603.09986",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.09986v1 Announce Type: new \nAbstract: Hallucinations, the tendency for large language models to provide responses with factually incorrect and unsupported claims, is a serious problem wi...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Evolving Demonstration Optimization for Chain-of-Thought Feature Transformation",
-        "link": "https://arxiv.org/abs/2603.09987",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.09987v1 Announce Type: new \nAbstract: Feature Transformation (FT) is a core data-centric AI task that improves feature space quality to advance downstream predictive performance. However...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Causally Grounded Mechanistic Interpretability for LLMs with Faithful Natural-Language Explanations",
-        "link": "https://arxiv.org/abs/2603.09988",
-        "date": "Thu, 12 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.09988v1 Announce Type: new \nAbstract: Mechanistic interpretability identifies internal circuits responsible for model behaviors, yet translating these findings into human-understandable ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
