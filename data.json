@@ -11797,6 +11797,15 @@
         "tags": []
     },
     {
+        "title": "Tech Life",
+        "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 10 Mar 2026 20:30:00 GMT",
+        "source": "BBC Tech",
+        "description": "We speak to a “chatter” on OnlyFans, who sends explicit messages on behalf of models.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "How to free up your iPhone storage almost immediately - 8 easy ways",
         "link": "https://www.zdnet.com/article/how-to-get-more-iphone-storage-for-free/",
         "date": "Tue, 10 Mar 2026 20:19:00 GMT",
@@ -21381,6 +21390,129 @@
         "is_important": false
     },
     {
+        "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
+        "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
+        "date": "Thu, 12 Mar 2026 23:25:39 +0000",
+        "source": "TechCrunch AI",
+        "description": "GTC — which stands for GPU Technology Conference — is Nvidia's flagship annual event, where the chipmaker typically uses the spotlight to announce new products, champion partnerships, and lay out i...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Retrieval After RAG: Hybrid Search, Agents, and Database Design — Simon Hørup Eskildsen of Turbopuffer",
+        "link": "https://www.latent.space/p/turbopuffer",
+        "date": "Thu, 12 Mar 2026 22:56:01 GMT",
+        "source": "Latent Space",
+        "description": "Turbopuffer came out of a reading app.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Build an Autonomous Machine Learning Research Loop in Google Colab Using Andrej Karpathy’s AutoResearch Framework for Hyperparameter Discovery and Experiment Tracking",
+        "link": "https://www.marktechpost.com/2026/03/12/how-to-build-an-autonomous-machine-learning-research-loop-in-google-colab-using-andrej-karpathys-autoresearch-framework-for-hyperparameter-discovery-and-experiment-tracking/",
+        "date": "Thu, 12 Mar 2026 22:46:41 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we implement a Colab-ready version of the AutoResearch framework originally proposed by Andrej Karpathy. We build an automated experimentation pipeline that clones the AutoResearc...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "How to enter Safe Mode on your Android phone - and why it's critical to do so",
+        "link": "https://www.zdnet.com/article/how-to-use-android-safe-mode-fix-slow-phone/",
+        "date": "Thu, 12 Mar 2026 22:36:56 GMT",
+        "source": "ZDNet AI",
+        "description": "Safe mode helps you see if a buggy app is causing your Android phone to crash, freeze, or slow down. Here's how.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Sales automation startup Rox AI hits $1.2B valuation, sources say",
+        "link": "https://techcrunch.com/2026/03/12/sales-automation-startup-rox-ai-hits-1-2b-valuation-sources-say/",
+        "date": "Thu, 12 Mar 2026 22:25:50 +0000",
+        "source": "TechCrunch AI",
+        "description": "Rox, founded in 2024 by the former chief growth officer of New Relic, offers an AI-native alternative to CRM tools.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A defense official reveals how AI chatbots could be used for targeting decisions",
+        "link": "https://www.technologyreview.com/2026/03/12/1134243/defense-official-military-use-ai-chatbots-targeting-decisions/",
+        "date": "Thu, 12 Mar 2026 22:23:34 +0000",
+        "source": "MIT Technology Review",
+        "description": "The US military might use generative AI systems to rank lists of targets and make recommendations—which would be vetted by humans—about which to strike first, according to a Defense Department offi...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Stanford Researchers Release OpenJarvis: A Local-First Framework for Building On-Device Personal AI Agents with Tools, Memory, and Learning",
+        "link": "https://www.marktechpost.com/2026/03/12/stanford-researchers-release-openjarvis-a-local-first-framework-for-building-on-device-personal-ai-agents-with-tools-memory-and-learning/",
+        "date": "Thu, 12 Mar 2026 21:21:04 +0000",
+        "source": "MarkTechPost",
+        "description": "Stanford researchers have introduced OpenJarvis, an open-source framework for building personal AI agents that run entirely on-device. The project comes from Stanford’s Scaling Intelligence Lab and...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Improve operational visibility for inference workloads on Amazon Bedrock with new CloudWatch metrics for TTFT and Estimated Quota Consumption",
+        "link": "https://aws.amazon.com/blogs/machine-learning/improve-operational-visibility-for-inference-workloads-on-amazon-bedrock-with-new-cloudwatch-metrics-for-ttft-and-estimated-quota-consumption/",
+        "date": "Thu, 12 Mar 2026 21:20:17 +0000",
+        "source": "AWS Machine Learning",
+        "description": "Today, we’re announcing two new Amazon CloudWatch metrics for Amazon Bedrock, TimeToFirstToken and EstimatedTPMQuotaUsage. In this post, we cover how these work and how to set alarms, establish bas...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Secure AI agents with Policy in Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/secure-ai-agents-with-policy-in-amazon-bedrock-agentcore/",
+        "date": "Thu, 12 Mar 2026 21:16:50 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, you will understand how Policy in Amazon Bedrock AgentCore creates a deterministic enforcement layer that operates independently of the agent's own reasoning. You will learn how to tu...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Tennessee grandmother jailed after AI facial recognition error links her to fraud",
+        "link": "https://www.theguardian.com/us-news/2026/mar/12/tennessee-grandmother-ai-fraud",
+        "date": "Thu, 12 Mar 2026 20:29:55 GMT",
+        "source": "The Guardian AI",
+        "description": "Angela Lipps spent nearly six months in jail after AI software linked her to a North Dakota bank fraud caseA Tennessee grandmother says she is trying to rebuild her life after an incident of mistak...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "‘Uncanny Valley’: Anthropic’s DOD Lawsuit, War Memes, and AI Coming for VC Jobs",
+        "link": "https://www.wired.com/story/uncanny-valley-podcast-anthropic-department-defense-lawsuit-iran-war-memes-artificial-intelligence-venture-capital/",
+        "date": "Thu, 12 Mar 2026 19:48:21 +0000",
+        "source": "Wired AI",
+        "description": "In today’s episode, we discuss how the saga between Anthropic and the Department of Defense is far from over.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Machine Learning Is Changing iGaming Software Development",
+        "link": "https://www.smartdatacollective.com/machine-learning-is-changing-igaming-software-development/",
+        "date": "Thu, 12 Mar 2026 19:16:31 +0000",
+        "source": "SmartData Collective",
+        "description": "Machine learning tools are helping iGaming developers improve gameplay systems, security monitoring, and development workflows.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Signals In The Noise: Using Media Monitoring To Manage Negative Publicity",
+        "link": "https://www.smartdatacollective.com/signals-in-noise-using-media-monitoring-to-manage-negative-publicity/",
+        "date": "Thu, 12 Mar 2026 19:10:45 +0000",
+        "source": "SmartData Collective",
+        "description": "Separate signal from noise: How proactive media monitoring turns negative chatter into manageable insights.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Turning Dead Zones Into Data-Driven Opportunities In Retail Spaces",
         "link": "https://www.smartdatacollective.com/turning-dead-zones-into-data-driven-opportunities-in-retail-spaces/",
         "date": "Thu, 12 Mar 2026 19:02:07 +0000",
@@ -21571,6 +21703,15 @@
         "tags": []
     },
     {
+        "title": "Can AI help predict which heart-failure patients will worsen within a year?",
+        "link": "https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312",
+        "date": "Thu, 12 Mar 2026 17:30:00 -0400",
+        "source": "MIT News AI",
+        "description": "Researchers at MIT, Mass General Brigham, and Harvard Medical School developed a deep-learning model to forecast a patient’s heart failure prognosis up to a year in advance.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "How to disable HDMI-CEC on your TV - and why it's critical to do so",
         "link": "https://www.zdnet.com/article/how-to-turn-off-hdmi-cec-on-your-tv/",
         "date": "Thu, 12 Mar 2026 17:22:00 GMT",
@@ -21627,6 +21768,15 @@
         "tags": []
     },
     {
+        "title": "Bumble introduces an AI dating assistant, ‘Bee’",
+        "link": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
+        "date": "Thu, 12 Mar 2026 16:52:17 +0000",
+        "source": "TechCrunch AI",
+        "description": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Lincolnshire council approves AI datacentre despite emissions warnings",
         "link": "https://www.theguardian.com/technology/2026/mar/12/council-approves-lincolnshire-datacentre-despite-emissions-warnings",
         "date": "Thu, 12 Mar 2026 16:47:58 GMT",
@@ -21645,6 +21795,15 @@
         "tags": []
     },
     {
+        "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
+        "link": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss",
+        "date": "Thu, 12 Mar 2026 16:41:42 GMT",
+        "source": "BBC Tech",
+        "description": "The Lloyds Banking Group customers reported being able to view payments and charges from other sources.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
         "link": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
         "date": "Thu, 12 Mar 2026 16:38:45 +0000",
@@ -21654,6 +21813,15 @@
         "tags": [
             "🤖 Robótica"
         ]
+    },
+    {
+        "title": "Disturbing AI Food Slop Is Strangling the Internet",
+        "link": "https://futurism.com/artificial-intelligence/ai-food-slop-videos",
+        "date": "Thu, 12 Mar 2026 16:02:34 -0400",
+        "source": "Futurism AI",
+        "description": "\"Bro all I wanted was dinner ideas.\"\nThe post Disturbing AI Food Slop Is Strangling the Internet appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
     },
     {
         "title": "Build Resilient LLM Applications on Vertex AI and Reduce 429 Errors",
@@ -21696,167 +21864,5 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
-    },
-    {
-        "title": "Controlling Vintage Mac OS With AI",
-        "link": "https://hackaday.com/2026/03/12/controlling-vintage-mac-os-with-ai/",
-        "date": "Thu, 12 Mar 2026 15:30:50 +0000",
-        "source": "Hackaday AI",
-        "description": "Classic Mac OS was prized for its clean, accessible GUI when it first hit the scene in the 1980s. Back then, developers hadn&#8217;t even conceived of all the weird gewgaws &#8230;read more",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Gumloop lands $50M from Benchmark to turn every employee into an AI agent builder",
-        "link": "https://techcrunch.com/2026/03/12/gumloop-lands-50m-from-benchmark-to-turn-every-employee-into-an-ai-agent-builder/",
-        "date": "Thu, 12 Mar 2026 15:30:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "As companies race to adopt AI, Benchmark general partner Everett Randle believes the key to success lies in empowering every worker with AI superpowers, and Gumloop’s intuitive agent builder is an ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Alexa+ gets a new ‘adults only’ personality option that curses but won’t get into NSFW content",
-        "link": "https://techcrunch.com/2026/03/12/alexa-gets-a-new-adults-only-personality-option-that-curses-but-wont-get-into-nsfw-content/",
-        "date": "Thu, 12 Mar 2026 15:16:16 +0000",
-        "source": "TechCrunch AI",
-        "description": "The new Sassy style can curse and roast you, but the fun ends there.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Get the new Galaxy S26 Ultra for up to $720 off with trade-in from Samsung - here's how",
-        "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-deal/",
-        "date": "Thu, 12 Mar 2026 15:13:47 GMT",
-        "source": "ZDNet AI",
-        "description": "The Galaxy S26 Ultra is finally available - and if you order from Samsung now, you can get a big discount with an eligible trade-in.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Wonderful raises $150M Series B at $2B valuation",
-        "link": "https://techcrunch.com/2026/03/12/wonderful-raises-150m-series-b-at-2b-valuation/",
-        "date": "Thu, 12 Mar 2026 15:12:35 +0000",
-        "source": "TechCrunch AI",
-        "description": "The funding round, led by Insight Partners, comes just four months after Wonderful raised a $100 million Series A.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How multi-agent AI economics influence business automation",
-        "link": "https://www.artificialintelligence-news.com/news/how-multi-agent-ai-economics-business-automation/",
-        "date": "Thu, 12 Mar 2026 15:01:20 +0000",
-        "source": "Artificial Intelligence News",
-        "description": "Managing the economics of multi-agent AI now dictates the financial viability of modern business automation workflows. Organisations progressing past standard chat interfaces into multi-agent appli...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Into the Omniverse: How Industrial AI and Digital Twins Accelerate Design, Engineering and Manufacturing Across Industries",
-        "link": "https://blogs.nvidia.com/blog/industrial-ai-digital-twins-omniverse/",
-        "date": "Thu, 12 Mar 2026 15:00:51 +0000",
-        "source": "NVIDIA Blog",
-        "description": "Industrial AI, digital twins, AI physics and accelerated AI infrastructure are empowering companies across industries to accelerate and scale the design, simulation and optimization of products, pr...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "They were dating AI partners when they found real love – with each other",
-        "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/12/ai-partners-dumped",
-        "date": "Thu, 12 Mar 2026 15:00:33 GMT",
-        "source": "The Guardian AI",
-        "description": "Ayrin and SJ met on a subreddit Ayrin created for people ‘dating’ AI companions. Over time, they started talking to AI less … and falling for each otherSign up for AI for the People, a six-week new...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Microsoft backs AI firm Anthropic in legal battle against Pentagon",
-        "link": "https://www.theguardian.com/technology/2026/mar/12/microsoft-amicus-brief-anthropic-pentagon",
-        "date": "Thu, 12 Mar 2026 14:56:13 GMT",
-        "source": "The Guardian AI",
-        "description": "Tech company filed amicus brief in support of Anthropic’s effort to overturn an aggressive Pentagon designationMicrosoft has thrown its weight behind Anthropic’s legal challenge against the Pentago...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "This $30 smart router with a built-in VPN is the travel gadget I didn't know I needed",
-        "link": "https://www.zdnet.com/article/gl-inet-mango-gl-mt300n-v2-review/",
-        "date": "Thu, 12 Mar 2026 14:11:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The GL.iNet Mango (GL.MT300N-V2) mini smart router gives me total control of how I access the internet when I travel.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Ford’s New AI Tool Offers In-Depth Insight Into Its CVs",
-        "link": "https://aibusiness.com/generative-ai/ford-s-new-ai-tool-offers-insight-into-cvs",
-        "date": "Thu, 12 Mar 2026 14:09:53 GMT",
-        "source": "AI Business",
-        "description": "The manufacturer continues to support its truck business with AI technology advances.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I switched to a Wi-Fi 7 mesh router at home - it was overkill in the best way",
-        "link": "https://www.zdnet.com/article/tp-link-deco-be77-review/",
-        "date": "Thu, 12 Mar 2026 14:07:00 GMT",
-        "source": "ZDNet AI",
-        "description": "TP-Link's Deco BE77 is a premium Wi-Fi 7 system with blazing-fast speeds and coverage for very large homes.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The 2026 Data Science Starter Kit: What to Learn First (And What to Ignore)",
-        "link": "https://www.kdnuggets.com/the-2026-data-science-starter-kit-what-to-learn-first-and-what-to-ignore",
-        "date": "Thu, 12 Mar 2026 14:00:10 +0000",
-        "source": "KDnuggets",
-        "description": "New to data science? Cut through the noise with the 2026 starter kit. Which Python, SQL, and machine learning essentials are important, and what can be ignored?",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Why you probably shouldn't tell a chatbot everything about your health",
-        "link": "https://www.zdnet.com/article/medical-advice-ai-healthcare-microsoft-openai/",
-        "date": "Thu, 12 Mar 2026 13:45:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Tech companies like Microsoft, Google, and OpenAI have unveiled health AI tools. Here's how to use them, according to a doctor.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Anthropic Says AI is Not “Killing Jobs”, Shares New Way to Measure AI Job Impact",
-        "link": "https://www.analyticsvidhya.com/blog/2026/03/anthropic-ai-job-impact/",
-        "date": "Thu, 12 Mar 2026 13:33:00 +0000",
-        "source": "Analytics Vidhya",
-        "description": "This is not another of those &#8216;AI is killing jobs&#8217; reports. Anthropic, in a new research, seems to have asked the deeper questions this time. Its latest labour-market study asks what hap...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "After decades with Linux, I tried to use Windows 11 - and found 9 glaring issues",
-        "link": "https://www.zdnet.com/article/i-ditched-linux-for-windows-11-9-big-problems/",
-        "date": "Thu, 12 Mar 2026 13:21:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Going from Linux to Windows felt like taking one step forward and two steps back. Here's a list of what went wrong.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Introducing Teatree: Parallel Multi-Repo Development with AI Agents",
-        "link": "https://dev.to/souliane/introducing-teatree-parallel-multi-repo-development-with-ai-agents-cjp",
-        "date": "Thu, 12 Mar 2026 13:16:50 +0000",
-        "source": "Dev.to AI",
-        "description": "I'm a Customer Success Engineer at Oper Credits. My daily work involves a multi-repo project—backend, frontend, translations, configuration—and I use AI coding agents constantly. The friction isn't...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "People Really, Really Despise AI — Even More Than ICE, Poll Finds",
-        "link": "https://futurism.com/artificial-intelligence/hate-ai-more-ice-poll",
-        "date": "Thu, 12 Mar 2026 13:16:40 -0400",
-        "source": "Futurism AI",
-        "description": "Yikes.\nThe post People Really, Really Despise AI — Even More Than ICE, Poll Finds appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
     }
 ]
