@@ -21390,6 +21390,26 @@
         "is_important": false
     },
     {
+        "title": "Google Maps makes navigation easier with conversational ‘Ask Maps’ feature",
+        "link": "https://siliconangle.com/2026/03/12/google-maps-makes-navigation-easier-ask-maps/",
+        "date": "Thu, 12 Mar 2026 23:58:50 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Google LLC is giving Google Maps a new button: “Ask Maps” integrates a Gemini-powered conversational experience directly into the app, allowing users to ask more detailed questions about whatever i...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Vibe coding startup Replit closes $400M round at $9B valuation",
+        "link": "https://siliconangle.com/2026/03/12/vibe-coding-startup-replit-closes-400m-round-9b-valuation/",
+        "date": "Thu, 12 Mar 2026 23:30:06 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Replit Inc., a startup with an artificial intelligence platform that enables users to create websites and mobile apps, has raised $400 million in funding. The company announced the investment on We...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "How to watch Jensen Huang’s Nvidia GTC 2026 keynote",
         "link": "https://techcrunch.com/2026/03/12/how-to-watch-jensen-huangs-nvidia-gtc-2026-keynote/",
         "date": "Thu, 12 Mar 2026 23:25:39 +0000",
@@ -21462,6 +21482,15 @@
         "date": "Thu, 12 Mar 2026 21:20:17 +0000",
         "source": "AWS Machine Learning",
         "description": "Today, we’re announcing two new Amazon CloudWatch metrics for Amazon Bedrock, TimeToFirstToken and EstimatedTPMQuotaUsage. In this post, we cover how these work and how to set alarms, establish bas...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Microsoft launches Copilot Health to help consumers understand their medical data",
+        "link": "https://siliconangle.com/2026/03/12/microsoft-launches-copilot-health-help-consumers-understand-medical-data/",
+        "date": "Thu, 12 Mar 2026 21:18:47 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Microsoft Corp. is updating its Copilot artificial intelligence assistant with a new tool designed to answer users’ medical questions. Copilot Health became available today through a waitlist open ...",
         "is_important": false,
         "tags": []
     },
@@ -21829,37 +21858,6 @@
         "date": "Thu, 12 Mar 2026 16:00:00 +0000",
         "source": "Google Cloud AI",
         "description": "Building applications powered by Large Language Models (LLMs) on Vertex AI is exciting, but hitting a 429 error can be a frustrating roadblock. These errors signal that your requests are coming in ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Multimodal embeddings at scale: AI data lake for media and entertainment workloads",
-        "link": "https://aws.amazon.com/blogs/machine-learning/multimodal-embeddings-at-scale-ai-data-lake-for-media-and-entertainment-workloads/",
-        "date": "Thu, 12 Mar 2026 15:59:35 +0000",
-        "source": "AWS Machine Learning",
-        "description": "This post shows you how to build a scalable multimodal video search system that enables natural language search across large video datasets using Amazon Nova models and Amazon OpenSearch Service. Y...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Fine-tuning NVIDIA Nemotron Speech ASR on Amazon EC2 for domain adaptation",
-        "link": "https://aws.amazon.com/blogs/machine-learning/fine-tuning-nvidia-nemotron-speech-asr-on-amazon-ec2-for-domain-adaptation/",
-        "date": "Thu, 12 Mar 2026 15:57:22 +0000",
-        "source": "AWS Machine Learning",
-        "description": "In this post, we explore how to fine-tune a leaderboard-topping, NVIDIA Nemotron Speech Automatic Speech Recognition (ASR) model; Parakeet TDT 0.6B V2. Using synthetic speech data to achieve superi...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "AI vs Generative AI: Key Differences, Models, and Real-World Uses",
-        "link": "https://www.analyticsvidhya.com/blog/2026/03/ai-vs-generative-ai/",
-        "date": "Thu, 12 Mar 2026 15:51:12 +0000",
-        "source": "Analytics Vidhya",
-        "description": "Tools like ChatGPT, Gemini, and Claude pushed AI into everyday conversations. Suddenly everyone was talking about AI and a newer term that appeared alongside it: Generative AI. The two are often us...",
         "is_important": false,
         "tags": [
             "💬 LLMs & NLP"
