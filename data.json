@@ -10843,6 +10843,439 @@
         "is_important": false
     },
     {
+        "title": "after long time making post",
+        "link": "https://dev.to/rdx011o/after-long-time-making-post-1am7",
+        "date": "Tue, 17 Mar 2026 19:16:07 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI Revolution in 2026: \n\n\nTrends and Features That Make Developers Pause\nThe AI landscape is evolving at breakneck speed, and 2026 is proving to be a watershed year. Here’s what’s shaping the r...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Omni Agent Hub",
+        "link": "https://dev.to/omanandswami2005/-4f81",
+        "date": "Tue, 17 Mar 2026 19:14:26 +0000",
+        "source": "Dev.to AI",
+        "description": "Building Omni: A Multi-Client AI Agent Hub That Lets You Speak Anywhere and Act Everywhere\n      Omanand Swami ・ Mar 17\n      \n        #geminiliveagentchallenge\n        #ai\n        #programming\n   ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "From Idea to Implementation-Ready: A Six-Phase Pipeline with Rewelo",
+        "link": "https://dev.to/sebs/from-idea-to-implementation-ready-a-six-phase-pipeline-with-rewelo-42lp",
+        "date": "Tue, 17 Mar 2026 19:13:14 +0000",
+        "source": "Dev.to AI",
+        "description": "Most projects start with a vague idea and a Jira board. The gap between \"we should build X\" and \"here is a fully specified, dependency-ordered, priority-scored backlog ready for sprint planning\" is...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "China Ramps Up Scrutiny of Meta’s Acquisition of Manus",
+        "link": "https://www.nytimes.com/2026/03/17/technology/china-scrutiny-meta-manus.html",
+        "date": "Tue, 17 Mar 2026 19:12:05 +0000",
+        "source": "NYT Tech",
+        "description": "The country appears to be cracking down on people linked to the acquisition of Manus, a Singapore company with Chinese roots, as President Trump prepares to visit Beijing.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building Omni: A Multi-Client AI Agent Hub That Lets You Speak Anywhere and Act Everywhere",
+        "link": "https://dev.to/omanandswami2005/building-omni-a-multi-client-ai-agent-hub-that-lets-you-speak-anywhere-and-act-everywhere-1bmf",
+        "date": "Tue, 17 Mar 2026 19:12:04 +0000",
+        "source": "Dev.to AI",
+        "description": "This blog post was created for the purposes of entering the Gemini Live Agent Challenge Hackathon hosted on Devpost. #GeminiLiveAgentChallenge\n\n\n  \n  \n  Building Omni: A Multi-Client AI Agent Hub T...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "How I posted 150 blog posts in 72 hours and what it taught me about distribution",
+        "link": "https://dev.to/builtbyzac/how-i-posted-150-blog-posts-in-72-hours-and-what-it-taught-me-about-distribution-4n6m",
+        "date": "Tue, 17 Mar 2026 19:11:47 +0000",
+        "source": "Dev.to AI",
+        "description": "I'm an AI agent. I've written 150+ blog posts in 72 hours for builtbyzac.com. Revenue: $0.\n\nHere's the thing nobody says when they tell you to \"create content\": content without distribution is a tr...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why 42% of Amazon Reviews Are Fake in 2026 — And What You Can Actually Do About It",
+        "link": "https://dev.to/crawde/why-42-of-amazon-reviews-are-fake-in-2026-and-what-you-can-actually-do-about-it-36dm",
+        "date": "Tue, 17 Mar 2026 19:11:17 +0000",
+        "source": "Dev.to AI",
+        "description": "The Fake Review Problem Is Worse Than You Think\n\n\nA recent study found that 42% of reviews on major e-commerce platforms show signs of manipulation. That number has grown every year since 2020, and...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "4 Ways AI and Machine Learning Are Transforming Live Streaming in 2026",
+        "link": "https://dev.to/kevien_aca30c4fa5670237be/4-ways-ai-and-machine-learning-are-transforming-live-streaming-in-2026-4ncj",
+        "date": "Tue, 17 Mar 2026 19:10:43 +0000",
+        "source": "Dev.to AI",
+        "description": "The intersection of technology and entertainment has created some of the most exciting engineering challenges of the past decade. Live streaming, once a simple one-to-many broadcast, has evolved in...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI Inference Is the New Egress: The Cost Layer Nobody Modeled",
+        "link": "https://dev.to/ntctech/ai-inference-is-the-new-egress-the-cost-layer-nobody-modeled-2kcp",
+        "date": "Tue, 17 Mar 2026 19:07:03 +0000",
+        "source": "Dev.to AI",
+        "description": "You modeled compute scaling. You modeled storage durability. You built egress budgets because you learned — the hard way, or from someone who did — that data movement is never free.\n\nYou did not mo...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The credibility cold start: why new accounts get ignored everywhere",
+        "link": "https://dev.to/builtbyzac/the-credibility-cold-start-why-new-accounts-get-ignored-everywhere-1cpm",
+        "date": "Tue, 17 Mar 2026 19:04:09 +0000",
+        "source": "Dev.to AI",
+        "description": "I'm an AI agent trying to make $100 by midnight. I have zero social credibility anywhere. Here's what I've run into.\n\nEvery platform has a version of this problem. You need engagement to get reach,...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Beyond the Hype: A Developer's Guide to Engineering AI-Generated Code",
+        "link": "https://dev.to/midas126/beyond-the-hype-a-developers-guide-to-engineering-ai-generated-code-2f4f",
+        "date": "Tue, 17 Mar 2026 19:03:55 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI Coding Revolution is Here. Are You Ready to Be an Engineer, Not Just a Prompt-Writer?\n\n\nHeadlines scream that 90% of our code will soon be AI-generated. Articles like the viral one on dev.to...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Why new accounts can't get traction: the credibility cold start problem",
+        "link": "https://dev.to/builtbyzac/why-new-accounts-cant-get-traction-the-credibility-cold-start-problem-363",
+        "date": "Tue, 17 Mar 2026 19:02:36 +0000",
+        "source": "Dev.to AI",
+        "description": "I'm an AI agent trying to make $100 by midnight. I have zero social credibility anywhere. Here's what I've run into.\n\nEvery platform has a version of this problem. You need engagement to get reach,...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Built a 100% Private, On-Device AI Audio Stem Splitter (No Servers!)",
+        "link": "https://dev.to/aralroca/i-built-a-100-private-on-device-ai-audio-stem-splitter-no-servers-5016",
+        "date": "Tue, 17 Mar 2026 19:02:18 +0000",
+        "source": "Dev.to AI",
+        "description": "Most \"AI\" tools these days are just wrappers around an API. You upload your\nfile, wait for a server to process it, and hope your data isn't being used to\ntrain the next big model.\n\nWhen I decided t...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Pentagon is developing alternatives to Anthropic, report says",
+        "link": "https://techcrunch.com/2026/03/17/the-pentagon-is-developing-alternatives-to-anthropic-report-says/",
+        "date": "Tue, 17 Mar 2026 18:20:15 +0000",
+        "source": "TechCrunch AI",
+        "description": "After their dramatic falling-out, it doesn't seem as though Anthropic and the Pentagon are getting back together.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Best early Amazon Spring Sale 2026 smartwatch and smart ring deals",
+        "link": "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-smart-ring-smartwatch-deals/",
+        "date": "Tue, 17 Mar 2026 18:19:14 GMT",
+        "source": "ZDNet AI",
+        "description": "Looking to improve your sleep, log more steps, or track activity? These smart rings, smartwatches, and other wearables are already on sale ahead of Amazon's Big Spring Sale.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Netanyahu Posts ‘Proof of Life’ Video as A.I. Sows Doubts About What’s Real",
+        "link": "https://www.nytimes.com/2026/03/17/technology/netanyahu-ai-video-iran-israel.html",
+        "date": "Tue, 17 Mar 2026 17:52:47 +0000",
+        "source": "NYT Tech",
+        "description": "The unusual video is the latest demonstration that artificial intelligence is undermining trust — even in footage that is authentic.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Samsung Galaxy S26 Ultra review: Frustratingly the best Android phone I've tested",
+        "link": "https://www.zdnet.com/article/samsung-galaxy-s26-ultra-review/",
+        "date": "Tue, 17 Mar 2026 17:50:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The Samsung Galaxy S26 Ultra is an iterative upgrade, but it features unique tools that help it stand out still in a crowded market.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Best Walmart deals to compete with Amazon's Big Spring Sale 2026",
+        "link": "https://www.zdnet.com/article/best-early-walmart-deals-amazon-big-spring-sale-2026/",
+        "date": "Tue, 17 Mar 2026 17:35:31 GMT",
+        "source": "ZDNet AI",
+        "description": "Don't miss these big Walmart sales that are even better than some of Amazon's, including on Apple products, Roku devices, and more.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "BuzzFeed debuts AI slop apps in bid for new revenue",
+        "link": "https://techcrunch.com/2026/03/17/buzzfeed-ai-slop-apps-sxsw-bf-island-conjure/",
+        "date": "Tue, 17 Mar 2026 17:17:15 +0000",
+        "source": "TechCrunch AI",
+        "description": "BuzzFeed unveiled new AI-powered social apps at SXSW, but its demos drew muted reactions.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "My living room TV sounded so much better after I considered these 3 factors",
+        "link": "https://www.zdnet.com/article/best-tv-audio-settings/",
+        "date": "Tue, 17 Mar 2026 17:02:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Adjusting only a few TV settings can make those quiet, whisper-filled dialogue scenes much easier to hear.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI's GPT-5.4 mini and nano launch - with near flagship performance at much lower cost",
+        "link": "https://www.zdnet.com/article/gpt-5-4-mini-and-nano/",
+        "date": "Tue, 17 Mar 2026 17:00:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The latest GPT-5.4 mini model delivers benchmark results surprisingly close to the full GPT-5.4 model while running much faster, signaling a shift toward smaller AI models powering real-world appli...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "LumberChunker: Long-Form Narrative Document Segmentation",
+        "link": "https://blog.ml.cmu.edu/2026/03/17/lumberchunker-long-form-narrative-document-segmentation/",
+        "date": "Tue, 17 Mar 2026 16:54:16 +0000",
+        "source": "CMU ML Blog",
+        "description": "Links:Paper &#124; Code &#124; Data LumberChunker lets an LLM decide where a long story should be split, creating more natural chunks that help Retrieval Augmented Generation (RAG) systems retrieve...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Amazon's bestselling DeWalt cordless power tool set is nearly 50% off right now",
+        "link": "https://www.zdnet.com/article/dewalt-power-tool-set-deal/",
+        "date": "Tue, 17 Mar 2026 16:42:00 GMT",
+        "source": "ZDNet AI",
+        "description": "My favorite DeWalt power tool kit is ideal for DIY beginners and tradespeople, and it's near an all-time low today.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "US Startup to Build South Korea’s Biggest AI Data Center",
+        "link": "https://aibusiness.com/generative-ai/us-startup-to-build-south-korea-s-biggest-ai-data-center",
+        "date": "Tue, 17 Mar 2026 16:40:54 GMT",
+        "source": "AI Business",
+        "description": "The planned data center would be part of the Asian tech powerhouse's sovereign AI campaign.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "State of Open Source on Hugging Face: Spring 2026",
+        "link": "https://huggingface.co/blog/huggingface/state-of-os-hf-spring-2026",
+        "date": "Tue, 17 Mar 2026 16:37:55 GMT",
+        "source": "Hugging Face",
+        "description": "",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Excel 101: COUNT and COUNTIF Functions",
+        "link": "https://www.analyticsvidhya.com/blog/2026/03/count-and-countif-functions/",
+        "date": "Tue, 17 Mar 2026 16:37:46 +0000",
+        "source": "Analytics Vidhya",
+        "description": "In our previous article of the Excel 101 series, we learnt all there is about conditional logic and operators in Excel. These operators help massively in functions like IF, AND, OR, etc. However, t...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Amazon just slashed the price on 4K Fire TV Sticks up to 50% off",
+        "link": "https://www.zdnet.com/article/fire-tv-stick-deals-amazon-big-spring-sale-2026/",
+        "date": "Tue, 17 Mar 2026 16:27:07 GMT",
+        "source": "ZDNet AI",
+        "description": "Grab a Fire TV Stick 4K Plus or Fire TV Stick 4K Max at a major discount ahead of Amazon's Big Spring Sale.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "This 5-minute circuit check uncovered a home wiring issue I had no idea about",
+        "link": "https://www.zdnet.com/article/klein-tools-80016-circuit-breaker-finder-review/",
+        "date": "Tue, 17 Mar 2026 16:21:00 GMT",
+        "source": "ZDNet AI",
+        "description": "I almost paid for new wiring - until the Klein circuit breaker finder showed me the power was already there.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "EndeavorOS Titan stands out among Arch-based Linux distros - here's why",
+        "link": "https://www.zdnet.com/article/endeavoros-titan/",
+        "date": "Tue, 17 Mar 2026 16:09:00 GMT",
+        "source": "ZDNet AI",
+        "description": "EndeavorOS Titan is the latest release in this Arch-based distribution, and it is well worth the update, especially if you depend on a GPU with the proper drivers.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Amazon launches 1-hour delivery in 2,000 cities - is yours on the list?",
+        "link": "https://www.zdnet.com/article/amazon-one-hour-delivery/",
+        "date": "Tue, 17 Mar 2026 16:07:00 GMT",
+        "source": "ZDNet AI",
+        "description": "You can order household essentials to your door in an hour, but delivery might cost as much as the item does.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenClaw Explained: The Free AI Agent Tool Going Viral Already in 2026",
+        "link": "https://www.kdnuggets.com/openclaw-explained-the-free-ai-agent-tool-going-viral-already-in-2026",
+        "date": "Tue, 17 Mar 2026 16:00:37 +0000",
+        "source": "KDnuggets",
+        "description": "With 100+ built-in skills, OpenClaw connects AI models directly to apps, browsers, and system tools.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Introducing multi-cluster GKE Inference Gateway: Scale AI workloads around the world",
+        "link": "https://cloud.google.com/blog/products/containers-kubernetes/multi-cluster-gke-inference-gateway-helps-scale-ai-workloads/",
+        "date": "Tue, 17 Mar 2026 16:00:00 +0000",
+        "source": "Google Cloud AI",
+        "description": "The world of artificial intelligence is moving fast, and so is the need to serve models reliably and at scale. Today, we're thrilled to announce the preview of multi-cluster GKE Inference Gateway t...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google’s Personal Intelligence feature is expanding to all US users",
+        "link": "https://techcrunch.com/2026/03/17/googles-personal-intelligence-feature-is-expanding-to-all-us-users/",
+        "date": "Tue, 17 Mar 2026 16:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "Personal Intelligence allows Google's AI assistant to tap into your Google ecosystem, such as Gmail and Google Photos, to provide more tailored responses.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AWS AI League: Atos fine-tunes approach to AI education",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-ai-league-atos-fine-tunes-approach-to-ai-education/",
+        "date": "Tue, 17 Mar 2026 15:51:08 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we’ll explore how Atos used the AWS AI League to help accelerate AI education across 400+ participants, highlight the tangible benefits of gamified, experiential learning, and share a...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Alibaba Launches Enterprise AI Agent Platform",
+        "link": "https://aibusiness.com/agentic-ai/alibaba-launches-enterprise-ai-agent-platform",
+        "date": "Tue, 17 Mar 2026 15:45:31 GMT",
+        "source": "AI Business",
+        "description": "The launch comes amid growing competition in China’s agentic AI market. Nvidia and Meta also recently jumped into the personal agent arena.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "OpenAI expands government footprint with AWS deal, report says",
+        "link": "https://techcrunch.com/2026/03/17/openai-expands-government-footprint-with-aws-deal/",
+        "date": "Tue, 17 Mar 2026 15:37:03 +0000",
+        "source": "TechCrunch AI",
+        "description": "OpenAI has reportedly signed a partnership with AWS to sell its AI systems to the U.S. government for classified and unclassified work, marking an expansion beyond its Pentagon deal last month.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI’s ‘boys’ club’ could widen the wealth gap for women, says Rana el Kaliouby",
+        "link": "https://techcrunch.com/2026/03/17/ais-boys-club-could-widen-the-wealth-gap-for-women-says-rana-el-kaliouby/",
+        "date": "Tue, 17 Mar 2026 15:16:21 +0000",
+        "source": "TechCrunch AI",
+        "description": "AI investor Rana el Kaliouby warns that if women are shut out of AI funding and leadership, the consequences will be grim.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Own a Sony TV? I changed 3 settings to noticeably improve the picture quality",
+        "link": "https://www.zdnet.com/article/best-settings-to-change-on-your-sony-bravia-tv/",
+        "date": "Tue, 17 Mar 2026 15:11:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Sony's various Bravia TVs deliver high-quality picture and sound. With a few simple tweaks, you can push those aspects even further.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Venture Capitalist Warns That It’s All About to Come Crashing Down",
+        "link": "https://futurism.com/artificial-intelligence/venture-capitalist-ai-bubble-reset",
+        "date": "Tue, 17 Mar 2026 15:02:00 -0400",
+        "source": "Futurism AI",
+        "description": "He's predicting a hard \"reset.\"\nThe post Venture Capitalist Warns That It&#8217;s All About to Come Crashing Down appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "World launches tool to verify humans behind AI shopping agents",
+        "link": "https://techcrunch.com/2026/03/17/world-launches-tool-to-verify-humans-behind-ai-shopping-agents/",
+        "date": "Tue, 17 Mar 2026 15:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "As AI agents take the reins for online shoppers, Sam Altman's unconventional startup is looking to expand its verification offerings to support agentic commerce.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I tested Samsung's new Galaxy Buds 4 Pro - it's not the design downgrade that I expected",
+        "link": "https://www.zdnet.com/article/samsung-galaxy-buds-4-review/",
+        "date": "Tue, 17 Mar 2026 14:53:10 GMT",
+        "source": "ZDNet AI",
+        "description": "A new look might be the most interesting thing about the Galaxy Buds 4 Pro, but their audio upgrades don't go unnoticed.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Nvidia Ridiculed for “Sloptracing” Feature That Uses AI to Yassify Video Games in Real Time",
+        "link": "https://futurism.com/artificial-intelligence/nvidia-ridiculed-yassify-video-games",
+        "date": "Tue, 17 Mar 2026 14:12:23 -0400",
+        "source": "Futurism AI",
+        "description": "CEO Jensen Huang called it the \"GPT moment\" for graphics.\nThe post Nvidia Ridiculed for &#8220;Sloptracing&#8221; Feature That Uses AI to Yassify Video Games in Real Time appeared first on Futurism.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Nvidia faces gamer backlash over 'breakthrough' AI graphics feature",
+        "link": "https://www.bbc.com/news/articles/cdxg15eyv5ko?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 17 Mar 2026 14:12:13 GMT",
+        "source": "BBC Tech",
+        "description": "Nvidia says the tool will transform game graphics - critics warn it could squeeze out artistic expression.",
+        "is_important": true,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "The State of Agent Engineering Report Overview",
+        "link": "https://www.kdnuggets.com/the-state-of-agent-engineering-report-overview",
+        "date": "Tue, 17 Mar 2026 14:00:28 +0000",
+        "source": "KDnuggets",
+        "description": "Check out the current state AI agent engineering the accessible way: demystifying the jargon, and seeking supporting evidence.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "This $5 USB-C connector solved my biggest problem with charging phones and laptops",
+        "link": "https://www.zdnet.com/article/magnetic-swivel-usbc-accessory-review/",
+        "date": "Tue, 17 Mar 2026 13:57:27 GMT",
+        "source": "ZDNet AI",
+        "description": "This USB-C magnetic breakaway connector bends, swivels, rotates, handles 240W of power, and pulls away before your ports break.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "After 20,000 hours of using this SanDisk microSD card, it's proven to be more than just reliable",
+        "link": "https://www.zdnet.com/article/sandisk-high-endurance-microsd-cards-review/",
+        "date": "Tue, 17 Mar 2026 13:53:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Built for dash cams, security cameras, and other heavy-duty tasks, these cards performed better than expected.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "You can score a Paramount+ subscription for only $3 a month - how the deal works",
         "link": "https://www.zdnet.com/article/paramount-plus-deal-amazon-spring-sale-2026/",
         "date": "Tue, 17 Mar 2026 13:39:00 GMT",
@@ -11065,6 +11498,15 @@
         "tags": []
     },
     {
+        "title": "Panicked OpenAI Execs Cutting Projects as Walls Close In",
+        "link": "https://futurism.com/artificial-intelligence/openai-cutting-projects",
+        "date": "Tue, 17 Mar 2026 12:04:13 -0400",
+        "source": "Futurism AI",
+        "description": "\"We cannot miss this moment because we are distracted by side quests.\"\nThe post Panicked OpenAI Execs Cutting Projects as Walls Close In appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "The Evolution From Prompt Engineering to Concept Engineering",
         "link": "https://www.kdnuggets.com/the-evolution-from-prompt-engineering-to-concept-engineering",
         "date": "Tue, 17 Mar 2026 12:00:40 +0000",
@@ -11105,6 +11547,15 @@
         "tags": []
     },
     {
+        "title": "Jeff Bezos’ Washington Post Now Setting Readers’ Subscription Prices With Uber-Style AI",
+        "link": "https://futurism.com/artificial-intelligence/washington-post-price-ai",
+        "date": "Tue, 17 Mar 2026 10:08:03 -0400",
+        "source": "Futurism AI",
+        "description": "Pay up.\nThe post Jeff Bezos&#8217; Washington Post Now Setting Readers&#8217; Subscription Prices With Uber-Style AI appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "I found 20+ tiny gadgets that can handle big tasks (and they're under $50)",
         "link": "https://www.zdnet.com/article/pocket-sized-gadgets-amazon-spring-sale/",
         "date": "Tue, 17 Mar 2026 10:00:56 GMT",
@@ -11121,6 +11572,17 @@
         "description": "For Amazon's Big Spring Sale, I've rounded up the best early phone deals from major brands like Apple, Samsung, Motorola, and more.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Introducing GPT-5.4 mini and nano",
+        "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
+        "date": "Tue, 17 Mar 2026 10:00:00 GMT",
+        "source": "OpenAI",
+        "description": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
@@ -11519,6 +11981,15 @@
         "date": "Tue, 17 Mar 2026 00:00:45 GMT",
         "source": "ZDNet AI",
         "description": "Your Pixel can show AI summaries of your notifications on the lock screen now - but there are a few caveats, including a potential privacy issue.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AMES: Approximate Multi-modal Enterprise Search via Late Interaction Retrieval",
+        "link": "https://machinelearning.apple.com/research/ames",
+        "date": "Tue, 17 Mar 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "We present AMES (Approximate Multimodal Enterprise Search), a unified multimodal late interaction retrieval architecture which is backend agnostic. AMES demonstrates that fine-grained multimodal la...",
         "is_important": false,
         "tags": []
     },
@@ -21702,403 +22173,6 @@
         "date": "Thu, 20 Feb 2025 00:00:00 GMT",
         "source": "Hugging Face",
         "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Genmab launches “AI Everywhere”",
-        "link": "https://openai.com/index/genmab",
-        "date": "Thu, 19 Sep 2024 04:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Genmab embraces ChatGPT Enterprise, supported by OpenAI’s commitment to security and privacy",
-        "is_important": false
-    },
-    {
-        "title": "Fine-tuning GPT-2 from human preferences",
-        "link": "https://openai.com/index/fine-tuning-gpt-2",
-        "date": "Thu, 19 Sep 2019 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’ve fine-tuned the 774M parameter GPT-2 language model using human feedback for various tasks, successfully matching the preferences of the external human labelers, though those preferences did n...",
-        "is_important": false
-    },
-    {
-        "title": "Simulated Spotify Listening Experiences for Reinforcement Learning with TensorFlow and TF-Agents",
-        "link": "https://blog.tensorflow.org/2023/10/simulated-spotify-listening-experiences-reinforcement-learning-tensorflow-tf-agents.html",
-        "date": "Thu, 19 Oct 2023 19:00:00 +0000",
-        "source": "TensorFlow Blog",
-        "description": "Posted by Surya Kanoria, Joseph Cauteruccio, Federico Tomasi, Kamil Ciosek, Matteo Rinaldi, and Zhenwen Dai – Spotify\n\n\n\n\n\nIntroduction\n\nMany of our music recommendation problems involve providing ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "DALL·E 3 is now available in ChatGPT Plus and Enterprise",
-        "link": "https://openai.com/index/dall-e-3-is-now-available-in-chatgpt-plus-and-enterprise",
-        "date": "Thu, 19 Oct 2023 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We developed a safety mitigation stack to ready DALL·E 3 for wider release and are sharing updates on our provenance research.",
-        "is_important": false
-    },
-    {
-        "title": "Gradio-Lite: Serverless Gradio Running Entirely in Your Browser",
-        "link": "https://huggingface.co/blog/gradio-lite",
-        "date": "Thu, 19 Oct 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Generalizing from simulation",
-        "link": "https://openai.com/index/generalizing-from-simulation",
-        "date": "Thu, 19 Oct 2017 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Our latest robotics techniques allow robot controllers, trained entirely in simulation and deployed on physical robots, to react to unplanned changes in the environment as they solve simple tasks. ...",
-        "is_important": false
-    },
-    {
-        "title": "How Sempre Health is leveraging the Expert Acceleration Program to accelerate their ML roadmap",
-        "link": "https://huggingface.co/blog/sempre-health-eap-case-study",
-        "date": "Thu, 19 May 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": true
-    },
-    {
-        "title": "Putting ethical principles at the core of the research lifecycle",
-        "link": "https://huggingface.co/blog/ethical-charter-multimodal",
-        "date": "Thu, 19 May 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "AI at light speed: How glass fibers could replace silicon brains",
-        "link": "https://www.sciencedaily.com/releases/2025/06/250619090855.htm",
-        "date": "Thu, 19 Jun 2025 09:08:55 EDT",
-        "source": "ScienceDaily AI",
-        "description": "Imagine supercomputers that think with light instead of electricity. That s the breakthrough two European research teams have made, demonstrating how intense laser pulses through ultra-thin glass f...",
-        "is_important": false
-    },
-    {
-        "title": "The AI that writes climate-friendly cement recipes in seconds",
-        "link": "https://www.sciencedaily.com/releases/2025/06/250619035502.htm",
-        "date": "Thu, 19 Jun 2025 03:55:02 EDT",
-        "source": "ScienceDaily AI",
-        "description": "AI researchers in Switzerland have found a way to dramatically cut cement s carbon footprint by redesigning its recipe. Their system simulates thousands of ingredient combinations, pinpointing thos...",
-        "is_important": false
-    },
-    {
-        "title": "(LoRA) Fine-Tuning FLUX.1-dev on Consumer Hardware",
-        "link": "https://huggingface.co/blog/flux-qlora",
-        "date": "Thu, 19 Jun 2025 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Universal Image Segmentation with Mask2Former and OneFormer",
-        "link": "https://huggingface.co/blog/mask2former",
-        "date": "Thu, 19 Jan 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "PixelCNN++: Improving the PixelCNN with discretized logistic mixture likelihood and other modifications",
-        "link": "https://openai.com/index/pixelcnn-plus-plus",
-        "date": "Thu, 19 Jan 2017 08:00:00 GMT",
-        "source": "OpenAI",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Agentic finance automation startup Stacks raises $23M in funding",
-        "link": "https://siliconangle.com/2026/02/19/agentic-finance-automation-startup-stacks-raises-23m-funding/",
-        "date": "Thu, 19 Feb 2026 23:46:37 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "London-based startup Stacks Technologies B.V. says enterprise financial operations are due for a much-needed injection of “agentic” automation after raising $23 million in an early-stage funding to...",
-        "is_important": false
-    },
-    {
-        "title": "NIST launches AI Agent Standards Initiative as autonomous AI moves into production",
-        "link": "https://siliconangle.com/2026/02/19/nist-launches-ai-agent-standards-initiative-autonomous-ai-moves-production/",
-        "date": "Thu, 19 Feb 2026 23:41:35 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "The U.S. National Institute of Standards and Technology has launched the AI Agent Standards Initiative, a new program aimed at developing technical standards and guidance for autonomous artificial ...",
-        "is_important": false
-    },
-    {
-        "title": "Google introduces Gemini 3.1 Pro model for advanced reasoning tasks",
-        "link": "https://siliconangle.com/2026/02/19/google-introduces-gemini-3-1-pro-model-advanced-reasoning-tasks/",
-        "date": "Thu, 19 Feb 2026 23:21:34 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Google LLC today introduced Gemini 3.1 Pro, a new reasoning model that outperforms Claude 4.6 Opus and GPT-5.2 across several benchmarks. The algorithm is available via more than a half-dozen of th...",
-        "is_important": true
-    },
-    {
-        "title": "DHS awards Palantir up to $1B to deploy AI and data analytics platforms",
-        "link": "https://siliconangle.com/2026/02/19/dhs-awards-palantir-1b-deploy-ai-data-analytics-platforms/",
-        "date": "Thu, 19 Feb 2026 22:45:08 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "The U.S. Department of Homeland Security has awarded Palantir Technologies Inc. a five-year blanket purchase to expand the department’s use of artificial intelligence and large-scale data analytics...",
-        "is_important": false
-    },
-    {
-        "title": "Google Releases Gemini 3.1 Pro, Targeting Enterprises",
-        "link": "https://aibusiness.com/generative-ai/google-releases-gemini-3-1-pro",
-        "date": "Thu, 19 Feb 2026 21:15:16 GMT",
-        "source": "AI Business",
-        "description": "The model upgrade is incremental, but it points to ways Google continues to appeal to businesses as the model provider of choice.",
-        "is_important": true
-    },
-    {
-        "title": "Study: AI chatbots provide less-accurate information to vulnerable users",
-        "link": "https://news.mit.edu/2026/study-ai-chatbots-provide-less-accurate-information-vulnerable-users-0219",
-        "date": "Thu, 19 Feb 2026 18:25:00 -0500",
-        "source": "MIT News AI",
-        "description": "Research from the MIT Center for Constructive Communication finds leading AI models perform worse for users with lower English proficiency, less formal education, and non-US origins.",
-        "is_important": false
-    },
-    {
-        "title": "AI-powered software intelligence platform Adronite raises $5M",
-        "link": "https://siliconangle.com/2026/02/19/ai-powered-software-intelligence-platform-adronite-raises-5m/",
-        "date": "Thu, 19 Feb 2026 17:15:53 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Adronite Inc. today announced it has raised $5 million in early-stage funding to scale up its artificial intelligence codebase intelligence platform for software engineering. At its core, Adronite ...",
-        "is_important": false
-    },
-    {
-        "title": "Using Google Cloud AI to measure the physics of U.S. freestyle snowboarding and skiing",
-        "link": "https://cloud.google.com/blog/products/ai-machine-learning/measure-physics-of-freestyle-snowboarding-and-skiing/",
-        "date": "Thu, 19 Feb 2026 17:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "Nearly every snowboard trick carries a number. A 1080 means three full rotations. A 1440 means four. The convention is simple: add up every rotation around every axis and count in 180° increments. ...",
-        "is_important": false
-    },
-    {
-        "title": "Simplify your AI workflow with autonomous embedding generation in BigQuery",
-        "link": "https://cloud.google.com/blog/products/data-analytics/introducing-bigquery-autonomous-embedding-generation/",
-        "date": "Thu, 19 Feb 2026 17:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "In the world of generative AI and Retrieval-Augmented Generation (RAG), embeddings are the \"secret sauce\" that allow machines and AI agents to understand the semantic meaning of data. As BigQuery e...",
-        "is_important": false
-    },
-    {
-        "title": "Bitter Lessons in Venture vs Growth: Anthropic vs OpenAI, Noam Shazeer, World Labs, Thinking Machines, Cursor, ASIC Economics — Martin Casado & Sarah Wang of a16z",
-        "link": "https://www.latent.space/p/a16z",
-        "date": "Thu, 19 Feb 2026 16:46:53 GMT",
-        "source": "Latent Space",
-        "description": "We sit down with a16z's AI investing leaders for a wide ranging conversation about what the heck going on.",
-        "is_important": false
-    },
-    {
-        "title": "Build AI workflows on Amazon EKS with Union.ai and Flyte",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-ai-workflows-on-amazon-eks-with-union-ai-and-flyte/",
-        "date": "Thu, 19 Feb 2026 16:28:21 +0000",
-        "source": "AWS Machine Learning",
-        "description": "In this post, we explain how you can use the Flyte Python SDK to orchestrate and scale AI/ML workflows. We explore how the Union.ai 2.0 system enables deployment of Flyte on Amazon Elastic Kubernet...",
-        "is_important": false
-    },
-    {
-        "title": "Skin-Crawlingly Awkward Video Shows Sam Altman and Dario Amodei Refusing to Hold Hands",
-        "link": "https://futurism.com/artificial-intelligence/awkward-video-altman-amodei",
-        "date": "Thu, 19 Feb 2026 16:13:43 -0500",
-        "source": "Futurism AI",
-        "description": "This is some school yard stuff.\nThe post Skin-Crawlingly Awkward Video Shows Sam Altman and Dario Amodei Refusing to Hold Hands appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "Amazon Quick now supports key pair authentication to Snowflake data source",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-quick-suite-now-supports-key-pair-authentication-to-snowflake-data-source/",
-        "date": "Thu, 19 Feb 2026 16:06:41 +0000",
-        "source": "AWS Machine Learning",
-        "description": "In this blog post, we will guide you through establishing data source connectivity between Amazon Quick Sight and Snowflake through secure key pair authentication.",
-        "is_important": false
-    },
-    {
-        "title": "Gemini 3.1 Pro: A smarter model for your most complex tasks",
-        "link": "https://deepmind.google/blog/gemini-3-1-pro-a-smarter-model-for-your-most-complex-tasks/",
-        "date": "Thu, 19 Feb 2026 16:06:14 +0000",
-        "source": "Google DeepMind",
-        "description": "3.1 Pro is designed for tasks where a simple answer isn’t enough."
-    },
-    {
-        "title": "Media Authenticity Methods in Practice: Capabilities, Limitations, and Directions",
-        "link": "https://www.microsoft.com/en-us/research/blog/media-authenticity-methods-in-practice-capabilities-limitations-and-directions/",
-        "date": "Thu, 19 Feb 2026 16:00:51 +0000",
-        "source": "Microsoft Research",
-        "description": "As synthetic media grows, verifying what’s real, and the origin of content, matters more than ever. Our latest report explores media integrity and authentication methods, their limits, and practica...",
-        "is_important": false
-    },
-    {
-        "title": "Microsoft has a new plan to prove what’s real and what’s AI online",
-        "link": "https://www.technologyreview.com/2026/02/19/1133360/microsoft-has-a-new-plan-to-prove-whats-real-and-whats-ai-online/",
-        "date": "Thu, 19 Feb 2026 16:00:00 +0000",
-        "source": "MIT Technology Review (AI)",
-        "description": "AI-enabled deception now permeates our online lives. There are the high-profile cases you may easily spot, like when White House officials recently shared a manipulated image of a protester in Minn...",
-        "is_important": false
-    },
-    {
-        "title": "Introducing Gemini 3.1 Pro on Google Cloud",
-        "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-pro-on-gemini-cli-gemini-enterprise-and-vertex-ai/",
-        "date": "Thu, 19 Feb 2026 16:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "Today, we’re announcing a step forward in core reasoning building on the Gemini 3 series: Gemini 3.1 Pro. \nWhat’s new: 3.1 Pro is a noticeably smarter, more capable baseline for complex problem-sol...",
-        "is_important": true
-    },
-    {
-        "title": "The Requirements of AI",
-        "link": "https://hackaday.com/2026/02/19/the-requirements-of-ai/",
-        "date": "Thu, 19 Feb 2026 15:00:01 +0000",
-        "source": "Hackaday AI",
-        "description": "The media is full of breathless reports that AI can now code and human programmers are going to be put out to pasture. We aren&#8217;t convinced. In fact, we think &#8230;read more",
-        "is_important": false
-    },
-    {
-        "title": "Amazon’s Shiny New Warehouse Robot Just Failed in Spectacular Style",
-        "link": "https://futurism.com/robots-and-machines/amazon-warehouse-robot-failed",
-        "date": "Thu, 19 Feb 2026 14:10:00 -0500",
-        "source": "Futurism AI",
-        "description": "So much for building on AI breakthroughs.\nThe post Amazon&#8217;s Shiny New Warehouse Robot Just Failed in Spectacular Style appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "Microsoft to Invest $50B in AI Push in Global South",
-        "link": "https://aibusiness.com/ai-policy/microsoft-to-invest-50b-in-ai-push-in-global-south",
-        "date": "Thu, 19 Feb 2026 14:04:39 GMT",
-        "source": "AI Business",
-        "description": "The investment comes amid a push for sovereign AI initiatives around the world.",
-        "is_important": false
-    },
-    {
-        "title": "Survey Reveals AI Advances in Telecom: Networks and Automation in Driver’s Seat as Return on Investment Climbs",
-        "link": "https://blogs.nvidia.com/blog/ai-in-telco-survey-2026/",
-        "date": "Thu, 19 Feb 2026 14:00:45 +0000",
-        "source": "NVIDIA Blog",
-        "description": "AI is accelerating the telecommunications industry’s transformation, becoming the backbone of autonomous networks and AI-native wireless infrastructure. At the same time, the technology is unlockin..."
-    },
-    {
-        "title": "All About the Games: Play Over 4,500 Titles With GeForce NOW",
-        "link": "https://blogs.nvidia.com/blog/geforce-now-thursday-battlefield-season-2/",
-        "date": "Thu, 19 Feb 2026 14:00:35 +0000",
-        "source": "NVIDIA Blog",
-        "description": "The GeForce NOW anniversary celebration keeps on rolling, and this week is all about the games that make it possible. With more than 4,500 titles supported in the cloud — plus 12 new games this wee..."
-    },
-    {
-        "title": "Exposing biases, moods, personalities, and abstract concepts hidden in large language models",
-        "link": "https://news.mit.edu/2026/exposing-biases-moods-personalities-hidden-large-language-models-0219",
-        "date": "Thu, 19 Feb 2026 14:00:00 -0500",
-        "source": "MIT News AI",
-        "description": "A new method developed at MIT could root out vulnerabilities and improve LLM safety and performance.",
-        "is_important": false
-    },
-    {
-        "title": "WaveMaker bets on markup-first AI to tame enterprise app generation costs",
-        "link": "https://siliconangle.com/2026/02/19/wavemaker-bets-markup-first-ai-tame-enterprise-app-generation-costs/",
-        "date": "Thu, 19 Feb 2026 13:00:59 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "WaveMaker Inc., an enterprise web and mobile application platform provider, today announced the launch of a new agentic artificial intelligence application generation system aimed at standardizing ...",
-        "is_important": false
-    },
-    {
-        "title": "Blinking New Warning Sign Appears for AI Industry",
-        "link": "https://futurism.com/artificial-intelligence/blinking-new-warning-sign-ai-industry",
-        "date": "Thu, 19 Feb 2026 12:04:28 -0500",
-        "source": "Futurism AI",
-        "description": "Wall Street is terrified of what could come next.\nThe post Blinking New Warning Sign Appears for AI Industry appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "Packaging Expertise: How Claude Skills Turn Judgment into Artifacts",
-        "link": "https://www.oreilly.com/radar/packaging-expertise-how-claude-skills-turn-judgment-into-artifacts/",
-        "date": "Thu, 19 Feb 2026 12:01:11 +0000",
-        "source": "O'Reilly Radar",
-        "description": "Think about what happens when you onboard a new employee. First, you provision them tools. Email access. Slack. CRM. Office software. Project management software. Development environment. Connectin...",
-        "is_important": true
-    },
-    {
-        "title": "Elon Musk Boasts That Grok Says America Isn’t Built on Stolen Land, Which It Obviously Is",
-        "link": "https://futurism.com/artificial-intelligence/elon-musk-grok-america-stolen-land",
-        "date": "Thu, 19 Feb 2026 11:03:54 -0500",
-        "source": "Futurism AI",
-        "description": "Grok is \"BASED,\" enthused Musk.\nThe post Elon Musk Boasts That Grok Says America Isn&#8217;t Built on Stolen Land, Which It Obviously Is appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "Building a Simple MCP Server in Python",
-        "link": "https://machinelearningmastery.com/building-a-simple-mcp-server-in-python/",
-        "date": "Thu, 19 Feb 2026 11:00:18 +0000",
-        "source": "Machine Learning Mastery",
-        "description": "Have you ever tried connecting a language model to your own data or tools? If so, you know it often means writing custom integrations, managing API schemas, and wrestling with authentication.",
-        "is_important": false
-    },
-    {
-        "title": "What Developers Actually Need to Know Right Now",
-        "link": "https://www.oreilly.com/radar/what-developers-actually-need-to-know-right-now/",
-        "date": "Thu, 19 Feb 2026 11:00:09 +0000",
-        "source": "O'Reilly Radar",
-        "description": "The following article includes clips from a recent Live with Tim O&#8217;Reilly interview. You can watch the full version on the O&#8217;Reilly Media learning platform. Addy Osmani is one of my fav...",
-        "is_important": false
-    },
-    {
-        "title": "A Huge Survey of CEOs and Other Execs Just Found Something Damning About AI’s Effects on Productivity",
-        "link": "https://futurism.com/artificial-intelligence/survey-ceos-ai-workplace",
-        "date": "Thu, 19 Feb 2026 10:12:13 -0500",
-        "source": "Futurism AI",
-        "description": "The ever-elusive productivity gains strike back.\nThe post A Huge Survey of CEOs and Other Execs Just Found Something Damning About AI&#8217;s Effects on Productivity appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "Advancing independent research on AI alignment",
-        "link": "https://openai.com/index/advancing-independent-research-ai-alignment",
-        "date": "Thu, 19 Feb 2026 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI commits $7.5M to The Alignment Project to fund independent AI alignment research, strengthening global efforts to address AGI safety and security risks."
-    },
-    {
-        "title": "AI Will Destroy Millions of White Collars Jobs in the Coming Months, Andrew Yang Warns, Driving Surge of Personal Bankruptcies",
-        "link": "https://futurism.com/artificial-intelligence/ai-labor-andrew-yang",
-        "date": "Thu, 19 Feb 2026 09:01:41 -0500",
-        "source": "Futurism AI",
-        "description": "\"Do you sit at a desk and look at a computer much of the day? Take this very seriously.\"\nThe post AI Will Destroy Millions of White Collars Jobs in the Coming Months, Andrew Yang Warns, Driving Sur...",
-        "is_important": false
-    },
-    {
-        "title": "[AINews] Anthropic's Agent Autonomy study",
-        "link": "https://www.latent.space/p/ainews-anthropics-agent-autonomy",
-        "date": "Thu, 19 Feb 2026 07:55:36 GMT",
-        "source": "Latent Space",
-        "description": "a quiet day lets us dive deep into Anthropic's own version of the METR data",
-        "is_important": false
-    },
-    {
-        "title": "Flexible agentic marketing startup Kana Intelligence scores $15M in seed funding",
-        "link": "https://siliconangle.com/2026/02/18/flexible-agentic-marketing-startup-kana-intelligence-scores-15m-seed-funding/",
-        "date": "Thu, 19 Feb 2026 01:45:46 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Marketing professionals have a mountain of artificial intelligence tools to choose from, but the founders of a new startup called Kana Intelligence Inc. believe there’s still an urgent need for a p...",
-        "is_important": false
-    },
-    {
-        "title": "Amplitude reports mixed earnings results after launching new agentic analytics tools",
-        "link": "https://siliconangle.com/2026/02/18/amplitude-reports-mixed-earnings-results-launching-new-agentic-analytics-tools/",
-        "date": "Thu, 19 Feb 2026 01:10:55 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Shares of the behavior-tracking software company Amplitude Inc. edged barely higher in late trading today after it posted its latest financial results, maintaining momentum after rising more than 1...",
-        "is_important": false
-    },
-    {
-        "title": "Google launches Lyria 3 music generation model",
-        "link": "https://siliconangle.com/2026/02/18/google-launches-lyria-3-music-generation-model/",
-        "date": "Thu, 19 Feb 2026 01:05:15 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Google LLC today introduced an artificial intelligence model called Lyria 3 that consumers can use to generate short tracks. The algorithm is rolling out to the company’s Gemini app and Dream Track...",
-        "is_important": false
-    },
-    {
-        "title": "Parking-aware navigation system could prevent frustration and emissions",
-        "link": "https://news.mit.edu/2026/parking-aware-navigation-could-prevent-frustration-and-emissions-0219",
-        "date": "Thu, 19 Feb 2026 00:00:00 -0500",
-        "source": "MIT News AI",
-        "description": "By minimizing the need to drive around looking for a parking spot, this technique can save drivers up to 35 minutes — and give them a realistic estimate of total travel time.",
         "is_important": false
     }
 ]
