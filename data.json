@@ -10843,6 +10843,147 @@
         "is_important": false
     },
     {
+        "title": "Accessibility Debt: The Hidden Technical Debt in Modern Web Applications",
+        "link": "https://dev.to/khushboo_parmar/accessibility-debt-the-hidden-technical-debt-in-modern-web-applications-hco",
+        "date": "Tue, 17 Mar 2026 02:45:27 +0000",
+        "source": "Dev.to AI",
+        "description": "Accessibility debt accumulates silently in most web applications. Teams focus on shipping features, but minor accessibility issues—missing labels, poor contrast, bad keyboard navigation—compound ov...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I got tired of repackaging the same AI context, so I built a Go CLI",
+        "link": "https://dev.to/erik_koo_de6ffb7e6aaff446/i-got-tired-of-repackaging-the-same-ai-context-so-i-built-a-go-cli-4njk",
+        "date": "Tue, 17 Mar 2026 02:44:02 +0000",
+        "source": "Dev.to AI",
+        "description": "I didn’t build prtr because I wanted “an AI coding product.”\n\nI built it because I got tired of doing the same annoying glue work over and over again.\n\nA test would fail.\nI’d copy the logs.\nThen I’...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Claude 3월 프로모션 — 한국 개발자한테 왜 꿀인지",
+        "link": "https://dev.to/_53fb7c03dd741a6124e4e/claude-3weol-peuromosyeon-hangug-gaebaljahante-wae-ggulinji-49go",
+        "date": "Tue, 17 Mar 2026 02:43:20 +0000",
+        "source": "Dev.to AI",
+        "description": "3월 13일부터 28일까지, Claude가 오프피크 시간대 사용량을 2배로 올렸다.\n\n\"오프피크\"라는 단어를 보고 넘길 뻔했다. 보통 이런 프로모션은 새벽 3시에 일하는 사람한테만 해당되니까. 근데 시간대를 계산해보니 얘기가 달라졌다.\n\n미국 피크타임이 ET 기준 오전 8시~오후 2시다. 한국시간으로 바꾸면 밤 10시~새벽 4시. 자고 있는 시간이다....",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "What I Learned After Spending Too Many Nights With Slowed + Reverb Tools",
+        "link": "https://dev.to/nano_a01924c85131687207c2/what-i-learned-after-spending-too-many-nights-with-slowed-reverb-tools-5011",
+        "date": "Tue, 17 Mar 2026 02:41:01 +0000",
+        "source": "Dev.to AI",
+        "description": "I remember the exact night it clicked for me. I was up late, editing a short video for a personal project, and the background track felt too bright, too energetic for the moody visuals I had in min...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Built an AI Tool to Analyze User Feedback",
+        "link": "https://dev.to/therobbieboo/i-built-an-ai-tool-to-analyze-user-feedback-57bd",
+        "date": "Tue, 17 Mar 2026 02:39:27 +0000",
+        "source": "Dev.to AI",
+        "description": "I Built an AI Tool to Analyze User Feedback\n\n\nAs an indie hacker, I know the struggle: your users are giving you feedback everywhere - emails, Twitter, Intercom, support tickets. But there is just ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why Deep Work Keeps Getting Pushed Into Overtime",
+        "link": "https://dev.to/dowhatmatters/why-deep-work-keeps-getting-pushed-into-overtime-5en6",
+        "date": "Tue, 17 Mar 2026 02:38:15 +0000",
+        "source": "Dev.to AI",
+        "description": "60% of time at work is spent on work about work (source: Asana)\n\nThat should make people angry.\n\nBecause that number is not describing a few bad habits.\n\nIt is describing a system that steals the d...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Breaking Through the Key Bottlenecks in Observability: Ultimate Integration of Entities and Relationships",
+        "link": "https://dev.to/observabilityguy/breaking-through-the-key-bottlenecks-in-observability-ultimate-integration-of-entities-and-26pp",
+        "date": "Tue, 17 Mar 2026 02:37:33 +0000",
+        "source": "Dev.to AI",
+        "description": "This article introduces EntityStore's graph querying in UModel, shifting observability from isolated entities to relationship-aware topology analysis.\n1.Bridging Observable Data with Relationship G...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why Most Scam Checkers Stop Being Useful After the First Click",
+        "link": "https://dev.to/burt1/why-most-scam-checkers-stop-being-useful-after-the-first-click-k3c",
+        "date": "Tue, 17 Mar 2026 02:36:42 +0000",
+        "source": "Dev.to AI",
+        "description": "Scam verification tools have become increasingly common as phishing and online fraud continue to grow. Most people encountering a suspicious message or link will search for a way to quickly determi...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Architectural question: Should AI learning systems use multi-agent design?",
+        "link": "https://dev.to/amit_tyagi_b6bb9dd185178e/architectural-question-should-ai-learning-systems-use-multi-agent-design-1hga",
+        "date": "Tue, 17 Mar 2026 02:34:43 +0000",
+        "source": "Dev.to AI",
+        "description": "Why Multi-Agent AI Architectures Will Power the Next Generation of Learning Systems\n      Amit Tyagi ・ Mar 17\n      \n        #ai\n        #machinelearning\n        #architecture\n        #agenticai",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Beyond Text: seekdb Does Travel, Image Search, and Voice—in One DB",
+        "link": "https://dev.to/seekdb/beyond-text-seekdb-does-travel-image-search-and-voice-in-one-db-mjk",
+        "date": "Tue, 17 Mar 2026 02:32:13 +0000",
+        "source": "Dev.to AI",
+        "description": "Keywords: TEN · PowerMem · travel · image search · voice assistant\n\nHybrid search isn’t just for text. You can store and query multimodal data—images, text, spatial data—in one database. seekdb’s m...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "$τ$-bench: A Benchmark for Tool-Agent-User Interaction in Real-World Domains",
+        "link": "https://dev.to/paperium/t-bench-a-benchmark-for-tool-agent-user-interaction-in-real-world-domains-2ijg",
+        "date": "Tue, 17 Mar 2026 02:30:06 +0000",
+        "source": "Dev.to AI",
+        "description": "{{ $json.postContent }}",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The hidden cost of expensive AI subscriptions (it's not just the money)",
+        "link": "https://dev.to/subprime2010/the-hidden-cost-of-expensive-ai-subscriptions-its-not-just-the-money-1kad",
+        "date": "Tue, 17 Mar 2026 02:19:35 +0000",
+        "source": "Dev.to AI",
+        "description": "The Hidden Cost of Expensive AI Subscriptions (It's Not Just the Money)\n\n\nWhen ChatGPT launched its $20/month subscription, the conversation was all about price.\n\nTwenty dollars a month. Is it wort...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Nvidia Devises a More Secure OpenClaw Stack for Enterprises",
+        "link": "https://aibusiness.com/agentic-ai/nvidia-devises-secure-openclaw-stack-for-enterprises",
+        "date": "Tue, 17 Mar 2026 00:20:34 GMT",
+        "source": "AI Business",
+        "description": "The new stack is designed to be safer for enterprises creating personal agents.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "AI firm Anthropic seeks weapons expert to stop users from 'misuse'",
+        "link": "https://www.bbc.com/news/articles/c74721xyd1wo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 17 Mar 2026 00:08:32 GMT",
+        "source": "BBC Tech",
+        "description": "The artificial intelligence firm says it wants to prevent \"catastrophic misuse\" of its systems.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I turned on notification summaries on my Pixel 9 Pro, and it was less chaotic than expected",
+        "link": "https://www.zdnet.com/article/android-notification-summaries-pixel-hands-on/",
+        "date": "Tue, 17 Mar 2026 00:00:45 GMT",
+        "source": "ZDNet AI",
+        "description": "Your Pixel can show AI summaries of your notifications on the lock screen now - but there are a few caveats, including a potential privacy issue.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Gemini 2.5: Updates to our family of thinking models",
         "link": "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models/",
         "date": "Tue, 17 Jun 2025 16:00:00 +0000",
@@ -21721,146 +21862,5 @@
         "description": "Writers criticised the feature which used their names and styles as \"AI personas\" without consent.",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "Perplexity's \"Personal Computer\" brings its AI agents to the, uh, Personal Computer",
-        "link": "https://arstechnica.com/ai/2026/03/perplexitys-personal-computer-brings-its-ai-agents-to-the-uh-personal-computer/",
-        "date": "Thu, 12 Mar 2026 17:44:18 +0000",
-        "source": "Ars Technica AI",
-        "description": "Perplexity says AI access to your files is in \"secure environment with clear safeguards.\"",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Can AI help predict which heart-failure patients will worsen within a year?",
-        "link": "https://news.mit.edu/2026/can-ai-help-predict-which-heart-failure-patients-will-worsen-0312",
-        "date": "Thu, 12 Mar 2026 17:30:00 -0400",
-        "source": "MIT News AI",
-        "description": "Researchers at MIT, Mass General Brigham, and Harvard Medical School developed a deep-learning model to forecast a patient’s heart failure prognosis up to a year in advance.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to disable HDMI-CEC on your TV - and why it's critical to do so",
-        "link": "https://www.zdnet.com/article/how-to-turn-off-hdmi-cec-on-your-tv/",
-        "date": "Thu, 12 Mar 2026 17:22:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Smart TVs are designed to monitor your content and serve ads across every input. Here are a few ways to shut down that tracking and regain control of the living room.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Atlassian follows Block’s footsteps and cuts staff in the name of AI",
-        "link": "https://techcrunch.com/2026/03/12/atlassian-follows-blocks-footsteps-and-cuts-staff-in-the-name-of-ai/",
-        "date": "Thu, 12 Mar 2026 17:20:19 +0000",
-        "source": "TechCrunch AI",
-        "description": "Atlassian laid off 10% of its workforce, around 1,600 people, as the company looks to funnel more funds to AI.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "MXFP8 Training for MoEs: 1.3x training speedup vs BF16 for Llama4 Scout on GB200 cluster using TorchAO and TorchTitan",
-        "link": "https://pytorch.org/blog/mxfp8-training-for-moes-1-3x-training-speedup-vs-bf16-for-llama4-scout-on-gb200-cluster-using-torchao-and-torchtitan/",
-        "date": "Thu, 12 Mar 2026 17:17:13 +0000",
-        "source": "PyTorch Blog",
-        "description": "TL;DR We recently demonstrated a +30.2% training speedup for Llama4 Scout with equivalent convergence to bfloat16, by using MXFP8 MoE training primitives in TorchAO! This is ~81% of the theoretical...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Should you leave your TV unplugged overnight? Not when there's an easier way to save electricity",
-        "link": "https://www.zdnet.com/article/how-to-disable-standby-mode-on-your-tv/",
-        "date": "Thu, 12 Mar 2026 17:13:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Leveraging this built-in software feature should get you similar results with less effort.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Your Google Maps just got two huge upgrades - including a totally new driving experience",
-        "link": "https://www.zdnet.com/article/google-maps-two-big-upgrades-new-driving-experience/",
-        "date": "Thu, 12 Mar 2026 17:05:16 GMT",
-        "source": "ZDNet AI",
-        "description": "Google is calling this 'the biggest update in over a decade' to Maps.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Bumble to launch an AI dating assistant, ‘Bee’",
-        "link": "https://techcrunch.com/2026/03/12/bumble-to-launch-an-ai-dating-assistant-bee/",
-        "date": "Thu, 12 Mar 2026 16:52:17 +0000",
-        "source": "TechCrunch AI",
-        "description": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Bumble introduces an AI dating assistant, ‘Bee’",
-        "link": "https://techcrunch.com/2026/03/12/bumble-introduces-an-ai-dating-assistant-bee/",
-        "date": "Thu, 12 Mar 2026 16:52:17 +0000",
-        "source": "TechCrunch AI",
-        "description": "Bumble's new AI assistant Bee will move the dating app beyond the swipe by matching people based on compatibility and goals.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Lincolnshire council approves AI datacentre despite emissions warnings",
-        "link": "https://www.theguardian.com/technology/2026/mar/12/council-approves-lincolnshire-datacentre-despite-emissions-warnings",
-        "date": "Thu, 12 Mar 2026 16:47:58 GMT",
-        "source": "The Guardian AI",
-        "description": "Campaigners say campus near Scunthorpe could generate emissions close to those from all UK domestic flightsPlans for a new datacentre in Lincolnshire have been approved, despite warnings it could b...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A writer is suing Grammarly for turning her and other authors into ‘AI editors’ without consent",
-        "link": "https://techcrunch.com/2026/03/12/a-writer-is-suing-grammarly-for-turning-her-and-other-authors-into-ai-editors-without-consent/",
-        "date": "Thu, 12 Mar 2026 16:42:40 +0000",
-        "source": "TechCrunch AI",
-        "description": "Journalist Julia Angwin is leading a class action lawsuit against Grammarly for violating her privacy and publicity rights.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Lloyds, Bank of Scotland and Halifax apps showed customers other users' transactions",
-        "link": "https://www.bbc.com/news/articles/c4g23npxpwgo?at_medium=RSS&at_campaign=rss",
-        "date": "Thu, 12 Mar 2026 16:41:42 GMT",
-        "source": "BBC Tech",
-        "description": "The Lloyds Banking Group customers reported being able to view payments and charges from other sources.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Systematic debugging for AI agents: Introducing the AgentRx framework",
-        "link": "https://www.microsoft.com/en-us/research/blog/systematic-debugging-for-ai-agents-introducing-the-agentrx-framework/",
-        "date": "Thu, 12 Mar 2026 16:38:45 +0000",
-        "source": "Microsoft Research",
-        "description": "As AI agents transition from simple chatbots to autonomous systems capable of managing cloud incidents, navigating complex web interfaces, and executing multi-step API workflows, a new challenge ha...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Disturbing AI Food Slop Is Strangling the Internet",
-        "link": "https://futurism.com/artificial-intelligence/ai-food-slop-videos",
-        "date": "Thu, 12 Mar 2026 16:02:34 -0400",
-        "source": "Futurism AI",
-        "description": "\"Bro all I wanted was dinner ideas.\"\nThe post Disturbing AI Food Slop Is Strangling the Internet appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Build Resilient LLM Applications on Vertex AI and Reduce 429 Errors",
-        "link": "https://cloud.google.com/blog/products/ai-machine-learning/reduce-429-errors-on-vertex-ai/",
-        "date": "Thu, 12 Mar 2026 16:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "Building applications powered by Large Language Models (LLMs) on Vertex AI is exciting, but hitting a 429 error can be a frustrating roadblock. These errors signal that your requests are coming in ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
