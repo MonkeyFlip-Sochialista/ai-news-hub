@@ -1866,6 +1866,101 @@
         "is_important": false
     },
     {
+        "title": "Meta is having trouble with rogue AI agents",
+        "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
+        "date": "Wed, 18 Mar 2026 23:42:46 +0000",
+        "source": "TechCrunch AI",
+        "description": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Sam Altman’s thank-you to coders draws the memes",
+        "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
+        "date": "Wed, 18 Mar 2026 23:12:58 +0000",
+        "source": "TechCrunch AI",
+        "description": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How a Nonprofit Transforms Data with Cloudera and AI",
+        "link": "https://aibusiness.com/data-management/how-a-nonprofit-transforms-data-with-cloudera-and-ai",
+        "date": "Wed, 18 Mar 2026 21:11:24 GMT",
+        "source": "AI Business",
+        "description": "The organization developed data pipelines that extract and structure information from various scientific sources, significantly accelerating the research process.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Tsinghua and Ant Group Researchers Unveil a Five-Layer Lifecycle-Oriented Security Framework to Mitigate Autonomous LLM Agent Vulnerabilities in OpenClaw",
+        "link": "https://www.marktechpost.com/2026/03/18/tsinghua-and-ant-group-researchers-unveil-a-five-layer-lifecycle-oriented-security-framework-to-mitigate-autonomous-llm-agent-vulnerabilities-in-openclaw/",
+        "date": "Wed, 18 Mar 2026 21:04:16 +0000",
+        "source": "MarkTechPost",
+        "description": "Autonomous LLM agents like OpenClaw are shifting the paradigm from passive assistants to proactive entities capable of executing complex, long-horizon tasks through high-privilege system access. Ho...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Can the Samsung Frame Pro replace my TV? My advice after weeks of testing",
+        "link": "https://www.zdnet.com/article/samsung-frame-pro-tv-review/",
+        "date": "Wed, 18 Mar 2026 20:46:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The Frame Pro TV improves on its predecessor by integrating entertainment and home décor. Right now, it's $500 off.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
+        "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
+        "date": "Wed, 18 Mar 2026 20:30:52 +0000",
+        "source": "TechCrunch AI",
+        "description": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
+        "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
+        "date": "Wed, 18 Mar 2026 20:01:19 +0000",
+        "source": "TechCrunch AI",
+        "description": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Taming the IoT Firehose: How Utilities Are Scaling Cloud DataOps for Smart Metering",
+        "link": "https://www.smartdatacollective.com/taming-the-iot-firehose-how-utilities-are-scaling-cloud-dataops-for-smart-metering/",
+        "date": "Wed, 18 Mar 2026 19:51:22 +0000",
+        "source": "SmartData Collective",
+        "description": "Scaling smart metering: How cloud DataOps helps utilities turn massive IoT data into actionable intelligence.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI software for smart glasses wins £1m prize for technology to help people with dementia",
+        "link": "https://www.theguardian.com/society/2026/mar/18/ai-smart-glasses-1m-prize-technology-dementia",
+        "date": "Wed, 18 Mar 2026 19:30:47 GMT",
+        "source": "The Guardian AI",
+        "description": "Glasses use verbal cues and floating text to assist wearers and are expected to be available in early 2027AI software that can be embedded into smart glasses has won a £1m prize for technology to h...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Best early Amazon Spring Sale Apple deals 2026",
+        "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-apple-deals/",
+        "date": "Wed, 18 Mar 2026 19:15:00 GMT",
+        "source": "ZDNet AI",
+        "description": "I've rounded up deals on some of the hottest tech from your favorite tech company.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "How to Use Multiple AI Models in One Chat Without Paying for Any of Them",
         "link": "https://dev.to/alichherawalla/how-to-use-multiple-ai-models-in-one-chat-without-paying-for-any-of-them-40mb",
         "date": "Wed, 18 Mar 2026 19:12:43 +0000",
@@ -2142,6 +2237,15 @@
         ]
     },
     {
+        "title": "Kick off Nova customization experiments using Nova Forge SDK",
+        "link": "https://aws.amazon.com/blogs/machine-learning/kick-off-nova-customization-experiments-using-nova-forge-sdk/",
+        "date": "Wed, 18 Mar 2026 16:16:24 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we walk you through the process of using the Nova Forge SDK to train an Amazon Nova model using Amazon SageMaker AI Training Jobs.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Val Kilmer set to be be resurrected with AI for new film",
         "link": "https://www.theguardian.com/film/2026/mar/18/val-kilmer-resurrected-in-movie-ai",
         "date": "Wed, 18 Mar 2026 16:15:17 GMT",
@@ -2149,6 +2253,17 @@
         "description": "As Deep As the Grave, the true story of 1920s archeologists, will bring late actor back with support from his estateVal Kilmer will be the latest Hollywood star to be resurrected by AI. The acting ...",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Introducing Nova Forge SDK, a seamless way to customize Nova models for enterprise AI",
+        "link": "https://aws.amazon.com/blogs/machine-learning/introducing-nova-forge-sdk-a-seamless-way-to-customize-nova-models-for-enterprise-ai/",
+        "date": "Wed, 18 Mar 2026 16:06:21 +0000",
+        "source": "AWS Machine Learning",
+        "description": "Today, we are launching Nova Forge SDK that makes LLM customization accessible, empowering teams to harness the full potential of language models without the challenges of dependency management, im...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "Best early Amazon Big Spring Sale headphone deals 2026",
@@ -2191,11 +2306,29 @@
         ]
     },
     {
+        "title": "Evaluating AI agents for production: A practical guide to Strands Evals",
+        "link": "https://aws.amazon.com/blogs/machine-learning/evaluating-ai-agents-for-production-a-practical-guide-to-strands-evals/",
+        "date": "Wed, 18 Mar 2026 15:54:09 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we show how to evaluate AI agents systematically using Strands Evals. We walk through the core concepts, built-in evaluators, multi-turn simulation capabilities and practical approach...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Microsoft hires the team of Sequoia-backed AI collaboration platform, Cove",
         "link": "https://techcrunch.com/2026/03/18/microsoft-hires-the-team-of-sequioa-backed-ai-collaboration-platform-cove/",
         "date": "Wed, 18 Mar 2026 15:33:49 +0000",
         "source": "TechCrunch AI",
         "description": "AI collaboration startup Cove is shutting down after its team joined Microsoft, with service ending April 1 and customer data set for deletion.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Build an AI-Powered A/B testing engine using Amazon Bedrock",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-an-ai-powered-a-b-testing-engine-using-amazon-bedrock/",
+        "date": "Wed, 18 Mar 2026 15:31:40 +0000",
+        "source": "AWS Machine Learning",
+        "description": "This post shows you how to build an AI-powered A/B testing engine using&nbsp;Amazon Bedrock,&nbsp;Amazon Elastic Container Service,&nbsp;Amazon DynamoDB, and the Model Context Protocol (MCP). The s...",
         "is_important": false,
         "tags": []
     },
@@ -2236,6 +2369,17 @@
         "description": "You can easily prevent apps from tracking your activity and serving up creepy, hyper-targeted ads. Here's how.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "How Bark.com and AWS collaborated to build a scalable video generation solution",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-bark-com-and-aws-collaborated-to-build-a-scalable-video-generation-solution/",
+        "date": "Wed, 18 Mar 2026 15:24:13 +0000",
+        "source": "AWS Machine Learning",
+        "description": "Working with the AWS Generative AI Innovation Center, Bark developed an AI-powered content generation solution that demonstrated a substantial reduction in production time in experimental trials wh...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
     },
     {
         "title": "Quantum pioneers win Turing Award for encryption breakthrough",
@@ -22451,126 +22595,6 @@
         "date": "Thu, 28 Jul 2016 07:00:00 GMT",
         "source": "OpenAI",
         "description": "Impactful scientific work requires working on the right problems—problems which are not just interesting, but whose solutions matter.",
-        "is_important": false
-    },
-    {
-        "title": "Introducing gpt-realtime and Realtime API updates",
-        "link": "https://openai.com/index/introducing-gpt-realtime",
-        "date": "Thu, 28 Aug 2025 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’re releasing a more advanced speech-to-speech model and new API capabilities including MCP server support, image input, and SIP phone calling support.",
-        "is_important": false
-    },
-    {
-        "title": "Supporting nonprofit and community innovation",
-        "link": "https://openai.com/index/supporting-nonprofit-and-community-innovation",
-        "date": "Thu, 28 Aug 2025 05:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI launches a $50M People-First AI Fund to help U.S. nonprofits scale impact with AI. Applications open Sept 8–Oct 8, 2025 for grants in education, healthcare, research, and more.",
-        "is_important": false
-    },
-    {
-        "title": "Opinion Classification with Kili and HuggingFace AutoTrain",
-        "link": "https://huggingface.co/blog/opinion-classification-with-kili",
-        "date": "Thu, 28 Apr 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Moving from intent-based bots to proactive AI agents",
-        "link": "https://openai.com/index/zendesk",
-        "date": "Thu, 27 Mar 2025 09:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Moving from intent-based bots to proactive AI agents.",
-        "is_important": false
-    },
-    {
-        "title": "AI scaling myths",
-        "link": "https://www.normaltech.ai/p/ai-scaling-myths",
-        "date": "Thu, 27 Jun 2024 18:16:55 GMT",
-        "source": "AI Snake Oil",
-        "description": "Scaling will run out. The question is when.",
-        "is_important": false
-    },
-    {
-        "title": "Finding GPT-4’s mistakes with GPT-4",
-        "link": "https://openai.com/index/finding-gpt4s-mistakes-with-gpt-4",
-        "date": "Thu, 27 Jun 2024 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "CriticGPT, a model based on GPT-4, writes critiques of ChatGPT responses to help human trainers spot mistakes during RLHF",
-        "is_important": true
-    },
-    {
-        "title": "Strategic Content Partnership with TIME",
-        "link": "https://openai.com/index/strategic-content-partnership-with-time",
-        "date": "Thu, 27 Jun 2024 06:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’re partnering with TIME and its 101 years of archival content to enhance responses and provide links to stories on Time.com",
-        "is_important": false
-    },
-    {
-        "title": "Welcome Gemma 2 - Google’s new open LLM",
-        "link": "https://huggingface.co/blog/gemma2",
-        "date": "Thu, 27 Jun 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Stable Diffusion XL on Mac with Advanced Core ML Quantization",
-        "link": "https://huggingface.co/blog/stable-diffusion-xl-coreml",
-        "date": "Thu, 27 Jul 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Better exploration with parameter noise",
-        "link": "https://openai.com/index/better-exploration-with-parameter-noise",
-        "date": "Thu, 27 Jul 2017 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’ve found that adding adaptive noise to the parameters of reinforcement learning algorithms frequently boosts performance. This exploration method is simple to implement and very rarely decreases...",
-        "is_important": false
-    },
-    {
-        "title": "Aligning language models to follow instructions",
-        "link": "https://openai.com/index/instruction-following",
-        "date": "Thu, 27 Jan 2022 08:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’ve trained language models that are much better at following user intentions than GPT-3 while also making them more truthful and less toxic, using techniques developed through our alignment rese...",
-        "is_important": false
-    },
-    {
-        "title": "Supporting sellers with enhanced product listings",
-        "link": "https://openai.com/index/mercari",
-        "date": "Thu, 27 Feb 2025 14:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Mercari leverages GPT-4o mini and GPT-4 to streamline selling, enhance product listings, and boost sales, transforming the online marketplace with features like AI Listing Support and Mercari AI As...",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI GPT-4.5 System Card",
-        "link": "https://openai.com/index/gpt-4-5-system-card",
-        "date": "Thu, 27 Feb 2025 12:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’re releasing a research preview of OpenAI GPT‑4.5, our largest and most knowledgeable model yet.",
-        "is_important": true
-    },
-    {
-        "title": "Introducing GPT-4.5",
-        "link": "https://openai.com/index/introducing-gpt-4-5",
-        "date": "Thu, 27 Feb 2025 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’re releasing a research preview of GPT‑4.5—our largest and best model for chat yet. GPT‑4.5 is a step forward in scaling up pre-training and post-training.",
-        "is_important": true
-    },
-    {
-        "title": "Building an autonomous financial analyst with o1 and o3-mini",
-        "link": "https://openai.com/index/endex",
-        "date": "Thu, 27 Feb 2025 09:30:00 GMT",
-        "source": "OpenAI",
-        "description": "Endex builds the future of financial analysis, powered by OpenAI’s reasoning models.",
         "is_important": false
     }
 ]
