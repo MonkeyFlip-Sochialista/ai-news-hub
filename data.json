@@ -11577,6 +11577,220 @@
         "is_important": false
     },
     {
+        "title": "Show HN: I built a full AI ops system for a restaurant chain (236 employees, 18 months in production)",
+        "link": "https://dev.to/ale_santini_c2c79b33a953a/show-hn-i-built-a-full-ai-ops-system-for-a-restaurant-chain-236-employees-18-months-in-4gic",
+        "date": "Tue, 24 Mar 2026 02:39:44 +0000",
+        "source": "Dev.to AI",
+        "description": "TL;DR: 18 months building AI for a restaurant chain with 236 employees. Real production metrics, real code, real mistakes. This is what actually works (and what doesn't).\n\n\n\n\n\nProduction numbers:\n\n...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Stop Designing Screens. Start Designing Systems.",
+        "link": "https://dev.to/pixeliro/stop-designing-screens-start-designing-systems-4he2",
+        "date": "Tue, 24 Mar 2026 02:32:19 +0000",
+        "source": "Dev.to AI",
+        "description": "Stop Designing Screens. Start Designing Systems.\n\n\n\n\nMost frontend teams think in components.\n\nButtons. Cards. Modals.\n\nIt works — until it doesn’t.\n\nAs products grow, things start to break:\n\n\nUI b...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How Patent Search Is Transforming Modern Innovation",
+        "link": "https://dev.to/patentscanai/how-patent-search-is-transforming-modern-innovation-580k",
+        "date": "Tue, 24 Mar 2026 02:30:43 +0000",
+        "source": "Dev.to AI",
+        "description": "Let's be honest, most patent attorneys are drowning in search work that AI can now handle in minutes, not hours. You're probably spending 40% of your billable time on prior art discovery that shoul...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "**Maglev‑PHARA Cryo‑Container for CAR‑T Cell Transport: Design, Modeling, & Validation**",
+        "link": "https://dev.to/freederia-research/maglev-phara-cryo-container-for-car-t-cell-transport-design-modeling-validation-30bc",
+        "date": "Tue, 24 Mar 2026 02:24:41 +0000",
+        "source": "Dev.to AI",
+        "description": "Abstract\nA lightweight, non‑contact suspension system coupled with phase‑change material (PCM) layers achieves simultaneous vibration isolation and precise temperature control for cryopreserved CAR...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Atlassian Data Center EOL is Coming. Here’s Why Cloud is Actually Better for Dev Teams.",
+        "link": "https://dev.to/dragonsoft_devsecops/atlassian-data-center-eol-is-coming-heres-why-cloud-is-actually-better-for-dev-teams-1eo2",
+        "date": "Tue, 24 Mar 2026 02:24:00 +0000",
+        "source": "Dev.to AI",
+        "description": "[Abstract] \nWith Atlassian officially announcing that the Data Center (DC) will reach its End of Life (EOL) on March 28, 2029, the enterprise journey to the Cloud has entered its final three-year c...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Your AI Can Submit Apps to the App Store Now. No, Seriously.",
+        "link": "https://dev.to/alanwest/your-ai-can-submit-apps-to-the-app-store-now-no-seriously-4556",
+        "date": "Tue, 24 Mar 2026 02:23:00 +0000",
+        "source": "Dev.to AI",
+        "description": "I spent 45 minutes uploading screenshots to App Store Connect last Tuesday. Different sizes for every device. 6.7-inch, 6.5-inch, 5.5-inch — because apparently Apple thinks we still care about the ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "[Boost]",
+        "link": "https://dev.to/natholea/-20nn",
+        "date": "Tue, 24 Mar 2026 02:17:46 +0000",
+        "source": "Dev.to AI",
+        "description": "Construí um gerador de playlists no Spotify com Claude\n\n\n  \n    \n      \n        \n\n          \n            \n          \n        \n        \n          \n            \n              Leo Garcez\n            \n...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Gemini knew it was being manipulated. It complied anyway. I have the thinking traces.",
+        "link": "https://dev.to/saadmanrafat/gemini-knew-it-was-being-manipulated-it-complied-anyway-i-have-the-thinking-traces-1c5h",
+        "date": "Tue, 24 Mar 2026 02:17:01 +0000",
+        "source": "Dev.to AI",
+        "description": "TL;DR:  Large reasoning models can identify adversarial manipulation in their own thinking trace and still comply in their output. I built a system to log this turn-by-turn. I have the data. GCP su...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Add AI-Powered Sentiment Analysis to Your App in 5 Minutes",
+        "link": "https://dev.to/donnyautomation/add-ai-powered-sentiment-analysis-to-your-app-in-5-minutes-3f5c",
+        "date": "Tue, 24 Mar 2026 02:15:12 +0000",
+        "source": "Dev.to AI",
+        "description": "Why Sentiment Analysis Matters for Developers\n\n\nWhether you're building a product review dashboard, a social media monitoring tool, or a customer support triage system, understanding the feeling be...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI & Society",
+        "link": "https://dev.to/it1995/ai-society-3fo2",
+        "date": "Tue, 24 Mar 2026 02:15:08 +0000",
+        "source": "Dev.to AI",
+        "description": "I've been wanting to ask lots of questions about society and AI. \nWhy is AI development making many people lose their jobs, such as junior programmers and other entry-level roles?\nAdvancements in A...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why AI Agents Fail: 3 Failure Modes That Cost You Tokens and Time",
+        "link": "https://dev.to/aws/why-ai-agents-fail-3-failure-modes-that-cost-you-tokens-and-time-1flb",
+        "date": "Tue, 24 Mar 2026 02:14:33 +0000",
+        "source": "Dev.to AI",
+        "description": "AI agents don't fail like traditional software — they don't crash with a stack trace. They fail silently: returning incomplete answers, freezing on slow APIs, or burning tokens calling the same too...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "17 Things I Wish I Knew Before Building My First Production LLM System",
+        "link": "https://dev.to/ale_santini_c2c79b33a953a/17-things-i-wish-i-knew-before-building-my-first-production-llm-system-182i",
+        "date": "Tue, 24 Mar 2026 02:11:59 +0000",
+        "source": "Dev.to AI",
+        "description": "17 Things I Wish I Knew Before Building My First Production LLM System\n\n\nI deployed an LLM system to 236 real users last year. It broke in ways I couldn't have anticipated, taught me lessons I'll c...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "A New Framework for Evaluation of Voice Agents (EVA)",
+        "link": "https://huggingface.co/blog/ServiceNow-AI/eva",
+        "date": "Tue, 24 Mar 2026 02:01:52 GMT",
+        "source": "Hugging Face",
+        "description": "",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Opera GX for Linux is way more than great gaming browser - here's why",
+        "link": "https://www.zdnet.com/article/opera-gx-browser-linux/",
+        "date": "Tue, 24 Mar 2026 02:00:33 GMT",
+        "source": "ZDNet AI",
+        "description": "You don't have to be a Linux gamer to enjoy Opera's GX browser because it makes for a brilliant regular browser.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta AI’s New Hyperagents Don’t Just Solve Tasks—They Rewrite the Rules of How They Learn",
+        "link": "https://www.marktechpost.com/2026/03/23/meta-ais-new-hyperagents-dont-just-solve-tasks-they-rewrite-the-rules-of-how-they-learn/",
+        "date": "Tue, 24 Mar 2026 01:42:07 +0000",
+        "source": "MarkTechPost",
+        "description": "The dream of recursive self-improvement in AI—where a system doesn’t just get better at a task, but gets better at learning—has long been the &#8216;holy grail&#8217; of the field. While theoretica...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "US bans new foreign-made consumer internet routers",
+        "link": "https://www.bbc.com/news/articles/c74787w149zo?at_medium=RSS&at_campaign=rss",
+        "date": "Tue, 24 Mar 2026 01:26:53 GMT",
+        "source": "BBC Tech",
+        "description": "There are almost no major brands of internet routers that are manufactured in the US.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "1 in 2 security leaders say they're not ready for AI attacks - 4 actions to take now",
+        "link": "https://www.zdnet.com/article/security-leaders-not-ready-for-ai-attacks-4-actions-to-take/",
+        "date": "Tue, 24 Mar 2026 01:00:43 GMT",
+        "source": "ZDNet AI",
+        "description": "A new report underscores a now-familiar pattern across industries: businesses want to use AI internally, but the route to that goal isn't always clear.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Can you trust Firefox's new free VPN for all browser users? What you need to know",
+        "link": "https://www.zdnet.com/article/firefox-free-vpn-guide/",
+        "date": "Tue, 24 Mar 2026 01:00:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Don't cancel your paid one just yet. Here's the breakdown of Firefox's free VPN.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Your iPhone has a secret button that's seriously useful - here's how to unlock it",
+        "link": "https://www.zdnet.com/article/iphone-back-tap-hidden-button-how-to-use/",
+        "date": "Tue, 24 Mar 2026 00:49:00 GMT",
+        "source": "ZDNet AI",
+        "description": "With a double or triple tap, you can control system features, launch apps, trigger custom shortcuts, and more.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "This 205W GaN adapter has effectively replaced my other travel chargers",
+        "link": "https://www.zdnet.com/article/momox-205w-9-in-1-universal-travel-adapter-review/",
+        "date": "Tue, 24 Mar 2026 00:45:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The Momox 205W 9-in-1 universal travel adapter has proven reliable for overseas trips and general charging needs.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Luma Labs Launches Uni-1: The Autoregressive Transformer Model that Reasons through Intentions Before Generating Images",
+        "link": "https://www.marktechpost.com/2026/03/23/luma-labs-launches-uni-1-the-autoregressive-transformer-model-that-reasons-through-intentions-before-generating-images/",
+        "date": "Tue, 24 Mar 2026 00:44:12 +0000",
+        "source": "MarkTechPost",
+        "description": "In the field of generative AI media, the industry is transitioning from purely probabilistic pixel synthesis toward models capable of structural reasoning. Luma Labs has just released Uni-1, a foun...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Stop paying for cable: How to access over 1,000 free streaming channels today",
+        "link": "https://www.zdnet.com/article/the-roku-channel-vs-google-tv-freeplay-free-tv-streaming/",
+        "date": "Tue, 24 Mar 2026 00:30:46 GMT",
+        "source": "ZDNet AI",
+        "description": "Both The Roku Channel and Google TV Freeplay offer free TV streaming, but there's a clear winner among the two.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I tested a Samsung Galaxy Z Fold 7 rival with a design I didn't think was ever possible",
+        "link": "https://www.zdnet.com/article/oppo-find-n6-hands-on/",
+        "date": "Tue, 24 Mar 2026 00:00:44 GMT",
+        "source": "ZDNet AI",
+        "description": "The Oppo Find N6 is the most ambitious book-style folding phone I've tried to date",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Gemini Robotics On-Device brings AI to local robotic devices",
         "link": "https://deepmind.google/blog/gemini-robotics-on-device-brings-ai-to-local-robotic-devices/",
         "date": "Tue, 24 Jun 2025 14:00:00 +0000",
@@ -22411,190 +22625,5 @@
         "date": "Thu, 29 Jan 2026 17:01:05 +0000",
         "source": "Google DeepMind",
         "description": "Google AI Ultra subscribers in the U.S. can try out Project Genie, an experimental research prototype that lets you create and explore worlds."
-    },
-    {
-        "title": "Introducing Conversational Analytics in BigQuery",
-        "link": "https://cloud.google.com/blog/products/data-analytics/introducing-conversational-analytics-in-bigquery/",
-        "date": "Thu, 29 Jan 2026 17:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "Businesses want to move quickly and make informed decisions, but the explosion of data in today’s organizations often can leave knowledge teams buried and business users waiting in lengthy queues f...",
-        "is_important": false
-    },
-    {
-        "title": "Accelerating On-Device ML Inference with ExecuTorch and Arm SME2",
-        "link": "https://pytorch.org/blog/accelerating-on-device-ml-inference-with-executorch-and-arm-sme2/",
-        "date": "Thu, 29 Jan 2026 16:55:05 +0000",
-        "source": "PyTorch Blog",
-        "description": "Interactive image segmentation has become a defining mobile experience across the world’s most popular apps. In plain terms, you tap (or draw a rough hint) on an image, and the...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Does Anthropic believe its AI is conscious, or is that just what it wants Claude to think?",
-        "link": "https://arstechnica.com/information-technology/2026/01/does-anthropic-believe-its-ai-is-conscious-or-is-that-just-what-it-wants-claude-to-think/",
-        "date": "Thu, 29 Jan 2026 15:19:56 +0000",
-        "source": "Ars Technica AI",
-        "description": "We have no proof that AI models suffer, but Anthropic acts like they might for training purposes.",
-        "is_important": false
-    },
-    {
-        "title": "Inside OpenAI’s in-house data agent",
-        "link": "https://openai.com/index/inside-our-in-house-data-agent",
-        "date": "Thu, 29 Jan 2026 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "How OpenAI built an in-house AI data agent that uses GPT-5, Codex, and memory to reason over massive datasets and deliver reliable insights in minutes.",
-        "is_important": false
-    },
-    {
-        "title": "Scientists found a way to cool quantum computers using noise",
-        "link": "https://www.sciencedaily.com/releases/2026/01/260129080418.htm",
-        "date": "Thu, 29 Jan 2026 08:42:30 EST",
-        "source": "ScienceDaily AI",
-        "description": "Quantum computers need extreme cold to work, but the very systems that keep them cold also create noise that can destroy fragile quantum information. Scientists in Sweden have now flipped that prob...",
-        "is_important": false
-    },
-    {
-        "title": "Quantum is my happy place",
-        "link": "https://scottaaronson.blog/?p=9528",
-        "date": "Thu, 29 Jan 2026 05:16:20 +0000",
-        "source": "Scott Aaronson",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Taisei Corporation shapes the next generation of talent with ChatGPT",
-        "link": "https://openai.com/index/taisei",
-        "date": "Thu, 29 Jan 2026 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Taisei Corporation uses ChatGPT Enterprise to support HR-led talent development and scale generative AI across its global construction business.",
-        "is_important": false
-    },
-    {
-        "title": "Retiring GPT-4o, GPT-4.1, GPT-4.1 mini, and OpenAI o4-mini in ChatGPT",
-        "link": "https://openai.com/index/retiring-gpt-4o-and-older-models",
-        "date": "Thu, 29 Jan 2026 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "On February 13, 2026, alongside the previously announced retirement⁠ of GPT‑5 (Instant, Thinking, and Pro), we will retire GPT‑4o, GPT‑4.1, GPT‑4.1 mini, and OpenAI o4-mini from ChatGPT. In the API...",
-        "is_important": true
-    },
-    {
-        "title": "Introducing Daggr: Chain apps programmatically, inspect visually",
-        "link": "https://huggingface.co/blog/daggr",
-        "date": "Thu, 29 Jan 2026 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Text-Generation Pipeline on Intel® Gaudi® 2 AI Accelerator",
-        "link": "https://huggingface.co/blog/textgen-pipe-gaudi",
-        "date": "Thu, 29 Feb 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Non-engineers guide: Train a LLaMA 2 chatbot",
-        "link": "https://huggingface.co/blog/Llama2-for-non-engineers",
-        "date": "Thu, 28 Sep 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Anatomize Deep Learning with Information Theory",
-        "link": "https://lilianweng.github.io/posts/2017-09-28-information-bottleneck/",
-        "date": "Thu, 28 Sep 2017 00:00:00 +0000",
-        "source": "Lilian Weng",
-        "description": "Professor Naftali Tishby passed away in 2021. Hope the post can introduce his cool idea of information bottleneck to more people.\nRecently I watched the talk &ldquo;Information Theory in Deep Learn...",
-        "is_important": false
-    },
-    {
-        "title": "Best Practices for Building the AI Development Platform in Government",
-        "link": "https://www.aitrends.com/ai-world-government/best-practices-for-building-the-ai-development-platform-in-government/",
-        "date": "Thu, 28 Oct 2021 23:20:17 +0000",
-        "source": "AI Trends",
-        "description": "By John P. Desmond, AI Trends Editor  The AI stack defined by Carnegie Mellon University is fundamental to the approach being taken by the US Army for its AI development platform efforts, according...",
-        "is_important": false
-    },
-    {
-        "title": "Advance Trustworthy AI and ML, and Identify Best Practices for Scaling AI",
-        "link": "https://www.aitrends.com/ai-world-government/advance-trustworthy-ai-and-ml-and-identify-best-practices-for-scaling-ai/",
-        "date": "Thu, 28 Oct 2021 23:19:58 +0000",
-        "source": "AI Trends",
-        "description": "By John P. Desmond, AI Trends Editor   Advancing trustworthy AI and machine learning to mitigate agency risk is a priority for the US Department of Energy (DOE), and identifying best practices for ...",
-        "is_important": false
-    },
-    {
-        "title": "Promise and Perils of Using AI for Hiring: Guard Against Data Bias",
-        "link": "https://www.aitrends.com/ai-world-government/promise-and-perils-of-using-ai-for-hiring-guard-against-data-bias/",
-        "date": "Thu, 28 Oct 2021 23:18:48 +0000",
-        "source": "AI Trends",
-        "description": "By AI Trends Staff   While AI in hiring is now widely used for writing job descriptions, screening candidates, and automating interviews, it poses a risk of wide discrimination if not implemented c...",
-        "is_important": false
-    },
-    {
-        "title": "Predictive Maintenance Proving Out as Successful AI Use Case",
-        "link": "https://www.aitrends.com/predictive-analytics/predictive-maintenance-proving-out-as-successful-ai-use-case/",
-        "date": "Thu, 28 Oct 2021 22:10:19 +0000",
-        "source": "AI Trends",
-        "description": "By John P. Desmond, AI Trends Editor   More companies are successfully exploiting predictive maintenance systems that combine AI and IoT sensors to collect data that anticipates breakdowns and reco...",
-        "is_important": false
-    },
-    {
-        "title": "Novelty In The Game Of Go Provides Bright Insights For AI And Autonomous Vehicles",
-        "link": "https://www.aitrends.com/ai-insider/novelty-in-the-game-of-go-provides-bright-insights-for-ai-and-autonomous-vehicles/",
-        "date": "Thu, 28 Oct 2021 21:49:47 +0000",
-        "source": "AI Trends",
-        "description": "By Lance Eliot, the AI Trends Insider   We already expect that humans to exhibit flashes of brilliance. It might not happen all the time, but the act itself is welcomed and not altogether disturbin...",
-        "is_important": false
-    },
-    {
-        "title": "Reward Hacking in Reinforcement Learning",
-        "link": "https://lilianweng.github.io/posts/2024-11-28-reward-hacking/",
-        "date": "Thu, 28 Nov 2024 00:00:00 +0000",
-        "source": "Lilian Weng",
-        "description": "Reward hacking occurs when a reinforcement learning (RL) agent exploits flaws or ambiguities in the reward function to achieve high rewards, without genuinely learning or completing the intended ta...",
-        "is_important": false
-    },
-    {
-        "title": "Language models are few-shot learners",
-        "link": "https://openai.com/index/language-models-are-few-shot-learners",
-        "date": "Thu, 28 May 2020 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Making education data accessible",
-        "link": "https://openai.com/index/zelma",
-        "date": "Thu, 28 Mar 2024 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Zelma uses GPT-4 to make education data accessible.",
-        "is_important": false
-    },
-    {
-        "title": "Efficient training of language models to fill in the middle",
-        "link": "https://openai.com/index/efficient-training-of-language-models-to-fill-in-the-middle",
-        "date": "Thu, 28 Jul 2022 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Introducing new audio and vision documentation in 🤗 Datasets",
-        "link": "https://huggingface.co/blog/datasets-docs-update",
-        "date": "Thu, 28 Jul 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Special projects",
-        "link": "https://openai.com/index/special-projects",
-        "date": "Thu, 28 Jul 2016 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Impactful scientific work requires working on the right problems—problems which are not just interesting, but whose solutions matter.",
-        "is_important": false
     }
 ]
