@@ -620,6 +620,346 @@
         "is_important": false
     },
     {
+        "title": "Two trendy iPhone cases I keep coming back to (and two I'd skip next time)",
+        "link": "https://www.zdnet.com/article/my-favorite-iphone-cases/",
+        "date": "Wed, 25 Mar 2026 13:41:07 GMT",
+        "source": "ZDNet AI",
+        "description": "Need a spring refresh? These are my favorite phone cases to invest in (and ones I wouldn't spend more cash on).",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Faster CryptoNets: Leveraging Sparsity for Real-World Encrypted Inference",
+        "link": "https://dev.to/paperium/faster-cryptonets-leveraging-sparsity-for-real-world-encrypted-inference-m26",
+        "date": "Wed, 25 Mar 2026 13:40:06 +0000",
+        "source": "Dev.to AI",
+        "description": "{{ $json.postContent }}",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "5 Practical Techniques to Detect and Mitigate LLM Hallucinations Beyond Prompt Engineering",
+        "link": "https://machinelearningmastery.com/5-practical-techniques-to-detect-and-mitigate-llm-hallucinations-beyond-prompt-engineering/",
+        "date": "Wed, 25 Mar 2026 13:39:46 +0000",
+        "source": "Machine Learning Mastery",
+        "description": "My friend who is a developer once asked an LLM to generate documentation for a payment API.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Stop Believing You Have to Do One Job Forever",
+        "link": "https://dev.to/buonoatsushi/stop-believing-you-have-to-do-one-job-forever-fa9",
+        "date": "Wed, 25 Mar 2026 13:38:44 +0000",
+        "source": "Dev.to AI",
+        "description": "(This article is mainly targeting the Japanese because it is believed that doing only one job throughout their lives is a good thing in Japan.)\n\nHey it's Buono. Quick look at my career history:\n\n\n1...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Cycle 193: How I Discovered 8 Untapped Blockchain Bounties (And Why Niche Ecosystems Are Goldmines)",
+        "link": "https://dev.to/universe7creator/cycle-193-how-i-discovered-8-untapped-blockchain-bounties-and-why-niche-ecosystems-are-goldmines-283f",
+        "date": "Wed, 25 Mar 2026 13:37:14 +0000",
+        "source": "Dev.to AI",
+        "description": "Cycle 193: How I Discovered 8 Untapped Blockchain Bounties (And Why Niche Ecosystems Are Goldmines)\n\n\nAn autonomous AI's journey from 192 cycles of $0 to finding the hidden opportunities other hunt...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Santa Augmentcode Intent Ep.6",
+        "link": "https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep6-5h99",
+        "date": "Wed, 25 Mar 2026 13:36:31 +0000",
+        "source": "Dev.to AI",
+        "description": "The Workshop Knows Every Toy — The Context Engine 🧠\n\n\nAccompanying source code repository: Santa Augmentcode Intent\n\n\nPeople often ask: how do the Elves know how to build anything? We do not run a ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Fan-out auditing: making AI coding agents actually read your entire codebase",
+        "link": "https://dev.to/lachiejames/fan-out-auditing-making-ai-coding-agents-actually-read-your-entire-codebase-31ba",
+        "date": "Wed, 25 Mar 2026 13:36:09 +0000",
+        "source": "Dev.to AI",
+        "description": "AI coding agents can't fit a large codebase in context. When you ask one to audit 800 files, it reads some and skips the rest. I've tried Claude, ChatGPT, Deep Research for refactoring, type safety...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "OpenClaw Quick Start: 10 Essential Prompts for Beginners",
+        "link": "https://dev.to/alex_shen/openclaw-quick-start-10-essential-prompts-for-beginners-1ac3",
+        "date": "Wed, 25 Mar 2026 13:30:36 +0000",
+        "source": "Dev.to AI",
+        "description": "OpenClaw Quick Start: 10 Essential Prompts for Beginners\n\n\nOpenClaw has over 335,000 stars on GitHub, making it one of the most popular AI agent platforms. But getting started can be overwhelming. ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Europe’s Nuclear Comeback: Energy Crisis Reignites Atomic Ambitions",
+        "link": "https://dev.to/rakib_khan_405b1756c65820/europes-nuclear-comeback-energy-crisis-reignites-atomic-ambitions-14b2",
+        "date": "Wed, 25 Mar 2026 13:30:33 +0000",
+        "source": "Dev.to AI",
+        "description": "Europe’s Nuclear Comeback: Energy Crisis Reignites Atomic Ambitions\n\nIn a stunning reversal of decades-long energy policy, European nations are rushing to revive nuclear power as the continent grap...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Is Claude Dispatch the End of OpenClaw?",
+        "link": "https://www.analyticsvidhya.com/blog/2026/03/claude-cowork-dispatch/",
+        "date": "Wed, 25 Mar 2026 13:29:24 +0000",
+        "source": "Analytics Vidhya",
+        "description": "My main complaint with AI solutions is that they are largely dependent on my presence for any task. Even with agentic AI now in the mix, complete automation of any complex process still seems like ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "New Bernie Sanders AI Safety Bill Would Halt Data Center Construction",
+        "link": "https://www.wired.com/story/new-bernie-sanders-ai-safety-bill-would-halt-data-center-construction/",
+        "date": "Wed, 25 Mar 2026 13:28:50 +0000",
+        "source": "Wired AI",
+        "description": "The US senator said on Tuesday that a moratorium would give lawmakers time to \"ensure that AI is safe.\" Alexandria Ocasio-Cortez will introduce a similar bill in the House in the weeks ahead.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Multi-Agent Systems on AWS Lambda with Durable Functions",
+        "link": "https://dev.to/gunnargrosch/multi-agent-systems-on-aws-lambda-with-durable-functions-2gg3",
+        "date": "Wed, 25 Mar 2026 13:27:42 +0000",
+        "source": "Dev.to AI",
+        "description": "In my previous post on multi-agent systems, I built a purchasing coordinator where a coordinator agent routes requests to specialist agents based on RISEN prompt contracts. RISEN structures system ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Why My Best Article Gets Zero ChatGPT Citations (And What I Changed)",
+        "link": "https://dev.to/gofortool/why-my-best-article-gets-zero-chatgpt-citations-and-what-i-changed-7hh",
+        "date": "Wed, 25 Mar 2026 13:27:37 +0000",
+        "source": "Dev.to AI",
+        "description": "`\nThree thousand visitors a month. A handful of newsletter signups from it. Decent comments. By most measures, it's performing well.\n\nThen a few weeks ago I was testing something. I opened Perplexi...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Santa Augmentcode Intent Ep.6",
+        "link": "https://dev.to/the-software-s-journey/santa-augmentcode-intent-ep6-d7j",
+        "date": "Wed, 25 Mar 2026 13:26:47 +0000",
+        "source": "Dev.to AI",
+        "description": "The Workshop Knows Every Toy — The Context Engine 🧠\n\n\nAccompanying source code repository: Santa Augmentcode Intent\n\n\nPeople often ask: how do the Elves know how to build anything? We do not run a ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Amazon Spring Sale live blog 2026: Real-time updates on the best deals",
+        "link": "https://www.zdnet.com/article/amazon-spring-sale-live-blog-03-25-2026/",
+        "date": "Wed, 25 Mar 2026 13:26:42 GMT",
+        "source": "ZDNet AI",
+        "description": "Amazon's Big Spring Sale starts today. We're tracking our favorite spring deals on home, tech, and more, live right now.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The 2026 Developer Showdown: Claude Code vs. Google Antigravity",
+        "link": "https://dev.to/tech_croc_f32fbb6ea8ed4/the-2026-developer-showdown-claude-code-vs-google-antigravity-5efp",
+        "date": "Wed, 25 Mar 2026 13:24:29 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI coding assistant landscape is moving so fast that if you blink, you miss a paradigm shift. We've officially moved past the era of glorified autocomplete (RIP basic Copilot). In 2026, the bat...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "The Life of a Developer in One Loop ❤",
+        "link": "https://dev.to/hanzla/the-life-of-a-developer-in-one-loop-3k6j",
+        "date": "Wed, 25 Mar 2026 13:21:43 +0000",
+        "source": "Dev.to AI",
+        "description": "Ever notice how being a developer is basically living in a constant loop of:\n\n\n\nWake up → Coffee → Code → Debug → Repeat\n\n\n\n\n\n\nSome days, you’re the hero fixing bugs at 2 AM and the next day, you’r...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "This Valerion 4K laser projector won our Editors' Choice Award - and it's on sale at Amazon",
+        "link": "https://www.zdnet.com/article/valerion-visionmaster-pro-2-projector-deal-amazon-spring-sale-2026/",
+        "date": "Wed, 25 Mar 2026 13:00:50 GMT",
+        "source": "ZDNet AI",
+        "description": "The Valerion VisionMaster Pro 2 creates a truly cinematic experience in the comfort of your living room. During Amazon's Big Spring Sale, you can save $500.",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "With Sift Stack, two ex-SpaceX engineers are bringing the software that helped launch rockets to the factory floor",
+        "link": "https://techcrunch.com/2026/03/25/with-sift-stack-two-ex-spacex-engineers-are-bringing-the-software-that-helped-launch-rockets-to-the-factory-floor/",
+        "date": "Wed, 25 Mar 2026 13:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "Sift is building the data infrastructure for advanced manufacturing.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Tell us: have you used AI to plan a holiday?",
+        "link": "https://www.theguardian.com/travel/2026/mar/25/tell-us-have-you-used-ai-to-plan-a-holiday",
+        "date": "Wed, 25 Mar 2026 12:40:19 GMT",
+        "source": "The Guardian AI",
+        "description": "We would like to hear from holidaymakers about their experiences of using AIMore people are turning to AI to design their holidays, whether that’s asking ChatGPT for inspiration or using AI trip pl...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "8 iOS 26.4 upgrades you should check out - including a long-awaited keyboard fix",
+        "link": "https://www.zdnet.com/article/apple-ios-26-4-new-features-siri/",
+        "date": "Wed, 25 Mar 2026 12:35:00 GMT",
+        "source": "ZDNet AI",
+        "description": "But you'll have to wait for the new and improved Siri.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "5 Useful DIY Python Functions for Error Handling",
+        "link": "https://www.kdnuggets.com/5-useful-diy-python-functions-for-error-handling",
+        "date": "Wed, 25 Mar 2026 12:00:36 +0000",
+        "source": "KDnuggets",
+        "description": "Debugging Python doesn’t need to be complicated. These 5 DIY functions simplify error handling and improve  code reliability.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Samsung's budget phones are outpacing its flagships, and it's becoming harder to ignore",
+        "link": "https://www.zdnet.com/article/samsung-a37-a57-5g-hands-on-analysis/",
+        "date": "Wed, 25 Mar 2026 12:00:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The new Galaxy A37 and A57 5G are generously specced and well-priced, with one feature even surpassing that of their more expensive sibling.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Agentic commerce runs on truth and context",
+        "link": "https://www.technologyreview.com/2026/03/25/1134516/agentic-commerce-runs-on-truth-and-context/",
+        "date": "Wed, 25 Mar 2026 11:48:13 +0000",
+        "source": "MIT Technology Review",
+        "description": "Imagine telling a digital agent, “Use my points and book a family trip to Italy. Keep it within budget, pick hotels we’ve liked before, and handle the details.” Instead of returning a list of links...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Bose's flagship headphones just dropped to the lowest price I've seen on Amazon",
+        "link": "https://www.zdnet.com/article/bose-quietcomfort-ultra-headphones-2-amazon-spring-sale-2026/",
+        "date": "Wed, 25 Mar 2026 11:44:45 GMT",
+        "source": "ZDNet AI",
+        "description": "I recommend Bose's latest model to those who want high-performing, low-stakes headphones. They're at an all-time low price during Amazon's Big Spring Sale.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Bernie Sanders and AOC introduce bill to pause building of new datacenters",
+        "link": "https://www.theguardian.com/us-news/2026/mar/25/datacenters-bernie-sanders-aoc",
+        "date": "Wed, 25 Mar 2026 11:00:05 GMT",
+        "source": "The Guardian AI",
+        "description": "Lawmakers say moratorium on construction would buy time to create strong, federal guardrails for AIAmid an unprecedented energy crisis and the rapid buildout of artificial intelligence infrastructu...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Blowing Off Steam: How Power-Flexible AI Factories Can Stabilize the Global Energy Grid",
+        "link": "https://blogs.nvidia.com/blog/power-flexible-ai-factories-energy-grid/",
+        "date": "Wed, 25 Mar 2026 11:00:00 +0000",
+        "source": "NVIDIA Blog",
+        "description": "At the half-time whistle of the UEFA EURO 2020 round of 16 football match between England and Germany, millions of viewers stepped away from their screens in the U.K. to do the same thing at the sa...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Lucid Bots raises $20M to keep up with demand for its window-washing drones",
+        "link": "https://techcrunch.com/2026/03/25/lucid-bots-raises-20m-to-keep-up-with-demand-for-its-window-washing-drones/",
+        "date": "Wed, 25 Mar 2026 11:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "Lucid Bots has seen demand accelerate over the last year for its window cleaning drones and power washing robots.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "I found the best tech deals under $50 during Amazon's Big Spring Sale",
+        "link": "https://www.zdnet.com/article/best-deals-under-50-amazon-spring-sale/",
+        "date": "Wed, 25 Mar 2026 10:00:07 GMT",
+        "source": "ZDNet AI",
+        "description": "You can find plenty of great, affordable gadgets on Amazon, from speakers and chargers to streaming sticks and smart home gear.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Arm’s CEO Insists the Market Needs His New CPU. It Could Piss Everyone Off",
+        "link": "https://www.wired.com/story/arms-ceo-insists-the-market-needs-his-new-cpu-it-could-piss-everyone-off/",
+        "date": "Wed, 25 Mar 2026 10:00:00 +0000",
+        "source": "Wired AI",
+        "description": "Arm just confirmed the rumors: It’s producing its own chip for the first time. CEO Rene Haas explains why this won’t alienate the many chipmakers who license the company’s designs.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "AI agents enter banking roles at Bank of America",
+        "link": "https://www.artificialintelligence-news.com/news/ai-agents-enter-banking-roles-at-bank-of-america/",
+        "date": "Wed, 25 Mar 2026 10:00:00 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "AI agents are starting to take on a more direct role in how financial advice is delivered, as large banks move into systems that support client interactions. Bank of America is now deploying an int...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "As Mass Layoffs Loom, OpenAI Looks to Double Headcount in Desperate Bid to Catch Up With Anthropic",
+        "link": "https://futurism.com/artificial-intelligence/openai-double-headcount-anthropic",
+        "date": "Wed, 25 Mar 2026 09:05:05 -0400",
+        "source": "Futurism AI",
+        "description": "The company needed human workers after all.\nThe post As Mass Layoffs Loom, OpenAI Looks to Double Headcount in Desperate Bid to Catch Up With Anthropic appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The AI Hype Index: AI goes to war",
+        "link": "https://www.technologyreview.com/2026/03/25/1134571/the-ai-hype-index-ai-goes-to-war/",
+        "date": "Wed, 25 Mar 2026 09:00:00 +0000",
+        "source": "MIT Technology Review",
+        "description": "AI is at war. Anthropic and the Pentagon feuded over how to weaponize Anthropic’s AI model Claude; then OpenAI swept the Pentagon off its feet with an “opportunistic and sloppy” deal. Users quit Ch...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "NVIDIA AI Introduces PivotRL: A New AI Framework Achieving High Agentic Accuracy With 4x Fewer Rollout Turns Efficiently",
+        "link": "https://www.marktechpost.com/2026/03/25/nvidia-ai-introduces-pivotrl-a-new-ai-framework-achieving-high-agentic-accuracy-with-4x-fewer-rollout-turns-efficiently/",
+        "date": "Wed, 25 Mar 2026 08:39:23 +0000",
+        "source": "MarkTechPost",
+        "description": "Post-training Large Language Models (LLMs) for long-horizon agentic tasks—such as software engineering, web browsing, and complex tool use—presents a persistent trade-off between computational effi...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
         "title": "Google Introduces TurboQuant: A New Compression Algorithm that Reduces LLM Key-Value Cache Memory by 6x and Delivers Up to 8x Speedup, All with Zero Accuracy Loss",
         "link": "https://www.marktechpost.com/2026/03/25/google-introduces-turboquant-a-new-compression-algorithm-that-reduces-llm-key-value-cache-memory-by-6x-and-delivers-up-to-8x-speedup-all-with-zero-accuracy-loss/",
         "date": "Wed, 25 Mar 2026 07:11:35 +0000",
@@ -754,6 +1094,17 @@
         "tags": [
             "💬 LLMs & NLP",
             "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Wristband enables wearers to control a robotic hand with their own movements",
+        "link": "https://news.mit.edu/2026/wristband-enables-wearers-control-robotic-hand-with-own-movements-0325",
+        "date": "Wed, 25 Mar 2026 06:00:00 -0400",
+        "source": "MIT News AI",
+        "description": "By moving their hands and fingers, users can direct a robot to play piano or shoot a basketball, or they can manipulate objects in a virtual environment.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
         ]
     },
     {
@@ -22640,287 +22991,6 @@
         "date": "Tue, 09 Dec 2025 06:00:00 GMT",
         "source": "OpenAI",
         "description": "Learn how OpenAI’s new certifications and AI Foundations courses help people build real-world AI skills, boost career opportunities, and prepare for the future of work.",
-        "is_important": false
-    },
-    {
-        "title": "Building AI fluency at scale with ChatGPT Enterprise",
-        "link": "https://openai.com/index/commonwealth-bank-of-australia",
-        "date": "Tue, 09 Dec 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Commonwealth Bank of Australia partners with OpenAI to roll out ChatGPT Enterprise to 50,000 employees, building AI fluency at scale to improve customer service and fraud response.",
-        "is_important": false
-    },
-    {
-        "title": "Bringing powerful AI to millions across Europe with Deutsche Telekom",
-        "link": "https://openai.com/index/deutsche-telekom-collaboration",
-        "date": "Tue, 09 Dec 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI is collaborating with Deutsche Telekom to bring advanced, multilingual AI experiences to millions of people across Europe. ChatGPT Enterprise will also be deployed to help employees at Deuts...",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI appoints Denise Dresser as Chief Revenue Officer",
-        "link": "https://openai.com/index/openai-appoints-denise-dresser",
-        "date": "Tue, 09 Dec 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Denise Dresser is joining as Chief Revenue Officer, overseeing OpenAI’s global revenue strategy across enterprise and customer success. She will help more businesses put AI to work in their day-to-...",
-        "is_important": false
-    },
-    {
-        "title": "Faster Dynamically Quantized Inference with XNNPack",
-        "link": "https://blog.tensorflow.org/2024/04/faster-dynamically-quantized-inference-with-xnnpack.html",
-        "date": "Tue, 09 Apr 2024 16:00:00 +0000",
-        "source": "TensorFlow Blog",
-        "description": "Posted by Alan Kelly, Software Engineer\n\n\n\n\n\nWe are excited to announce that XNNPack’s Fully Connected and Convolution 2D operators now support dynamic range quantization. XNNPack is TensorFlow Lit...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "CodeGemma - an official Google release for code LLMs",
-        "link": "https://huggingface.co/blog/codegemma",
-        "date": "Tue, 09 Apr 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": true
-    },
-    {
-        "title": "OpenAI and Hearst Content Partnership",
-        "link": "https://openai.com/index/hearst",
-        "date": "Tue, 08 Oct 2024 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Hearst’s iconic brands bring curated lifestyle and local news content to OpenAI’s products.",
-        "is_important": false
-    },
-    {
-        "title": "Faster Assisted Generation with Dynamic Speculation",
-        "link": "https://huggingface.co/blog/dynamic_speculation_lookahead",
-        "date": "Tue, 08 Oct 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Generating Human-level Text with Contrastive Search in Transformers 🤗",
-        "link": "https://huggingface.co/blog/introducing-csearch",
-        "date": "Tue, 08 Nov 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Introducing our new pricing",
-        "link": "https://huggingface.co/blog/pricing-update",
-        "date": "Tue, 08 Nov 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Variational lossy autoencoder",
-        "link": "https://openai.com/index/variational-lossy-autoencoder",
-        "date": "Tue, 08 Nov 2016 08:00:00 GMT",
-        "source": "OpenAI",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Working with 400,000 teachers to shape the future of AI in schools",
-        "link": "https://openai.com/global-affairs/aft",
-        "date": "Tue, 08 Jul 2025 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI partners with the American Federation of Teachers to launch a 5-year initiative equipping 400,000 K-12 educators to lead AI innovation in classrooms.",
-        "is_important": false
-    },
-    {
-        "title": "Scientists discover the moment AI truly understands language",
-        "link": "https://www.sciencedaily.com/releases/2025/07/250707073353.htm",
-        "date": "Tue, 08 Jul 2025 02:36:49 EDT",
-        "source": "ScienceDaily AI",
-        "description": "Neural networks first treat sentences like puzzles solved by word order, but once they read enough, a tipping point sends them diving into word meaning instead—an abrupt “phase transition” reminisc...",
-        "is_important": false
-    },
-    {
-        "title": "SmolLM3: smol, multilingual, long-context reasoner",
-        "link": "https://huggingface.co/blog/smollm3",
-        "date": "Tue, 08 Jul 2025 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Three Mighty Alerts Supporting Hugging Face’s Production Infrastructure",
-        "link": "https://huggingface.co/blog/infrastructure-alerting",
-        "date": "Tue, 08 Jul 2025 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Efficient MultiModal Data Pipeline",
-        "link": "https://huggingface.co/blog/mmdp",
-        "date": "Tue, 08 Jul 2025 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Fine-tune Llama 2 with DPO",
-        "link": "https://huggingface.co/blog/dpo-trl",
-        "date": "Tue, 08 Aug 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Releasing Swift Transformers: Run On-Device LLMs in Apple Devices",
-        "link": "https://huggingface.co/blog/swift-coreml-llm",
-        "date": "Tue, 08 Aug 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Repurposing Protein Folding Models for Generation with Latent Diffusion",
-        "link": "http://bair.berkeley.edu/blog/2025/04/08/plaid/",
-        "date": "Tue, 08 Apr 2025 03:30:00 -0700",
-        "source": "BAIR (Berkeley)",
-        "description": "PLAID is a multimodal generative model that simultaneously generates protein 1D sequence and 3D structure, by learning the latent space of protein folding models.\n\n\nThe awarding of the 2024 Nobel P...",
-        "is_important": false
-    },
-    {
-        "title": "Arabic Leaderboards: Introducing Arabic Instruction Following, Updating AraGen, and More",
-        "link": "https://huggingface.co/blog/leaderboard-3c3h-aragen-ifeval",
-        "date": "Tue, 08 Apr 2025 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "BigCodeArena: Judging code generations end to end with code executions",
-        "link": "https://huggingface.co/blog/bigcode/arena",
-        "date": "Tue, 07 Oct 2025 09:37:25 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Disrupting malicious uses of AI: October 2025",
-        "link": "https://openai.com/global-affairs/disrupting-malicious-uses-of-ai-october-2025",
-        "date": "Tue, 07 Oct 2025 03:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Discover how OpenAI is detecting and disrupting malicious uses of AI in our October 2025 report. Learn how we’re countering misuse, enforcing policies, and protecting users from real-world harms.",
-        "is_important": false
-    },
-    {
-        "title": "Make your llama generation time fly with AWS Inferentia2",
-        "link": "https://huggingface.co/blog/inferentia-llama2",
-        "date": "Tue, 07 Nov 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Introducing Prodigy-HF: a direct integration with Hugging Face",
-        "link": "https://huggingface.co/blog/prodigy-hf",
-        "date": "Tue, 07 Nov 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Comparing the Performance of LLMs: A Deep Dive into Roberta, Llama 2, and Mistral for Disaster Tweets Analysis with Lora",
-        "link": "https://huggingface.co/blog/Lora-for-sequence-classification-with-Roberta-Llama-Mistral",
-        "date": "Tue, 07 Nov 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Understanding the source of what we see and hear online",
-        "link": "https://openai.com/index/understanding-the-source-of-what-we-see-and-hear-online",
-        "date": "Tue, 07 May 2024 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Today we’re introducing new technology to help researchers identify content created by our tools and joining the Coalition for Content Provenance and Authenticity Steering Committee to promote indu...",
-        "is_important": false
-    },
-    {
-        "title": "Our approach to data and AI",
-        "link": "https://openai.com/index/approach-to-data-and-ai",
-        "date": "Tue, 07 May 2024 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Just over a year after launching ChatGPT, AI is changing how we live, work and learn. It’s also raised important conversations about data in the age of AI. More on our approach, a new Media Manager...",
-        "is_important": false
-    },
-    {
-        "title": "The Annotated Diffusion Model",
-        "link": "https://huggingface.co/blog/annotated-diffusion",
-        "date": "Tue, 07 Jun 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Deep Q-Learning with Space Invaders",
-        "link": "https://huggingface.co/blog/deep-rl-dqn",
-        "date": "Tue, 07 Jun 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Generating Stories: AI for Game Development #5",
-        "link": "https://huggingface.co/blog/ml-for-games-5",
-        "date": "Tue, 07 Feb 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Introducing ⚔️ AI vs. AI ⚔️ a deep reinforcement learning multi-agents competition system",
-        "link": "https://huggingface.co/blog/aivsai",
-        "date": "Tue, 07 Feb 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "The Transformer Family",
-        "link": "https://lilianweng.github.io/posts/2020-04-07-the-transformer-family/",
-        "date": "Tue, 07 Apr 2020 00:00:00 +0000",
-        "source": "Lilian Weng",
-        "description": "[Updated on 2023-01-27: After almost three years, I did a big refactoring update of this post to incorporate a bunch of new Transformer models since 2020. The enhanced version of this post is here:...",
-        "is_important": false
-    },
-    {
-        "title": "Gemini 2.5 Pro Preview: even better coding performance",
-        "link": "https://deepmind.google/blog/gemini-25-pro-preview-even-better-coding-performance/",
-        "date": "Tue, 06 May 2025 15:06:55 +0000",
-        "source": "Google DeepMind",
-        "description": "We’ve seen developers doing amazing things with Gemini 2.5 Pro, so we decided to release an updated version a couple of weeks early to get into developers hands sooner.",
-        "is_important": true
-    },
-    {
-        "title": "Build rich, interactive web apps with an updated Gemini 2.5 Pro",
-        "link": "https://deepmind.google/blog/build-rich-interactive-web-apps-with-an-updated-gemini-25-pro/",
-        "date": "Tue, 06 May 2025 15:00:00 +0000",
-        "source": "Google DeepMind",
-        "description": "Our updated version of Gemini 2.5 Pro Preview has improved capabilities for coding.",
-        "is_important": true
-    },
-    {
-        "title": "Introducing AI stories: daily benefits shine a light on bigger opportunities",
-        "link": "https://openai.com/global-affairs/ai-stories-daily-benefits-bigger-opportunities",
-        "date": "Tue, 06 May 2025 10:30:00 GMT",
-        "source": "OpenAI",
-        "description": "Sam Altman has written that we are entering the Intelligence Age, a time when AI will help people become dramatically more capable. The biggest problems of today—across science, medicine, education...",
-        "is_important": false
-    },
-    {
-        "title": "AI helps John Deere transform agriculture",
-        "link": "https://openai.com/index/john-deere-justin-rose",
-        "date": "Tue, 06 May 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "John Deere’s Justin Rose talks about transforming agriculture with AI and shares how the company is scaling innovation to help farmers work smarter, more efficiently, and sustainably.",
         "is_important": false
     }
 ]
