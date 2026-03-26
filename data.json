@@ -1069,6 +1069,17 @@
         "tags": []
     },
     {
+        "title": "Protecting people from harmful manipulation",
+        "link": "https://deepmind.google/blog/protecting-people-from-harmful-manipulation/",
+        "date": "Wed, 25 Mar 2026 16:46:20 +0000",
+        "source": "Google DeepMind",
+        "description": "Google DeepMind researches AI's harmful manipulation risks across areas like finance and health, leading to new safety measures.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
         "title": "Google launches Lyria 3 Pro music generation model",
         "link": "https://techcrunch.com/2026/03/25/google-launches-lyria-3-pro-music-generation-model/",
         "date": "Wed, 25 Mar 2026 16:37:43 +0000",
@@ -22993,17 +23004,6 @@
         "date": "Tue, 10 Mar 2026 00:00:00 -0400",
         "source": "ArXiv (cs.CV)",
         "description": "arXiv:2603.06662v1 Announce Type: new \nAbstract: Continual VideoQA with multimodal LLMs is hindered by interference between tasks and the prohibitive cost of storing task-specific prompts. We intro...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Graph-of-Mark: Promote Spatial Reasoning in Multimodal Language Models with Graph-Based Visual Prompting",
-        "link": "https://arxiv.org/abs/2603.06663",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.06663v1 Announce Type: new \nAbstract: Recent advances in training-free visual prompting, such as Set-of-Mark, have emerged as a promising direction for enhancing the grounding capabiliti...",
         "is_important": false,
         "tags": [
             "💬 LLMs & NLP"
