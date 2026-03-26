@@ -620,6 +620,138 @@
         "is_important": false
     },
     {
+        "title": "Flight Recorder: A New Lens for Understanding NCCL Watchdog Timeouts",
+        "link": "https://pytorch.org/blog/flight-recorder-a-new-lens-for-understanding-nccl-watchdog-timeouts/",
+        "date": "Wed, 25 Mar 2026 23:41:37 +0000",
+        "source": "PyTorch Blog",
+        "description": "If you’ve ever trained a large AI model and had it fail with an error like: [Rank 0] Watchdog caught collective operation timeout: WorkNCCL(SeqNum=12345, OpType=ALLREDUCE, NumelIn=1, NumelOut=1, Ti...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Build a Vision-Guided Web AI Agent with MolmoWeb-4B Using Multimodal Reasoning and Action Prediction",
+        "link": "https://www.marktechpost.com/2026/03/25/how-to-build-a-vision-guided-web-ai-agent-with-molmoweb-4b-using-multimodal-reasoning-and-action-prediction/",
+        "date": "Wed, 25 Mar 2026 23:13:43 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we explore MolmoWeb, Ai2’s open multimodal web agent that understands and interacts with websites directly from screenshots, without relying on HTML or DOM parsing. We set up the ...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "How I used Gemini to replace YouTube's missing comment alerts - in under an hour",
+        "link": "https://www.zdnet.com/article/youtube-comment-alerts-gemini-vibe-code-guide/",
+        "date": "Wed, 25 Mar 2026 22:00:00 GMT",
+        "source": "ZDNet AI",
+        "description": "With Gemini and a simple Python script, I rebuilt YouTube email alerts. Now I won't miss another comment. Here's how you can do the same.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "This digital photo frame is my favorite gift to give (and it's on sale)",
+        "link": "https://www.zdnet.com/article/pexar-digital-photo-frame-amazon-spring-sale-2026/",
+        "date": "Wed, 25 Mar 2026 21:58:07 GMT",
+        "source": "ZDNet AI",
+        "description": "The Pexar Digital Photo Frame displays photo memories to your loved ones, and you can snag it at 22% off during Amazon's Big Spring Sale this week.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The AI skills gap is here, says AI company, and power users are pulling ahead",
+        "link": "https://techcrunch.com/2026/03/25/the-ai-skills-gap-is-here-says-ai-company-and-power-users-are-pulling-ahead/",
+        "date": "Wed, 25 Mar 2026 21:44:13 +0000",
+        "source": "TechCrunch AI",
+        "description": "Anthropic finds AI isn’t replacing jobs yet, but early data shows growing inequality as experienced users gain an edge, raising concerns about future displacement and workforce divides.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Billionaire’s Startup Aims to Transform Personal AI",
+        "link": "https://aibusiness.com/generative-ai/billionaire-s-startup-hark-could-transform-personal-ai",
+        "date": "Wed, 25 Mar 2026 21:41:48 GMT",
+        "source": "AI Business",
+        "description": "While the venture may appear speculative, it has strong talent backing it.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Apple Watch Series 9 is over 50% off during the Amazon Spring Sale for a limited time",
+        "link": "https://www.zdnet.com/article/apple-watch-series-9-deal-amazon-spring-sale-2026/",
+        "date": "Wed, 25 Mar 2026 21:37:00 GMT",
+        "source": "ZDNet AI",
+        "description": "This featured Amazon Spring Sale flash deal brings the price of the Apple Watch Series 9 to just $349, but you'll have to hurry - it ends tonight.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Get your pup the smart Halo Collar 5 that's 25% off",
+        "link": "https://www.zdnet.com/article/halo-collar-5-amazon-spring-sale-2026/",
+        "date": "Wed, 25 Mar 2026 21:29:54 GMT",
+        "source": "ZDNet AI",
+        "description": "You can get $154 off the high-tech Halo dog collar that keeps track of your pup's location and activity levels as part of Amazon's Big Spring Sale.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I've tested every Apple Watch model - my top pick is on sale for $299",
+        "link": "https://www.zdnet.com/article/apple-watch-series-11-review/",
+        "date": "Wed, 25 Mar 2026 20:57:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Looking to get ahead of your 2026 fitness goals? The Apple Watch Series 11 is on sale for the first time this year.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Get Kindle Unlimited for $0.99 a month with this Amazon Spring Sale deal - here's how",
+        "link": "https://www.zdnet.com/article/kindle-unlimited-deal-amazon-spring-sale-2026/",
+        "date": "Wed, 25 Mar 2026 20:55:38 GMT",
+        "source": "ZDNet AI",
+        "description": "Access a library of millions of e-books and audiobooks with Kindle Unlimited for just $1 a month, down from the usual price of $12 a month. Here's what to know.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google unveils TurboQuant, a new AI memory compression algorithm — and yes, the internet is calling it ‘Pied Piper’",
+        "link": "https://techcrunch.com/2026/03/25/google-turboquant-ai-memory-compression-silicon-valley-pied-piper/",
+        "date": "Wed, 25 Mar 2026 20:38:45 +0000",
+        "source": "TechCrunch AI",
+        "description": "Google’s TurboQuant has the internet joking about Pied Piper from HBO's \"Silicon Valley.\" The compression algorithm promises to shrink AI’s “working memory” by up to 6x, but it’s still just a lab e...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "5 Dyson Amazon Spring Sale deals that are worth a second glance",
+        "link": "https://www.zdnet.com/article/dyson-amazon-spring-sale-2026-deals/",
+        "date": "Wed, 25 Mar 2026 20:33:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Amazon's Big Spring Sale is live through March 31, and there are plenty of savings on top gear from Dyson (including vacuums, hair tools, and more).",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Dyson's cordless vacuum can handle kid and pet messes - and it's nearly 30% off at Amazon",
+        "link": "https://www.zdnet.com/article/dyson-v15-detect-deal-amazon-spring-sale-2026/",
+        "date": "Wed, 25 Mar 2026 20:20:00 GMT",
+        "source": "ZDNet AI",
+        "description": "I love the Dyson V15 Detect Plus vacuum and how it moves easily between carpet and hardwood floors. It gets a 29% discount during Amazon's Big Spring Sale.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta Lays Off 700 Employees, While Rewarding Top Executives",
+        "link": "https://www.nytimes.com/2026/03/25/technology/meta-layoffs-ai-executives.html",
+        "date": "Wed, 25 Mar 2026 19:22:34 +0000",
+        "source": "NYT Tech",
+        "description": "The jobs cuts and a new stock program for executives come as Meta continues to shift its focus to artificial intelligence.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "The Future of AI Is Open and Proprietary",
         "link": "https://blogs.nvidia.com/blog/ai-future-open-and-proprietary/",
         "date": "Wed, 25 Mar 2026 19:00:04 +0000",
@@ -654,6 +786,17 @@
         "description": "In this post, we explore how the multimodal foundation models (FMs) of Amazon Bedrock enable scalable video understanding through three distinct architectural approaches. Each approach is designed ...",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Melania Trump wants a robot to homeschool your child",
+        "link": "https://techcrunch.com/2026/03/25/melania-trump-wants-a-robot-to-homeschool-your-child/",
+        "date": "Wed, 25 Mar 2026 18:55:41 +0000",
+        "source": "TechCrunch AI",
+        "description": "The first lady sees AI and robotics playing a prominent role in the future of American education.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
     },
     {
         "title": "Deploy voice agents with Pipecat and Amazon Bedrock AgentCore Runtime – Part 1",
@@ -904,6 +1047,17 @@
         "description": "Whether extreme weather knocked out your electricity or you're just looking to stay prepared for the next big storm, the Anker Solix C1000 is a solid choice.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Augmenting citizen science with computer vision for fish monitoring",
+        "link": "https://news.mit.edu/2026/augmenting-citizen-science-computer-vision-fish-monitoring-0325",
+        "date": "Wed, 25 Mar 2026 17:00:00 -0400",
+        "source": "MIT News AI",
+        "description": "MIT Sea Grant works with the Woodwell Climate Research Center and other collaborators to demonstrate a deep learning-based system for fish monitoring.",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
     },
     {
         "title": "This gadget lets you use your own Bluetooth headphones on a plane - and it's on sale",
@@ -1861,6 +2015,26 @@
         "tags": [
             "💬 LLMs & NLP",
             "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Exclusive Self Attention",
+        "link": "https://machinelearning.apple.com/research/exclusive-self-attention",
+        "date": "Wed, 25 Mar 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "We introduce exclusive self attention (XSA), a simple modification of self attention (SA) that improves Transformer’s sequence modeling performance. The key idea is to constrain attention to captur...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Thinking into the Future: Latent Lookahead Training for Transformers",
+        "link": "https://machinelearning.apple.com/research/latent-lookahead",
+        "date": "Wed, 25 Mar 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "This paper was accepted at the Workshop on Latent & Implicit Thinking – Going Beyond CoT Reasoning 2026 at ICLR.\nAutoregressive language models trained with next-token prediction generate text by s...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
         ]
     },
     {
@@ -22834,196 +23008,5 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
-    },
-    {
-        "title": "Accelerating Video Generation Inference with Sequential-Parallel 3D Positional Encoding Using a Global Time Index",
-        "link": "https://arxiv.org/abs/2603.06664",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.06664v1 Announce Type: new \nAbstract: Diffusion Transformer (DiT)-based video generation models inherently suffer from bottlenecks in long video synthesis and real-time inference, which ...",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Better Eyes, Better Thoughts: Why Vision Chain-of-Thought Fails in Medicine",
-        "link": "https://arxiv.org/abs/2603.06665",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.06665v1 Announce Type: new \nAbstract: Large vision-language models (VLMs) often benefit from chain-of-thought (CoT) prompting in general domains, yet its efficacy in medical vision-langu...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "SJD-PV: Speculative Jacobi Decoding with Phrase Verification for Autoregressive Image Generation",
-        "link": "https://arxiv.org/abs/2603.06666",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.06666v1 Announce Type: new \nAbstract: Autoregressive (AR) image models have recently demonstrated remarkable generative capability, but their sequential nature results in significant inf...",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "calibfusion: Transformer-Based Differentiable Calibration for Radar-Camera Fusion Detection in Water-Surface Environments",
-        "link": "https://arxiv.org/abs/2603.06670",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.06670v1 Announce Type: new \nAbstract: Millimeter-wave (mmWave) Radar--Camera fusion improves perception under adverse illumination and weather, but its performance is sensitive to Radar-...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Does Semantic Noise Initialization Transfer from Images to Videos? A Paired Diagnostic Study",
-        "link": "https://arxiv.org/abs/2603.06672",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.06672v1 Announce Type: new \nAbstract: Semantic noise initialization has been reported to improve robustness and controllability in image diffusion models. Whether these gains transfer to...",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "vLLM Hook v0: A Plug-in for Programming Model Internals on vLLM",
-        "link": "https://arxiv.org/abs/2603.06588",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06588v1 Announce Type: new \nAbstract: Modern artificial intelligence (AI) models are deployed on inference engines to optimize runtime efficiency and resource allocation, particularly fo...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How Attention Sinks Emerge in Large Language Models: An Interpretability Perspective",
-        "link": "https://arxiv.org/abs/2603.06591",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06591v1 Announce Type: new \nAbstract: Large Language Models (LLMs) often allocate disproportionate attention to specific tokens, a phenomenon commonly referred to as the attention sink. ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "FuzzingRL: Reinforcement Fuzz-Testing for Revealing VLM Failures",
-        "link": "https://arxiv.org/abs/2603.06600",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06600v1 Announce Type: new \nAbstract: Vision Language Models (VLMs) are prone to errors, and identifying where these errors occur is critical for ensuring the reliability and safety of A...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Switchable Activation Networks",
-        "link": "https://arxiv.org/abs/2603.06601",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06601v1 Announce Type: new \nAbstract: Deep neural networks, and more recently large-scale generative models such as large language models (LLMs) and large vision-action models (LVAs), ac...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Khatri-Rao Clustering for Data Summarization",
-        "link": "https://arxiv.org/abs/2603.06602",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06602v1 Announce Type: new \nAbstract: As datasets continue to grow in size and complexity, finding succinct yet accurate data summaries poses a key challenge. Centroid-based clustering, ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Scale Dependent Data Duplication",
-        "link": "https://arxiv.org/abs/2603.06603",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06603v1 Announce Type: new \nAbstract: Data duplication during pretraining can degrade generalization and lead to memorization, motivating aggressive deduplication pipelines. However, at ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Know When You're Wrong: Aligning Confidence with Correctness for LLM Error Detection",
-        "link": "https://arxiv.org/abs/2603.06604",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06604v1 Announce Type: new \nAbstract: As large language models (LLMs) are increasingly deployed in critical decision-making systems, the lack of reliable methods to measure their uncerta...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Structure-Aware Set Transformers: Temporal and Variable-Type Attention Biases for Asynchronous Clinical Time Series",
-        "link": "https://arxiv.org/abs/2603.06605",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06605v1 Announce Type: new \nAbstract: Electronic health records (EHR) are irregular, asynchronous multivariate time series. As time-series foundation models increasingly tokenize events ...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "LegoNet: Memory Footprint Reduction Through Block Weight Clustering",
-        "link": "https://arxiv.org/abs/2603.06606",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06606v1 Announce Type: new \nAbstract: As the need for neural network-based applications to become more accurate and powerful grows, so too does their size and memory footprint. With embe...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Valid Feature-Level Inference for Tabular Foundation Models via the Conditional Randomization Test",
-        "link": "https://arxiv.org/abs/2603.06609",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06609v1 Announce Type: new \nAbstract: Modern machine learning models are highly expressive but notoriously difficult to analyze statistically. In particular, while black-box predictors c...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "CapTrack: Multifaceted Evaluation of Forgetting in LLM Post-Training",
-        "link": "https://arxiv.org/abs/2603.06610",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06610v1 Announce Type: new \nAbstract: Large language model (LLM) post-training enhances latent skills, unlocks value alignment, improves performance, and enables domain adaptation. Unfor...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Consensus is Not Verification: Why Crowd Wisdom Strategies Fail for LLM Truthfulness",
-        "link": "https://arxiv.org/abs/2603.06612",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06612v1 Announce Type: new \nAbstract: Pass@k and other methods of scaling inference compute can improve language model performance in domains with external verifiers, including mathemati...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "OptiRoulette Optimizer: A New Stochastic Meta-Optimizer for up to 5.3x Faster Convergence",
-        "link": "https://arxiv.org/abs/2603.06613",
-        "date": "Tue, 10 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.06613v1 Announce Type: new \nAbstract: This paper presents OptiRoulette, a stochastic meta-optimizer that selects update rules during training instead of fixing a single optimizer. The me...",
-        "is_important": false,
-        "tags": []
     }
 ]
