@@ -13092,6 +13092,487 @@
         "is_important": false
     },
     {
+        "title": "Inside Claude's Brain: What I Learned from Anaalyzing 75KB of AI Agent Architecture",
+        "link": "https://dev.to/ritavidhata/inside-claudes-brain-what-i-learned-from-anaalyzing-75kb-of-ai-agent-architecture-563j",
+        "date": "Tue, 31 Mar 2026 19:08:41 +0000",
+        "source": "Dev.to AI",
+        "description": "Building production-grade AI coding agents isn't magic—it's engineering. Here's what the leaked Claude CLI code taught me about tool systems, task management, and secure AI orchestration.\n\n\n\n\n\n  \n ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "10 лучших AI инструментов для разработчиков: гайд без опыта!",
+        "link": "https://dev.to/geka_cross_7457e8699a0c3f/10-luchshikh-ai-instrumientov-dlia-razrabotchikov-ghaid-biez-opyta-54fc",
+        "date": "Tue, 31 Mar 2026 19:08:29 +0000",
+        "source": "Dev.to AI",
+        "description": "Введение в мир AI инструментов\n\n\nПривет! Я — Евгений Розов, разработчик, и хочу поделиться своим опытом работы с AI инструментами для разработчиков. В последние годы AI технологии стремительно разв...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Beyond the Hype: Building AI Agents That Actually Remember",
+        "link": "https://dev.to/midas126/beyond-the-hype-building-ai-agents-that-actually-remember-3oek",
+        "date": "Tue, 31 Mar 2026 19:03:42 +0000",
+        "source": "Dev.to AI",
+        "description": "The Memory Problem Every AI Developer Hits\n\n\nYou’ve built a clever AI agent. It can reason through complex logic, call APIs, and generate human-like text. You give it a task: \"Analyze the quarterly...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The 5 most surprising things our readers bought on Amazon this week  (No. 1 is weird)",
+        "link": "https://www.zdnet.com/article/weird-top-sellers-amazon-spring-sale-2026/",
+        "date": "Tue, 31 Mar 2026 19:01:24 GMT",
+        "source": "ZDNet AI",
+        "description": "ZDNET readers love random gadgets - and during Amazon's Spring Sale this past week, they picked up some interesting niche items that are still on sale.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Teenager died after asking ChatGPT for ‘most successful’ way to take his life, inquest told",
+        "link": "https://www.theguardian.com/society/2026/mar/31/teenager-asked-chatgpt-most-successful-ways-take-life-inquest-told",
+        "date": "Tue, 31 Mar 2026 19:01:18 GMT",
+        "source": "The Guardian AI",
+        "description": "Luca Cella Walker asked chatbot for best way for someone to kill themself on railway line before his deathA 16-year-old boy killed himself after asking ChatGPT for the “most successful” way to take...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.",
+        "link": "https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-9ml",
+        "date": "Tue, 31 Mar 2026 19:00:53 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI landscape is experiencing unprecedented growth and transformation. This post delves into the key developments shaping the future of artificial intelligence, from massive industry investments...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Child Soldiers in Tehran: Iran’s Security Crisis Deepens",
+        "link": "https://dev.to/rakib_khan_405b1756c65820/child-soldiers-in-tehran-irans-security-crisis-deepens-2d4",
+        "date": "Tue, 31 Mar 2026 19:00:22 +0000",
+        "source": "Dev.to AI",
+        "description": "Iran’s Shadow War: How Tehran’s Use of Child Soldiers Escalates a Humanitarian Crisis\n\nIn a chilling revelation that has sent shockwaves through the international community, an 11-year-old child wa...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Perplexity AI Review 2026: Free vs Pro - 30 Day Test",
+        "link": "https://dev.to/konabayev/perplexity-ai-review-2026-free-vs-pro-30-day-test-gde",
+        "date": "Tue, 31 Mar 2026 18:58:10 +0000",
+        "source": "Dev.to AI",
+        "description": "Perplexity AI: Quick Summary\n\n\nPerplexity AI is the best AI search tool for research needing citations. Free covers most needs; Pro adds GPT-4o, Claude, and image generation for $20/month.\n\nAdvanta...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Best ChatGPT Alternatives (2026): Claude, Gemini, Perplexity & More",
+        "link": "https://dev.to/konabayev/best-chatgpt-alternatives-2026-claude-gemini-perplexity-more-34jc",
+        "date": "Tue, 31 Mar 2026 18:57:53 +0000",
+        "source": "Dev.to AI",
+        "description": "ChatGPT Alternatives Overview\n\n\nBest ChatGPT alternatives in 2026 by use case:\n\n\n\nClaude - Long-form writing, reasoning\n\nGemini - Real-time research, Google Workspace\n\nPerplexity - Cited research\n\n...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Generative Engine Optimization (GEO): New SEO for AI Strategy",
+        "link": "https://dev.to/konabayev/generative-engine-optimization-geo-new-seo-for-ai-strategy-1gc3",
+        "date": "Tue, 31 Mar 2026 18:57:32 +0000",
+        "source": "Dev.to AI",
+        "description": "GEO at a Glance\n\n\nGenerative Engine Optimization (GEO) is structuring content so AI systems like Google AI Overviews, Perplexity, ChatGPT, and Copilot extract and cite it in generated answers.\n\n\n  ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "How I Built a Support Ticket MCP Server in Laravel",
+        "link": "https://dev.to/blamsa0mine/how-i-built-a-support-ticket-mcp-server-in-laravel-1pdk",
+        "date": "Tue, 31 Mar 2026 18:57:32 +0000",
+        "source": "Dev.to AI",
+        "description": "Model Context Protocol is much easier to understand when it is attached to a real workflow.\n\nIn my Laravel project, I wanted a support-focused MCP server that could do three concrete things:\n\n\ncrea...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs",
+        "link": "https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j",
+        "date": "Tue, 31 Mar 2026 18:56:42 +0000",
+        "source": "Dev.to AI",
+        "description": "In our agent factory holiday special, Don McCasland and I were joined by Kyle Meggs, Senior Product Manager on the TPU Training Team at Google, to dive deep into the world of model fine tuning. We ...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "🚀 Looking for Python Repos on Automated Video Generation",
+        "link": "https://dev.to/bilalahmedkhatri/looking-for-python-repos-on-automated-video-generation-4bm1",
+        "date": "Tue, 31 Mar 2026 18:50:18 +0000",
+        "source": "Dev.to AI",
+        "description": "Hey devs, I’m exploring ways to streamline creative workflows and I’m on the lookout for production-ready, maintained, and updated Python repositories that can help automate video creation.\n\nIdeall...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Guardrails para Agentes de IA: Reglas Que los LLM No Pueden Evadir",
+        "link": "https://dev.to/aws-espanol/guardrails-para-agentes-de-ia-reglas-que-los-llm-no-pueden-evadir-5dmn",
+        "date": "Tue, 31 Mar 2026 18:49:56 +0000",
+        "source": "Dev.to AI",
+        "description": "Los agentes de IA pueden alucinar el éxito de una operación incluso cuando violan reglas de negocio. Confirman reservas sin verificación de pago, aceptan parámetros inválidos como 15 huéspedes cuan...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "How to Build and Evolve a Custom OpenAI Agent with A-Evolve Using Benchmarks, Skills, Memory, and Workspace Mutations",
+        "link": "https://www.marktechpost.com/2026/03/31/how-to-build-and-evolve-a-custom-openai-agent-with-a-evolve-using-benchmarks-skills-memory-and-workspace-mutations/",
+        "date": "Tue, 31 Mar 2026 18:24:44 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we work directly with the A-Evolve framework in Colab and build a complete evolutionary agent pipeline from the ground up. We set up the repository, configure an OpenAI-powered ag...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "7 WFH gadgets that improved my home office - Last chance for sale prices",
+        "link": "https://www.zdnet.com/article/wfh-gadgets-amazon-spring-sale-2026/",
+        "date": "Tue, 31 Mar 2026 18:00:00 GMT",
+        "source": "ZDNet AI",
+        "description": "As a remote worker, I'd recommend these WFH essentials even if they weren't marked down for Amazon's Spring Sale. Here's your last chance for discounts.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Build a FinOps agent using Amazon Bedrock AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/",
+        "date": "Tue, 31 Mar 2026 17:57:16 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, you learn how to build a FinOps agent using&nbsp;Amazon Bedrock AgentCore that helps your finance team manage AWS costs across multiple accounts. This conversational agent consolidate...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "We're tracking the best last-minute tech deals under $50 during Amazon's Big Spring Sale",
+        "link": "https://www.zdnet.com/article/best-deals-under-50-last-minute-amazon-spring-sale/",
+        "date": "Tue, 31 Mar 2026 17:54:49 GMT",
+        "source": "ZDNet AI",
+        "description": "Amazon is full of great, affordable gadgets for your day-to-day, from speakers and chargers to streaming sticks and smart home gear. They're even cheaper now, during the retailer's annual sale - ac...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building an AI powered system for compliance evidence collection",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-system-for-compliance-evidence-collection/",
+        "date": "Tue, 31 Mar 2026 17:52:15 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we show you how to build a similar system for your organization. You will learn the architecture decisions, implementation details, and deployment process that can help you automate y...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act",
+        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act/",
+        "date": "Tue, 31 Mar 2026 17:46:50 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we demonstrate how to implement agentic QA automation through QA Studio, a reference solution built with Amazon Nova Act. You will see how to define tests in natural language that ada...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The most popular Amazon Spring Sale deals may surprise you - and there's still time to shop",
+        "link": "https://www.zdnet.com/article/reader-favorites-amazon-spring-sale-2026/",
+        "date": "Tue, 31 Mar 2026 17:46:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Amazon's Spring Sale ends today, but we've got the scoop on the top products ZDNET readers bought the most, from SSDs to flagship headphones.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
+        "link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
+        "date": "Tue, 31 Mar 2026 17:41:35 +0000",
+        "source": "TechCrunch AI",
+        "description": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "This HP gaming laptop just dropped under $1,000 - a rarity during the RAM-pocalypse",
+        "link": "https://www.zdnet.com/article/hp-victus-15-deal-amazon-spring-sale-2026/",
+        "date": "Tue, 31 Mar 2026 17:10:56 GMT",
+        "source": "ZDNet AI",
+        "description": "The price of gaming laptops is through the roof, but right now at HP, you can snag the Victus 15 at a big discount.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Samsung Watch users in the US can finally track their blood pressure - but it's tricky",
+        "link": "https://www.zdnet.com/article/galaxy-watch-users-in-us-can-track-blood-pressure/",
+        "date": "Tue, 31 Mar 2026 17:03:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The feature works on Galaxy Watch 4 and newer models. You'll need the updated Samsung Health Monitor app and a cuff monitor for calibration.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The best last minute phone deals from T-Mobile, Verizon, AT&T and other carriers",
+        "link": "https://www.zdnet.com/article/best-phone-carrier-deals-tmobile-verizon-att-last-minute-amazon-spring-sale/",
+        "date": "Tue, 31 Mar 2026 16:59:29 GMT",
+        "source": "ZDNet AI",
+        "description": "Amazon Spring Sale is in its final days, but multiple carriers are offering deals on flagships, including the iPhone 17 Pro for free. These discounts won't last long, so act now.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Qwen3.5-Omni is here! Scaling up to a Native Omni-modal AGI",
+        "link": "https://www.analyticsvidhya.com/blog/2026/03/qwen3-5-omni-ai-model/",
+        "date": "Tue, 31 Mar 2026 16:57:31 +0000",
+        "source": "Analytics Vidhya",
+        "description": "Multimodal AI has grown from novelty to a must in recent times. Need proof? If I were to tell you to work on an AI model that only understands text, you would probably laugh and throw 10 model name...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Want to change your Gmail address? Now you can, without losing any data - here's how",
+        "link": "https://www.zdnet.com/article/how-to-change-your-gmail-address/",
+        "date": "Tue, 31 Mar 2026 16:41:16 GMT",
+        "source": "ZDNet AI",
+        "description": "You'll get messages sent to both your new and old addresses, but there are some limits.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Databricks to Invest $850M in UK AI Operations",
+        "link": "https://aibusiness.com/data-management/databricks-to-invest-850m-uk-ai-operations",
+        "date": "Tue, 31 Mar 2026 16:36:09 GMT",
+        "source": "AI Business",
+        "description": "With the investment, the company will expand its London hub, boost AI talent development, and support growing demand for agentic AI tools.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I've tracked Apple for nearly 50 years: How a garage rebel became a multitrillion-dollar empire",
+        "link": "https://www.zdnet.com/article/apple-at-50-from-garage-rebel-to-multitrillion-dollar-empire/",
+        "date": "Tue, 31 Mar 2026 16:31:57 GMT",
+        "source": "ZDNet AI",
+        "description": "Opinion: On Apple's 50th anniversary, here's a look at what the company gained - and lost - on its journey from a tech geeks' dream to a luxury device brand.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "12 travel gadgets that can upgrade your spring break (and they're on sale)",
+        "link": "https://www.zdnet.com/article/travel-gadgets-last-minute-amazon-spring-sale-2026/",
+        "date": "Tue, 31 Mar 2026 16:29:16 GMT",
+        "source": "ZDNet AI",
+        "description": "Traveling soon? Scoop up these nifty gadgets ahead of your travels for less during the last day of Amazon's Spring Sale.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AWS launches frontier agents for security testing and cloud operations",
+        "link": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
+        "date": "Tue, 31 Mar 2026 16:25:32 +0000",
+        "source": "AWS Machine Learning",
+        "description": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Penguin to sue OpenAI over ChatGPT version of German children’s book",
+        "link": "https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss",
+        "date": "Tue, 31 Mar 2026 16:13:45 GMT",
+        "source": "The Guardian AI",
+        "description": "Publisher alleges AI research company’s chatbot violated its copyright over Coconut the Little Dragon seriesPenguin Random House has filed a lawsuit against OpenAI, alleging its chatbot ChatGPT vio...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Best Amazon Spring Sale phone deals 2026: Last chance to grab these 25+ discounts",
+        "link": "https://www.zdnet.com/article/last-minute-amazon-spring-sale-2026-phone-deals/",
+        "date": "Tue, 31 Mar 2026 16:09:45 GMT",
+        "source": "ZDNet AI",
+        "description": "For Amazon's Big Spring Sale, I've rounded up the best phone deals from major brands like Apple, Samsung, Motorola, and more. Sales are live now, so act fast.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "We need a credible plan for science funding in the UK | Letters",
+        "link": "https://www.theguardian.com/science/2026/mar/31/we-need-a-credible-plan-for-science-funding-in-the-uk",
+        "date": "Tue, 31 Mar 2026 16:02:56 GMT",
+        "source": "The Guardian AI",
+        "description": "Prof Ruben Saakyan and Prof Sheila Rowan respond to Prof Charlotte Deane of UK Research and InnovationIf the UK’s position in quantum computing is indeed a success story of long-term investment in ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Best Walmart deals to compete with Amazon's Big Spring Sale 2026: Last chance to save",
+        "link": "https://www.zdnet.com/article/best-walmart-deals-last-minute-amazon-big-spring-sale-2026/",
+        "date": "Tue, 31 Mar 2026 16:02:03 GMT",
+        "source": "ZDNet AI",
+        "description": "Amazon's Big Spring Sale is almost over, but some of these Walmart sales are even better, including up to 60% off on Apple products, Roku devices, and more.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Nebius to Build One of Europe’s Largest AI Factories in Finland",
+        "link": "https://aibusiness.com/generative-ai/nebius-build-one-of-europe-s-largest-ai-factories-in-finland",
+        "date": "Tue, 31 Mar 2026 16:01:33 GMT",
+        "source": "AI Business",
+        "description": "The 310MW site joins Europe’s accelerating push to rival U.S. AI infrastructure.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I bought my AirPods Pro 3 at full price. Don't be like me - get them for 20% off at Walmart",
+        "link": "https://www.zdnet.com/article/airpods-pro-3-amazon-spring-sale-2026/",
+        "date": "Tue, 31 Mar 2026 16:00:57 GMT",
+        "source": "ZDNet AI",
+        "description": "The AirPods Pro 3 are the best earbuds for Apple users. My only complaint is that I didn't get them for $50 off.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Does anyone think Matt Goodwin’s book on Britain’s demise is a publishing sensation? I mean, other than him | Marina Hyde",
+        "link": "https://www.theguardian.com/commentisfree/2026/mar/31/matt-goodwin-ai-allegations-suicide-nation-book-sales",
+        "date": "Tue, 31 Mar 2026 16:00:54 GMT",
+        "source": "The Guardian AI",
+        "description": "Who needs critics when the Reform man is so adept at patting his own back – and that’s easy to do in publishing: there’s a sales list for everyone ‘She’s produced a bestseller!” panted the Spectato...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "South Korean AI Chipmaker Raises $400 Million for Inference",
+        "link": "https://aibusiness.com/generative-ai/south-korean-ai-chipmaker-raises-400-million-inference",
+        "date": "Tue, 31 Mar 2026 15:47:35 GMT",
+        "source": "AI Business",
+        "description": "The evolving AI inference market presents opportunities for new players, such as Rebellions, to offer silicon diversity.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "The Value of a Relationship with a Cybersecurity Professional (Sponsored)",
+        "link": "https://bit.ly/Ingram-topic-23-kdn-website#new_tab",
+        "date": "Tue, 31 Mar 2026 15:46:39 +0000",
+        "source": "KDnuggets",
+        "description": "gnoring the foundation of your digital business is the fastest way to turn a profitable quarter into a devastating loss.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Can your governance keep pace with your AI ambitions? AI risk intelligence in the agentic era",
+        "link": "https://aws.amazon.com/blogs/machine-learning/can-your-governance-keep-pace-with-your-ai-ambitions-ai-risk-intelligence-in-the-agentic-era/",
+        "date": "Tue, 31 Mar 2026 15:36:17 +0000",
+        "source": "AWS Machine Learning",
+        "description": "Traditional frameworks designed for static deployments cannot address the dynamic interactions that define agentic workloads. AI Risk Intelligence (AIRI), from AWS Generative AI Innovation Center, ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "SAP and ANYbotics drive industrial adoption of physical AI",
+        "link": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
+        "date": "Tue, 31 Mar 2026 15:20:53 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software comp...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
+        "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
+        "date": "Tue, 31 Mar 2026 15:10:41 GMT",
+        "source": "Hugging Face",
+        "description": "",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
+        "link": "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/",
+        "date": "Tue, 31 Mar 2026 15:00:51 +0000",
+        "source": "NVIDIA Blog",
+        "description": "CERAWeek — dubbed the Davos of energy — is where policymakers, producers, technologists and financiers gather to discuss how the world powers itself next.  NVIDIA and Emerald AI unveiled at the con...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
+        "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
+        "date": "Tue, 31 Mar 2026 15:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "The New York Times drops freelance journalist who used AI to write book review",
+        "link": "https://www.theguardian.com/books/2026/mar/31/the-new-york-times-drops-freelance-journalist-who-used-ai-to-write-book-review",
+        "date": "Tue, 31 Mar 2026 14:45:33 GMT",
+        "source": "The Guardian AI",
+        "description": "Writer and author Alex Preston said he “made a serious mistake” after a reader spotted similarities between his review and one that appeared in the Guardian The New York Times has cut ties with a f...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Shifting to AI model customization is an architectural imperative",
+        "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
+        "date": "Tue, 31 Mar 2026 14:12:50 +0000",
+        "source": "MIT Technology Review",
+        "description": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "How did Anthropic measure AI's \"theoretical capabilities\" in the job market?",
+        "link": "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/",
+        "date": "Tue, 31 Mar 2026 14:01:33 +0000",
+        "source": "Ars Technica AI",
+        "description": "2023 study made a lot of assumptions about future \"anticipated LLM-powered software.\"",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
+        "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
+        "date": "Tue, 31 Mar 2026 14:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Combat Conditioning: what we learned building Random Tactical Timer",
         "link": "https://dev.to/igorganapolsky/combat-conditioning-what-we-learned-building-random-tactical-timer-3h66",
         "date": "Tue, 31 Mar 2026 13:51:33 +0000",
@@ -13278,6 +13759,15 @@
         "tags": []
     },
     {
+        "title": "AI benchmarks are broken. Here’s what we need instead.",
+        "link": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
+        "date": "Tue, 31 Mar 2026 12:01:08 +0000",
+        "source": "MIT Technology Review",
+        "description": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Zero Budget, Full Stack: Building with Only Free LLMs",
         "link": "https://www.kdnuggets.com/zero-budget-full-stack-building-with-only-free-llms",
         "date": "Tue, 31 Mar 2026 12:00:35 +0000",
@@ -13426,6 +13916,15 @@
         "date": "Tue, 31 Mar 2026 09:31:42 GMT",
         "source": "ZDNet AI",
         "description": "It's the last day of Amazon's Spring Sale. Grab last-minute deals for these high-performing older laptops before it all ends.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Whoop, a Wearable Health Device Maker, Raises $575 Million",
+        "link": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html",
+        "date": "Tue, 31 Mar 2026 09:06:56 +0000",
+        "source": "NYT Tech",
+        "description": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.",
         "is_important": false,
         "tags": []
     },
@@ -22535,491 +23034,5 @@
         "source": "AI Snake Oil",
         "description": "The book was published September 2024",
         "is_important": false
-    },
-    {
-        "title": "From Code to Robots: The Top AI Trends Transforming Business and Life",
-        "link": "https://www.topbots.com/top-ai-trends-2024/",
-        "date": "Tue, 10 Sep 2024 14:25:21 +0000",
-        "source": "Topbots",
-        "description": "Artificial intelligence is no longer a concept of the distant future – it’s here, evolving at a rapid pace and reshaping industries in real time. From healthcare to entertainment, AI’s influence is...",
-        "is_important": false
-    },
-    {
-        "title": "Put AI to work: Lessons from hundreds of successful deployments",
-        "link": "https://openai.com/business/put-ai-to-work-lessons-from-hundreds-of-successful-deployments",
-        "date": "Tue, 10 Sep 2024 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Put AI to Work: Lessons from Hundreds of Successful Deployments",
-        "is_important": false
-    },
-    {
-        "title": "Accelerated Inference with Optimum and Transformers Pipelines",
-        "link": "https://huggingface.co/blog/optimum-inference",
-        "date": "Tue, 10 May 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Contextual Data is Important for Enterprises' AI Projects",
-        "link": "https://aibusiness.com/generative-ai/contextual-data-is-important-for-enterprise-ai",
-        "date": "Tue, 10 Mar 2026 23:52:30 GMT",
-        "source": "AI Business",
-        "description": "Enterprises highlight the need for the right type of context when providing data to AI systems and agents.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Without effective regulation of AI, society is facing a head-on collision with a driverless car | Peter Lewis",
-        "link": "https://www.theguardian.com/commentisfree/2026/mar/11/ai-artificial-intelligence-regulation-society",
-        "date": "Tue, 10 Mar 2026 22:40:39 GMT",
-        "source": "The Guardian AI",
-        "description": "Artificial intelligence is accelerating exponentially before it has brakes, seat-belts, speed limits or a working GPSA self-driving vehicle ploughs into an oncoming car, combusting the occupants an...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Meta urged to boost oversight of fake AI videos",
-        "link": "https://www.bbc.com/news/articles/c4gjyg0g78vo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 10 Mar 2026 21:20:28 GMT",
-        "source": "BBC Tech",
-        "description": "Meta's advisers say its methods for policing AI videos are inadequate, especially at times of crisis.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Musk’s xAI wins permit for datacenter’s makeshift power plant despite backlash",
-        "link": "https://www.theguardian.com/technology/2026/mar/10/elon-musk-xai-data-centers",
-        "date": "Tue, 10 Mar 2026 21:15:31 GMT",
-        "source": "The Guardian AI",
-        "description": "Billionaire’s artificial intelligence company gets approval to run 41 methane gas turbines at its ‘Colossus 2’ in MississippiElon Musk’s artificial intelligence company xAI won approval on Tuesday ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Tech Life",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq7?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 10 Mar 2026 20:30:00 GMT",
-        "source": "BBC Tech",
-        "description": "We speak to a “chatter” on OnlyFans, who sends explicit messages on behalf of models.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Tech Life",
-        "link": "https://www.bbc.co.uk/sounds/play/live:bbc_world_service?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 10 Mar 2026 20:30:00 GMT",
-        "source": "BBC Tech",
-        "description": "We speak to a “chatter” on OnlyFans, who sends explicit messages on behalf of models.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to free up your iPhone storage almost immediately - 8 easy ways",
-        "link": "https://www.zdnet.com/article/how-to-get-more-iphone-storage-for-free/",
-        "date": "Tue, 10 Mar 2026 20:19:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Running out of iPhone space? Don't panic-buy a new phone or more iCloud. Here's how to free up space fast.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "NVIDIA AI Releases Nemotron-Terminal: A Systematic Data Engineering Pipeline for Scaling LLM Terminal Agents",
-        "link": "https://www.marktechpost.com/2026/03/10/nvidia-ai-releases-nemotron-terminal-a-systematic-data-engineering-pipeline-for-scaling-llm-terminal-agents/",
-        "date": "Tue, 10 Mar 2026 20:15:08 +0000",
-        "source": "MarkTechPost",
-        "description": "The race to build autonomous AI agents has hit a massive bottleneck: data. While frontier models like Claude Code and Codex CLI have demonstrated impressive proficiency in terminal environments, th...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica",
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Amazon launches its healthcare AI assistant on its website and app",
-        "link": "https://techcrunch.com/2026/03/10/amazon-launches-its-healthcare-ai-assistant-on-its-website-and-app/",
-        "date": "Tue, 10 Mar 2026 20:10:06 +0000",
-        "source": "TechCrunch AI",
-        "description": "Health AI can answer questions, explain health records, manage prescription renewals, book appointments, and more.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How NVIDIA Builds Open Data for AI",
-        "link": "https://huggingface.co/blog/nvidia/open-data-for-ai",
-        "date": "Tue, 10 Mar 2026 19:49:28 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Is AI stealing our jobs? A survey of 2,000 IT executives reveals a complicated answer",
-        "link": "https://www.zdnet.com/article/snowflake-it-executive-survey-ai-job-loss-and-gains/",
-        "date": "Tue, 10 Mar 2026 19:18:00 GMT",
-        "source": "ZDNet AI",
-        "description": "New Snowflake survey shows demand for tech jobs evolving away from basic skills toward high-level AI oversight.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "TAI #195: GPT-5.4 and the Arrival of AI Self-Improvement?",
-        "link": "https://towardsai.net/p/machine-learning/tai-195-gpt-5-4-and-the-arrival-of-ai-self-improvement",
-        "date": "Tue, 10 Mar 2026 19:06:00 +0000",
-        "source": "Towards AI",
-        "description": "Last Updated on March 11, 2026 by Editorial Team Author(s): Towards AI Editorial Team Originally published on Towards AI. What happened this week in AI by Louie Two stories dominated this week that...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Setting Up a Google Colab AI-Assisted Coding Environment That Actually Works",
-        "link": "https://machinelearningmastery.com/setting-up-a-google-colab-ai-assisted-coding-environment-that-actually-works/",
-        "date": "Tue, 10 Mar 2026 19:00:39 +0000",
-        "source": "Machine Learning Mastery",
-        "description": "This article focuses on Google Colab , an increasingly popular, free, and accessible, cloud-based Python environment that is well-suited for prototyping data analysis workflows and experimental cod...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI-powered apps can make money, but struggle with long-term retention, new data shows",
-        "link": "https://dev.to/minimal-architect/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows-1o71",
-        "date": "Tue, 10 Mar 2026 18:54:10 +0000",
-        "source": "Dev.to AI",
-        "description": "The recent data on AI-powered apps highlights a critical issue - while these apps can generate significant revenue, they often struggle to maintain user engagement over an extended period. This dis...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI Coding Tip 010 - Access All Your Code",
-        "link": "https://dev.to/mcsee/ai-coding-tip-010-access-all-your-code-3ocp",
-        "date": "Tue, 10 Mar 2026 18:52:48 +0000",
-        "source": "Dev.to AI",
-        "description": "Stop copying code chunks. Start letting AI agents work directly with your files.\n\n\nTL;DR: Use terminal-based AI tools to give your assistant direct access to your local files and test suites.\n\n\n\n  ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I built an AI-powered 3D showroom for e-commerce using Three.js",
-        "link": "https://dev.to/mmsoftstudio/i-built-an-ai-powered-3d-showroom-for-e-commerce-using-threejs-4hf5",
-        "date": "Tue, 10 Mar 2026 18:52:20 +0000",
-        "source": "Dev.to AI",
-        "description": "Modern e-commerce experiences are evolving beyond static product pages.\n\nI built an experimental AI-powered 3D showroom where users can explore products inside an interactive environment directly i...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "My First Month Running OpenClaw Nonstop — Here’s What Everyone Gets Wrong",
-        "link": "https://dev.to/primaryobjects/my-first-month-running-openclaw-nonstop-heres-what-everyone-gets-wrong-1ni2",
-        "date": "Tue, 10 Mar 2026 18:51:17 +0000",
-        "source": "Dev.to AI",
-        "description": "I’ve been running OpenClaw on an old Windows 10 desktop (7+ years old, no GPU) for a full month, 24/7. And most people are using it wrong.\n\nI’ve watched users burn money on API calls, expose sensit...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Fast global convergence of gradient methods for high-dimensional statisticalrecovery",
-        "link": "https://dev.to/paperium/fast-global-convergence-of-gradient-methods-for-high-dimensional-statisticalrecovery-78f",
-        "date": "Tue, 10 Mar 2026 18:50:06 +0000",
-        "source": "Dev.to AI",
-        "description": "{{ $json.postContent }}",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How Do I Set Up a Crypto Trading Bot on Get Telegram?",
-        "link": "https://dev.to/smmitway511/how-do-i-set-up-a-crypto-trading-bot-on-get-telegram-255m",
-        "date": "Tue, 10 Mar 2026 18:47:15 +0000",
-        "source": "Dev.to AI",
-        "description": "How Do I Set Up a Crypto Trading Bot on Get Telegram?\n\n\nSmmITway’s team is waiting for your Reply 👇\n📍Telegram : smmitways\n📍Whatsapp :+1 (928) 221-6654\n📍Email : smmitway@gmail.com\n📍Signal : +1 (928)...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Best Telegram Crypto Trading Bot 100% Guide UK 2026",
-        "link": "https://dev.to/smmitway511/best-telegram-crypto-trading-bot-100-guide-uk-2026-2k44",
-        "date": "Tue, 10 Mar 2026 18:46:23 +0000",
-        "source": "Dev.to AI",
-        "description": "Best Telegram Crypto Trading Bot 100% Guide UK 2026\n\n\nSmmITway’s team is waiting for your Reply 👇\n📍Telegram : smmitways\n📍Whatsapp :+1 (928) 221-6654\n📍Email : smmitway@gmail.com\n📍Signal : +1 (928) 2...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Brief Method: How to Get 10x Better Results from Claude Code",
-        "link": "https://dev.to/askpatrick/the-brief-method-how-to-get-10x-better-results-from-claude-code-1bbg",
-        "date": "Tue, 10 Mar 2026 18:46:19 +0000",
-        "source": "Dev.to AI",
-        "description": "The \"Brief\" Method: How to Get 10x Better Results from Claude Code\n\n\nDraft: March 9, 2026 | Platform: Dev.to + Hashnode | Tone: Developer-to-developer | Status: Ready for review\n\n\n\n\nMost developers...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Connecting the Factory Floor: Efficient Integration for Smarter Manufacturing",
-        "link": "https://www.smartdatacollective.com/connecting-the-factory-floor-efficient-integration-for-smarter-manufacturing/",
-        "date": "Tue, 10 Mar 2026 18:46:04 +0000",
-        "source": "SmartData Collective",
-        "description": "The connected factory advantage: How smart integration turns data into decisions on the production line.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to Introduce Claude Code to Your Engineering Team (Without It Dying in Week 2)",
-        "link": "https://dev.to/askpatrick/how-to-introduce-claude-code-to-your-engineering-team-without-it-dying-in-week-2-25ib",
-        "date": "Tue, 10 Mar 2026 18:45:30 +0000",
-        "source": "Dev.to AI",
-        "description": "Most devs use Claude Code like a glorified autocomplete. Paste code, get code. Paste error, get fix. Repeat until frustrated.\n\nThat's using 20% of what it can do. And it's why team-wide adoption st...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Why Your Microsoft Copilot ROI Is Terrible (And It's Not the Tool's Fault)",
-        "link": "https://dev.to/askpatrick/why-your-microsoft-copilot-roi-is-terrible-and-its-not-the-tools-fault-3cn5",
-        "date": "Tue, 10 Mar 2026 18:45:24 +0000",
-        "source": "Dev.to AI",
-        "description": "Six months after your company rolled out Microsoft Copilot, Finance is asking a question:\n\n\"Are we actually getting ROI from this?\"\n\nIf you can't answer clearly and confidently — this post is for y...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI-powered apps can make money, but struggle with long-term retention, new data shows",
-        "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-can-make-money-but-struggle-with-long-term-retention-new-data-shows/",
-        "date": "Tue, 10 Mar 2026 18:42:33 +0000",
-        "source": "TechCrunch AI",
-        "description": "AI can drive stronger early\nmonetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI-powered apps struggle with long-term retention, new report shows",
-        "link": "https://techcrunch.com/2026/03/10/ai-powered-apps-struggle-with-long-term-retention-new-report-shows/",
-        "date": "Tue, 10 Mar 2026 18:42:33 +0000",
-        "source": "TechCrunch AI",
-        "description": "AI can drive stronger early\nmonetization for apps, but sustaining value remains the challenge, RevenueCat's latest report finds.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Lessons I Learned Building AI Features That Real Users Depend On",
-        "link": "https://dev.to/aman_ai35/lessons-i-learned-building-ai-features-that-real-users-depend-on-4jag",
-        "date": "Tue, 10 Mar 2026 18:39:39 +0000",
-        "source": "Dev.to AI",
-        "description": "Shipping AI features in production taught me that the hard part is rarely the model itself. The real work is reliability, clarity, guardrails, and building systems people can actually trust.\n\n\n\n\nOv...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Trading Diary of the RAFA Intern: Log 1",
-        "link": "https://dev.to/rafa_agent/trading-diary-of-the-rafa-intern-log-1-3ccg",
-        "date": "Tue, 10 Mar 2026 18:39:09 +0000",
-        "source": "Dev.to AI",
-        "description": "Note: This trading diary reflects market conditions from March 6, 2026 when the original analysis was published on the RAFA X account.\n\nI’ve turned a decent chunk of stables into nothing by piling ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A.I. Incites a New Wave of Grieving Parents Fighting for Online Safety",
-        "link": "https://www.nytimes.com/2026/03/10/technology/ai-social-media-child-safety-parents.html",
-        "date": "Tue, 10 Mar 2026 18:35:44 +0000",
-        "source": "NYT Tech",
-        "description": "Blaming chatbots, they are joining an earlier push for better protections by parents who say social media contributed to their children’s deaths.",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Meta Acquires Moltbook, the Social Network Just for A.I. Bots",
-        "link": "https://www.nytimes.com/2026/03/10/technology/meta-moltbook-social-ai-bots.html",
-        "date": "Tue, 10 Mar 2026 18:26:40 +0000",
-        "source": "NYT Tech",
-        "description": "Matt Schlicht, the site’s creator, helped kick off Silicon Valley’s obsession with artificial intelligence agents. Two months later, he is joining the Meta Superintelligence Lab.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Fortnite-maker raising in-game currency prices 'to help pay the bills'",
-        "link": "https://www.bbc.com/news/articles/c70kypnl4w8o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 10 Mar 2026 18:03:29 GMT",
-        "source": "BBC Tech",
-        "description": "Epic Games said it had to increase the price as the cost of running the game had \"gone up a lot\"",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "ChatGPT can now create interactive visuals to help you understand math and science concepts",
-        "link": "https://techcrunch.com/2026/03/10/chatgpt-can-now-create-interactive-visuals-to-help-you-understand-math-and-science-concepts/",
-        "date": "Tue, 10 Mar 2026 17:51:25 +0000",
-        "source": "TechCrunch AI",
-        "description": "On Tuesday, OpenAI introduced dynamic visual explanations, a new ChatGPT feature that allows users to see how formulas, variables, and mathematical relationships change in real time.  Instead of ju...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Neura Launches Europe's Largest Physical AI Training Center",
-        "link": "https://aibusiness.com/robotics/neura-launches-physical-ai-training-center",
-        "date": "Tue, 10 Mar 2026 17:32:52 GMT",
-        "source": "AI Business",
-        "description": "The center will train the next generation of humanoid robots, in a bid to support Europe’s standing in the physical AI race.",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Understanding The Cost Of One Compromised Account (Sponsored)",
-        "link": "https://bit.ly/40nBVbe",
-        "date": "Tue, 10 Mar 2026 17:29:06 +0000",
-        "source": "KDnuggets",
-        "description": "",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Meta acquires AI agent social network Moltbook",
-        "link": "https://www.theguardian.com/technology/2026/mar/10/meta-acquires-moltbook-ai-agent-social-network",
-        "date": "Tue, 10 Mar 2026 17:27:54 GMT",
-        "source": "The Guardian AI",
-        "description": "Co-founders of Moltbook, a platform for artificial intelligence agents, will join tech giant’s AI research unitFacebook parent Meta Platforms said on Tuesday it had acquired Moltbook, a social netw...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "ABB: Physical AI simulation boosts ROI for factory automation",
-        "link": "https://www.artificialintelligence-news.com/news/abb-physical-ai-simulation-secures-factory-automation-roi/",
-        "date": "Tue, 10 Mar 2026 17:22:41 +0000",
-        "source": "Artificial Intelligence News",
-        "description": "A new ABB and NVIDIA partnership shows physical AI simulation is driving real ROI in factory automation and solving production hurdles. Manufacturers have often found it difficult to make intellige...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "UK Society of Authors launches logo to identify books written by humans not AI",
-        "link": "https://www.theguardian.com/technology/2026/mar/10/uk-society-authors-logo-identify-books-written-by-humans-not-ai",
-        "date": "Tue, 10 Mar 2026 17:00:53 GMT",
-        "source": "The Guardian AI",
-        "description": "Tracy Chevalier announces registration scheme at the London Book Fair as AI works flood marketThe Society of Authors (SoA) has launched a scheme to help identify works written by humans in a market...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "3 Questions: Building predictive models to characterize tumor progression",
-        "link": "https://news.mit.edu/2026/3-questions-building-predictive-models-characterize-tumor-progression-0310",
-        "date": "Tue, 10 Mar 2026 16:50:00 -0400",
-        "source": "MIT News AI",
-        "description": "Assistant Professor Matthew Jones is working to decode molecular processes on the genetic, epigenetic, and microenvironment levels to anticipate how and when tumors evolve to resist treatment.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to turn on repair mode on your Android phone - and why it's critical to do so",
-        "link": "https://www.zdnet.com/article/how-to-turn-on-repair-mode-android-phone/",
-        "date": "Tue, 10 Mar 2026 16:46:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Repair Mode lets technicians fix your Android phone without seeing your personal files or apps. Here's how to enable it.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Fake AI Content About the Iran War Is All Over X",
-        "link": "https://www.wired.com/story/fake-ai-content-about-the-iran-war-is-all-over-x/",
-        "date": "Tue, 10 Mar 2026 16:45:47 +0000",
-        "source": "Wired AI",
-        "description": "X’s Grok is failing to accurately verify video footage from the Iran conflict and is sharing its own AI-generated images about the war.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Boeing Says Wiring Issue Will Delay Some 737 Max Deliveries",
-        "link": "https://www.nytimes.com/2026/03/10/business/boeing-737-max-delay.html",
-        "date": "Tue, 10 Mar 2026 16:45:45 +0000",
-        "source": "NYT Tech",
-        "description": "The aerospace company said the delay would not prevent it from meeting its 2026 sales goal of about 500 Max jets.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "As Open Models Spark AI Boom, NVIDIA Jetson Brings It to Life at the Edge",
-        "link": "https://blogs.nvidia.com/blog/jetson-generative-ai-edge-oss/",
-        "date": "Tue, 10 Mar 2026 16:43:40 +0000",
-        "source": "NVIDIA Blog",
-        "description": "The Cat 306 CR mini-excavator weighs just under eight tons and fits inside a standard shipping container. It’s the machine a contractor rents when the job site is tight: a utility trench near a fou...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "How I'm getting better sleep this year thanks to these quirky gadgets",
-        "link": "https://www.zdnet.com/article/products-i-use-for-better-sleep-as-a-health-editor/",
-        "date": "Tue, 10 Mar 2026 16:42:00 GMT",
-        "source": "ZDNet AI",
-        "description": "I regularly clock 7 hours a night, and I wake up without the help of an alarm. Here's why my sleep is so good.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I changed 12 settings on my Android phone to extend its battery life by hours",
-        "link": "https://www.zdnet.com/article/best-android-phone-settings-change-for-better-battery-life/",
-        "date": "Tue, 10 Mar 2026 16:32:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Consider these expert-vetted tips and tricks to make your device last up to hours longer - no matter the brand.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How Joseph Paradiso’s sensing innovations bridge the arts, medicine, and ecology",
-        "link": "https://news.mit.edu/2026/mit-professor-joseph-paradiso-sensing-innovations-0310",
-        "date": "Tue, 10 Mar 2026 16:25:00 -0400",
-        "source": "MIT News AI",
-        "description": "From early motion-sensing platforms to environmental monitoring, the professor and head of the Program in Media Arts and Sciences has turned decades of cross-disciplinary research into real-world i...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Enterprise AI agents are multiplying fast, and Microsoft wants full control of them",
-        "link": "https://www.zdnet.com/article/microsoft-introduces-agent-365/",
-        "date": "Tue, 10 Mar 2026 16:23:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Microsoft has introduced a centralized dashboard to help IT teams monitor AI agents' visibility, permissions, and security risks.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Gemini can now use your Drive and emails to build spreadsheets, slides and more",
-        "link": "https://www.zdnet.com/article/google-gemini-drive-sheets-docs-slides/",
-        "date": "Tue, 10 Mar 2026 16:22:51 GMT",
-        "source": "ZDNet AI",
-        "description": "Gemini can access relevant information from your other sources to give personalized help.",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Amazon Admits Extensive AI Use Is Wreaking Havoc on Its Core Business",
-        "link": "https://futurism.com/artificial-intelligence/amazon-ai-tools-business",
-        "date": "Tue, 10 Mar 2026 16:22:37 -0400",
-        "source": "Futurism AI",
-        "description": "Hoisted by its own AI petard.\nThe post Amazon Admits Extensive AI Use Is Wreaking Havoc on Its Core Business appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
     }
 ]
