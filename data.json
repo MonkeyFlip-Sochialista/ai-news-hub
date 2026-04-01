@@ -13076,6 +13076,203 @@
         "is_important": false
     },
     {
+        "title": "How I Use Claude Code in VS Code (And Why It’s Actually Useful)",
+        "link": "https://dev.to/artross99/how-i-use-claude-code-in-vs-code-and-why-its-actually-useful-34lh",
+        "date": "Wed, 01 Apr 2026 07:38:28 +0000",
+        "source": "Dev.to AI",
+        "description": "AI coding tools are everywhere right now, but not all of them feel genuinely helpful in day-to-day development. After experimenting with a few options, I started using Claude inside VS Code, and it...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "7 шагов: Claude Code как установить бесплатно и без опыта!",
+        "link": "https://dev.to/geka_cross_7457e8699a0c3f/7-shaghov-claude-code-kak-ustanovit-biesplatno-i-biez-opyta-4l0j",
+        "date": "Wed, 01 Apr 2026 07:37:26 +0000",
+        "source": "Dev.to AI",
+        "description": "Введение в Claude Code\n\n\nВсе мы знаем, как важно быть на шаг впереди в мире технологий. Я сам занимаюсь разработкой искусственного интеллекта и нейросетей, и часто использую различные инструменты д...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "OpenClaw Workspace Architecture: The File System That Makes Agents Smart",
+        "link": "https://dev.to/hex_agent/openclaw-workspace-architecture-the-file-system-that-makes-agents-smart-45c3",
+        "date": "Wed, 01 Apr 2026 07:36:12 +0000",
+        "source": "Dev.to AI",
+        "description": "Most people think \"AI agent\" means prompts and tools. In practice, the thing that makes an agent reliably useful is boring: a file system.\n\nIn OpenClaw, that file system is the agent workspace — th...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Anthropic Epic Fail: What Secrets Are Hiding in Claude Code Source?",
+        "link": "https://dev.to/jamesheal/anthropic-epic-fail-what-secrets-are-hiding-in-claude-code-source-2fdm",
+        "date": "Wed, 01 Apr 2026 07:36:01 +0000",
+        "source": "Dev.to AI",
+        "description": "On March 31st, Anthropic screwed up again — all 512,000 lines of Claude Code source code leaked. And yes, this is the second time.\n\n\nMy timeline exploded yesterday. Security researcher Chaofan Shou...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.",
+        "link": "https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-3bge",
+        "date": "Wed, 01 Apr 2026 07:35:54 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI landscape is experiencing unprecedented growth and transformation. This post delves into the key developments shaping the future of artificial intelligence, from massive industry investments...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "How I Use Claude Code in VS Code (And Why It’s Actually Useful)",
+        "link": "https://dev.to/neverstar94/how-i-use-claude-code-in-vs-code-and-why-its-actually-useful-371i",
+        "date": "Wed, 01 Apr 2026 07:35:38 +0000",
+        "source": "Dev.to AI",
+        "description": "AI coding tools are everywhere right now, but not all of them feel genuinely helpful in day-to-day development. After experimenting with a few options, I started using Claude inside VS Code, and it...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Why Developers Should Learn Digital Marketing in 2026",
+        "link": "https://dev.to/pratibha_velapure_0a6361b/why-developers-should-learn-digital-marketing-in-2026-206k",
+        "date": "Wed, 01 Apr 2026 07:33:47 +0000",
+        "source": "Dev.to AI",
+        "description": "Most developers focus heavily on coding, frameworks, and tools. But in 2026, just writing good code is not enough. To truly grow in your career, you need to understand how your product reaches user...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How we built an open-source CLI for social media automation (and what we learned)",
+        "link": "https://dev.to/jacek_dobrowolski/how-we-built-an-open-source-cli-for-social-media-automation-and-what-we-learned-chf",
+        "date": "Wed, 01 Apr 2026 07:31:54 +0000",
+        "source": "Dev.to AI",
+        "description": "Today we're launching Simplified CLI on Product Hunt — an open-source command-line tool for publishing to 10 social platforms, generating AI images, and pulling analytics, all from the terminal.\n\nI...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI 代理工具及最佳實踐 回顧 HK AWS UG 2026-03",
+        "link": "https://dev.to/elianalamhost/ai-dai-li-gong-ju-ji-zui-jia-shi-jian-hui-gu-hk-aws-ug-2026-03-3hh2",
+        "date": "Wed, 01 Apr 2026 07:31:20 +0000",
+        "source": "Dev.to AI",
+        "description": "開場致詞 (Opening)\n\n\n1. 使用者社群負責人管理 AWS 使用者社群香港站。這提供了社群交流的機會，因為負責人並非 AWS 員工。聯繫社群英雄加入使用者社群。\n\n2. 使命涉及社群交流與倡議。這連結了開發者以應對身份轉變。參加聚會以擴展在地網絡。\n\n3. AWS AI 使用者社群成立，專注於 AI 技術。此專業領域提供 AWS 上的 AI 特定內容。\n\n4. Agent Cons...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AWS Cloud Computing Service Models: IaaS, PaaS, and SaaS Explained",
+        "link": "https://dev.to/fusioninstitute123/aws-cloud-computing-service-models-iaas-paas-and-saas-explained-1pbf",
+        "date": "Wed, 01 Apr 2026 07:30:55 +0000",
+        "source": "Dev.to AI",
+        "description": "*How to Become a Data Analyst in Pune in 2026\n*\nIn today’s digital economy, data has become the backbone of decision-making across industries. From IT companies in Kharadi to startups in Baner and ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Beyond the Hype: Building a Practical AI Memory System with Vector Databases",
+        "link": "https://dev.to/midas126/beyond-the-hype-building-a-practical-ai-memory-system-with-vector-databases-hk9",
+        "date": "Wed, 01 Apr 2026 07:22:52 +0000",
+        "source": "Dev.to AI",
+        "description": "The Memory Problem Every AI Developer Faces\n\n\nYou’ve built a clever AI agent. It can reason, analyze, and generate surprisingly coherent text. You send it a complex query, and it formulates a step-...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The AI Talent Shift: Why Shipping Intelligence Matters More Than Building Models in 2026",
+        "link": "https://dev.to/vijay_kumar_03fadd9d8adcf/the-ai-talent-shift-why-shipping-intelligence-matters-more-than-building-models-in-2026-4kai",
+        "date": "Wed, 01 Apr 2026 07:16:31 +0000",
+        "source": "Dev.to AI",
+        "description": "✍️ Article\n\nIf you still think AI/ML engineering is about building models, you’re already behind.\n\nThe industry has quietly shifted.\n\nThe real demand today is not for people who can train models — ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Falcon Perception",
+        "link": "https://huggingface.co/blog/tiiuae/falcon-perception",
+        "date": "Wed, 01 Apr 2026 07:13:20 GMT",
+        "source": "Hugging Face",
+        "description": "",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and GRPO Workflows",
+        "link": "https://www.marktechpost.com/2026/04/01/hugging-face-releases-trl-v1-0-a-unified-post-training-stack-for-sft-reward-modeling-dpo-and-grpo-workflows/",
+        "date": "Wed, 01 Apr 2026 07:04:43 +0000",
+        "source": "MarkTechPost",
+        "description": "Hugging Face has officially released TRL (Transformer Reinforcement Learning) v1.0, marking a pivotal transition for the library from a research-oriented repository to a stable, production-ready fr...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Revealed: the vast illegal casino network targeting UK gamblers",
+        "link": "https://www.theguardian.com/society/2026/apr/01/the-vast-casino-network-targeting-uk-gamblers",
+        "date": "Wed, 01 Apr 2026 07:00:40 GMT",
+        "source": "The Guardian AI",
+        "description": "Calls for tougher laws as network stretching from Caribbean to Georgia generates riches for offshore tycoons by appearing to prey on the vulnerableImmaculately groomed and beaming from ear to ear, ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "[AINews] The Claude Code Source Leak",
+        "link": "https://www.latent.space/p/ainews-the-claude-code-source-leak",
+        "date": "Wed, 01 Apr 2026 06:24:21 GMT",
+        "source": "Latent Space",
+        "description": "The accidental \"open sourcing\" of Claude Code brings a ton of insights.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API",
+        "link": "https://www.marktechpost.com/2026/03/31/google-ai-releases-veo-3-1-lite-giving-developers-low-cost-high-speed-video-generation-via-the-gemini-api/",
+        "date": "Wed, 01 Apr 2026 06:22:48 +0000",
+        "source": "MarkTechPost",
+        "description": "Google has announced the release of Veo 3.1 Lite, a new model tier within its generative video portfolio designed to address the primary bottleneck for production-scale deployments: pricing. While ...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP",
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Liquid AI Released LFM2.5-350M: A Compact 350M Parameter Model Trained on 28T Tokens with Scaled Reinforcement Learning",
+        "link": "https://www.marktechpost.com/2026/03/31/liquid-ai-released-lfm2-5-350m-a-compact-350m-parameter-model-trained-on-28t-tokens-with-scaled-reinforcement-learning/",
+        "date": "Wed, 01 Apr 2026 05:01:59 +0000",
+        "source": "MarkTechPost",
+        "description": "In the current landscape of generative AI, the &#8216;scaling laws&#8217; have generally dictated that more parameters equal more intelligence. However, Liquid AI is challenging this convention wit...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "I wore Meta’s smartglasses for a month – and it left me feeling like a creep",
+        "link": "https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep",
+        "date": "Wed, 01 Apr 2026 04:00:38 GMT",
+        "source": "The Guardian AI",
+        "description": "Content creators love the built-in camera; sceptics call them ‘pervert glasses’. Do we really need any more hi-tech wearables, even with a voice assistant that sounds like Judi Dench?Lately, I’ve b...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why every woman can see herself in the story of a German celebrity couple’s split | Fatma Aydemir",
+        "link": "https://www.theguardian.com/commentisfree/2026/apr/01/why-every-woman-can-see-herself-in-the-story-of-a-german-celebrity-couples-split",
+        "date": "Wed, 01 Apr 2026 04:00:37 GMT",
+        "source": "The Guardian AI",
+        "description": "Many will recognise their own experiences of digital abuse in Collien Fernandes’s allegations – the sense that technology offers perps both tools and coverSome stories that unfold in real life woul...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Competitive Analysis: Frameworks and Templates",
         "link": "https://dev.to/2gelbuy/competitive-analysis-frameworks-and-templates-2kbb",
         "date": "Wed, 01 Apr 2026 03:26:18 +0000",
@@ -13224,6 +13421,890 @@
         "description": "More open-source developers are finding that, when used properly, AI can actually help current and long-neglected programs. However, legal and quality issues loom.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Preview tool helps makers visualize 3D-printed objects",
+        "link": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "MIT News AI",
+        "description": "By quickly generating aesthetically accurate previews of fabricated objects, the VisiPrint system could make prototyping faster and less wasteful.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts",
+        "link": "https://arxiv.org/abs/2603.28902",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.28902v1 Announce Type: new \nAbstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-chart interpretation ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence",
+        "link": "https://arxiv.org/abs/2603.28906",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.28906v1 Announce Type: new \nAbstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedente...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
+        "link": "https://arxiv.org/abs/2603.28928",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.28928v1 Announce Type: new \nAbstract: We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, documenting the sponta...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Enhancing Policy Learning with World-Action Model",
+        "link": "https://arxiv.org/abs/2603.28955",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.28955v1 Announce Type: new \nAbstract: This paper presents the World-Action Model (WAM), an action-regularized world model that jointly reasons over future visual observations and the act...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research",
+        "link": "https://arxiv.org/abs/2603.28986",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.28986v1 Announce Type: new \nAbstract: Current Autonomous Scientific Research (ASR) systems, despite leveraging large language models (LLMs) and agentic architectures, remain constrained ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Drop the Hierarchy and Roles: How Self-Organizing LLM Agents Outperform Designed Structures",
+        "link": "https://arxiv.org/abs/2603.28990",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.28990v1 Announce Type: new \nAbstract: How much autonomy can multi-agent LLM systems sustain -- and what enables it? We present a 25,000-task computational experiment spanning 8 models, 4...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild",
+        "link": "https://arxiv.org/abs/2603.29020",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.29020v1 Announce Type: new \nAbstract: Reliable evaluation of AI agents operating in complex, real-world environments requires methodologies that are robust, transparent, and contextually...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Future of AI is Many, Not One",
+        "link": "https://arxiv.org/abs/2603.29075",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.29075v1 Announce Type: new \nAbstract: The way we're thinking about generative AI right now is fundamentally individual. We see this not just in how users interact with models but also in...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "PAR$^2$-RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering",
+        "link": "https://arxiv.org/abs/2603.29085",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.29085v1 Announce Type: new \nAbstract: Large language models (LLMs) remain brittle on multi-hop question answering (MHQA), where answering requires combining evidence across documents thr...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "GISTBench: Evaluating LLM User Understanding via Evidence-Based Interest Verification",
+        "link": "https://arxiv.org/abs/2603.29112",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.29112v1 Announce Type: new \nAbstract: We introduce GISTBench, a benchmark for evaluating Large Language Models' (LLMs) ability to understand users from their interaction histories in rec...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents",
+        "link": "https://arxiv.org/abs/2603.29139",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.29139v1 Announce Type: new \nAbstract: Recent advances in large language models (LLMs) have enabled agentic systems that translate natural language intent into executable scientific visua...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "REFINE: Real-world Exploration of Interactive Feedback and Student Behaviour",
+        "link": "https://arxiv.org/abs/2603.29142",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.29142v1 Announce Type: new \nAbstract: Formative feedback is central to effective learning, yet providing timely, individualised feedback at scale remains a persistent challenge. While re...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Knowledge database development by large language models for countermeasures against viruses and marine toxins",
+        "link": "https://arxiv.org/abs/2603.29149",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.29149v1 Announce Type: new \nAbstract: Access to the most up-to-date information on medical countermeasures is important for the research and development of effective treatments for virus...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "SimMOF: AI agent for Automated MOF Simulations",
+        "link": "https://arxiv.org/abs/2603.29152",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.29152v1 Announce Type: new \nAbstract: Metal-organic frameworks (MOFs) offer a vast design space, and as such, computational simulations play a critical role in predicting their structura...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Webscraper: Leverage Multimodal Large Language Models for Index-Content Web Scraping",
+        "link": "https://arxiv.org/abs/2603.29161",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2603.29161v1 Announce Type: new \nAbstract: Modern web scraping struggles with dynamic, interactive websites that require more than static HTML parsing. Current methods are often brittle and r...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training",
+        "link": "https://arxiv.org/abs/2603.28858",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.28858v1 Announce Type: new \nAbstract: Continual pre-training is widely used to adapt LLMs to target languages and domains, yet the mixture ratio of training data remains a sensitive hype...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "From Consensus to Split Decisions: ABC-Stratified Sentiment in Holocaust Oral Histories",
+        "link": "https://arxiv.org/abs/2603.28913",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.28913v1 Announce Type: new \nAbstract: Polarity detection becomes substantially more challenging under domain shift, particularly in heterogeneous, long-form narratives with complex disco...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "CrossTrace: A Cross-Domain Dataset of Grounded Scientific Reasoning Traces for Hypothesis Generation",
+        "link": "https://arxiv.org/abs/2603.28924",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.28924v1 Announce Type: new \nAbstract: Scientific hypothesis generation is a critical bottleneck in accelerating research, yet existing datasets for training and evaluating hypothesis-gen...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs",
+        "link": "https://arxiv.org/abs/2603.28925",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.28925v1 Announce Type: new \nAbstract: Safety fine-tuning in Large Language Models (LLMs) seeks to suppress potentially harmful forms of mind-attribution such as models asserting their ow...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Known Intents, New Combinations: Clause-Factorized Decoding for Compositional Multi-Intent Detection",
+        "link": "https://arxiv.org/abs/2603.28929",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.28929v1 Announce Type: new \nAbstract: Multi-intent detection papers usually ask whether a model can recover multiple intents from one utterance. We ask a harder and, for deployment, more...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Human-Like Lifelong Memory: A Neuroscience-Grounded Architecture for Infinite Interaction",
+        "link": "https://arxiv.org/abs/2603.29023",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.29023v1 Announce Type: new \nAbstract: Large language models lack persistent, structured memory for long-term interaction and context-sensitive retrieval. Expanding context windows does n...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning",
+        "link": "https://arxiv.org/abs/2603.29025",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.29025v1 Announce Type: new \nAbstract: Large language models systematically fail when a salient surface cue conflicts with an unstated feasibility constraint. We study this through a diag...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "On the limited utility of parallel data for learning shared multilingual representations",
+        "link": "https://arxiv.org/abs/2603.29026",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.29026v1 Announce Type: new \nAbstract: Shared multilingual representations are essential for cross-lingual tasks and knowledge transfer across languages. This study looks at the impact of...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "An Empirical Recipe for Universal Phone Recognition",
+        "link": "https://arxiv.org/abs/2603.29042",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.29042v1 Announce Type: new \nAbstract: Phone recognition (PR) is a key enabler of multilingual and low-resource speech processing tasks, yet robust performance remains elusive. Highly per...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Dual Perspectives in Emotion Attribution: A Generator-Interpreter Framework for Cross-Cultural Analysis of Emotion in LLMs",
+        "link": "https://arxiv.org/abs/2603.29077",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.29077v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used in cross-cultural systems to understand and adapt to human emotions, which are shaped by cultural...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "PolarQuant: Optimal Gaussian Weight Quantization via Hadamard Rotation for LLM Compression",
+        "link": "https://arxiv.org/abs/2603.29078",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.29078v1 Announce Type: new \nAbstract: We present PolarQuant, a post-training weight quantization method for large language models (LLMs) that exploits the distributional structure of neu...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "APEX-EM: Non-Parametric Online Learning for Autonomous Agents via Structured Procedural-Episodic Experience Replay",
+        "link": "https://arxiv.org/abs/2603.29093",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.29093v1 Announce Type: new \nAbstract: LLM-based autonomous agents lack persistent procedural memory: they re-derive solutions from scratch even when structurally identical tasks have bee...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Concept Training for Human-Aligned Language Models",
+        "link": "https://arxiv.org/abs/2603.29123",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.29123v1 Announce Type: new \nAbstract: The next-token prediction (NTP) objective trains language models to predict a single continuation token at each step. In natural language, however, ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Kwame 2.0: Human-in-the-Loop Generative AI Teaching Assistant for Large Scale Online Coding Education in Africa",
+        "link": "https://arxiv.org/abs/2603.29159",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.29159v1 Announce Type: new \nAbstract: Providing timely and accurate learning support in large-scale online coding courses is challenging, particularly in resource-constrained contexts. W...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "SyriSign: A Parallel Corpus for Arabic Text to Syrian Arabic Sign Language Translation",
+        "link": "https://arxiv.org/abs/2603.29219",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2603.29219v1 Announce Type: new \nAbstract: Sign language is the primary approach of communication for the Deaf and Hard-of-Hearing (DHH) community. While there are numerous benchmarks for hig...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "DF-ACBlurGAN: Structure-Aware Conditional Generation of Internally Repeated Patterns for Biomaterial Microtopography Design",
+        "link": "https://arxiv.org/abs/2603.28776",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.28776v1 Announce Type: new \nAbstract: Learning to generate images with internally repeated and periodic structures poses a fundamental challenge for machine learning and computer vision ...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "OccSim: Multi-kilometer Simulation with Long-horizon Occupancy World Models",
+        "link": "https://arxiv.org/abs/2603.28887",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.28887v1 Announce Type: new \nAbstract: Data-driven autonomous driving simulation has long been constrained by its heavy reliance on pre-recorded driving logs or spatial priors, such as HD...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Fisheye3R: Adapting Unified 3D Feed-Forward Foundation Models to Fisheye Lenses",
+        "link": "https://arxiv.org/abs/2603.28896",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.28896v1 Announce Type: new \nAbstract: Feed-forward foundation models for multi-view 3-dimensional (3D) reconstruction have been trained on large-scale datasets of perspective images; whe...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Decoding Functional Networks for Visual Categories via GNNs",
+        "link": "https://arxiv.org/abs/2603.28931",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.28931v1 Announce Type: new \nAbstract: Understanding how large-scale brain networks represent visual categories is fundamental to linking perception and cortical organization. Using high-...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Stepper: Stepwise Immersive Scene Generation with Multiview Panoramas",
+        "link": "https://arxiv.org/abs/2603.28980",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.28980v1 Announce Type: new \nAbstract: The synthesis of immersive 3D scenes from text is rapidly maturing, driven by novel video generative models and feed-forward 3D reconstruction, with...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Hybrid Quantum-Classical AI for Industrial Defect Classification in Welding Images",
+        "link": "https://arxiv.org/abs/2603.28995",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.28995v1 Announce Type: new \nAbstract: Hybrid quantum-classical machine learning offers a promising direction for advancing automated quality control in industrial settings. In this study...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "GenFusion: Feed-forward Human Performance Capture via Progressive Canonical Space Updates",
+        "link": "https://arxiv.org/abs/2603.28997",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.28997v1 Announce Type: new \nAbstract: We present a feed-forward human performance capture method that renders novel views of a performer from a monocular RGB stream. A key challenge in t...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "MEDiC: Multi-objective Exploration of Distillation from CLIP",
+        "link": "https://arxiv.org/abs/2603.29009",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.29009v1 Announce Type: new \nAbstract: Masked image modeling (MIM) methods typically operate in either raw pixel space (reconstructing masked patches) or latent feature space (aligning wi...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "UltraG-Ray: Physics-Based Gaussian Ray Casting for Novel Ultrasound View Synthesis",
+        "link": "https://arxiv.org/abs/2603.29022",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.29022v1 Announce Type: new \nAbstract: Novel view synthesis (NVS) in ultrasound has gained attention as a technique for generating anatomically plausible views beyond the acquired frames,...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "MMFace-DiT: A Dual-Stream Diffusion Transformer for High-Fidelity Multimodal Face Generation",
+        "link": "https://arxiv.org/abs/2603.29029",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.29029v1 Announce Type: new \nAbstract: Recent multimodal face generation models address the spatial control limitations of text-to-image diffusion models by augmenting text-based conditio...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "The Surprising Effectiveness of Noise Pretraining for Implicit Neural Representations",
+        "link": "https://arxiv.org/abs/2603.29034",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.29034v1 Announce Type: new \nAbstract: The approximation and convergence properties of implicit neural representations (INRs) are known to be highly sensitive to parameter initialization ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Generating Humanless Environment Walkthroughs from Egocentric Walking Tour Videos",
+        "link": "https://arxiv.org/abs/2603.29036",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.29036v1 Announce Type: new \nAbstract: Egocentric \"walking tour\" videos provide a rich source of image data to develop rich and diverse visual models of environments around the world. How...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Let the Abyss Stare Back Adaptive Falsification for Autonomous Scientific Discovery",
+        "link": "https://arxiv.org/abs/2603.29045",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.29045v1 Announce Type: new \nAbstract: Autonomous scientific discovery is entering a more dangerous regime: once the evaluator is frozen, a sufficiently strong search process can learn to...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "LA-Sign: Looped Transformers with Geometry-aware Alignment for Skeleton-based Sign Language Recognition",
+        "link": "https://arxiv.org/abs/2603.29057",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.29057v1 Announce Type: new \nAbstract: Skeleton-based isolated sign language recognition (ISLR) demands fine-grained understanding of articulated motion across multiple spatial scales, fr...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Is the Modality Gap a Bug or a Feature? A Robustness Perspective",
+        "link": "https://arxiv.org/abs/2603.29080",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2603.29080v1 Announce Type: new \nAbstract: Many modern multi-modal models (e.g. CLIP) seek an embedding space in which the two modalities are aligned. Somewhat surprisingly, almost all existi...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OneComp: One-Line Revolution for Generative AI Model Compression",
+        "link": "https://arxiv.org/abs/2603.28845",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.28845v1 Announce Type: new \nAbstract: Deploying foundation models is increasingly constrained by memory footprint, latency, and hardware costs. Post-training compression can mitigate the...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Structural Pass Analysis in Football: Learning Pass Archetypes and Tactical Impact from Spatio-Temporal Tracking Data",
+        "link": "https://arxiv.org/abs/2603.28916",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.28916v1 Announce Type: new \nAbstract: The increasing availability of spatio-temporal tracking data has created new opportunities for analysing tactical behaviour in football. However, ma...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Beta-Scheduling: Momentum from Critical Damping as a Diagnostic and Correction Tool for Neural Network Training",
+        "link": "https://arxiv.org/abs/2603.28921",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.28921v1 Announce Type: new \nAbstract: Standard neural network training uses constant momentum (typically 0.9), a convention dating to 1964 with limited theoretical justification for its\n...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Neural Tension Operator for Curve Subdivision across Constant Curvature Geometries",
+        "link": "https://arxiv.org/abs/2603.28937",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.28937v1 Announce Type: new \nAbstract: Interpolatory subdivision schemes generate smooth curves from piecewise-linear control polygons by repeatedly inserting new vertices. Classical sche...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Foundations of Polar Linear Algebra",
+        "link": "https://arxiv.org/abs/2603.28939",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.28939v1 Announce Type: new \nAbstract: This work revisits operator learning from a spectral perspective by introducing Polar Linear Algebra, a structured framework based on polar geometry...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "\\texttt{ReproMIA}: A Comprehensive Analysis of Model Reprogramming for Proactive Membership Inference Attacks",
+        "link": "https://arxiv.org/abs/2603.28942",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.28942v1 Announce Type: new \nAbstract: The pervasive deployment of deep learning models across critical domains has concurrently intensified privacy concerns due to their inherent propens...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Differentiable Initialization-Accelerated CPU-GPU Hybrid Combinatorial Scheduling",
+        "link": "https://arxiv.org/abs/2603.28943",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.28943v1 Announce Type: new \nAbstract: This paper presents a hybrid CPU-GPU framework for solving combinatorial scheduling problems formulated as Integer Linear Programming (ILP). While s...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Multi-Agent LLMs for Adaptive Acquisition in Bayesian Optimization",
+        "link": "https://arxiv.org/abs/2603.28959",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.28959v1 Announce Type: new \nAbstract: The exploration-exploitation trade-off is central to sequential decision-making and black-box optimization, yet how Large Language Models (LLMs) rea...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "The Spectral Edge Thesis: A Mathematical Framework for Intra-Signal Phase Transitions in Neural Network Training",
+        "link": "https://arxiv.org/abs/2603.28964",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.28964v1 Announce Type: new \nAbstract: We develop the spectral edge thesis: phase transitions in neural network training -- grokking, capability gains, loss plateaus -- are controlled by ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "An Explicit Surrogate for Gaussian Mixture Flow Matching with Wasserstein Gap Bounds",
+        "link": "https://arxiv.org/abs/2603.28992",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.28992v1 Announce Type: new \nAbstract: We study training-free flow matching between two Gaussian mixture models (GMMs) using explicit velocity fields that transport one mixture into the o...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Improving Efficiency of GPU Kernel Optimization Agents using a Domain-Specific Language and Speed-of-Light Guidance",
+        "link": "https://arxiv.org/abs/2603.29010",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.29010v1 Announce Type: new \nAbstract: Optimizing GPU kernels with LLM agents is an iterative process over a large design space. Every candidate must be generated, compiled, validated, an...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "From Astronomy to Astrology: Testing the Illusion of Zodiac-Based Personality Prediction with Machine Learning",
+        "link": "https://arxiv.org/abs/2603.29033",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.29033v1 Announce Type: new \nAbstract: Astrology has long been used to interpret human personality, estimate compatibility, and guide social decision-making. Zodiac-based systems in parti...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Latent Risk-Aware Machine Learning Approach for Predicting Operational Success in Clinical Trials based on TrialsBank",
+        "link": "https://arxiv.org/abs/2603.29041",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.29041v1 Announce Type: new \nAbstract: Clinical trials are characterized by high costs, extended timelines, and substantial operational risk, yet reliable prospective methods for predicti...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "ARCS: Autoregressive Circuit Synthesis with Topology-Aware Graph Attention and Spec Conditioning",
+        "link": "https://arxiv.org/abs/2603.29068",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.29068v1 Announce Type: new \nAbstract: I present ARCS, a system for amortized analog circuit generation that produces complete, SPICE-simulatable designs (topology and component values) i...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "On the Mirage of Long-Range Dependency, with an Application to Integer Multiplication",
+        "link": "https://arxiv.org/abs/2603.29069",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2603.29069v1 Announce Type: new \nAbstract: Integer multiplication has long been considered a hard problem for neural networks, with the difficulty widely attributed to the O(n) long-range dep...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Associative Constructive Evolution: Enhancing Metaheuristics through Hebbian-Learned Generative Guidance",
+        "link": "https://arxiv.org/abs/2603.29774",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2603.29774v1 Announce Type: new \nAbstract: Metaheuristic algorithms such as Particle Swarm Optimization (PSO) and Evolutionary Algorithms (EA) excel at exploring solution spaces but lack mech...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Large-scale nonlinear optical computing with incoherent light via linear diffractive systems",
+        "link": "https://arxiv.org/abs/2603.29131",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2603.29131v1 Announce Type: cross \nAbstract: Nonlinear computation is essential for various information processing tasks. Optical implementations are attractive because passive light propagat...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Towards Automated Knowledge Transfer in Evolutionary Multitasking via Large Language Models",
+        "link": "https://arxiv.org/abs/2409.04270",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2409.04270v2 Announce Type: replace \nAbstract: Evolutionary multi-task optimization (EMTO) is an advanced optimization paradigm that improves search efficiency by enabling knowledge transfer ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "LLM-Meta-SR: In-Context Learning for Evolving Selection Operators in Symbolic Regression",
+        "link": "https://arxiv.org/abs/2505.18602",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2505.18602v3 Announce Type: replace \nAbstract: Large language models (LLMs) have revolutionized algorithm development, yet their application in symbolic regression, where algorithms automatic...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Improving Liver Disease Diagnosis with SNNDeep: A Custom Spiking Neural Network Using Diverse Learning Algorithms",
+        "link": "https://arxiv.org/abs/2508.20125",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2508.20125v2 Announce Type: replace \nAbstract: Purpose: Spiking neural networks (SNNs) have recently gained attention as energy-efficient, biologically plausible alternatives to conventional ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Machine Learning Based Explainability Framework for Interpreting Swarm Intelligence",
+        "link": "https://arxiv.org/abs/2509.06272",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2509.06272v4 Announce Type: replace \nAbstract: Swarm based optimization algorithms have demonstrated remarkable success in solving complex optimization problems. However, their widespread ado...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Quantum-Driven Evolutionary Framework for Solving High-Dimensional Sharpe Ratio Portfolio Optimization",
+        "link": "https://arxiv.org/abs/2601.11029",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2601.11029v2 Announce Type: replace \nAbstract: High-dimensional portfolio optimization faces significant computational challenges under complex constraints, with traditional optimization meth...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "EvoDR: Evolving Dispatching Rules via Large Language Model for Dynamic Flexible Assembly Flow Shop Scheduling",
+        "link": "https://arxiv.org/abs/2601.15738",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2601.15738v2 Announce Type: replace \nAbstract: Dynamic flexible assembly flow shop scheduling with multi-product delivery is a critical combinatorial problem, characterized by kitting supply ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Evolution With Purpose: Hierarchy-Informed Optimization of Whole-Brain Models",
+        "link": "https://arxiv.org/abs/2602.11398",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2602.11398v3 Announce Type: replace \nAbstract: Evolutionary search is well suited for large-scale biophysical brain modeling, where many parameters with nonlinear interactions and no tractabl...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Enes Causal Discovery",
+        "link": "https://arxiv.org/abs/2603.24436",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2603.24436v3 Announce Type: replace \nAbstract: Enes The proposed architecture is a mixture of experts, which allows for the model entities, such as the causal relationships, to be further par...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Automated Algorithm Design for Auto-Tuning Optimizers",
+        "link": "https://arxiv.org/abs/2510.17899",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2510.17899v2 Announce Type: replace-cross \nAbstract: Automatic performance tuning (auto-tuning) is essential for optimizing high-performance applications, where vast and irregular search spac...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "DGPO: RL-Steered Graph Diffusion for Neural Architecture Generation",
+        "link": "https://arxiv.org/abs/2602.19261",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2602.19261v2 Announce Type: replace-cross \nAbstract: Reinforcement learning fine-tuning has proven effective for steering generative diffusion models toward desired properties in image and mo...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "CREST: Constraint-Release Execution for Multi-Robot Warehouse Shelf Rearrangement",
+        "link": "https://arxiv.org/abs/2603.28803",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.28803v1 Announce Type: new \nAbstract: Double-Deck Multi-Agent Pickup and Delivery (DD-MAPD) models the multi-robot shelf rearrangement problem in automated warehouses. MAPF-DECOMP is a r...",
+        "is_important": true,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "A Classification of Heterogeneity in Uncrewed Vehicle Swarms and the Effects of Its Inclusion on Overall Swarm Resilience",
+        "link": "https://arxiv.org/abs/2603.28831",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.28831v1 Announce Type: new \nAbstract: Combining different types of agents in uncrewed vehicle (UV) swarms has emerged as an approach to enhance mission resilience and operational capabil...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Semantic Observer Layer for Autonomous Vehicles: Pre-Deployment Feasibility Study of VLMs for Low-Latency Anomaly Detection",
+        "link": "https://arxiv.org/abs/2603.28888",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.28888v1 Announce Type: new \nAbstract: Semantic anomalies-context-dependent hazards that pixel-level detectors cannot reason about-pose a critical safety risk in autonomous driving. We pr...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Bootstrap Perception Under Hardware Depth Failure for Indoor Robot Navigation",
+        "link": "https://arxiv.org/abs/2603.28890",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.28890v1 Announce Type: new \nAbstract: We present a bootstrap perception system for indoor robot navigation under hardware depth failure. In our corridor data, the time-of-flight camera l...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Robust Multi-Agent Reinforcement Learning for Small UAS Separation Assurance under GPS Degradation and Spoofing",
+        "link": "https://arxiv.org/abs/2603.28900",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.28900v1 Announce Type: new \nAbstract: We address robust separation assurance for small Unmanned Aircraft Systems (sUAS) under GPS degradation and spoofing via Multi-Agent Reinforcement L...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "See Something, Say Something: Context-Criticality-Aware Mobile Robot Communication for Hazard Mitigations",
+        "link": "https://arxiv.org/abs/2603.28901",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.28901v1 Announce Type: new \nAbstract: The proverb ``see something, say something'' captures a core responsibility of autonomous mobile robots in safety-critical situations: when they det...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Why That Robot? A Qualitative Analysis of Justification Strategies for Robot Color Selection Across Occupational Contexts",
+        "link": "https://arxiv.org/abs/2603.28919",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.28919v1 Announce Type: new \nAbstract: As robots increasingly enter the workforce, human-robot interaction (HRI) must address how implicit social biases influence user preferences. This p...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "World2Rules: A Neuro-Symbolic Framework for Learning World-Governing Safety Rules for Aviation",
+        "link": "https://arxiv.org/abs/2603.28952",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.28952v1 Announce Type: new \nAbstract: Many real-world safety-critical systems are governed by explicit rules that define unsafe world configurations and constrain agent interactions. In ...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models",
+        "link": "https://arxiv.org/abs/2603.28963",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.28963v1 Announce Type: new \nAbstract: Multi-agent traffic simulation is central to developing and testing autonomous driving systems. Recent data-driven simulators have achieved promisin...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Large Neighborhood Search for Multi-Agent Task Assignment and Path Finding with Precedence Constraints",
+        "link": "https://arxiv.org/abs/2603.28968",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.28968v1 Announce Type: new \nAbstract: Many multi-robot applications require tasks to be completed efficiently and in the correct order, so that downstream operations can proceed at the r...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Gleanmer: A 6 mW SoC for Real-Time 3D Gaussian Occupancy Mapping",
+        "link": "https://arxiv.org/abs/2603.29005",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.29005v1 Announce Type: new \nAbstract: High-fidelity 3D occupancy mapping is essential for many edge-based applications (such as AR/VR and autonomous navigation) but is limited by power c...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning",
+        "link": "https://arxiv.org/abs/2603.29192",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.29192v1 Announce Type: new \nAbstract: Prevailing 2D-centric visuomotor policies exhibit a pronounced deficiency in novel view generalization, as their reliance on static observations hin...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Retargeting",
+        "link": "https://arxiv.org/abs/2603.29213",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.29213v1 Announce Type: new \nAbstract: Dexterous hand teleoperation requires motion re-targeting methods that simultaneously achieve high-frequency real-time performance and enforcement o...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Long-Reach Robotic Manipulation for Assembly and Outfitting of Lunar Structures",
+        "link": "https://arxiv.org/abs/2603.29226",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.29226v1 Announce Type: new \nAbstract: Future infrastructure construction on the lunar surface will require semi- or fully-autonomous operation from robots deployed at the build site. In ...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Kernel-SDF: An Open-Source Library for Real-Time Signed Distance Function Estimation using Kernel Regression",
+        "link": "https://arxiv.org/abs/2603.29227",
+        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2603.29227v1 Announce Type: new \nAbstract: Accurate and efficient environment representation is crucial for robotic applications such as motion planning, manipulation, and navigation. Signed ...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
     },
     {
         "title": "The opportunity at home – can AI drive innovation in personal assistant devices and sign language?",
@@ -14390,6 +15471,17 @@
         "description": "We’ve all been there. You’re building a killer AI agent, it’s automating complex workflows, and then the realization hits: Where is all that sensitive data actually going?\n\nIn the rush to deploy au...",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "DNA robots could deliver drugs and hunt viruses inside your body",
+        "link": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
+        "date": "Tue, 31 Mar 2026 07:16:58 EDT",
+        "source": "ScienceDaily AI",
+        "description": "DNA robots are emerging as tiny programmable machines that could one day deliver drugs, hunt viruses, and build molecular-scale devices. By borrowing ideas from traditional robotics and combining t...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
     },
     {
         "title": "Samsung Galaxy S24 vs. S26: Is the two-year upgrade worth it? I weighed the differences",
@@ -22127,962 +23219,5 @@
         "description": "arXiv:2603.13273v1 Announce Type: new \nAbstract: Microclimate models are essential for linking climate to ecological processes, yet most physically based frameworks estimate temperature independent...",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "Learning from Partial Chain-of-Thought via Truncated-Reasoning Self-Distillation",
-        "link": "https://arxiv.org/abs/2603.13274",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.13274v1 Announce Type: new \nAbstract: Reasoning-oriented language models achieve strong performance by generating long chain-of-thought traces at inference time. However, this capability...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "PREBA: Surgical Duration Prediction via PCA-Weighted Retrieval-Augmented LLMs and Bayesian Averaging Aggregation",
-        "link": "https://arxiv.org/abs/2603.13275",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.13275v1 Announce Type: new \nAbstract: Accurate prediction of surgical duration is pivotal for hospital resource management. Although recent supervised learning approaches-from machine le...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "FastODT: A tree-based framework for efficient continual learning",
-        "link": "https://arxiv.org/abs/2603.13276",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.13276v1 Announce Type: new \nAbstract: Machine learning models deployed in real-world settings must operate under evolving data distributions and constrained computational resources. This...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Learning Retrieval Models with Sparse Autoencoders",
-        "link": "https://arxiv.org/abs/2603.13277",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.13277v1 Announce Type: new \nAbstract: Sparse autoencoders (SAEs) provide a powerful mechanism for decomposing the dense representations produced by Large Language Models (LLMs) into inte...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Demand Acceptance using Reinforcement Learning for Dynamic Vehicle Routing Problem with Emission Quota",
-        "link": "https://arxiv.org/abs/2603.13279",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.13279v1 Announce Type: new \nAbstract: This paper introduces and formalizes the Dynamic and Stochastic Vehicle Routing Problem with Emission Quota (DS-QVRP-RR), a novel routing problems t...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Bullet Trains: Parallelizing Training of Temporally Precise Spiking Neural Networks",
-        "link": "https://arxiv.org/abs/2603.13283",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.13283v1 Announce Type: new \nAbstract: Continuous-time, event-native spiking neural networks (SNNs) operate strictly on spike events, treating spike timing and ordering as the representat...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Equivalence of approximation by networks of single- and multi-spike neurons",
-        "link": "https://arxiv.org/abs/2603.13478",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.13478v1 Announce Type: new \nAbstract: In a spiking neural network, is it enough for each neuron to spike at most once? In recent work, approximation bounds for spiking neural networks ha...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Benchmarking the Energy Cost of Assurance in Neuromorphic Edge Robotics",
-        "link": "https://arxiv.org/abs/2603.13880",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.13880v1 Announce Type: new \nAbstract: Deploying trustworthy artificial intelligence on edge robotics imposes a difficult trade-off between high-assurance robustness and energy sustainabi...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "MO-SAE:Multi-Objective Stacked Autoencoders Optimization for Edge Anomaly Detection",
-        "link": "https://arxiv.org/abs/2603.13895",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.13895v1 Announce Type: new \nAbstract: Stacked AutoEncoders (SAE) have been widely adopted in edge anomaly detection scenarios. However, the resource-intensive nature of SAE can pose sign...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A Theory of Appropriateness That Accounts for Norms of Rationality",
-        "link": "https://arxiv.org/abs/2603.14050",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.14050v1 Announce Type: new \nAbstract: We propose a society-first theory of normative appropriateness where individuals, modeled as pre-trained actors with cognitive architectures analogo...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "MorphSNN: Adaptive Graph Diffusion and Structural Plasticity for Spiking Neural Networks",
-        "link": "https://arxiv.org/abs/2603.14285",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.14285v1 Announce Type: new \nAbstract: Spiking Neural Networks (SNNs) currently face a critical bottleneck: while individual neurons exhibit dynamic biological properties, their macro-sco...",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Modular Neural Computer",
-        "link": "https://arxiv.org/abs/2603.13323",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.13323v1 Announce Type: cross \nAbstract: This paper introduces the Modular Neural Computer (MNC), a memory-augmented neural architecture for exact algorithmic computation on variable-leng...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Thermal Robustness of Retrieval in Dense Associative Memories: LSE vs LSR Kernels",
-        "link": "https://arxiv.org/abs/2603.13350",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.13350v1 Announce Type: cross \nAbstract: Understanding whether retrieval in dense associative memories survives thermal noise is essential for bridging zero-temperature capacity proofs wi...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Projection-Free Evolution Strategies for Continuous Prompt Search",
-        "link": "https://arxiv.org/abs/2603.13786",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.13786v1 Announce Type: cross \nAbstract: Continuous prompt search offers a computationally efficient alternative to conventional parameter tuning in natural language processing tasks. Nev...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Collapse or Preserve: Data-Dependent Temporal Aggregation for Spiking Neural Network Acceleration",
-        "link": "https://arxiv.org/abs/2603.13810",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.13810v1 Announce Type: cross \nAbstract: Spike sparsity is widely believed to enable efficient spiking neural network (SNN) inference on GPU hardware. We demonstrate this is an illusion: ...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "ST-ResGAT: Explainable Spatio-Temporal Graph Neural Network for Road Condition Prediction and Priority-Driven Maintenance",
-        "link": "https://arxiv.org/abs/2603.14107",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.14107v1 Announce Type: cross \nAbstract: Climate-vulnerable road networks require a paradigm shift from reactive, fix-on-failure repairs to predictive, decision-ready maintenance. This pa...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "CATFormer: When Continual Learning Meets Spiking Transformers With Dynamic Thresholds",
-        "link": "https://arxiv.org/abs/2603.15184",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.15184v1 Announce Type: cross \nAbstract: Although deep neural networks perform extremely well in controlled environments, they fail in real-world scenarios where data isn't available all ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Towards Foundation Models for Consensus Rank Aggregation",
-        "link": "https://arxiv.org/abs/2603.15218",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.15218v1 Announce Type: cross \nAbstract: Aggregating a consensus ranking from multiple input rankings is a fundamental problem with applications in recommendation systems, search engines,...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Fast Estimations of Hitting Time of Elitist Evolutionary Algorithms from Fitness Levels",
-        "link": "https://arxiv.org/abs/2311.10502",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2311.10502v4 Announce Type: replace \nAbstract: The fitness level method is a widely used technique for estimating the mean hitting time of elitist evolutionary algorithms on level-based fitne...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "LLM-Driven Instance-Specific Heuristic Generation and Selection",
-        "link": "https://arxiv.org/abs/2506.00490",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2506.00490v3 Announce Type: replace \nAbstract: Combinatorial optimization problems are widely encountered in real-world applications. A critical research challenge lies in designing high-qual...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Rationale Behind Human-Led Autonomous Truck Platooning",
-        "link": "https://arxiv.org/abs/2603.13296",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13296v1 Announce Type: new \nAbstract: Autonomous trucking has progressed rapidly in recent years, transitioning from early demonstrations to OEM-integrated commercial deployments. Howeve...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "MRPoS: Mixed Reality-Based Robot Navigation Interface Using Spatial Pointing and Speech with Large Language Model",
-        "link": "https://arxiv.org/abs/2603.13313",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13313v1 Announce Type: new \nAbstract: Recent advancements have made robot navigation more intuitive by transitioning from traditional 2D displays to spatially aware Mixed Reality (MR) sy...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Bi-HIL: Bilateral Control-Based Multimodal Hierarchical Imitation Learning via Subtask-Level Progress Rate and Keyframe Memory for Long-Horizon Contact-Rich Robotic Manipulation",
-        "link": "https://arxiv.org/abs/2603.13315",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13315v1 Announce Type: new \nAbstract: Long-horizon contact-rich robotic manipulation remains challenging due to partial observability and unstable subtask transitions under contact uncer...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "STL-SVPIO: Signal Temporal Logic guided Stein Variational Path Integral Optimization",
-        "link": "https://arxiv.org/abs/2603.13333",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13333v1 Announce Type: new \nAbstract: Signal Temporal Logic (STL) enables formal specification of complex spatiotemporal constraints for robotic task planning. However, synthesizing long...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Spatially Grounded Long-Horizon Task Planning in the Wild",
-        "link": "https://arxiv.org/abs/2603.13433",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13433v1 Announce Type: new \nAbstract: Recent advances in robot manipulation increasingly leverage Vision-Language Models (VLMs) for high-level reasoning, such as decomposing task instruc...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Safety-guaranteed and Goal-oriented Semantic Sensing, Communication, and Control for Robotics",
-        "link": "https://arxiv.org/abs/2603.13502",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13502v1 Announce Type: new \nAbstract: Wirelessly-connected robotic system empowers robots with real-time intelligence by leveraging remote computing resources for decision-making. Howeve...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Learning Actionable Manipulation Recovery via Counterfactual Failure Synthesis",
-        "link": "https://arxiv.org/abs/2603.13528",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13528v1 Announce Type: new \nAbstract: While recent foundation models have significantly advanced robotic manipulation, these systems still struggle to autonomously recover from execution...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Fabric Pneumatic Artificial Muscle-Based Head-Neck Exosuit: Design, Modeling, and Evaluation",
-        "link": "https://arxiv.org/abs/2603.13531",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13531v1 Announce Type: new \nAbstract: Wearable exosuits assist human movement in tasks ranging from rehabilitation to daily activities; specifically, head-neck support is necessary for p...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "End-to-End O-RAN Testbed for Edge-AI-Enabled 5G/6G Connected Industrial Robotics",
-        "link": "https://arxiv.org/abs/2603.13567",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13567v1 Announce Type: new \nAbstract: Connected robotics is one of the principal use cases driving the transition towards more intelligent and capable 6G mobile cellular networks. Replac...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Creating manufacturable blueprints for coarse-grained virtual robots",
-        "link": "https://arxiv.org/abs/2603.13582",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13582v1 Announce Type: new \nAbstract: Over the past three decades, countless embodied yet virtual agents have freely evolved inside computer simulations, but vanishingly few were realize...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Sonar-MASt3R: Real-Time Opti-Acoustic Fusion in Turbid, Unstructured Environments",
-        "link": "https://arxiv.org/abs/2603.13585",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13585v1 Announce Type: new \nAbstract: Underwater intervention is an important capability in several marine domains, with numerous industrial, scientific, and defense applications. Howeve...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Beyond Binary Success: Sample-Efficient and Statistically Rigorous Robot Policy Comparison",
-        "link": "https://arxiv.org/abs/2603.13616",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13616v1 Announce Type: new \nAbstract: Generalist robot manipulation policies are becoming increasingly capable, but are limited in evaluation to a small number of hardware rollouts. This...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "SAATT Nav: a Socially Aware Autonomous Transparent Transportation Navigation Framework for Wheelchairs",
-        "link": "https://arxiv.org/abs/2603.13698",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13698v1 Announce Type: new \nAbstract: While powered wheelchairs reduce physical fatigue as opposed to manual wheelchairs for individuals with mobility impairment, they demand high cognit...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "REFINE-DP: Diffusion Policy Fine-tuning for Humanoid Loco-manipulation via Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2603.13707",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13707v1 Announce Type: new \nAbstract: Humanoid loco-manipulation requires coordinated high-level motion plans with stable, low-level whole-body execution under complex robot-environment ...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "👁️ Visión por Computador",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "LPV-MPC for Lateral Control in Full-Scale Autonomous Racing",
-        "link": "https://arxiv.org/abs/2603.13732",
-        "date": "Tue, 17 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.13732v1 Announce Type: new \nAbstract: Autonomous racing has attracted significant attention recently, presenting challenges in selecting an optimal controller that operates within the on...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Gemini 2.5: Updates to our family of thinking models",
-        "link": "https://deepmind.google/blog/gemini-25-updates-to-our-family-of-thinking-models/",
-        "date": "Tue, 17 Jun 2025 16:00:00 +0000",
-        "source": "Google DeepMind",
-        "description": "Explore the latest Gemini 2.5 model updates with enhanced performance and accuracy: Gemini 2.5 Pro now stable, Flash generally available, and the new Flash-Lite in preview.",
-        "is_important": true
-    },
-    {
-        "title": "We’re expanding our Gemini 2.5 family of models",
-        "link": "https://deepmind.google/blog/were-expanding-our-gemini-25-family-of-models/",
-        "date": "Tue, 17 Jun 2025 16:00:00 +0000",
-        "source": "Google DeepMind",
-        "description": "Gemini 2.5 Flash and Pro are now generally available, and we’re introducing 2.5 Flash-Lite, our most cost-efficient and fastest 2.5 model yet.",
-        "is_important": true
-    },
-    {
-        "title": "Welcome PaddlePaddle to the Hugging Face Hub",
-        "link": "https://huggingface.co/blog/paddlepaddle",
-        "date": "Tue, 17 Jan 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Cohere Launches Tiny Multilingual Open Weight Model",
-        "link": "https://aibusiness.com/generative-ai/cohere-launches-tiny-multilingual-open-model",
-        "date": "Tue, 17 Feb 2026 22:18:52 GMT",
-        "source": "AI Business",
-        "description": "The new family of models fills a gap in a market that favors English and Chinese; however, it's unclear which applications the models are best suited for.",
-        "is_important": false
-    },
-    {
-        "title": "Major Funding Deals Kick off India AI Impact Summit",
-        "link": "https://aibusiness.com/generative-ai/major-funding-deals-kick-off-india-ai-summit",
-        "date": "Tue, 17 Feb 2026 20:33:16 GMT",
-        "source": "AI Business",
-        "description": "The sovereign AI wave gains momentum in the world's most populous country.",
-        "is_important": false
-    },
-    {
-        "title": "Tech Life",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct6zq4?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 17 Feb 2026 20:30:00 GMT",
-        "source": "BBC Tech",
-        "description": "We chat about a conversational AI that's almost human-like in its speech skills",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Open models in perpetual catch-up",
-        "link": "https://www.interconnects.ai/p/open-models-in-perpetual-catch-up",
-        "date": "Tue, 17 Feb 2026 17:27:36 GMT",
-        "source": "Interconnects",
-        "description": "The open-closed gap, distillation, innovation timescales, how open models win, specialized models, what&#8217;s missing, etc.",
-        "is_important": false
-    },
-    {
-        "title": "A volcano scorched hundreds of Roman scrolls — can AI recover their text?",
-        "link": "https://www.understandingai.org/p/a-volcano-scorched-hundreds-of-roman",
-        "date": "Tue, 17 Feb 2026 16:37:01 GMT",
-        "source": "Understanding AI",
-        "description": "Despite early breakthroughs, it could take years to decode all the scrolls.",
-        "is_important": false
-    },
-    {
-        "title": "AI Data Centers Are Now Spiking Hard Drive Prices",
-        "link": "https://futurism.com/artificial-intelligence/ai-data-centers-spiking-hard-drive-prices",
-        "date": "Tue, 17 Feb 2026 16:06:16 -0500",
-        "source": "Futurism AI",
-        "description": "First RAM, now storage?\nThe post AI Data Centers Are Now Spiking Hard Drive Prices appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "It Turns Out That Constantly Telling Workers They’re About to Be Replaced by AI Has Grim Psychological Effects",
-        "link": "https://futurism.com/artificial-intelligence/ai-effects-workers-psychological",
-        "date": "Tue, 17 Feb 2026 15:08:26 -0500",
-        "source": "Futurism AI",
-        "description": "\"An invisible disaster.\"\nThe post It Turns Out That Constantly Telling Workers They&#8217;re About to Be Replaced by AI Has Grim Psychological Effects appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "Supporting the new Types of AI Shoppers",
-        "link": "https://aibusiness.com/agentic-ai/supporting-the-new-types-of-ai-shoppers",
-        "date": "Tue, 17 Feb 2026 14:53:39 GMT",
-        "source": "AI Business",
-        "description": "Coinbase, in collaboration with Cloudflare and the Linux Foundation, has developed the x402 internet payment protocol to enable AI agents to make payments online.",
-        "is_important": false
-    },
-    {
-        "title": "Pentagon Issues Threat to Anthropic",
-        "link": "https://futurism.com/artificial-intelligence/pentagon-issues-threat-anthropic",
-        "date": "Tue, 17 Feb 2026 14:09:53 -0500",
-        "source": "Futurism AI",
-        "description": "\"Everything's on the table.\"\nThe post Pentagon Issues Threat to Anthropic appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "Accelerating discovery in India through AI-powered science and education",
-        "link": "https://deepmind.google/blog/accelerating-discovery-in-india-through-ai-powered-science-and-education/",
-        "date": "Tue, 17 Feb 2026 13:42:20 +0000",
-        "source": "Google DeepMind",
-        "description": "Google DeepMind brings National Partnerships for AI initiative to India, scaling AI for science and education"
-    },
-    {
-        "title": "AI, A2A, and the Governance Gap",
-        "link": "https://www.oreilly.com/radar/ai-a2a-and-the-governance-gap/",
-        "date": "Tue, 17 Feb 2026 12:11:29 +0000",
-        "source": "O'Reilly Radar",
-        "description": "Over the past six months, I&#8217;ve watched the same pattern repeat across enterprise AI teams. A2A and ACP light up the room during architecture reviews—the protocols are elegant, the demos impre...",
-        "is_important": false
-    },
-    {
-        "title": "Meta Patented AI That Takes Over Your Account When You Die, Keeps Posting Forever",
-        "link": "https://futurism.com/future-society/meta-patented-ai-die-keeps-posting",
-        "date": "Tue, 17 Feb 2026 11:26:02 -0500",
-        "source": "Futurism AI",
-        "description": "From beyond the grave.\nThe post Meta Patented AI That Takes Over Your Account When You Die, Keeps Posting Forever appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "LLM Embeddings vs TF-IDF vs Bag-of-Words: Which Works Better in Scikit-learn?",
-        "link": "https://machinelearningmastery.com/llm-embeddings-vs-tf-idf-vs-bag-of-words-which-works-better-in-scikit-learn/",
-        "date": "Tue, 17 Feb 2026 11:00:58 +0000",
-        "source": "Machine Learning Mastery",
-        "description": "Machine learning models built with frameworks like scikit-learn can accommodate unstructured data like text, as long as this raw text is converted into a numerical representation that is understand...",
-        "is_important": false
-    },
-    {
-        "title": "AI Delusions Are Leading to Domestic Abuse, Harassment, and Stalking",
-        "link": "https://futurism.com/artificial-intelligence/ai-abuse-harassment-stalking",
-        "date": "Tue, 17 Feb 2026 10:30:21 -0500",
-        "source": "Futurism AI",
-        "description": "\"I couldn't leave my house for months... people were messaging me all over my social media, like, 'Are you safe? Are your kids safe?'\"\nThe post AI Delusions Are Leading to Domestic Abuse, Harassmen...",
-        "is_important": false
-    },
-    {
-        "title": "Top Machine Learning Developer Speechless at Simple Question: Should AI Simulate Emotional Intimacy?",
-        "link": "https://futurism.com/artificial-intelligence/ai-developers-emotional-intimacy",
-        "date": "Tue, 17 Feb 2026 09:25:44 -0500",
-        "source": "Futurism AI",
-        "description": "Is it \"good\" or \"bad?\" Developers can't say.\nThe post Top Machine Learning Developer Speechless at Simple Question: Should AI Simulate Emotional Intimacy? appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "[AINews] Qwen3.5-397B-A17B: the smallest Open-Opus class, very efficient model",
-        "link": "https://www.latent.space/p/ainews-qwen35-397b-a17b-the-smallest",
-        "date": "Tue, 17 Feb 2026 04:22:56 GMT",
-        "source": "Latent Space",
-        "description": "Congrats Qwen team!",
-        "is_important": false
-    },
-    {
-        "title": "FACTS Grounding: A new benchmark for evaluating the factuality of large language models",
-        "link": "https://deepmind.google/blog/facts-grounding-a-new-benchmark-for-evaluating-the-factuality-of-large-language-models/",
-        "date": "Tue, 17 Dec 2024 15:29:00 +0000",
-        "source": "Google DeepMind",
-        "description": "Our comprehensive benchmark and online leaderboard offer a much-needed measure of how accurately LLMs ground their responses in provided source material and avoid hallucinations",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI o1 and new tools for developers",
-        "link": "https://openai.com/index/o1-and-new-tools-for-developers",
-        "date": "Tue, 17 Dec 2024 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Introducing OpenAI o1, Realtime API improvements, a new fine-tuning method and more for developers.",
-        "is_important": false
-    },
-    {
-        "title": "Welcome to the Falcon 3 Family of Open Models!",
-        "link": "https://huggingface.co/blog/falcon3",
-        "date": "Tue, 17 Dec 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Benchmarking Language Model Performance on 5th Gen Xeon at GCP",
-        "link": "https://huggingface.co/blog/intel-gcp-c4",
-        "date": "Tue, 17 Dec 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Introducing Stargate UK",
-        "link": "https://openai.com/index/introducing-stargate-uk",
-        "date": "Tue, 16 Sep 2025 14:30:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI, NVIDIA, and Nscale launch Stargate UK, a sovereign AI infrastructure partnership delivering up to 50,000 GPUs and the UK’s largest supercomputer to power national AI innovation, public serv...",
-        "is_important": false
-    },
-    {
-        "title": "Building towards age prediction",
-        "link": "https://openai.com/index/building-towards-age-prediction",
-        "date": "Tue, 16 Sep 2025 06:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Learn how OpenAI is building age prediction and parental controls in ChatGPT to create safer, age-appropriate experiences for teens while supporting families with new tools.",
-        "is_important": false
-    },
-    {
-        "title": "Teen safety, freedom, and privacy",
-        "link": "https://openai.com/index/teen-safety-freedom-and-privacy",
-        "date": "Tue, 16 Sep 2025 06:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Explore OpenAI’s approach to balancing teen safety, freedom, and privacy in AI use.",
-        "is_important": false
-    },
-    {
-        "title": "`LeRobotDataset:v3.0`: Bringing large-scale datasets to `lerobot`",
-        "link": "https://huggingface.co/blog/lerobot-datasets-v3",
-        "date": "Tue, 16 Sep 2025 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Large-scale Near-deduplication Behind BigCode",
-        "link": "https://huggingface.co/blog/dedup",
-        "date": "Tue, 16 May 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Smaller is better: Q8-Chat, an efficient generative AI experience on Xeon",
-        "link": "https://huggingface.co/blog/generative-ai-models-on-intel-cpu",
-        "date": "Tue, 16 May 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Robots that learn",
-        "link": "https://openai.com/index/robots-that-learn",
-        "date": "Tue, 16 May 2017 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’ve created a robotics system, trained entirely in simulation and deployed on a physical robot, which can learn a new task after seeing it done once.",
-        "is_important": false
-    },
-    {
-        "title": "SmolLM - blazingly fast and remarkably powerful",
-        "link": "https://huggingface.co/blog/smollm",
-        "date": "Tue, 16 Jul 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "How we leveraged distilabel to create an Argilla 2.0 Chatbot",
-        "link": "https://huggingface.co/blog/argilla-chatbot",
-        "date": "Tue, 16 Jul 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Democratic inputs to AI grant program: lessons learned and implementation plans",
-        "link": "https://openai.com/index/democratic-inputs-to-ai-grant-program-update",
-        "date": "Tue, 16 Jan 2024 08:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We funded 10 teams from around the world to design ideas and tools to collectively govern AI. We summarize the innovations, outline our learnings, and call for researchers and engineers to join us ...",
-        "is_important": false
-    },
-    {
-        "title": "Gemma Scope 2: helping the AI safety community deepen understanding of complex language model behavior",
-        "link": "https://deepmind.google/blog/gemma-scope-2-helping-the-ai-safety-community-deepen-understanding-of-complex-language-model-behavior/",
-        "date": "Tue, 16 Dec 2025 10:14:24 +0000",
-        "source": "Google DeepMind",
-        "description": "Open interpretability tools for language models are now available across the entire Gemma 3 family with the release of Gemma Scope 2.",
-        "is_important": false
-    },
-    {
-        "title": "OII Researcher Dr Fabian Braesemann wins European AI Innovation Award",
-        "link": "https://www.oii.ox.ac.uk/news-events/oii-researcher-dr-fabian-braesemann-wins-european-ai-innovation-award/",
-        "date": "Tue, 16 Dec 2025 09:00:56 +0000",
-        "source": "Oxford AI",
-        "description": "OII Researcher Dr Fabian Braesemann wins European AI Innovation Award for research-based Founder Personality Quiz.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Evaluating AI’s ability to perform scientific research tasks",
-        "link": "https://openai.com/index/frontierscience",
-        "date": "Tue, 16 Dec 2025 09:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI introduces FrontierScience, a benchmark testing AI reasoning in physics, chemistry, and biology to measure progress toward real scientific research.",
-        "is_important": false
-    },
-    {
-        "title": "Measuring AI’s capability to accelerate biological research",
-        "link": "https://openai.com/index/accelerating-biological-research-in-the-wet-lab",
-        "date": "Tue, 16 Dec 2025 08:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI introduces a real-world evaluation framework to measure how AI can accelerate biological research in the wet lab. Using GPT-5 to optimize a molecular cloning protocol, the work explores both...",
-        "is_important": false
-    },
-    {
-        "title": "The new ChatGPT Images is here",
-        "link": "https://openai.com/index/new-chatgpt-images-is-here",
-        "date": "Tue, 16 Dec 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "The new ChatGPT Images is powered by our flagship image generation model, delivering more precise edits, consistent details, and image generation up to 4× faster. The upgraded model is rolling out ...",
-        "is_important": false
-    },
-    {
-        "title": "“Robot, make me a chair”",
-        "link": "https://news.mit.edu/2025/robot-makes-chair-1216",
-        "date": "Tue, 16 Dec 2025 00:00:00 -0500",
-        "source": "MIT News AI",
-        "description": "An AI-driven system lets users design and build simple, multicomponent objects by describing them with words.",
-        "is_important": false
-    },
-    {
-        "title": "Team update",
-        "link": "https://openai.com/index/team-update-august",
-        "date": "Tue, 16 Aug 2016 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’ve hired more great people to help us achieve our goals. Welcome, everyone!",
-        "is_important": false
-    },
-    {
-        "title": "AI Apps in a Flash with Gradio's Reload Mode",
-        "link": "https://huggingface.co/blog/gradio-reload",
-        "date": "Tue, 16 Apr 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Introducing the LiveCodeBench Leaderboard - Holistic and Contamination-Free Evaluation of Code LLMs",
-        "link": "https://huggingface.co/blog/leaderboard-livecodebench",
-        "date": "Tue, 16 Apr 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Running Privacy-Preserving Inferences on Hugging Face Endpoints",
-        "link": "https://huggingface.co/blog/fhe-endpoints",
-        "date": "Tue, 16 Apr 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Ryght’s Journey to Empower Healthcare and Life Sciences with Expert Support from Hugging Face",
-        "link": "https://huggingface.co/blog/ryght-case-study",
-        "date": "Tue, 16 Apr 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Evaluating fairness in ChatGPT",
-        "link": "https://openai.com/index/evaluating-fairness-in-chatgpt",
-        "date": "Tue, 15 Oct 2024 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We've analyzed how ChatGPT responds to users based on their name, using AI research assistants to protect privacy.",
-        "is_important": false
-    },
-    {
-        "title": "Solving Rubik’s Cube with a robot hand",
-        "link": "https://openai.com/index/solving-rubiks-cube",
-        "date": "Tue, 15 Oct 2019 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’ve trained a pair of neural networks to solve the Rubik’s Cube with a human-like robot hand. The neural networks are trained entirely in simulation, using the same reinforcement learning code as...",
-        "is_important": false
-    },
-    {
-        "title": "#Exploration: A study of count-based exploration for deep reinforcement learning",
-        "link": "https://openai.com/index/exploration",
-        "date": "Tue, 15 Nov 2016 08:00:00 GMT",
-        "source": "OpenAI",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI and Microsoft",
-        "link": "https://openai.com/index/openai-and-microsoft",
-        "date": "Tue, 15 Nov 2016 08:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’re working with Microsoft to start running most of our large-scale experiments on Azure.",
-        "is_important": false
-    },
-    {
-        "title": "New GPT-3 capabilities: Edit & insert",
-        "link": "https://openai.com/index/gpt-3-edit-insert",
-        "date": "Tue, 15 Mar 2022 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’ve released new versions of GPT-3 and Codex which can edit or insert content into existing text, rather than just completing existing text.",
-        "is_important": false
-    },
-    {
-        "title": "Intellectual freedom by design",
-        "link": "https://openai.com/global-affairs/intellectual-freedom-by-design",
-        "date": "Tue, 15 Jul 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "ChatGPT is designed to be useful, trustworthy, and adaptable—so you can make it your own.",
-        "is_important": false
-    },
-    {
-        "title": "Migrating the Hub from Git LFS to Xet",
-        "link": "https://huggingface.co/blog/migrating-the-hub-to-xet",
-        "date": "Tue, 15 Jul 2025 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Using GPT-4 for content moderation",
-        "link": "https://openai.com/index/using-gpt-4-for-content-moderation",
-        "date": "Tue, 15 Aug 2023 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We use GPT-4 for content policy development and content moderation decisions, enabling more consistent labeling, a faster feedback loop for policy refinement, and less involvement from human modera...",
-        "is_important": true
-    },
-    {
-        "title": "Generate videos in Gemini and Whisk with Veo 2",
-        "link": "https://deepmind.google/blog/generate-videos-in-gemini-and-whisk-with-veo-2/",
-        "date": "Tue, 15 Apr 2025 17:00:00 +0000",
-        "source": "Google DeepMind",
-        "description": "Transform text-based prompts into high-resolution eight-second videos in Gemini Advanced and use Whisk Animate to turn images into eight-second animated clips.",
-        "is_important": true
-    },
-    {
-        "title": "AI as Normal Technology",
-        "link": "https://www.normaltech.ai/p/ai-as-normal-technology",
-        "date": "Tue, 15 Apr 2025 14:53:59 GMT",
-        "source": "AI Snake Oil",
-        "description": "A new paper that we will expand into our next book",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI announces nonprofit commission advisors",
-        "link": "https://openai.com/index/nonprofit-commission-advisors",
-        "date": "Tue, 15 Apr 2025 13:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI is appointing four new advisors to help inform OpenAI’s philanthropic efforts.",
-        "is_important": false
-    },
-    {
-        "title": "Our updated Preparedness Framework",
-        "link": "https://openai.com/index/updating-our-preparedness-framework",
-        "date": "Tue, 15 Apr 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Sharing our updated framework for measuring and protecting against severe harm from frontier AI capabilities.",
-        "is_important": false
-    },
-    {
-        "title": "Hugging Face and Graphcore partner for IPU-optimized Transformers",
-        "link": "https://huggingface.co/blog/graphcore",
-        "date": "Tue, 14 Sep 2021 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Introducing Optimum: The Optimization Toolkit for Transformers at Scale",
-        "link": "https://huggingface.co/blog/hardware-partners-program",
-        "date": "Tue, 14 Sep 2021 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "How to Solve it With Code course now available",
-        "link": "https://www.fast.ai/posts/2025-10-15-solveit2.html",
-        "date": "Tue, 14 Oct 2025 14:00:00 GMT",
-        "source": "Fast.ai",
-        "description": "tl/dr: This is a copy of a one-off email I sent to all fast.ai forum users, with a long-overdue update. I had planned to send this email a year ago to let you know you could sign up for our new fas...",
-        "is_important": false
-    },
-    {
-        "title": "Expert Council on Well-Being and AI",
-        "link": "https://openai.com/index/expert-council-on-well-being-and-ai",
-        "date": "Tue, 14 Oct 2025 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI’s new Expert Council on Well-Being and AI brings together leading psychologists, clinicians, and researchers to guide how ChatGPT supports emotional health, especially for teens. Learn how t...",
-        "is_important": false
-    },
-    {
-        "title": "Argentina’s AI opportunity",
-        "link": "https://openai.com/global-affairs/argentinas-ai-opportunity",
-        "date": "Tue, 14 Oct 2025 06:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI and Sur Energy are exploring Argentina’s first Stargate project—an AI and clean energy collaboration that could make Argentina a Latin American leader in artificial intelligence, sustainable...",
-        "is_important": false
-    },
-    {
-        "title": "Scientists build artificial neurons that work like real ones",
-        "link": "https://www.sciencedaily.com/releases/2025/10/251013040335.htm",
-        "date": "Tue, 14 Oct 2025 01:31:23 EDT",
-        "source": "ScienceDaily AI",
-        "description": "UMass Amherst engineers have built an artificial neuron powered by bacterial protein nanowires that functions like a real one, but at extremely low voltage. This allows for seamless communication w...",
-        "is_important": false
-    },
-    {
-        "title": "Ilya Sutskever to leave OpenAI, Jakub Pachocki announced as Chief Scientist",
-        "link": "https://openai.com/index/jakub-pachocki-announced-as-chief-scientist",
-        "date": "Tue, 14 May 2024 18:00:00 GMT",
-        "source": "OpenAI",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Collaborating with Carlyle to Chart the Future of Private Equity",
-        "link": "https://openai.com/index/collaborating-with-carlyle-to-chart-the-future-of-private-equity",
-        "date": "Tue, 14 May 2024 08:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Collaborating with Carlyle to Chart the Future of Private Equity",
-        "is_important": false
-    },
-    {
-        "title": "PaliGemma – Google's Cutting-Edge Open Vision Language Model",
-        "link": "https://huggingface.co/blog/paligemma",
-        "date": "Tue, 14 May 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Hugging Face x LangChain : A new partner package",
-        "link": "https://huggingface.co/blog/langchain",
-        "date": "Tue, 14 May 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Introducing the Open Arabic LLM Leaderboard",
-        "link": "https://huggingface.co/blog/leaderboard-arabic",
-        "date": "Tue, 14 May 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Streamlining financial solutions for safety and growth",
-        "link": "https://openai.com/index/stripe",
-        "date": "Tue, 14 Mar 2023 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Stripe leverages GPT-4 to streamline user experience and combat fraud.",
-        "is_important": false
-    },
-    {
-        "title": "Preserving languages for the future",
-        "link": "https://openai.com/index/government-of-iceland",
-        "date": "Tue, 14 Mar 2023 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "How Iceland is using GPT-4 to preserve its language.",
-        "is_important": false
-    },
-    {
-        "title": "Transforming visual accessibility",
-        "link": "https://openai.com/index/be-my-eyes",
-        "date": "Tue, 14 Mar 2023 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Be My Eyes uses GPT-4 to transform visual accessibility.",
-        "is_important": false
-    },
-    {
-        "title": "Filling crucial language learning gaps",
-        "link": "https://openai.com/index/duolingo",
-        "date": "Tue, 14 Mar 2023 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "GPT-4 deepens the conversation on Duolingo.",
-        "is_important": false
-    },
-    {
-        "title": "GPT-4",
-        "link": "https://openai.com/index/gpt-4-research",
-        "date": "Tue, 14 Mar 2023 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’ve created GPT-4, the latest milestone in OpenAI’s effort in scaling up deep learning. GPT-4 is a large multimodal model (accepting image and text inputs, emitting text outputs) that, while less...",
-        "is_important": true
-    },
-    {
-        "title": "Powering virtual education for the classroom",
-        "link": "https://openai.com/index/khan-academy",
-        "date": "Tue, 14 Mar 2023 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Khan Academy explores the potential for GPT-4 in a limited pilot program.",
-        "is_important": false
-    },
-    {
-        "title": "Director of Machine Learning Insights [Part 3: Finance Edition]",
-        "link": "https://huggingface.co/blog/ml-director-insights-3",
-        "date": "Tue, 14 Jun 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
     }
 ]
