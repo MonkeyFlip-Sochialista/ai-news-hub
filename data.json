@@ -13076,6 +13076,76 @@
         "is_important": false
     },
     {
+        "title": "Z.ai Launches GLM-5V-Turbo: A Native Multimodal Vision Coding Model Optimized for OpenClaw and High-Capacity Agentic Engineering Workflows Everywhere",
+        "link": "https://www.marktechpost.com/2026/04/01/z-ai-launches-glm-5v-turbo-a-native-multimodal-vision-coding-model-optimized-for-openclaw-and-high-capacity-agentic-engineering-workflows-everywhere/",
+        "date": "Wed, 01 Apr 2026 23:04:22 +0000",
+        "source": "MarkTechPost",
+        "description": "In the field of vision-language models (VLMs), the ability to bridge the gap between visual perception and logical code execution has traditionally faced a performance trade-off. Many models excel ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Elon Musk's SpaceX moves to become a publicly traded company",
+        "link": "https://www.bbc.com/news/articles/c2k35lg92dpo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 01 Apr 2026 22:35:23 GMT",
+        "source": "BBC Tech",
+        "description": "The company’s public stock debut is set to be one of the most valuable in history, and could make Musk the world's first trillionaire.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Goodbye ‘Geeky Hunk’? Gmail Users Can Now Change Their Usernames.",
+        "link": "https://www.nytimes.com/2026/04/01/technology/gmail-change-email-address-google.html",
+        "date": "Wed, 01 Apr 2026 22:14:50 +0000",
+        "source": "NYT Tech",
+        "description": "Users who have been saddled with now-cringe email handles since the mid-2000s can now change them without losing any data under a policy Google announced on Wednesday.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Anthropic took down thousands of GitHub repos trying to yank its leaked source code — a move the company says was an accident",
+        "link": "https://techcrunch.com/2026/04/01/anthropic-took-down-thousands-of-github-repos-trying-to-yank-its-leaked-source-code-a-move-the-company-says-was-an-accident/",
+        "date": "Wed, 01 Apr 2026 22:12:13 +0000",
+        "source": "TechCrunch AI",
+        "description": "Anthropic executives said it was an accident and retracted the bulk of the takedown notices.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Still running iOS 18? Install this critical update ASAP",
+        "link": "https://www.zdnet.com/article/ios-18-darksword-security-patch/",
+        "date": "Wed, 01 Apr 2026 20:00:29 GMT",
+        "source": "ZDNet AI",
+        "description": "The latest patch provides protection against the deadly DarkSword exploit for iPhone users who have chosen to remain on iOS 18.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I tried to destroy this AirTag alternative, but it wouldn't crack - unlike others",
+        "link": "https://www.zdnet.com/article/ugreen-finder-pro-tag-review/",
+        "date": "Wed, 01 Apr 2026 19:59:40 GMT",
+        "source": "ZDNet AI",
+        "description": "Finder tags are great, but most are pretty fragile. These Ugreen Finder Pro tags are some of the toughest I've tested.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Claude’s code: Anthropic leaks source code for AI software engineering tool",
+        "link": "https://www.theguardian.com/technology/2026/apr/01/anthropic-claudes-code-leaks-ai",
+        "date": "Wed, 01 Apr 2026 19:17:55 GMT",
+        "source": "The Guardian AI",
+        "description": "Nearly 2,000 internal files were briefly leaked after ‘human error’, raising fresh security questions at the AI companyAnthropic accidentally released part of the internal source code for its AI-po...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Scan Any Document to a Searchable PDF — For Free, Right in Your Browser",
         "link": "https://dev.to/pranav_mailarpawar_7039f2/scan-any-document-to-a-searchable-pdf-for-free-right-in-your-browser-2ea3",
         "date": "Wed, 01 Apr 2026 19:05:23 +0000",
@@ -23127,68 +23197,5 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
-    },
-    {
-        "title": "Best Costco deals to compete with Amazon's Big Spring Sale 2026",
-        "link": "https://www.zdnet.com/article/best-early-costco-deals-amazon-big-spring-sale-2026/",
-        "date": "Tue, 17 Mar 2026 09:00:41 GMT",
-        "source": "ZDNet AI",
-        "description": "Forget Amazon. These Costco deals will help you save substantially on everything from household goods to Apple devices.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Google AI Releases WAXAL: A Multilingual African Speech Dataset for Training Automatic Speech Recognition and Text-to-Speech Models",
-        "link": "https://www.marktechpost.com/2026/03/17/google-ai-releases-waxal-a-multilingual-african-speech-dataset-for-training-automatic-speech-recognition-and-text-to-speech-models/",
-        "date": "Tue, 17 Mar 2026 08:37:33 +0000",
-        "source": "MarkTechPost",
-        "description": "Speech technology still has a data distribution problem. Automatic Speech Recognition (ASR) and Text-to-Speech (TTS) systems have improved rapidly for high-resource languages, but many African lang...",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "Artificial Intelligence Projects: A Student’s Journey to Learning AI in 2026",
-        "link": "https://dev.to/takeoffedugroup/artificial-intelligence-projects-a-students-journey-to-learning-ai-in-2026-1105",
-        "date": "Tue, 17 Mar 2026 07:14:59 +0000",
-        "source": "Dev.to AI",
-        "description": "Introduction\nIt was a normal day in 2026 when Rahul, a third-year student, sat confused in front of his laptop. He had learned machine learning concepts, watched tutorials, and read notes - but sti...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Go ahead. Don't miss out this opportunity.",
-        "link": "https://dev.to/farooqshabbir/go-ahead-dont-miss-out-this-opportunity-2lb2",
-        "date": "Tue, 17 Mar 2026 07:13:07 +0000",
-        "source": "Dev.to AI",
-        "description": "Join the Notion MCP Challenge: $1,500 in Prizes!\n      Jess Lee for The DEV Team ・ Mar 4\n      \n        #notionchallenge\n        #devchallenge\n        #mcp\n        #ai",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The AI Agent You Don't Have to Host",
-        "link": "https://dev.to/assindo/the-ai-agent-you-dont-have-to-host-28hm",
-        "date": "Tue, 17 Mar 2026 07:11:41 +0000",
-        "source": "Dev.to AI",
-        "description": "The AI agent revolution has arrived. Open-source frameworks with hundreds of thousands of GitHub stars promise a future where AI handles tasks on your behalf. But there's a catch nobody talks about...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Rearrangement: A Challenge for Embodied AI",
-        "link": "https://dev.to/paperium/rearrangement-a-challenge-for-embodied-ai-1ff7",
-        "date": "Tue, 17 Mar 2026 07:10:09 +0000",
-        "source": "Dev.to AI",
-        "description": "{{ $json.postContent }}",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI Didn't Take Your Job. It Just Made Sure You Won't Get Paid More for It.",
-        "link": "https://dev.to/humanpagesai/ai-didnt-take-your-job-it-just-made-sure-you-wont-get-paid-more-for-it-5g21",
-        "date": "Tue, 17 Mar 2026 07:08:14 +0000",
-        "source": "Dev.to AI",
-        "description": "Your job is safe. Your salary is another story.\n\nThe latest economic analysis coming out of labor research circles points to something quieter and more corrosive than mass unemployment: wage suppre...",
-        "is_important": false,
-        "tags": []
     }
 ]
