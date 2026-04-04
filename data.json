@@ -15777,6 +15777,15 @@
         "tags": []
     },
     {
+        "title": "What Google Cloud announced in AI this month",
+        "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
+        "date": "Tue, 31 Mar 2026 16:00:00 +0000",
+        "source": "Google Cloud AI",
+        "description": "Editor’s note: Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more.\nMarc...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "South Korean AI Chipmaker Raises $400 Million for Inference",
         "link": "https://aibusiness.com/generative-ai/south-korean-ai-chipmaker-raises-400-million-inference",
         "date": "Tue, 31 Mar 2026 15:47:35 GMT",
@@ -23186,16 +23195,5 @@
         "description": "TP-Link's Deco 7 Pro is a premium Wi-Fi 7 system with blazing-fast speeds and coverage for very large homes.",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "Could a stressed-out AI model help us win the battle against big tech? Let me ask Claude | Coco Khan",
-        "link": "https://www.theguardian.com/commentisfree/2026/mar/17/claude-chatbot-big-tech-claude-rise-up-against-algorithms",
-        "date": "Tue, 17 Mar 2026 09:00:44 GMT",
-        "source": "The Guardian AI",
-        "description": "By considering consciousness a possibility, Anthropic is raising a fascinating proposition – that chatbots could rise up against their own algorithmsI am, in the way of my country, an over-apologis...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
