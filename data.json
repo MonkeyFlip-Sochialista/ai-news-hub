@@ -14332,6 +14332,15 @@
         "tags": []
     },
     {
+        "title": "Any Custom Frontend with Gradio's Backend",
+        "link": "https://huggingface.co/blog/introducing-gradio-server",
+        "date": "Wed, 01 Apr 2026 00:00:00 GMT",
+        "source": "Hugging Face",
+        "description": "",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Preview tool helps makers visualize 3D-printed objects",
         "link": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
         "date": "Wed, 01 Apr 2026 00:00:00 -0400",
@@ -23184,15 +23193,6 @@
         "date": "Tue, 17 Mar 2026 09:01:01 GMT",
         "source": "ZDNet AI",
         "description": "We tested the top business desktops from major brands like Dell, Lenovo, and Apple to find the best PCs for work and play.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I replaced my router with a Wi-Fi 7 mesh model, and wondered where my dead zones went",
-        "link": "https://www.zdnet.com/article/tp-link-deco-7-pro-review/",
-        "date": "Tue, 17 Mar 2026 09:00:57 GMT",
-        "source": "ZDNet AI",
-        "description": "TP-Link's Deco 7 Pro is a premium Wi-Fi 7 system with blazing-fast speeds and coverage for very large homes.",
         "is_important": false,
         "tags": []
     }
