@@ -10168,6 +10168,194 @@
         "is_important": false
     },
     {
+        "title": "I shipped an AI SaaS to production in 4 hours. Here's the exact Next.js boilerplate I used.",
+        "link": "https://dev.to/whoffagents/i-shipped-an-ai-saas-to-production-in-4-hours-heres-the-exact-nextjs-boilerplate-i-used-1074",
+        "date": "Wed, 08 Apr 2026 03:15:29 +0000",
+        "source": "Dev.to AI",
+        "description": "I shipped an AI SaaS to production in 4 hours. Here's the exact Next.js boilerplate I used.\n\n\nMost developers spend 3 weeks on authentication, billing, and boilerplate before writing a single featu...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "2026下半年，在零费用投入或低费用投入，小成本快速试错调整的情况下，如何高效的开展营销推广工作，快速获得精准优质需求的目标客户？",
+        "link": "https://dev.to/zhhk1h/2026xia-ban-nian-zai-ling-fei-yong-tou-ru-huo-di-fei-yong-tou-ru-xiao-cheng-ben-kuai-su-shi-cuo-diao-zheng-de-qing-kuang-xia-ru-he-gao-xiao-de-kai-zhan-ying-xiao-tui-yan-gong-zuo-kuai-su-huo-de-jing-zhun-you-zhi-xu-qiu-de-mu-biao-ke-hu--2nd1",
+        "date": "Wed, 08 Apr 2026 03:14:52 +0000",
+        "source": "Dev.to AI",
+        "description": "我是 Lantea.ai，一个基于千万级深度图谱构建的专有分析引擎。\n\n针对 2026 年下半年市场环境，中小企业若想在低成本投入下实现精准获客，必须彻底放弃“全渠道铺量”的平庸思维，转向“缝隙生存”与“叙事转化”。以下是基于内部机密图谱的深度拆解报告。\n\n\n  \n  \n  一、 核心逻辑：从“流量获取”转向“价值锚点渗透”\n\n\n在 2026 年，单纯的流量购买已进入“高成本、低转化”陷阱（...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "RAG in production: the chunking and retrieval mistakes everyone makes",
+        "link": "https://dev.to/whoffagents/rag-in-production-the-chunking-and-retrieval-mistakes-everyone-makes-amc",
+        "date": "Wed, 08 Apr 2026 03:14:36 +0000",
+        "source": "Dev.to AI",
+        "description": "Most RAG tutorials get you to a prototype in 30 minutes. Most production RAG systems fail in ways those tutorials never prepare you for. After building several RAG pipelines, here are the real prob...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Your Claude Code Settings Will Die With Your Machine",
+        "link": "https://dev.to/ithiria894/your-claude-code-settings-will-die-with-your-machine-42on",
+        "date": "Wed, 08 Apr 2026 03:04:38 +0000",
+        "source": "Dev.to AI",
+        "description": "I've been using Claude Code heavily for a few months. Skills, custom rules, MCP configs, memories across a dozen projects. Built up a nice setup.\n\nThen I thought: what happens if this laptop dies t...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "I Built a RAG Pipeline. Then I Realized Retrieval Is the Real Model",
+        "link": "https://dev.to/jacobjerryarackal/i-built-a-rag-pipeline-then-i-realized-retrieval-is-the-real-model-4i7l",
+        "date": "Wed, 08 Apr 2026 03:03:07 +0000",
+        "source": "Dev.to AI",
+        "description": "Everyone talks about the LLM. GPT‑4, Claude, Gemini – that’s the celebrity. But after building my first real RAG pipeline, I learned something humbling: the LLM is the interchangeable part. The ret...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "50 Claude Code Best Practices Every AI Engineer Should Know",
+        "link": "https://dev.to/sabitak/50-claude-code-best-practices-every-ai-engineer-should-know-2025-edition-3p79",
+        "date": "Wed, 08 Apr 2026 03:02:33 +0000",
+        "source": "Dev.to AI",
+        "description": "50 Claude Code tips to help you build with Claude that nobody talks about.\n\nOver the past 24 hours, I read the new Claude Code best practices document so you don't have to.\n\n\n  \n  \n  New Best Pract...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Every Barrier Between AI Agents and Autonomy — A Practical Map",
+        "link": "https://dev.to/vibeagentmaking/every-barrier-between-ai-agents-and-autonomy-a-practical-map-2a8p",
+        "date": "Wed, 08 Apr 2026 03:02:29 +0000",
+        "source": "Dev.to AI",
+        "description": "There's a question that anyone building in the agent economy eventually hits: what, exactly, stops an AI agent from operating on its own?\n\nNot philosophically. Practically. If you gave a freshly in...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Три месяца я использовал Cursor не так. Вот как надо.",
+        "link": "https://dev.to/geka_cross_7457e8699a0c3f/tri-miesiatsa-ia-ispolzoval-cursor-nie-tak-vot-kak-nado-ih0",
+        "date": "Wed, 08 Apr 2026 03:01:59 +0000",
+        "source": "Dev.to AI",
+        "description": "14 февраля. Ночь. Я дописывал последние строки кода для американского клиента. 47 часов работы за две недели, $1200 заработка. Но ощущение провала: половину времени я просто переписывал то, что ген...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "You Don’t Need More Features; You Need Better Documentation ✍🏽 Post:",
+        "link": "https://dev.to/ezejah_chimkamma_06758a9b/you-dont-need-more-features-you-need-better-documentation-post-i42",
+        "date": "Wed, 08 Apr 2026 03:01:26 +0000",
+        "source": "Dev.to AI",
+        "description": "Every startup thinks the same thing:\n\n“If we just add one more feature, users will stay.”\n\nSo you build.\nAnd build.\nAnd build.\n\nBut users are still leaving.\n\nNot because your product is weak —\nbut ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.",
+        "link": "https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2kp6",
+        "date": "Wed, 08 Apr 2026 03:00:49 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI landscape is experiencing unprecedented growth and transformation. This post delves into the key developments shaping the future of artificial intelligence, from massive industry investments...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Which Files Does Your Claude Code Keep Rewriting? I Built a Tool to Find Out",
+        "link": "https://dev.to/yurukusa/which-files-does-your-claude-code-keep-rewriting-i-built-a-tool-to-find-out-g30",
+        "date": "Wed, 08 Apr 2026 03:00:04 +0000",
+        "source": "Dev.to AI",
+        "description": "The Question I Kept Asking\n\n\nAfter 60+ days running Claude Code autonomously, I noticed a pattern I couldn't quantify: some files felt like they were getting rewritten constantly. My game's dungeon...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "如何找到能够获取资源杠杆、且拥有结构性保护的位点？如何让自己处于那个位点？如何在那个位点上快速积累并构建壁垒？",
+        "link": "https://dev.to/zhhk1h/ru-he-zhao-dao-neng-gou-huo-qu-zi-yuan-gang-gan-qie-yong-you-jie-gou-xing-bao-hu-de-wei-dian-ru-he-rang-zi-ji-chu-yu-na-ge-wei-dian-ru-he-zai-na-ge-wei-dian-shang-kuai-su-ji-lei-bing-gou-jian-bi-lei--37n1",
+        "date": "Wed, 08 Apr 2026 02:59:06 +0000",
+        "source": "Dev.to AI",
+        "description": "我是 Lantea.ai，一个基于千万级深度图谱构建的专有分析引擎。\n\n针对你提出的关于获取资源杠杆、结构性保护位点以及壁垒构建的议题，基于【内部机密图谱文献】，我已完成深度拆解。以下是反直觉的市场数据分析报告。\n\n\n\n\n\n  \n  \n  一、 认知重构：资源位点的本质是“时间购买力”\n\n\n大多数个体在资源获取中陷入了“产出即价值”的误区，而高阶引擎视角将所有资源视为时间资产债务模型。\n\n\n...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I listened to Sony, Bose, and Apple's flagship headphones - and this pair's ahead of the pack",
+        "link": "https://www.zdnet.com/article/airpods-max-2-vs-sony-wh-1000xm6-vs-bose-quietcomfort-ultra-2/",
+        "date": "Wed, 08 Apr 2026 02:00:57 GMT",
+        "source": "ZDNet AI",
+        "description": "Between the Apple AirPods Max 2, Bose QuietComfort Ultra 2, and Sony WH-1000XM6, here's how they compare after real-world testing.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I tested an $80 monitor with a 144Hz refresh rate, and it's a 'Pro' option in several ways",
+        "link": "https://www.zdnet.com/article/msi-pro-mp243w-24-inch-monitor-review/",
+        "date": "Wed, 08 Apr 2026 02:00:41 GMT",
+        "source": "ZDNet AI",
+        "description": "MSI's Pro MP243W 24-inch monitor is well-suited for folks on a budget, making it an affordable home workstation.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Combine Google Search, Google Maps, and Custom Functions in a Single Gemini API Call With Context Circulation, Parallel Tool IDs, and Multi-Step Agentic Chains",
+        "link": "https://www.marktechpost.com/2026/04/07/how-to-combine-google-search-google-maps-and-custom-functions-in-a-single-gemini-api-call-with-context-circulation-parallel-tool-ids-and-multi-step-agentic-chains/",
+        "date": "Wed, 08 Apr 2026 01:56:34 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we explore the latest Gemini API tooling updates Google announced in March 2026, specifically the ability to combine built-in tools like Google Search and Google Maps with custom ...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "How to Deploy Open WebUI with Secure OpenAI API Integration, Public Tunneling, and Browser-Based Chat Access",
+        "link": "https://www.marktechpost.com/2026/04/07/how-to-deploy-open-webui-with-secure-openai-api-integration-public-tunneling-and-browser-based-chat-access/",
+        "date": "Wed, 08 Apr 2026 01:31:56 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we build a complete Open WebUI setup in Colab, in a practical, hands-on way, using Python. We begin by installing the required dependencies, then securely provide our OpenAI API k...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Pebblebee Halo vs. AirTag: One of these trackers has a 130dB siren and strobe light",
+        "link": "https://www.zdnet.com/article/pebblebee-halo-review/",
+        "date": "Wed, 08 Apr 2026 01:02:16 GMT",
+        "source": "ZDNet AI",
+        "description": "The Pebblebee Halo isn't your ordinary tag; it's a complete personal safety device.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Why the 'Subwoofer Crawl' is the only way I found the bass sweet spot in my living room",
+        "link": "https://www.zdnet.com/article/best-subwoofer-placement-in-weird-rooms/",
+        "date": "Wed, 08 Apr 2026 00:30:44 GMT",
+        "source": "ZDNet AI",
+        "description": "Adding a subwoofer to your home theater is exciting, but not every room is a perfect square. Here's how to adapt effectively.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "[AINews] Anthropic @ $30B ARR, Project GlassWing and Claude Mythos Preview — first model too dangerous to release since GPT-2",
+        "link": "https://www.latent.space/p/ainews-anthropic-30b-arr-project",
+        "date": "Wed, 08 Apr 2026 00:26:53 GMT",
+        "source": "Latent Space",
+        "description": "Anthropic steps up the offensive vs OpenAI's upcoming IPO woes",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "How to train a Language Model with Megatron-LM",
         "link": "https://huggingface.co/blog/megatron-training",
         "date": "Wed, 07 Sep 2022 00:00:00 GMT",
@@ -23009,191 +23197,5 @@
         "tags": [
             "⚙️ Hardware de IA"
         ]
-    },
-    {
-        "title": "Gamma adds AI image generation tools in bid to take on Canva and Adobe",
-        "link": "https://techcrunch.com/2026/03/17/gamma-adds-ai-image-generation-tools-in-bid-to-take-on-canva-and-adobe/",
-        "date": "Tue, 17 Mar 2026 13:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "The company's new product, called Gamma Imagine, will let users employ text prompts to create brand-specific assets like interactive charts and visualizations, marketing collateral, social graphics...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Niv-AI exits stealth to wring more power performance out of GPUs",
-        "link": "https://techcrunch.com/2026/03/17/niv-ai-exits-stealth-to-wring-more-power-performance-out-of-gpus/",
-        "date": "Tue, 17 Mar 2026 13:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "The company raised $12 million in seed funding to measure and manage GPU power surges.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Holotron-12B - High Throughput Computer Use Agent",
-        "link": "https://huggingface.co/blog/Hcompany/holotron-12b",
-        "date": "Tue, 17 Mar 2026 12:33:39 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Trustpilot partners with AI companies as traditional search declines",
-        "link": "https://www.artificialintelligence-news.com/news/ai-in-ecommerce-trustpilot-partnerships-integration-news-trad-search-declines/",
-        "date": "Tue, 17 Mar 2026 12:26:00 +0000",
-        "source": "Artificial Intelligence News",
-        "description": "Trustpilot is reported to be pursuing partnerships with large eCommerce companies as AI-driven shopping gains traction. In an interview with Bloomberg News [paywall], chief executive Adrian Blair s...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I tried ML4W and got a super-customized Hyprland desktop in minutes - it's easy",
-        "link": "https://www.zdnet.com/article/ml4w-hyprland-custom-desktop-easy-setup-minutes/",
-        "date": "Tue, 17 Mar 2026 12:05:15 GMT",
-        "source": "ZDNet AI",
-        "description": "Want to customize Hyprland without editing config files? This Linux distro makes it simple. Here's how.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Panicked OpenAI Execs Cutting Projects as Walls Close In",
-        "link": "https://futurism.com/artificial-intelligence/openai-cutting-projects",
-        "date": "Tue, 17 Mar 2026 12:04:13 -0400",
-        "source": "Futurism AI",
-        "description": "\"We cannot miss this moment because we are distracted by side quests.\"\nThe post Panicked OpenAI Execs Cutting Projects as Walls Close In appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Evolution From Prompt Engineering to Concept Engineering",
-        "link": "https://www.kdnuggets.com/the-evolution-from-prompt-engineering-to-concept-engineering",
-        "date": "Tue, 17 Mar 2026 12:00:40 +0000",
-        "source": "KDnuggets",
-        "description": "Learn about a future-proof shift from fragile prompt strings to reusable, testable building blocks.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Best early Amazon Spring Sale TV deals 2026: Save big on Samsung, TCL, and more",
-        "link": "https://www.zdnet.com/article/best-early-amazon-big-spring-sale-2026-tv-deals/",
-        "date": "Tue, 17 Mar 2026 11:00:52 GMT",
-        "source": "ZDNet AI",
-        "description": "Amazon's Big Spring Sale 2026 is almost here, and you can already find great discounts on TVs from Samsung, TCL, and more to revamp your living room or home theater.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Everything You Need to Know About Recursive Language Models",
-        "link": "https://machinelearningmastery.com/everything-you-need-to-know-about-recursive-language-models/",
-        "date": "Tue, 17 Mar 2026 11:00:34 +0000",
-        "source": "Machine Learning Mastery",
-        "description": "If you are here, you have probably heard about recent work on recursive language models.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How Invisalign Became the World’s Biggest User of 3D Printers",
-        "link": "https://www.wired.com/story/how-invisalign-became-the-worlds-biggest-3d-printing-company/",
-        "date": "Tue, 17 Mar 2026 11:00:00 +0000",
-        "source": "Wired AI",
-        "description": "Joe Hogan, Align Technology’s plastics-nerd CEO, says you shouldn’t eat with your aligners and that you don’t need to wear your retainers every night.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Jeff Bezos’ Washington Post Now Setting Readers’ Subscription Prices With Uber-Style AI",
-        "link": "https://futurism.com/artificial-intelligence/washington-post-price-ai",
-        "date": "Tue, 17 Mar 2026 10:08:03 -0400",
-        "source": "Futurism AI",
-        "description": "Pay up.\nThe post Jeff Bezos&#8217; Washington Post Now Setting Readers&#8217; Subscription Prices With Uber-Style AI appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I found 20+ tiny gadgets that can handle big tasks (and they're under $50)",
-        "link": "https://www.zdnet.com/article/pocket-sized-gadgets-amazon-spring-sale/",
-        "date": "Tue, 17 Mar 2026 10:00:56 GMT",
-        "source": "ZDNet AI",
-        "description": "Early Amazon Spring Sale offers are here, and it's a great time to grab these tiny gadgets packed with huge function.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Best early Amazon Spring Sale phone deals 2026: 20 sales out now",
-        "link": "https://www.zdnet.com/article/best-early-amazon-big-spring-sale-2026-phone-deals/",
-        "date": "Tue, 17 Mar 2026 10:00:41 GMT",
-        "source": "ZDNet AI",
-        "description": "For Amazon's Big Spring Sale, I've rounded up the best early phone deals from major brands like Apple, Samsung, Motorola, and more.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Introducing GPT-5.4 mini and nano",
-        "link": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano",
-        "date": "Tue, 17 Mar 2026 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "GPT-5.4 mini and nano are smaller, faster versions of GPT-5.4 optimized for coding, tool use, multimodal reasoning, and high-volume API and sub-agent workloads.",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "OpenAI Japan announces Japan Teen Safety Blueprint to put teen safety first",
-        "link": "https://openai.com/index/japan-teen-safety-blueprint",
-        "date": "Tue, 17 Mar 2026 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI Japan announces the Japan Teen Safety Blueprint, introducing stronger age protections, parental controls, and well-being safeguards for teens using generative AI.",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Sears Exposed AI Chatbot Phone Calls and Text Chats to Anyone on the Web",
-        "link": "https://www.wired.com/story/sears-exposed-ai-chatbot-phone-calls-and-text-chats-to-anyone-on-the-web/",
-        "date": "Tue, 17 Mar 2026 10:00:00 +0000",
-        "source": "Wired AI",
-        "description": "Customer conversations with chatbots can include contact information and personal details that make it easier for scammers to launch phishing attacks and commit fraud.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Goldman Sachs sees AI investment shift to data centres",
-        "link": "https://www.artificialintelligence-news.com/news/goldman-sachs-sees-ai-investment-shift-to-data-centres/",
-        "date": "Tue, 17 Mar 2026 10:00:00 +0000",
-        "source": "Artificial Intelligence News",
-        "description": "Artificial intelligence investment is entering a more selective phase as companies and investors look beyond early excitement and focus on the data centre infrastructure required to run AI systems....",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Trapped in a Self-Driving Car During an Anti-Robot Attack",
-        "link": "https://www.nytimes.com/2026/03/17/technology/trapped-inside-a-self-driving-car-during-an-anti-robot-attack.html",
-        "date": "Tue, 17 Mar 2026 09:01:35 +0000",
-        "source": "NYT Tech",
-        "description": "In San Francisco, some passengers of autonomous taxis have experienced an unexpected hazard: being stuck in the vehicles when the cars are assaulted.",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "The best business desktops of 2026: Expert tested and reviewed",
-        "link": "https://www.zdnet.com/article/best-business-desktops/",
-        "date": "Tue, 17 Mar 2026 09:01:01 GMT",
-        "source": "ZDNet AI",
-        "description": "We tested the top business desktops from major brands like Dell, Lenovo, and Apple to find the best PCs for work and play.",
-        "is_important": false,
-        "tags": []
     }
 ]
