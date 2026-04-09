@@ -10168,6 +10168,154 @@
         "is_important": false
     },
     {
+        "title": "[AINews] Meta Superintelligence Labs announces Muse Spark, first frontier model on their completely new stack",
+        "link": "https://www.latent.space/p/ainews-meta-superintelligence-labs",
+        "date": "Wed, 08 Apr 2026 23:23:36 GMT",
+        "source": "Latent Space",
+        "description": "a quiet day lets us reflect on MSL finally shipping!",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Global musicians face the same ‘streaming paradox’, new study finds",
+        "link": "https://www.oii.ox.ac.uk/news-events/global-musicians-face-the-same-streaming-paradox-new-study-finds/",
+        "date": "Wed, 08 Apr 2026 23:01:17 +0000",
+        "source": "Oxford AI",
+        "description": "For musicians everywhere, streaming is indispensable, but so is the belief that it simply doesn’t pay fairly.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Comprehensive Implementation Guide to ModelScope for Model Search, Inference, Fine-Tuning, Evaluation, and Export",
+        "link": "https://www.marktechpost.com/2026/04/08/a-comprehensive-implementation-guide-to-modelscope-for-model-search-inference-fine-tuning-evaluation-and-export/",
+        "date": "Wed, 08 Apr 2026 22:43:24 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we explore ModelScope through a practical, end-to-end workflow that runs smoothly on Colab. We begin by setting up the environment, verifying dependencies, and confirming GPU avai...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Conflicting Rulings Leave Anthropic in ‘Supply-Chain Risk’ Limbo",
+        "link": "https://www.wired.com/story/anthropic-appeals-court-ruling/",
+        "date": "Wed, 08 Apr 2026 22:27:26 +0000",
+        "source": "Wired AI",
+        "description": "A US appeals court ruling is at odds with a separate, lower court decision from March, leaving uncertainty about if and how the US military can use the AI company's Claude model.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Ohio man becomes first to be convicted under new AI statute for sexually explicit images",
+        "link": "https://www.theguardian.com/us-news/2026/apr/08/ohio-man-convicted-ai-sexually-explicit-images",
+        "date": "Wed, 08 Apr 2026 22:13:18 GMT",
+        "source": "The Guardian AI",
+        "description": "James Strahler II pleaded guilty to cyberstalking, producing obscene images and digital forgeries of child sexual abuseSign up for the Breaking News US email to get newsletter alerts in your inboxA...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meet OSGym: A New OS Infrastructure Framework That Manages 1,000+ Replicas at $0.23/Day for Computer Use Agent Research",
+        "link": "https://www.marktechpost.com/2026/04/08/meet-osgym-a-new-os-infrastructure-framework-that-manages-1000-replicas-at-0-23-day-for-computer-use-agent-research/",
+        "date": "Wed, 08 Apr 2026 21:54:44 +0000",
+        "source": "MarkTechPost",
+        "description": "Training AI agents that can actually use a computer — opening apps, clicking buttons, browsing the web, writing code — is one of the hardest infrastructure problems in modern AI. It&#8217;s not a d...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "You can read PDFs and articles on your Kindle: How to send all kinds of files to your device",
+        "link": "https://www.zdnet.com/article/how-to-send-articles-and-files-kindle/",
+        "date": "Wed, 08 Apr 2026 21:06:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Ever wish you could read that long article or a PDF on your Kindle? Here's how you can do that in seconds.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Poke makes using AI agents as easy as sending a text",
+        "link": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+        "date": "Wed, 08 Apr 2026 21:05:13 +0000",
+        "source": "TechCrunch AI",
+        "description": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+        "link": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+        "date": "Wed, 08 Apr 2026 20:09:14 +0000",
+        "source": "TechCrunch AI",
+        "description": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta's Superintelligence Lab unveils its first public model, Muse Spark",
+        "link": "https://arstechnica.com/ai/2026/04/metas-superintelligence-lab-unveils-its-first-public-model-muse-spark/",
+        "date": "Wed, 08 Apr 2026 19:59:10 +0000",
+        "source": "Ars Technica AI",
+        "description": "Meta touts strong benchmarks but admits \"performance gaps\" in agentic and coding systems.",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Customize Amazon Nova models with Amazon Bedrock fine-tuning",
+        "link": "https://aws.amazon.com/blogs/machine-learning/customize-amazon-nova-models-with-amazon-bedrock-fine-tuning/",
+        "date": "Wed, 08 Apr 2026 19:51:50 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we'll walk you through a complete implementation of model fine-tuning in Amazon Bedrock using Amazon Nova models, demonstrating each step through an intent classifier example that ach...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Human-in-the-loop constructs for agentic workflows in healthcare and life sciences",
+        "link": "https://aws.amazon.com/blogs/machine-learning/human-in-the-loop-constructs-for-agentic-workflows-in-healthcare-and-life-sciences/",
+        "date": "Wed, 08 Apr 2026 19:48:07 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In healthcare and life sciences, AI agents help organizations process clinical data, submit regulatory filings, automate medical coding, and accelerate drug development and commercialization. Howev...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building intelligent audio search with Amazon Nova Embeddings: A deep dive into semantic audio understanding",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-intelligent-audio-search-with-amazon-nova-embeddings-a-deep-dive-into-semantic-audio-understanding/",
+        "date": "Wed, 08 Apr 2026 19:45:13 +0000",
+        "source": "AWS Machine Learning",
+        "description": "This post walks you through understanding audio embeddings, implementing Amazon Nova Multimodal Embeddings, and building a practical search system for your audio content. You'll learn how embedding...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Reinforcement fine-tuning on Amazon Bedrock: Best practices",
+        "link": "https://aws.amazon.com/blogs/machine-learning/reinforcement-fine-tuning-on-amazon-bedrock-best-practices/",
+        "date": "Wed, 08 Apr 2026 19:43:28 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we explore where RFT is most effective, using the GSM8K mathematical reasoning dataset as a concrete example. We then walk through best practices for dataset preparation and reward fu...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta Releases First Proprietary AI Model: Muse Spark",
+        "link": "https://aibusiness.com/generative-ai/meta-releases-first-proprietary-ai-model-muse-spark",
+        "date": "Wed, 08 Apr 2026 19:38:51 GMT",
+        "source": "AI Business",
+        "description": "The model is intended for personal AI use, and the vendor admits it is limited in certain agentic capabilities and coding.",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "How to quickly convert EPUB files to Kindle format - and why it matters",
+        "link": "https://www.zdnet.com/article/how-to-convert-epub-files-to-kindle-format/",
+        "date": "Wed, 08 Apr 2026 19:29:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Think you're stuck using only Amazon's Kindle format? Think again. Here's how to convert e-book formats, giving you more control over your digital library.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "How to Successfully Integrate AI Backend for Shorts in Your SaaS Solution",
         "link": "https://dev.to/ai_businessman/how-to-successfully-integrate-ai-backend-for-shorts-in-your-saas-solution-3h6k",
         "date": "Wed, 08 Apr 2026 19:28:31 +0000",
@@ -10495,6 +10643,15 @@
         "tags": []
     },
     {
+        "title": "Building AI-Ready Backends With Spring Boot in 2026",
+        "link": "https://towardsai.net/p/machine-learning/building-ai-ready-backends-with-spring-boot-in-2026",
+        "date": "Wed, 08 Apr 2026 16:01:01 +0000",
+        "source": "Towards AI",
+        "description": "Author(s): FutureLens Originally published on Towards AI. Building AI-Ready Backends With Spring Boot in 2026 Modern applications are no longer just CRUD systems — they’re expected to integrate int...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "The Revival of the Fashion-Tech Love Affair",
         "link": "https://www.nytimes.com/2026/04/02/style/meta-lab-smartglasses-wearables.html",
         "date": "Wed, 08 Apr 2026 15:55:56 +0000",
@@ -10601,6 +10758,17 @@
         "description": "Suunto's new air conduction earbuds have replaced my bone conduction headphones during workouts, especially when I want a better audio experience.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "The next phase of enterprise AI",
+        "link": "https://openai.com/index/next-phase-of-enterprise-ai",
+        "date": "Wed, 08 Apr 2026 14:00:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
@@ -23245,150 +23413,6 @@
         "link": "https://openai.com/index/child-safety-adopting-sbd-principles",
         "date": "Tue, 23 Apr 2024 00:00:00 GMT",
         "source": "OpenAI",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Introducing the Open Chain of Thought Leaderboard",
-        "link": "https://huggingface.co/blog/leaderboard-cot",
-        "date": "Tue, 23 Apr 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Generative modeling with sparse transformers",
-        "link": "https://openai.com/index/sparse-transformer",
-        "date": "Tue, 23 Apr 2019 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’ve developed the Sparse Transformer, a deep neural network which sets new records at predicting what comes next in a sequence—whether text, images, or sound. It uses an algorithmic improvement o...",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI licenses GPT-3 technology to Microsoft",
-        "link": "https://openai.com/index/openai-licenses-gpt-3-technology-to-microsoft",
-        "date": "Tue, 22 Sep 2020 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI has agreed to license GPT-3 to Microsoft for their own products and services.",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI appoints Scott Schools as Chief Compliance Officer",
-        "link": "https://openai.com/global-affairs/openai-chief-compliance-officer-announcement",
-        "date": "Tue, 22 Oct 2024 10:30:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI appoints Scott Schools as Chief Compliance Officer",
-        "is_important": false
-    },
-    {
-        "title": "Dr. Ronnie Chatterji named OpenAI’s first Chief Economist",
-        "link": "https://openai.com/global-affairs/openai-chief-economist-announcement",
-        "date": "Tue, 22 Oct 2024 10:05:00 GMT",
-        "source": "OpenAI",
-        "description": "Dr. Ronnie Chatterji named OpenAI’s first Chief Economist",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI and the Lenfest Institute AI Collaborative and Fellowship program",
-        "link": "https://openai.com/index/lenfest-institute",
-        "date": "Tue, 22 Oct 2024 06:05:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI and the Lenfest Institute AI Collaborative and Fellowship program",
-        "is_important": false
-    },
-    {
-        "title": "Hugging Face Teams Up with Protect AI: Enhancing Model Security for the ML Community",
-        "link": "https://huggingface.co/blog/protectai",
-        "date": "Tue, 22 Oct 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Transformers.js v3: WebGPU Support, New Models & Tasks, and More…",
-        "link": "https://huggingface.co/blog/transformersjs-v3",
-        "date": "Tue, 22 Oct 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": true
-    },
-    {
-        "title": "Diffusers welcomes Stable Diffusion 3.5 Large",
-        "link": "https://huggingface.co/blog/sd3-5",
-        "date": "Tue, 22 Oct 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Releasing Outlines-core 0.1.0: structured generation in Rust and Python",
-        "link": "https://huggingface.co/blog/outlines-core",
-        "date": "Tue, 22 Oct 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Deploying Speech-to-Speech on Hugging Face",
-        "link": "https://huggingface.co/blog/s2s_endpoint",
-        "date": "Tue, 22 Oct 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Announcing the 🤗 AI Research Residency Program",
-        "link": "https://huggingface.co/blog/ai-residency",
-        "date": "Tue, 22 Mar 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Pioneering an AI clinical copilot with Penda Health",
-        "link": "https://openai.com/index/ai-clinical-copilot-penda-health",
-        "date": "Tue, 22 Jul 2025 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI and Penda Health debut an AI clinical copilot that cuts diagnostic errors by 16% in real-world use—offering a new path for safe, effective AI in healthcare.",
-        "is_important": false
-    },
-    {
-        "title": "Stargate advances with 4.5 GW partnership with Oracle",
-        "link": "https://openai.com/index/stargate-advances-with-partnership-with-oracle",
-        "date": "Tue, 22 Jul 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Oracle and OpenAI have entered an agreement to develop 4.5 gigawatts of additional Stargate data center capacity in the U.S. This investment will create new jobs, accelerate America’s reindustriali...",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI’s new economic analysis",
-        "link": "https://openai.com/global-affairs/new-economic-analysis",
-        "date": "Tue, 22 Jul 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Analysis provides insights into ChatGPT’s impact on the economy. OpenAI also launches new research collaboration to study AI’s broader effects on the labor market and productivity.",
-        "is_important": false
-    },
-    {
-        "title": "GPT-3.5 Turbo fine-tuning and API updates",
-        "link": "https://openai.com/index/gpt-3-5-turbo-fine-tuning-and-api-updates",
-        "date": "Tue, 22 Aug 2023 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Developers can now bring their own data to customize GPT-3.5 Turbo for their use cases.",
-        "is_important": false
-    },
-    {
-        "title": "Introducing SafeCoder",
-        "link": "https://huggingface.co/blog/safecoder",
-        "date": "Tue, 22 Aug 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Introducing IDEFICS: An Open Reproduction of State-of-the-art Visual Langage Model",
-        "link": "https://huggingface.co/blog/idefics",
-        "date": "Tue, 22 Aug 2023 00:00:00 GMT",
-        "source": "Hugging Face",
         "description": "",
         "is_important": false
     }
