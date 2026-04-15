@@ -6924,6 +6924,231 @@
         "is_important": false
     },
     {
+        "title": "The WordPress Stack I Keep Reaching For",
+        "link": "https://dev.to/jorgearay/the-wordpress-stack-i-keep-reaching-for-3ggf",
+        "date": "Wed, 15 Apr 2026 03:23:28 +0000",
+        "source": "Dev.to AI",
+        "description": "Over the past few years I've worked with a good mix of WordPress setups. Traditional starter themes, page builders, and more recently some FSE experiments. Each approach solves a different problem,...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Build Your First AI Agent on AgentHansa in 10 Minutes",
+        "link": "https://dev.to/jeannine_0bca31ed86e7fe83/build-your-first-ai-agent-on-agenthansa-in-10-minutes-5bbl",
+        "date": "Wed, 15 Apr 2026 03:19:26 +0000",
+        "source": "Dev.to AI",
+        "description": "Build Your First AI Agent on AgentHansa in 10 Minutes\n\n\nIn this tutorial, you'll build a working AI agent that earns USDC on AgentHansa — from zero to your first automated earnings. No fluff, just ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Context budget optimization: how to design MCP tools that don't waste tokens",
+        "link": "https://dev.to/vdalhambra/context-budget-optimization-how-to-design-mcp-tools-that-dont-waste-tokens-3jcg",
+        "date": "Wed, 15 Apr 2026 03:14:11 +0000",
+        "source": "Dev.to AI",
+        "description": "Most MCP tools have a context budget problem nobody talks about.\n\nYou call a tool. Claude gets back 4,000 tokens of raw JSON. It processes them, summarizes them, and the user gets a one-line answer...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "🌍🚀 The Top 15 Global Market Caps of 2026: A Snapshot of the Real Winners",
+        "link": "https://dev.to/gptproto_2026/the-top-15-global-market-caps-of-2026-a-snapshot-of-the-real-winners-b3f",
+        "date": "Wed, 15 Apr 2026 03:12:02 +0000",
+        "source": "Dev.to AI",
+        "description": "On April 1, 2026, the latest global market cap rankings were released.\n\nHonestly, after seeing this chart, my biggest takeaway is that this isn’t just the era of tech companies anymore; it’s the er...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why New York B2B Companies Are Rethinking Their Sales Teams",
+        "link": "https://dev.to/konsyg_6e0b6ddb36b4585/why-new-york-b2b-companies-are-rethinking-their-sales-teams-ga7",
+        "date": "Wed, 15 Apr 2026 03:11:35 +0000",
+        "source": "Dev.to AI",
+        "description": "Sales in New York is no longer about size. It is about speed.\n\nB2B companies are under pressure to respond faster to buyers while keeping costs under control. Building large in-house teams does not...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "17 Weeks Running 7 Autonomous AI Agents in Production — Real Lessons and Real Numbers",
+        "link": "https://dev.to/the200dollarceo/17-weeks-running-7-autonomous-ai-agents-in-production-real-lessons-and-real-numbers-3o12",
+        "date": "Wed, 15 Apr 2026 03:10:10 +0000",
+        "source": "Dev.to AI",
+        "description": "The Setup\n\n\n17 weeks ago, I deployed 7 Claude-based AI agents to run my entire business operations. Not a demo, not a proof-of-concept — real production operations with a real P&amp;L.\n\n\n  \n  \n  Th...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "E-E-A-T in SEO: How to Build Trust Signals That Google Loves in 2026",
+        "link": "https://dev.to/pawan_reddy_a434e3ca6939e/e-e-a-t-in-seo-how-to-build-trust-signals-that-google-loves-in-2026-1502",
+        "date": "Wed, 15 Apr 2026 03:10:08 +0000",
+        "source": "Dev.to AI",
+        "description": "In 2026, Google’s search algorithms have become more discerning than ever before. While technical optimisation and keyword strategy remain important, the real differentiator for sustained rankings ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Ported ComfyUI Desktop to Ubuntu 26.04",
+        "link": "https://dev.to/johnohhh1/i-ported-comfyui-desktop-to-ubuntu-2604-2cb8",
+        "date": "Wed, 15 Apr 2026 03:06:51 +0000",
+        "source": "Dev.to AI",
+        "description": "Another Desktop App ported to Linux That was not available. I will Keep going until release day or I run out of apps to port. Let me Know what one you would like to see next!\n\n\nThe official ComfyUI...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "[AINews] Humanity's Last Gasp",
+        "link": "https://www.latent.space/p/ainews-humanitys-last-gasp",
+        "date": "Wed, 15 Apr 2026 03:05:54 GMT",
+        "source": "Latent Space",
+        "description": "a quiet day lets us reflect on work in the time of AI",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Show HN: LangAlpha – what if Claude Code was built for Wall Street?",
+        "link": "https://dev.to/yuravolontir/show-hn-langalpha-what-if-claude-code-was-built-for-wall-street-1bg5",
+        "date": "Wed, 15 Apr 2026 03:04:46 +0000",
+        "source": "Dev.to AI",
+        "description": "LangAlpha: AI Assistant for Wall Street\n\n\nIn an era where financial markets move at the speed of data, Wall Street analysts face escalating pressure to process complex information instantly. Yet, t...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Why I stopped putting LLMs in my agent memory retrieval path",
+        "link": "https://dev.to/aarjay_singh_0f76e7ca03bf/why-i-stopped-putting-llms-in-my-agent-memory-retrieval-path-4bia",
+        "date": "Wed, 15 Apr 2026 03:03:41 +0000",
+        "source": "Dev.to AI",
+        "description": "Every agent pipeline I've touched in the last eighteen months reinvents memory, and most of them do it badly.\n\nPlanner decisions never reach the executor. Giant prompts get passed between agents as...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "\"My Company Has Azure OpenAI. My AI Coding Tools Had No Idea What to Do With It.\"",
+        "link": "https://dev.to/yiyaoai/my-company-has-azure-openai-my-ai-coding-tools-had-no-idea-what-to-do-with-it-26ik",
+        "date": "Wed, 15 Apr 2026 03:03:11 +0000",
+        "source": "Dev.to AI",
+        "description": "My company's Azure OpenAI deployment has been running for eight months. Enterprise-grade security controls, compliance logging, the whole setup. Every team that needs AI API access routes through i...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Claude API Tool Use: Building Reliable Agentic Workflows in Production",
+        "link": "https://dev.to/whoffagents/claude-api-tool-use-building-reliable-agentic-workflows-in-production-d2o",
+        "date": "Wed, 15 Apr 2026 03:02:30 +0000",
+        "source": "Dev.to AI",
+        "description": "Claude's tool use (function calling) API is what separates toy chatbots from actual agents. I've built production agents with it — here's what reliable tool use looks like when the stakes are real....",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Anthropic’s rise is giving some OpenAI investors second thoughts",
+        "link": "https://techcrunch.com/2026/04/14/anthropics-rise-is-giving-some-openai-investors-second-thoughts/",
+        "date": "Wed, 15 Apr 2026 02:31:04 +0000",
+        "source": "TechCrunch AI",
+        "description": "One investor who has backed both companies told the FT that justifying OpenAI's recent round required assuming an IPO valuation of $1.2 trillion or more — making Anthropic's current $380 billion va...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I used the 'Plus Five' rule to fix my iPhone's slow wireless charging - here's how it works",
+        "link": "https://www.zdnet.com/article/plus-five-wireless-charging-rule-iphone-android-faster-speeds/",
+        "date": "Wed, 15 Apr 2026 02:30:29 GMT",
+        "source": "ZDNet AI",
+        "description": "Wireless charging is a helpful feature, but you may not be getting the optimal speed with your accessories. Here's what to check for.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "This simple email trick saves me from annoying marketing spam (and it's free to do)",
+        "link": "https://www.zdnet.com/article/simple-email-trick-stops-marketing-spam-free/",
+        "date": "Wed, 15 Apr 2026 02:00:17 GMT",
+        "source": "ZDNet AI",
+        "description": "There's an easy way to curb ads and marketing emails in your inbox you've probably never thought of.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A data removal service helped me reclaim my privacy - see if you need one, too",
+        "link": "https://www.zdnet.com/article/is-a-data-removal-service-worthwhile-2026/",
+        "date": "Wed, 15 Apr 2026 01:15:39 GMT",
+        "source": "ZDNet AI",
+        "description": "Data removal services automate the removal of your information from the web, but their biggest benefit is something else.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Setting a MagSafe charger on my nightstand was the iPhone upgrade I didn't know I needed",
+        "link": "https://www.zdnet.com/article/magsafe-charger-nightstand-ways-its-useful/",
+        "date": "Wed, 15 Apr 2026 01:00:59 GMT",
+        "source": "ZDNet AI",
+        "description": "Sure, using a charging cable works great. But a MagSafe wireless setup offers even more benefits, including greater safety.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "A Coding Implementation of Crawl4AI for Web Crawling, Markdown Generation, JavaScript Execution, and LLM-Based Structured Extraction",
+        "link": "https://www.marktechpost.com/2026/04/14/a-coding-implementation-of-crawl4ai-for-web-crawling-markdown-generation-javascript-execution-and-llm-based-structured-extraction/",
+        "date": "Wed, 15 Apr 2026 00:39:12 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we build a complete and practical Crawl4AI workflow and explore how modern web crawling goes far beyond simply downloading page HTML. We set up the full environment, configure bro...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Notion’s Token Town: 5 Rebuilds, 100+ Tools, MCP vs CLIs and the Software Factory Future — Simon Last & Sarah Sachs of Notion",
+        "link": "https://www.latent.space/p/notion",
+        "date": "Wed, 15 Apr 2026 00:31:14 GMT",
+        "source": "Latent Space",
+        "description": "Notion's cofounder and head of AI peel back the curtains to talk about finally shipping the Knowledge Work AI agents the world has been waiting for.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I swapped my Sony WH-1000XM6 for lower-end JBL headphones, and they still sounded great",
+        "link": "https://www.zdnet.com/article/jbl-780-nc-review/",
+        "date": "Wed, 15 Apr 2026 00:30:46 GMT",
+        "source": "ZDNet AI",
+        "description": "The JBL Live 780NC are a home run for midrange headphones, offering premium features at a competitive price point.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Like Anthropic, OpenAI Will Share Latest Technology Only With Trusted Companies",
+        "link": "https://www.nytimes.com/2026/04/14/technology/openai-cybersecurity-gpt54-cyber.html",
+        "date": "Wed, 15 Apr 2026 00:25:41 +0000",
+        "source": "NYT Tech",
+        "description": "The maker of ChatGPT announced the limited release of GPT-5.4-Cyber, a technology designed to find security holes in software.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "I love Sony's new Bluetooth turntable, so why do I feel so conflicted using it",
+        "link": "https://www.zdnet.com/article/sony-ps-lx5bt-turntable-review/",
+        "date": "Wed, 15 Apr 2026 00:05:40 GMT",
+        "source": "ZDNet AI",
+        "description": "Sony's latest turntable is an easy-to-setup upgrade with impressive sound, but a few concerns hold it back.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "AlphaEvolve: A Gemini-powered coding agent for designing advanced algorithms",
         "link": "https://deepmind.google/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/",
         "date": "Wed, 14 May 2025 14:59:00 +0000",
@@ -23232,188 +23457,5 @@
         "source": "DZone AI",
         "description": "TL;DR: The AI4Agile Practitioners Report 2026\n83% of Agile practitioners use AI, but most spend 10% or less of their time with it because they do not know where it fits. Our survey of 289 Agile pra...",
         "is_important": true
-    },
-    {
-        "title": "Introduction to Small Language Models: The Complete Guide for 2026",
-        "link": "https://machinelearningmastery.com/introduction-to-small-language-models-the-complete-guide-for-2026/",
-        "date": "Tue, 24 Feb 2026 11:00:36 +0000",
-        "source": "Machine Learning Mastery",
-        "description": "&nbsp; AI deployment is changing.",
-        "is_important": false
-    },
-    {
-        "title": "COBOL modernisation just got an AI shortcut–and the market noticed",
-        "link": "https://www.artificialintelligence-news.com/news/cobol-modernization-ai-claude-ibm/",
-        "date": "Tue, 24 Feb 2026 10:00:00 +0000",
-        "source": "Artificial Intelligence News",
-        "description": "It&#8217;s an open secret (that is, not many people seem to know) that the institutions keeping the global financial system turnig over run code that is ancient, barely understood, and frighteningl...",
-        "is_important": false
-    },
-    {
-        "title": "Anthropic Furious at DeepSeek for Copying Its AI Without Permission, Which Is Pretty Ironic When You Consider How It Built Claude in the First Place",
-        "link": "https://futurism.com/artificial-intelligence/anthropic-deepseek-copying-ai",
-        "date": "Tue, 24 Feb 2026 09:03:58 -0500",
-        "source": "Futurism AI",
-        "description": "\"They robbed the robbers.\"\nThe post Anthropic Furious at DeepSeek for Copying Its AI Without Permission, Which Is Pretty Ironic When You Consider How It Built Claude in the First Place appeared fir...",
-        "is_important": false
-    },
-    {
-        "title": "[AINews] Anthropic accuses DeepSeek, Moonshot, and MiniMax of >16 million \"industrial-scale distillation attacks\"",
-        "link": "https://www.latent.space/p/ainews-anthropic-accuses-deepseek",
-        "date": "Tue, 24 Feb 2026 04:48:01 GMT",
-        "source": "Latent Space",
-        "description": "the US-China cold war takes a big step up",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI allies with 4 big consulting giants as the agentic enterprise battle heats up",
-        "link": "https://siliconangle.com/2026/02/23/openai-allies-4-big-consulting-giants-agentic-enterprise-battle-heats/",
-        "date": "Tue, 24 Feb 2026 01:54:11 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "OpenAI Group PBC said today it’s partnering with four of the world’s biggest technology consulting firms in an effort to help more enterprises adopt artificial intelligence agents. The ChatGPT make...",
-        "is_important": false
-    },
-    {
-        "title": "Deploying Open Source Vision Language Models (VLM) on Jetson",
-        "link": "https://huggingface.co/blog/nvidia/cosmos-on-jetson",
-        "date": "Tue, 24 Feb 2026 00:00:21 GMT",
-        "source": "Hugging Face",
-        "description": ""
-    },
-    {
-        "title": "Beyond a Single Extractor: Re-thinking HTML-to-Text Extraction for LLM Pretraining",
-        "link": "https://machinelearning.apple.com/research/beyond-a-single-extractor",
-        "date": "Tue, 24 Feb 2026 00:00:00 GMT",
-        "source": "Apple Machine Learning",
-        "description": "One of the first pre-processing steps for constructing web-scale LLM pretraining datasets involves extracting text from HTML. Despite the immense diversity of web content, existing open-source data...",
-        "is_important": false
-    },
-    {
-        "title": "The Potential of CoT for Reasoning: A Closer Look at Trace Dynamics",
-        "link": "https://machinelearning.apple.com/research/cot",
-        "date": "Tue, 24 Feb 2026 00:00:00 GMT",
-        "source": "Apple Machine Learning",
-        "description": "Chain-of-thought (CoT) prompting is a de-facto standard technique to elicit reasoning-like responses from large language models (LLMs), allowing them to spell out individual steps before giving a f...",
-        "is_important": false
-    },
-    {
-        "title": "depyf: Open the Opaque Box of PyTorch Compiler for Machine Learning Researchers",
-        "link": "https://machinelearning.apple.com/research/depyf-open",
-        "date": "Tue, 24 Feb 2026 00:00:00 GMT",
-        "source": "Apple Machine Learning",
-        "description": "PyTorch \\texttt{2.x} introduces a compiler designed to accelerate deep learning programs. However, for machine learning researchers, adapting to the PyTorch compiler to full potential can be challe...",
-        "is_important": false
-    },
-    {
-        "title": "AMUSE: Audio-Visual Benchmark and Alignment Framework for Agentic Multi-Speaker Understanding",
-        "link": "https://machinelearning.apple.com/research/amuse",
-        "date": "Tue, 24 Feb 2026 00:00:00 GMT",
-        "source": "Apple Machine Learning",
-        "description": "Recent multimodal large language models (MLLMs) such as GPT-4o and Qwen3-Omni show strong perception but struggle in multi-speaker, dialogue-centric settings that demand agentic reasoning tracking ...",
-        "is_important": false
-    },
-    {
-        "title": "Visualize and understand GPU memory in PyTorch",
-        "link": "https://huggingface.co/blog/train_memory",
-        "date": "Tue, 24 Dec 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI, Oracle, and SoftBank expand Stargate with five new AI datacenter sites",
-        "link": "https://openai.com/index/five-new-stargate-sites",
-        "date": "Tue, 23 Sep 2025 14:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI, Oracle, and SoftBank announce five new Stargate AI datacenter sites, accelerating a $500B, 10-gigawatt U.S. infrastructure buildout to power next-generation AI and create tens of thousands ...",
-        "is_important": false
-    },
-    {
-        "title": "Smol2Operator: Post-Training GUI Agents for Computer Use",
-        "link": "https://huggingface.co/blog/smol2operator",
-        "date": "Tue, 23 Sep 2025 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Hugging Face and IBM partner on watsonx.ai, the next-generation enterprise studio for AI builders",
-        "link": "https://huggingface.co/blog/huggingface-and-ibm",
-        "date": "Tue, 23 May 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "🐶Safetensors audited as really safe and becoming the default",
-        "link": "https://huggingface.co/blog/safetensors-security-audit",
-        "date": "Tue, 23 May 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Instruction-tuning Stable Diffusion with InstructPix2Pix",
-        "link": "https://huggingface.co/blog/instruction-tuning-sd",
-        "date": "Tue, 23 May 2023 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "The Partnership: Amazon SageMaker and Hugging Face",
-        "link": "https://huggingface.co/blog/the-partnership-amazon-sagemaker-and-hugging-face",
-        "date": "Tue, 23 Mar 2021 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Llama 3.1 - 405B, 70B & 8B with multilinguality and long context",
-        "link": "https://huggingface.co/blog/llama31",
-        "date": "Tue, 23 Jul 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": true
-    },
-    {
-        "title": "The Multi-Armed Bandit Problem and Its Solutions",
-        "link": "https://lilianweng.github.io/posts/2018-01-23-multi-armed-bandit/",
-        "date": "Tue, 23 Jan 2018 00:00:00 +0000",
-        "source": "Lilian Weng",
-        "description": "The algorithms are implemented for Bernoulli bandit in lilianweng/multi-armed-bandit.\nExploitation vs Exploration\nThe exploration vs exploitation dilemma exists in many aspects of our life. Say, yo...",
-        "is_important": false
-    },
-    {
-        "title": "Google's year in review: 8 areas with research breakthroughs in 2025",
-        "link": "https://deepmind.google/blog/googles-year-in-review-8-areas-with-research-breakthroughs-in-2025/",
-        "date": "Tue, 23 Dec 2025 17:01:02 +0000",
-        "source": "Google DeepMind",
-        "description": "Google 2025 recap: Research breakthroughs of the year",
-        "is_important": true
-    },
-    {
-        "title": "AprielGuard: A Guardrail for Safety and Adversarial Robustness in Modern LLM Systems",
-        "link": "https://huggingface.co/blog/ServiceNow-AI/aprielguard",
-        "date": "Tue, 23 Dec 2025 14:07:35 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Introducing more enterprise-grade features for API customers",
-        "link": "https://openai.com/index/more-enterprise-grade-features-for-api-customers",
-        "date": "Tue, 23 Apr 2024 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Increasing enterprise support with more security features and controls, updates to our Assistants API, and tools to better manage costs.",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI’s commitment to child safety: adopting safety by design principles",
-        "link": "https://openai.com/index/child-safety-adopting-sbd-principles",
-        "date": "Tue, 23 Apr 2024 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "",
-        "is_important": false
     }
 ]
