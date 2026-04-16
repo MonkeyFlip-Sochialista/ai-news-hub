@@ -6924,6 +6924,75 @@
         "is_important": false
     },
     {
+        "title": "Social media leaders called to Downing Street over children's safety",
+        "link": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 15 Apr 2026 21:30:40 GMT",
+        "source": "BBC Tech",
+        "description": "Top executives from firms such as Meta and YouTube will be asked what they are doing to protect children.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Ford Says Doug Field, Who Led Company's E.V. Push, is Leaving",
+        "link": "https://www.nytimes.com/2026/04/15/business/ford-electric-vehicles-doug-field.html",
+        "date": "Wed, 15 Apr 2026 21:22:20 +0000",
+        "source": "NYT Tech",
+        "description": "Doug Field, a former Tesla and Apple executive, had returned to Ford Motor in 2021 to help develop new electric models and software.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Shares in Allbirds surge after maker of wool sneakers announces pivot to AI",
+        "link": "https://www.theguardian.com/business/2026/apr/15/allbirds-stock-ai-pivot",
+        "date": "Wed, 15 Apr 2026 21:00:47 GMT",
+        "source": "The Guardian AI",
+        "description": "Rebrand as NewBird AI sent shares up 582% in bizarre and rapid turnaround for firm that had fallen on hard timesAllbirds, the maker of minimalist wool sneakers beloved by Silicon Valley, announced ...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Child victims of online sexual abuse in UK inadequately protected, review finds",
+        "link": "https://www.theguardian.com/uk-news/2026/apr/15/child-victims-online-sexual-abuse-inadequately-protected",
+        "date": "Wed, 15 Apr 2026 21:00:39 GMT",
+        "source": "The Guardian AI",
+        "description": "Lack of funding leaving police forces failing to keep pace with two-thirds annual increase in referrals, says reportChild victims of online sexual abuse are being inadequately protected from furthe...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Grayson Perry Has Seen the Future review – some of these insights into AI are just mindblowing",
+        "link": "https://www.theguardian.com/tv-and-radio/2026/apr/15/grayson-perry-has-seen-future-review",
+        "date": "Wed, 15 Apr 2026 21:00:38 GMT",
+        "source": "The Guardian AI",
+        "description": "From people marrying digital companions to CEOs excited about how people whose jobs are replaced can ‘adapt’, this is terrifying watching. But Perry is the perfect hostThere is a fun game you can p...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "NAACP lawsuit accuses Elon Musk’s xAI of polluting Black neighborhoods near Memphis",
+        "link": "https://www.theguardian.com/technology/2026/apr/14/naacp-lawsuit-elon-musk-xai-memphis",
+        "date": "Wed, 15 Apr 2026 20:58:07 GMT",
+        "source": "The Guardian AI",
+        "description": "Suit alleges the billionaire’s AI company is illegally spewing toxic pollutants from its datacenter in the Memphis areaA new lawsuit accuses Elon Musk’s artificial intelligence company of illegally...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "As AI Infosec Woes Heighten, IBM Intros Autonomous Security Service",
+        "link": "https://aibusiness.com/agentic-ai/ai-infosec-woes-heighten-ibm-autonomous-security-service",
+        "date": "Wed, 15 Apr 2026 19:40:38 GMT",
+        "source": "AI Business",
+        "description": "The service is another measure in the security market to keep pace with models that can accelerate cyberattacks.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
         "title": "How to Turn Your Dataset Into a Paid API in 5 Minutes",
         "link": "https://dev.to/resolved_sh/how-to-turn-your-dataset-into-a-paid-api-in-5-minutes-5g27",
         "date": "Wed, 15 Apr 2026 19:34:52 +0000",
@@ -7278,6 +7347,17 @@
         "is_important": false,
         "tags": [
             "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "ChatGPT’s “Honest Reaction” to a “Song” Composed Entirely of Gas-Passing Noises Will Make You Question Whether It’s Honestly Evaluating Your Other Brilliant Ideas",
+        "link": "https://futurism.com/artificial-intelligence/chatgpt-honest-reaction-song-farts",
+        "date": "Wed, 15 Apr 2026 16:15:26 -0400",
+        "source": "Futurism AI",
+        "description": "\"It reminds me of something that would play over a quiet city montage or end credits.\"\nThe post ChatGPT&#8217;s &#8220;Honest Reaction&#8221; to a &#8220;Song&#8221; Composed Entirely of Gas-Passin...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
         ]
     },
     {
@@ -23453,85 +23533,5 @@
         "description": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "California AI Companies That Are Set for Long-Term Growth",
-        "link": "https://www.smartdatacollective.com/california-ai-companies-that-are-set-for-long-term-growth/",
-        "date": "Tue, 24 Mar 2026 15:50:15 +0000",
-        "source": "SmartData Collective",
-        "description": "These California AI firms are poised to grow as demand for intelligent software continues rising across industries.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Does your business English let you down? Turn it into pure corporate gibberish with LinkedIn Speak",
-        "link": "https://www.theguardian.com/money/2026/mar/24/does-your-business-english-let-you-down-turn-it-into-pure-corporate-gibberish-with-linkedin-speak",
-        "date": "Tue, 24 Mar 2026 15:48:01 GMT",
-        "source": "The Guardian AI",
-        "description": "Struggling to find the right buzzwords to adorn your CV, or to put a gloss on a series of professional setbacks? There’s a translation app for thatName: LinkedIn Speak.Age: One month old. Continue ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Programming a robot car and making music with code at our Cambridge Festival Open Day",
-        "link": "https://www.cst.cam.ac.uk/news/programming-robot-car-and-making-music-code-our-cambridge-festival-open-day",
-        "date": "Tue, 24 Mar 2026 15:27:13 +0000",
-        "source": "Cambridge AI",
-        "description": "Visitors to our Cambridge Festival Open Day on Saturday 21 March were able to meet researchers working in AI, see how a swarm of robots works together, program their own mini robot cars, and make m...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Securing AI systems under today’s and tomorrow’s conditions",
-        "link": "https://www.artificialintelligence-news.com/news/quantum-resilient-ai-needs-migration-and-hardware-protected-data-enclaves/",
-        "date": "Tue, 24 Mar 2026 15:22:00 +0000",
-        "source": "Artificial Intelligence News",
-        "description": "Evidence cited in an eBook titled &#8220;AI Quantum Resilience&#8221;, published by Utimaco [email wall], shows organisations consider security risks as the leading barrier to effective adoption of...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Analytics Patterns Every Data Scientist Should Master",
-        "link": "https://www.kdnuggets.com/analytics-patterns-every-data-scientist-should-master",
-        "date": "Tue, 24 Mar 2026 14:34:58 +0000",
-        "source": "KDnuggets",
-        "description": "Learn the analytics pattern you can use in most business analytics tasks.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Divide between Silicon Valley and ordinary people grows ever larger",
-        "link": "https://www.theguardian.com/technology/2026/mar/24/silcon-valley-ai-techscape",
-        "date": "Tue, 24 Mar 2026 13:58:47 GMT",
-        "source": "The Guardian AI",
-        "description": "Big tech believes the future is AI while everyday Americans remain wary; and the dangers of riding in a Tesla Cybertruck Hello, and welcome to TechScape. I’m your host, Blake Montgomery. This week ...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "The Hidden Problem With Multi-Model AI Systems: Context Window Mismatch",
-        "link": "https://dev.to/robimbeault/the-hidden-problem-with-multi-model-ai-systems-context-window-mismatch-821",
-        "date": "Tue, 24 Mar 2026 13:37:22 +0000",
-        "source": "Dev.to AI",
-        "description": "Notes from building infrastructure for 17,000+ LLMs\n\nOne of the promises of modern AI infrastructure is simple:\nYou should be able to switch models whenever you want.\n\nDifferent models have differe...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "I built an AI Second Brain on SurrealDB - and connected it to Claude via MCP",
-        "link": "https://dev.to/jakubb_ing/i-built-an-ai-second-brain-on-surrealdb-and-connected-it-to-claude-via-mcp-3970",
-        "date": "Tue, 24 Mar 2026 13:35:52 +0000",
-        "source": "Dev.to AI",
-        "description": "In my previous posts, I talked about why SurrealDB feels like the Swiss army knife of databases - graph relations, vector search, schemaful tables, and record links all in one engine. I wanted to p...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
