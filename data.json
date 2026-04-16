@@ -7154,6 +7154,17 @@
         "tags": []
     },
     {
+        "title": "Claude Opus 4.7 on Vertex AI",
+        "link": "https://cloud.google.com/blog/products/ai-machine-learning/claude-opus-4-7-on-vertex-ai/",
+        "date": "Wed, 15 Apr 2026 18:30:00 +0000",
+        "source": "Google Cloud AI",
+        "description": "Today, we’re announcing the general availability of Claude Opus 4.7 on Vertex AI. \nWhat’s new: Anthropic’s newest Opus model delivers advanced performance across coding, long-running agents, and pr...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "I tried Google's new desktop app, and I'll never search the old way again",
         "link": "https://www.zdnet.com/article/i-tried-googles-new-desktop-app/",
         "date": "Wed, 15 Apr 2026 18:25:00 GMT",
@@ -7174,6 +7185,15 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
+    },
+    {
+        "title": "Snap Is Laying Off 16% of Full-Time Staff as It Embraces A.I.",
+        "link": "https://www.nytimes.com/2026/04/15/business/snap-layoffs-snapchat.html",
+        "date": "Wed, 15 Apr 2026 18:21:18 +0000",
+        "source": "NYT Tech",
+        "description": "The company, which owns the social media app Snapchat, said it was laying off about 1,000 employees as it increased its reliance on artificial intelligence.",
+        "is_important": false,
+        "tags": []
     },
     {
         "title": "Once Trendy Shoe Company Allbirds Pivots to AI Infrastructure",
@@ -7388,6 +7408,17 @@
         "description": "AI and cloud technology are reshaping every corner of every industry around the world. Without our customers, who are building the future on our platform, there would be no Google Cloud. In this re...",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Multi-region endpoints are available for Claude on Vertex AI",
+        "link": "https://cloud.google.com/blog/products/ai-machine-learning/multi-region-endpoints-for-claude-available-on-vertex-ai/",
+        "date": "Wed, 15 Apr 2026 16:00:00 +0000",
+        "source": "Google Cloud AI",
+        "description": "Today, we’re announcing U.S. and EU multi-region endpoints for Claude on Vertex AI are available in public preview. By pooling capacity across multiple regions, these endpoints dynamically route re...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "Can this $70 Linux app make up for the lack of Photoshop? I tried it to find out",
@@ -7921,6 +7952,15 @@
         "tags": []
     },
     {
+        "title": "TAI #200: Anthropic’s Mythos Capability Step Change and Gated Release",
+        "link": "https://towardsai.net/p/machine-learning/tai-200-anthropics-mythos-capability-step-change-and-gated-release",
+        "date": "Wed, 15 Apr 2026 10:01:02 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on April 16, 2026 by Editorial Team Author(s): Towards AI Editorial Team Originally published on Towards AI. What happened this week in AI by Louie This week, Anthropic unveiled a new ...",
+        "is_important": true,
+        "tags": []
+    },
+    {
         "title": "The next evolution of the Agents SDK",
         "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
         "date": "Wed, 15 Apr 2026 10:00:00 GMT",
@@ -8000,6 +8040,15 @@
         "date": "Wed, 15 Apr 2026 08:56:58 -0400",
         "source": "Futurism AI",
         "description": "The AI industry has a major problem with young people.\nThe post Usually, Young People Embrace New Technology. Gen Z&#8217;s Attitude Toward AI Should Worry the Entire Tech Industry appeared first o...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "From Notebook to Production: Running ML in the Real World (Part 4)",
+        "link": "https://towardsai.net/p/machine-learning/from-notebook-to-production-running-ml-in-the-real-world-part-4",
+        "date": "Wed, 15 Apr 2026 08:06:01 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on April 16, 2026 by Editorial Team Author(s): Raj kumar Originally published on Towards AI. Part 4 of a 4-part series: From Data to Decisions Most machine learning projects look succe...",
         "is_important": false,
         "tags": []
     },
@@ -23484,54 +23533,5 @@
         "tags": [
             "⚙️ Hardware de IA"
         ]
-    },
-    {
-        "title": "Arm Is Now Making Its Own Chips",
-        "link": "https://www.wired.com/story/chip-design-firm-arm-is-making-its-own-ai-cpu/",
-        "date": "Tue, 24 Mar 2026 17:00:00 +0000",
-        "source": "Wired AI",
-        "description": "The chip design firm says Meta, OpenAI, Cerebras, and Cloudflare are among the first customers of its new artificial intelligence hardware.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "🔬Why There Is No \"AlphaFold for Materials\" — AI for Materials Discovery with Heather Kulik",
-        "link": "https://www.latent.space/p/materials",
-        "date": "Tue, 24 Mar 2026 16:53:15 GMT",
-        "source": "Latent Space",
-        "description": "Lessons from a Decade on the Frontier of AI for Science",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "Fortnite-maker Epic Games lays off 1,000 more staff",
-        "link": "https://www.bbc.com/news/articles/c5yxv5kzlv5o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 24 Mar 2026 16:48:34 GMT",
-        "source": "BBC Tech",
-        "description": "It is the second time in recent years the company has announced lays offs due to struggles with its blockbuster online game.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "There’s a $10 Billion Problem With Elon Musk’s New Chip Factory",
-        "link": "https://futurism.com/artificial-intelligence/elon-musk-terafab-finances",
-        "date": "Tue, 24 Mar 2026 16:06:41 -0400",
-        "source": "Futurism AI",
-        "description": "\"We either build the Terafab or we don't have the chips, and we need the chips, so we build the Terafab.\"\nThe post There&#8217;s a $10 Billion Problem With Elon Musk&#8217;s New Chip Factory appear...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Meet the former Apple designer building a new AI interface at Hark",
-        "link": "https://techcrunch.com/2026/03/24/meet-the-former-apple-designer-building-a-new-ai-interface-at-hark/",
-        "date": "Tue, 24 Mar 2026 16:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "The company said it would design models, hardware, and interfaces in tandem to deliver a \"seamless end-to-end personal intelligence product.\"",
-        "is_important": false,
-        "tags": []
     }
 ]
