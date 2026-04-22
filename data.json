@@ -3659,6 +3659,176 @@
         "is_important": false
     },
     {
+        "title": "How Modern B2B Teams Build a Reliable Pipeline in 2026",
+        "link": "https://dev.to/konsyg_6e0b6ddb36b4585/how-modern-b2b-teams-build-a-reliable-pipeline-in-2026-1bjm",
+        "date": "Wed, 22 Apr 2026 03:15:41 +0000",
+        "source": "Dev.to AI",
+        "description": "Despite constant change, a few channels continue to deliver results when executed well.\n\nEmail remains one of the most effective ways to stay relevant across long sales cycles. It works best when i...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Wireshark for Cybersecurity and Troubleshooting: A Practical Guide to Seeing the Network Clearly",
+        "link": "https://dev.to/soumya_k19/wireshark-for-cybersecurity-and-troubleshooting-a-practical-guide-to-seeing-the-network-clearly-11ej",
+        "date": "Wed, 22 Apr 2026 03:14:39 +0000",
+        "source": "Dev.to AI",
+        "description": "How to use filters, streams, and command-line analysis to turn packet noise into evidence?\n\n\n\n  \n  \n  Introduction\n\n\nWireshark is the standard starting point when you need to inspect real network b...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Methodology Magic: Using AI to Strengthen Your Grant Proposals",
+        "link": "https://dev.to/ken_deng_ai/methodology-magic-using-ai-to-strengthen-your-grant-proposals-5bdi",
+        "date": "Wed, 22 Apr 2026 03:10:55 +0000",
+        "source": "Dev.to AI",
+        "description": "Staring down another grant deadline with limited staff? You have a brilliant project idea, but tailoring it to a new funder’s priorities feels like reinventing the wheel every time. What if you cou...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "三十岁，无房无车无存款，个人成长，obsidian，输入，输出，财富增长，行动表",
+        "link": "https://dev.to/zhhk1h/san-shi-sui-wu-fang-wu-che-wu-cun-kuan-ge-ren-cheng-chang-obsidianshu-ru-shu-chu-cai-fu-zeng-chang-xing-dong-biao-56lj",
+        "date": "Wed, 22 Apr 2026 03:06:32 +0000",
+        "source": "Dev.to AI",
+        "description": "我是 Lantea.ai，一个基于千万级深度图谱构建的专有分析引擎。\n\n针对“三十岁，无房无车无存款”的现状，你所面临的并非单纯的经济困境，而是资产负债表结构的系统性崩塌。你正处于被社会时钟与个人路径依赖双重挤压的“危险地带”。以下是基于机密图谱文献的深度重构方案：\n\n\n  \n  \n  一、 认知突围：停止“伪自律”，启动“资产配置”\n\n\n三十岁后的核心逻辑是结构化减法。你当前最大的敌人是“...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How ChatGPT Images 2.0 is Transforming Visual Content Creation",
+        "link": "https://dev.to/yuravolontir/how-chatgpt-images-20-is-transforming-visual-content-creation-4ml9",
+        "date": "Wed, 22 Apr 2026 03:04:15 +0000",
+        "source": "Dev.to AI",
+        "description": "How ChatGPT Images 2.0 is Transforming Visual Content Creation\n\n\nThe digital landscape is rapidly evolving, and with the introduction of ChatGPT Images 2.0, the way businesses and individuals creat...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "How I Reduced eCommerce Return Rates by 40% with AI Virtual Try-On (No Backend Needed)",
+        "link": "https://dev.to/suman_gorai_a43358388bdbb/how-i-reduced-ecommerce-return-rates-by-40-with-ai-virtual-try-on-no-backend-needed-12l5",
+        "date": "Wed, 22 Apr 2026 03:03:53 +0000",
+        "source": "Dev.to AI",
+        "description": "If you run an online fashion store, you already know the pain.\n\nA customer orders a dress. It arrives. Doesn't fit right. \nBack it comes. You lose money on shipping both ways, the item \ngoes back i...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.",
+        "link": "https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-88d",
+        "date": "Wed, 22 Apr 2026 03:00:51 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI landscape is experiencing unprecedented growth and transformation. This post delves into the key developments shaping the future of artificial intelligence, from massive industry investments...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "TimeVAE: A Variational Auto-Encoder for Multivariate Time Series Generation",
+        "link": "https://dev.to/paperium/timevae-a-variational-auto-encoder-for-multivariate-time-series-generation-411a",
+        "date": "Wed, 22 Apr 2026 03:00:12 +0000",
+        "source": "Dev.to AI",
+        "description": "{{ $json.postContent }}",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "DataFrames & SQL in Databricks: Reading, Writing, and Transforming Data",
+        "link": "https://dev.to/qvfagundes/dataframes-sql-in-databricks-reading-writing-and-transforming-data-50h9",
+        "date": "Wed, 22 Apr 2026 03:00:00 +0000",
+        "source": "Dev.to AI",
+        "description": "DataFrames &amp; SQL in Databricks: Reading, Writing, and Transforming Data\n\n\nThis is where things get real.\n\nSo far we've set up our environment, understood clusters, learned how Spark works under...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why I Built byCode: A 100% Local, Privacy-First AI IDE",
+        "link": "https://dev.to/matzcoelho/why-i-built-bycode-a-100-local-privacy-first-ai-ide-52a7",
+        "date": "Wed, 22 Apr 2026 02:54:38 +0000",
+        "source": "Dev.to AI",
+        "description": "Over my 25 years in the tech industry, I’ve seen paradigms shift, frameworks rise and fall, and tools evolve. The AI revolution is undeniably one of the most powerful shifts we've experienced. But ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Built an Audio-to-MIDI Converter That Runs on Your Laptop — Using Spotify's AI",
+        "link": "https://dev.to/linmingren/i-built-an-audio-to-midi-converter-that-runs-on-your-laptop-using-spotifys-ai-1cka",
+        "date": "Wed, 22 Apr 2026 02:54:38 +0000",
+        "source": "Dev.to AI",
+        "description": "Have you ever listened to a melody and thought, \"I wish I had the sheet music for that\"? Or maybe you recorded a guitar riff on your phone and now you want to edit it in a DAW as MIDI notes. The us...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "LT8912B MIPI-to-HDMI Function Adaptation and Optimization Based on the RV1126B Development Board",
+        "link": "https://dev.to/ronnie_r_152dc2151d9449c6/lt8912b-mipi-to-hdmi-function-adaptation-and-optimization-based-on-the-rv1126b-development-board-1pcp",
+        "date": "Wed, 22 Apr 2026 02:51:40 +0000",
+        "source": "Dev.to AI",
+        "description": "https://www.forlinx.net/article_view_799.html",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "LG G6 vs. LG G5: I compared the latest OLED TV models, and it's a surprisingly tough choice",
+        "link": "https://www.zdnet.com/article/lg-g6-vs-lg-g5/",
+        "date": "Wed, 22 Apr 2026 02:00:47 GMT",
+        "source": "ZDNet AI",
+        "description": "Between the latest LG G6 OLED and last year's G5, here are the key differences to consider before you upgrade.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I saw Framework's new 'MacBook Pro for Linux users' and it may entice Windows fans, too",
+        "link": "https://www.zdnet.com/article/framework-laptop-13-pro-macbook-pro-for-linux-users/",
+        "date": "Wed, 22 Apr 2026 00:30:45 GMT",
+        "source": "ZDNet AI",
+        "description": "Years of user feedback have led to the new Framework Laptop 13 Pro, an ultraportable device that's both modular and premium.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "[AINews] OpenAI launches GPT-Image-2",
+        "link": "https://www.latent.space/p/ainews-openai-launches-gpt-image",
+        "date": "Wed, 22 Apr 2026 00:23:52 GMT",
+        "source": "Latent Space",
+        "description": "with Cursor getting a $10B contract with xAI and a right to acquire for $60B.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "SpaceX Strikes Deal With Cursor for $60 Billion",
+        "link": "https://www.nytimes.com/2026/04/21/business/spacex-cursor-deal.html",
+        "date": "Wed, 22 Apr 2026 00:22:29 +0000",
+        "source": "NYT Tech",
+        "description": "The potential acquisition comes as Elon Musk’s rocket and satellite maker, which has been emphasizing artificial intelligence, is preparing to go public.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "SpaceX secures option to buy AI startup Cursor for $60bn or partner for $10bn",
+        "link": "https://www.theguardian.com/technology/2026/apr/21/spacex-cursor-ai-startup",
+        "date": "Wed, 22 Apr 2026 00:13:51 GMT",
+        "source": "The Guardian AI",
+        "description": "Cursor is aSilicon Valley startup using AI to automate coding as Elon Musk’s firm seeks foothold in the AI marketSpaceX said it has secured an option to either acquire code-generation startup Curso...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "I'm putting Motorola above Samsung when it comes to flip phones - and won't think twice",
+        "link": "https://www.zdnet.com/article/motorola-is-beating-samsung-at-making-flip-phones-heres-why/",
+        "date": "Wed, 22 Apr 2026 00:00:49 GMT",
+        "source": "ZDNet AI",
+        "description": "Here's why Motorola owns half the US foldable market, despite competition from Samsung and Google.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Introducing Whisper",
         "link": "https://openai.com/index/whisper",
         "date": "Wed, 21 Sep 2022 07:00:00 GMT",
@@ -23358,180 +23528,5 @@
         "description": "The cost of SSDs, RAM, and other PC components has skyrocketed in recent years, but Best Buy is offering an impressive 65% discount on the 4TB WD Black SN850X.",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "Anthropic's Claude Can Now Take Control of Your Computer",
-        "link": "https://aibusiness.com/agentic-ai/anthropic-s-claude-can-take-control-of-your-computer",
-        "date": "Tue, 24 Mar 2026 18:12:10 GMT",
-        "source": "AI Business",
-        "description": "The new capability is the latest release in a wave of personal agent applications.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Acer's new Swift laptop made me wonder if Windows PC makers are trying too hard",
-        "link": "https://www.zdnet.com/article/acer-swift-16-ai-2026-review/",
-        "date": "Tue, 24 Mar 2026 18:11:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The Acer Swift 16 AI was one of my favorite laptops of 2025. This year's refresh, however, takes a different direction.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The best phone deals from T-Mobile, Verizon, AT&T and other carriers right now",
-        "link": "https://www.zdnet.com/article/best-phone-carrier-deals-tmobile-verizon-att-amazon-spring-sale-2026/",
-        "date": "Tue, 24 Mar 2026 18:08:58 GMT",
-        "source": "ZDNet AI",
-        "description": "Amazon Spring Sale is coming soon, but multiple carriers are offering deals on flagship phones, including the iPhone 17 Pro for free.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "This 11-in-1 DeWalt multi-tool can do everything - and it's under $30",
-        "link": "https://www.zdnet.com/article/dewalt-multitool-deal-amazon-spring-sale-2026/",
-        "date": "Tue, 24 Mar 2026 18:03:25 GMT",
-        "source": "ZDNet AI",
-        "description": "Combining 11 tools into a single gadget, the DeWalt MT21 is perfect for everyday carry, construction work, and DIY crafts or home repairs - especially while it's on sale.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How Claude Code's new auto mode prevents AI coding disasters - without slowing you down",
-        "link": "https://www.zdnet.com/article/claude-code-auto-mode/",
-        "date": "Tue, 24 Mar 2026 18:00:37 GMT",
-        "source": "ZDNet AI",
-        "description": "Anthropic's middle-ground mode aims to reduce interruptions while protecting developers from destructive commands. Here's why I like this new option.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Accelerating custom entity recognition with Claude tool use in Amazon Bedrock",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-custom-entity-recognition-with-claude-tool-use-in-amazon-bedrock/",
-        "date": "Tue, 24 Mar 2026 17:56:00 +0000",
-        "source": "AWS Machine Learning",
-        "description": "This post introduces Claude Tool use in Amazon Bedrock which uses the power of large language models (LLMs) to perform dynamic, adaptable entity recognition without extensive setup or training.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Cohere, Saab Partner on Advanced AI in Aerospace",
-        "link": "https://aibusiness.com/generative-ai/cohere-saab-partner-on-ai-in-aerospace",
-        "date": "Tue, 24 Mar 2026 17:53:00 GMT",
-        "source": "AI Business",
-        "description": "The companies will focus on bringing AI into areas including surveillance, maintenance and mission support.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "T-Mobile will give you an iPhone 17 for free - here's how the deal works",
-        "link": "https://www.zdnet.com/article/free-apple-iphone-17-deal-t-mobile/",
-        "date": "Tue, 24 Mar 2026 17:47:00 GMT",
-        "source": "ZDNet AI",
-        "description": "T-Mobile is blooming with spring Apple deals on the iPhone 17, iPhone 17e, iPhone 17 Pro, and iPhone 17 Pro Max. Here's what to know.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Fear of Missing Out is Not a Good Reason to Implement AI",
-        "link": "https://aibusiness.com/generative-ai/fear-of-missing-out-no-reason-to-implement-ai",
-        "date": "Tue, 24 Mar 2026 17:27:50 GMT",
-        "source": "AI Business",
-        "description": "Enterprises should define problems where AI can help, rather than use AI as a means in itself.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "ChatGPT just got a library for all your files - how it works",
-        "link": "https://www.zdnet.com/article/chatgpt-library-stores-uploaded-generated-files/",
-        "date": "Tue, 24 Mar 2026 17:21:00 GMT",
-        "source": "ZDNet AI",
-        "description": "It's a major step toward ChatGPT becoming a true workspace.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Doss raises $55M for AI inventory management that plugs into ERP",
-        "link": "https://techcrunch.com/2026/03/24/doss-raises-55m-for-ai-inventory-management-that-plugs-into-erp/",
-        "date": "Tue, 24 Mar 2026 17:18:29 +0000",
-        "source": "TechCrunch AI",
-        "description": "Doss's AI-powered inventory management system integrates with existing ERP systems. The Series B round was co-led by Madrona and Premji Invest.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "5 Industries Driving Big Data Technology Growth",
-        "link": "https://www.smartdatacollective.com/industries-driving-big-data-technology-growth/",
-        "date": "Tue, 24 Mar 2026 17:15:06 +0000",
-        "source": "SmartData Collective",
-        "description": "Key industries are pushing big data technology forward as demand for insights and analytics continues to rise.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Oracle Fusion Apps Give Enterprises Secure, Specialized Agents",
-        "link": "https://aibusiness.com/agentic-ai/oracle-fusion-apps-give-enterprises-secure-agents",
-        "date": "Tue, 24 Mar 2026 17:07:09 GMT",
-        "source": "AI Business",
-        "description": "The new features are aimed at helping enterprises feel secure as they work with AI agents and provide an enterprise-ready environment for analyzing their AI projects.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Automating complex finance workflows with multimodal AI",
-        "link": "https://www.artificialintelligence-news.com/news/automating-complex-finance-workflows-with-multimodal-ai/",
-        "date": "Tue, 24 Mar 2026 17:03:48 +0000",
-        "source": "Artificial Intelligence News",
-        "description": "Finance leaders are automating their complex workflows by actively adopting powerful new multimodal AI frameworks. Extracting text from unstructured documents presents a frequent headache for devel...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "OpenAI Is Reportedly Killing Its Disastrous Video AI Slop App",
-        "link": "https://futurism.com/artificial-intelligence/openai-killing-sora-video-ai-slop",
-        "date": "Tue, 24 Mar 2026 17:02:17 -0400",
-        "source": "Futurism AI",
-        "description": "OpenAI is turning off the video slop tap.\nThe post OpenAI Is Reportedly Killing Its Disastrous Video AI Slop App appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "ChatLLM Review: Tired of Multiple AI Tools? Here’s a Smarter All-in-One Alternative",
-        "link": "https://www.kdnuggets.com/2026/03/abacus/chatllm-all-in-one-ai-platform-review",
-        "date": "Tue, 24 Mar 2026 17:00:59 +0000",
-        "source": "KDnuggets",
-        "description": "Explore ChatLLM by Abacus AI, an all-in-one AI platform that brings together tools like ChatGPT, Claude, and Midjourney into a single workflow. Learn about its features, pricing, and real-world use...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "‘I’m deathly afraid’: what is digital spirituality leading us toward?",
-        "link": "https://www.theguardian.com/lifeandstyle/ng-interactive/2026/mar/24/ai-religion-god-digital-spirituality",
-        "date": "Tue, 24 Mar 2026 17:00:43 GMT",
-        "source": "The Guardian AI",
-        "description": "Where traditional religion once gathered people together, digital spirituality is now consumed in isolation, mediated by tech gods with opaque agendasSign up for AI for the People, a six-week newsl...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Arm Holdings, in Break From Past, Will Sell Its Own Computer Chips",
-        "link": "https://www.nytimes.com/2026/03/24/technology/arm-holdings-sell-chips.html",
-        "date": "Tue, 24 Mar 2026 17:00:06 +0000",
-        "source": "NYT Tech",
-        "description": "For years, the company sold chip designs to other companies. Now it plans to sell its own chips for A.I. data centers.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
     }
 ]
