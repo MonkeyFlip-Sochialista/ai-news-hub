@@ -4829,6 +4829,15 @@
         ]
     },
     {
+        "title": "Decoupled DiLoCo: A new frontier for resilient, distributed AI training",
+        "link": "https://deepmind.google/blog/decoupled-diloco/",
+        "date": "Wed, 22 Apr 2026 10:20:03 +0000",
+        "source": "Google DeepMind",
+        "description": "",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Anthropic investigating claim of unauthorised access to Mythos AI tool",
         "link": "https://www.bbc.com/news/articles/cy41zejp9pko?at_medium=RSS&at_campaign=rss",
         "date": "Wed, 22 Apr 2026 10:13:35 GMT",
@@ -23687,15 +23696,6 @@
         "date": "Tue, 31 Mar 2026 01:04:54 GMT",
         "source": "Latent Space",
         "description": "a quiet day lets us examine an interesting mental model",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Don't ignore your desktop PC's empty M.2 slots - they're more useful than you think",
-        "link": "https://www.zdnet.com/article/desktop-pc-m2-slots-how-to-use-them-fully/",
-        "date": "Tue, 31 Mar 2026 01:00:59 GMT",
-        "source": "ZDNet AI",
-        "description": "M.2 slots aren't just for storage; you can get more use out of your desktop with some initial investment.",
         "is_important": false,
         "tags": []
     }
