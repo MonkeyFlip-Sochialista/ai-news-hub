@@ -3659,6 +3659,107 @@
         "is_important": false
     },
     {
+        "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
+        "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+        "date": "Wed, 22 Apr 2026 23:56:52 +0000",
+        "source": "TechCrunch AI",
+        "description": "Tesla's planned capex for 2026 is three times higher than what the company has historically spent. Its CFO said, as a result, Tesla will have a negative free cash flow the rest of the year.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI is flattening the jobs market for young people, says Sunak",
+        "link": "https://www.bbc.com/news/articles/cvg07x4rejdo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 22 Apr 2026 23:01:09 GMT",
+        "source": "BBC Tech",
+        "description": "The former prime minister said graduates' concerns about getting entry-level jobs are justified.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Day 1 at Google Cloud Next ‘26 recap",
+        "link": "https://cloud.google.com/blog/topics/google-cloud-next/next26-day-1-recap/",
+        "date": "Wed, 22 Apr 2026 23:00:00 +0000",
+        "source": "Google Cloud AI",
+        "description": "Last year at Google Cloud Next ‘25, we asked you to imagine a new future for AI. At Next ‘26, the question before you is how do you move AI into production across your entire enterprise?\nAccording ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google updates Workspace to make AI your new office intern",
+        "link": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+        "date": "Wed, 22 Apr 2026 22:44:26 +0000",
+        "source": "TechCrunch AI",
+        "description": "Google has introduced a host of new automated functions into Workspace, all of which are driven by Workspace Intelligence, its new AI system.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Hands on with X’s new AI-powered custom feeds",
+        "link": "https://techcrunch.com/2026/04/22/hands-on-with-xs-new-ai-powered-custom-feeds/",
+        "date": "Wed, 22 Apr 2026 22:25:53 +0000",
+        "source": "TechCrunch AI",
+        "description": "X's AI-powered custom timelines are replacing Communities, with Grok-curated feeds...and new ad slots.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Sam Altman’s Orb Company Promoted a Bruno Mars Partnership That Doesn't Exist",
+        "link": "https://www.wired.com/story/sam-altman-orb-company-bruno-mars-partnership-fake/",
+        "date": "Wed, 22 Apr 2026 22:11:15 +0000",
+        "source": "Wired AI",
+        "description": "“To be clear, we were never approached … nor were we in any discussions regarding a partnership or tour access,” a spokesperson for the artist tells WIRED.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Cost-effective multilingual audio transcription at scale with Parakeet-TDT and AWS Batch",
+        "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-multilingual-audio-transcription-at-scale-with-parakeet-tdt-and-aws-batch/",
+        "date": "Wed, 22 Apr 2026 21:05:01 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we walk through building a scalable, event-driven transcription pipeline that automatically processes audio files uploaded to Amazon Simple Storage Service (Amazon S3), and show you h...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Our newsroom AI policy",
+        "link": "https://arstechnica.com/staff/2026/04/our-newsroom-ai-policy/",
+        "date": "Wed, 22 Apr 2026 20:40:59 +0000",
+        "source": "Ars Technica AI",
+        "description": "How Ars Technica uses, and doesn't use, generative AI.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "How SpaceX preempted a $2B fundraise with a $60B buyout offer",
+        "link": "https://techcrunch.com/2026/04/22/how-spacex-preempted-a-2b-fundraise-with-a-60b-buyout-offer/",
+        "date": "Wed, 22 Apr 2026 19:51:51 +0000",
+        "source": "TechCrunch AI",
+        "description": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Bloom Card vs. Brick: My verdict after trying both gadgets to cut screen time",
+        "link": "https://www.zdnet.com/article/bloom-card-review/",
+        "date": "Wed, 22 Apr 2026 19:38:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Should you buy a Bloom Card to lower your phone usage? I tried it for weeks, and here's my verdict.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Shopify’s AI Phase Transition: 2026 Usage Explosion, Unlimited Opus-4.6 Token Budget, Tangle, Tangent, SimGym — with Mikhail Parakhin, Shopify CTO",
+        "link": "https://www.latent.space/p/shopify",
+        "date": "Wed, 22 Apr 2026 19:33:49 GMT",
+        "source": "Latent Space",
+        "description": "A rare interview with Shopify's CTO on -everything- that Shopify is doing to maximize AI for their customers, with exclusive data on their own AI adoption.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Amazon SageMaker AI now supports optimized generative AI inference recommendations",
         "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-now-supports-optimized-generative-ai-inference-recommendations/",
         "date": "Wed, 22 Apr 2026 19:15:08 +0000",
@@ -3995,6 +4096,15 @@
         ]
     },
     {
+        "title": "Rogue Group Gains Access to Anthropic’s Dangerous New Mythos AI",
+        "link": "https://futurism.com/artificial-intelligence/rogue-group-gains-access-anthropic-ai",
+        "date": "Wed, 22 Apr 2026 16:27:39 -0400",
+        "source": "Futurism AI",
+        "description": "That didn't take long.\nThe post Rogue Group Gains Access to Anthropic&#8217;s Dangerous New Mythos AI appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "AutoAdapt: Automated domain adaptation for large language models",
         "link": "https://www.microsoft.com/en-us/research/blog/autoadapt-automated-domain-adaptation-for-large-language-models/",
         "date": "Wed, 22 Apr 2026 16:25:30 +0000",
@@ -4077,6 +4187,17 @@
         "is_important": false,
         "tags": [
             "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Making ChatGPT better for clinicians",
+        "link": "https://openai.com/index/making-chatgpt-better-for-clinicians",
+        "date": "Wed, 22 Apr 2026 15:00:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI makes ChatGPT for Clinicians free for verified U.S. physicians, nurse practitioners, and pharmacists, supporting clinical care, documentation, and research.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
         ]
     },
     {
@@ -23579,133 +23700,5 @@
         "description": "Review: The Polk Audio Atrium 5 speakers pair a sleek, minimalist design with full weatherproofing, delivering crisp, dynamic sound.",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "TRL v1.0: Post-Training Library That Holds When the Field Invalidates Its Own Assumptions",
-        "link": "https://huggingface.co/blog/trl-v1",
-        "date": "Tue, 31 Mar 2026 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "ProText: A Benchmark Dataset for Measuring (Mis)gendering in Long-Form Texts",
-        "link": "https://machinelearning.apple.com/research/protext-gender-bias-benchmark",
-        "date": "Tue, 31 Mar 2026 00:00:00 GMT",
-        "source": "Apple Machine Learning",
-        "description": "We introduce ProText, a dataset for measuring gendering and misgendering in stylistically diverse long-form English texts. ProText spans three dimensions: Theme nouns (names, occupations, titles, k...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Bitboard version of Tetris AI",
-        "link": "https://arxiv.org/abs/2603.26765",
-        "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.26765v1 Announce Type: new \nAbstract: The efficiency of game engines and policy optimization algorithms is crucial for training reinforcement learning (RL) agents in complex sequential d...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Multiverse: Language-Conditioned Multi-Game Level Blending via Shared Representation",
-        "link": "https://arxiv.org/abs/2603.26782",
-        "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.26782v1 Announce Type: new \nAbstract: Text-to-level generation aims to translate natural language descriptions into structured game levels, enabling intuitive control over procedural con...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Concerning Uncertainty -- A Systematic Survey of Uncertainty-Aware XAI",
-        "link": "https://arxiv.org/abs/2603.26838",
-        "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.26838v1 Announce Type: new \nAbstract: This paper surveys uncertainty-aware explainable artificial intelligence (UAXAI), examining how uncertainty is incorporated into explanatory pipelin...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Neuro-Symbolic Learning for Predictive Process Monitoring via Two-Stage Logic Tensor Networks with Rule Pruning",
-        "link": "https://arxiv.org/abs/2603.26944",
-        "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.26944v1 Announce Type: new \nAbstract: Predictive modeling on sequential event data is critical for fraud detection and healthcare monitoring. Existing data-driven approaches learn correl...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Compliance-Aware Predictive Process Monitoring: A Neuro-Symbolic Approach",
-        "link": "https://arxiv.org/abs/2603.26948",
-        "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.26948v1 Announce Type: new \nAbstract: Existing approaches for predictive process monitoring are sub-symbolic, meaning that they learn correlations between descriptive features and a targ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Transparency as Architecture: Structural Compliance Gaps in EU AI Act Article 50 II",
-        "link": "https://arxiv.org/abs/2603.26983",
-        "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.26983v1 Announce Type: new \nAbstract: Art. 50 II of the EU Artificial Intelligence Act mandates dual transparency for AI-generated content: outputs must be labeled in both human-understa...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación",
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "FormalProofBench: Can Models Write Graduate Level Math Proofs That Are Formally Verified?",
-        "link": "https://arxiv.org/abs/2603.26996",
-        "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.26996v1 Announce Type: new \nAbstract: We present FormalProofBench, a private benchmark designed to evaluate whether AI models can produce formally verified mathematical proofs at the gra...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "When Verification Hurts: Asymmetric Effects of Multi-Agent Feedback in Logic Proof Tutoring",
-        "link": "https://arxiv.org/abs/2603.27076",
-        "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.27076v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly used for automated tutoring, but their reliability in structured symbolic domains remains unclear. We ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "The Price of Meaning: Why Every Semantic Memory System Forgets",
-        "link": "https://arxiv.org/abs/2603.27116",
-        "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.27116v1 Announce Type: new \nAbstract: Every major AI memory system in production today organises information by meaning. That organisation enables generalisation, analogy, and conceptual...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "MediHive: A Decentralized Agent Collective for Medical Reasoning",
-        "link": "https://arxiv.org/abs/2603.27150",
-        "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.27150v1 Announce Type: new \nAbstract: Large language models (LLMs) have revolutionized medical reasoning tasks, yet single-agent systems often falter on complex, interdisciplinary proble...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "daVinci-LLM:Towards the Science of Pretraining",
-        "link": "https://arxiv.org/abs/2603.27164",
-        "date": "Tue, 31 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.27164v1 Announce Type: new \nAbstract: The foundational pretraining phase determines a model's capability ceiling, as post-training struggles to overcome capability foundations establishe...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
