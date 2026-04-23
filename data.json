@@ -3659,6 +3659,15 @@
         "is_important": false
     },
     {
+        "title": "How to Design a Production-Grade CAMEL Multi-Agent System with Planning, Tool Use, Self-Consistency, and Critique-Driven Refinement",
+        "link": "https://www.marktechpost.com/2026/04/22/how-to-design-a-production-grade-camel-multi-agent-system-with-planning-tool-use-self-consistency-and-critique-driven-refinement/",
+        "date": "Wed, 22 Apr 2026 23:59:51 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we implement an advanced agentic AI system using the CAMEL framework, orchestrating multiple specialized agents to collaboratively solve a complex task. We design a structured mul...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Tesla just increased its spending plan to $25B — here’s where the money is going",
         "link": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
         "date": "Wed, 22 Apr 2026 23:56:52 +0000",
@@ -3739,6 +3748,15 @@
         "source": "TechCrunch AI",
         "description": "Cursor was on track to close a $2 billion funding round this week but chose to halt discussions after SpaceX offered a $10 billion \"collaboration fee\" and a path to a $60 billion acquisition.",
         "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Alibaba Qwen Team Releases Qwen3.6-27B: A Dense Open-Weight Model Outperforming 397B MoE on Agentic Coding Benchmarks",
+        "link": "https://www.marktechpost.com/2026/04/22/alibaba-qwen-team-releases-qwen3-6-27b-a-dense-open-weight-model-outperforming-397b-moe-on-agentic-coding-benchmarks/",
+        "date": "Wed, 22 Apr 2026 19:40:51 +0000",
+        "source": "MarkTechPost",
+        "description": "Alibaba&#8217;s Qwen Team has released Qwen3.6-27B, the first dense open-weight model in the Qwen3.6 family — and arguably the most capable 27-billion-parameter model available today for coding age...",
+        "is_important": true,
         "tags": []
     },
     {
@@ -23678,26 +23696,6 @@
         "date": "Tue, 31 Mar 2026 01:00:59 GMT",
         "source": "ZDNet AI",
         "description": "M.2 slots aren't just for storage; you can get more use out of your desktop with some initial investment.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "What to Know About California’s Executive Order on A.I.",
-        "link": "https://www.nytimes.com/2026/03/30/technology/california-ai-executive-order.html",
-        "date": "Tue, 31 Mar 2026 00:39:15 +0000",
-        "source": "NYT Tech",
-        "description": "Gov. Gavin Newsom, a Democrat, issued an order requiring safety and privacy guardrails for artificial intelligence companies contracting with the state.",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "I replaced my outdoor Bluetooth speakers with a wired audio system, and don't regret it",
-        "link": "https://www.zdnet.com/article/pok-audio-atrium-5-review/",
-        "date": "Tue, 31 Mar 2026 00:17:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Review: The Polk Audio Atrium 5 speakers pair a sleek, minimalist design with full weatherproofing, delivering crisp, dynamic sound.",
         "is_important": false,
         "tags": []
     }
