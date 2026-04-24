@@ -4959,6 +4959,17 @@
         "tags": []
     },
     {
+        "title": "GPT-4 Has 1.8 Trillion Parameters. It Uses 2% of Them Per Token.",
+        "link": "https://towardsai.net/p/machine-learning/gpt-4-has-1-8-trillion-parameters-it-uses-2-of-them-per-token",
+        "date": "Wed, 22 Apr 2026 08:07:27 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on April 23, 2026 by Editorial Team Author(s): DrSwarnenduAI Originally published on Towards AI. GPT-4 Has 1.8 Trillion Parameters. It Uses 2% of Them Per Token. DeepSeek-R1: 671 billi...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "I Said Deploy and My AI Did the Rest",
         "link": "https://dev.to/archantech/i-said-deploy-and-my-ai-did-the-rest-3k71",
         "date": "Wed, 22 Apr 2026 08:00:00 +0000",
@@ -23689,14 +23700,5 @@
         "tags": [
             "⚖️ Ética y Regulación"
         ]
-    },
-    {
-        "title": "[AINews] The Last 4 Jobs in Tech",
-        "link": "https://www.latent.space/p/ainews-the-last-4-jobs-in-tech",
-        "date": "Tue, 31 Mar 2026 01:04:54 GMT",
-        "source": "Latent Space",
-        "description": "a quiet day lets us examine an interesting mental model",
-        "is_important": false,
-        "tags": []
     }
 ]
