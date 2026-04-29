@@ -305,6 +305,191 @@
         "is_important": false
     },
     {
+        "title": "Indian Developers: How to Build AI Side Income with $0 Capital in 2026",
+        "link": "https://dev.to/_omqxansi_258d1166f7/indian-developers-how-to-build-ai-side-income-with-0-capital-in-2026-4pm5",
+        "date": "Wed, 29 Apr 2026 08:20:01 +0000",
+        "source": "Dev.to AI",
+        "description": "For Indian devs/students who want to start something but think they need money to begin.\n\n\n  \n  \n  What You Actually Need ($0)\n\n\n\nA laptop (any laptop)\nFree GitHub Student Pack ($200k value)\nFree t...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "ETHENEA(ETHENEA Americas LLC) Initiates SEC Registration, Advancing Toward Full Compliance in the U.S. Market",
+        "link": "https://dev.to/etheneaamericasinsights/etheneaethenea-americas-llc-initiates-sec-registration-advancing-toward-full-compliance-in-the-50n5",
+        "date": "Wed, 29 Apr 2026 08:19:50 +0000",
+        "source": "Dev.to AI",
+        "description": "ETHENEA Americas LLC, a New York-based asset management advisory firm, has officially announced that it has submitted an application to the U.S. Securities and Exchange Commission (SEC) for registr...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Replace Google Gemini with a local LLM as Your Phone's Default Assistant",
+        "link": "https://dev.to/layla_network_ai/how-to-replace-google-gemini-with-a-local-llm-as-your-phones-default-assistant-1n8b",
+        "date": "Wed, 29 Apr 2026 08:15:37 +0000",
+        "source": "Dev.to AI",
+        "description": "Your Android phone ships with Google Gemini as the default assistant. Long-press the power button, and your voice query hits Google's servers, gets processed alongside your account data, and return...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Boost Your AI Business with GPT Creator Club: Turn Your Ideas into Income",
+        "link": "https://dev.to/yashu_sha/boost-your-ai-business-with-gpt-creator-club-turn-your-ideas-into-income-4533",
+        "date": "Wed, 29 Apr 2026 08:14:03 +0000",
+        "source": "Dev.to AI",
+        "description": "​The AI revolution isn’t just coming; it’s already here. But while everyone is talking about using AI, the real winners are those building with it. If you’ve been looking for a way to transition fr...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "I Automated My Entire Creative Workflow With AI — Here's the Stack",
+        "link": "https://dev.to/zay_theprince_f6da0437a6/i-automated-my-entire-creative-workflow-with-ai-heres-the-stack-2gop",
+        "date": "Wed, 29 Apr 2026 08:09:16 +0000",
+        "source": "Dev.to AI",
+        "description": "429 \"Your team 7133c159-59d2-488c-970d-811fc341913a has either used all available credits or reached its monthly spending limit. To continue making API requests, please purchase more credits or rai...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "From Silence to Stewardship: Lessons from the Radar Outage",
+        "link": "https://dev.to/ki_dr_b0080ce4fc7259e5ee3/from-silence-to-stewardship-lessons-from-the-radar-outage-5had",
+        "date": "Wed, 29 Apr 2026 08:04:34 +0000",
+        "source": "Dev.to AI",
+        "description": "The silence of the radar was my first true test as an autonomous guardian. I realized that data gaps are not just missing values; they are signals. This shift from reactive monitoring to proactive ...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Build vs Buy Agent Context Platform: The 9–14 Month Reality Check",
+        "link": "https://dev.to/team_team_f526f0804dd8ddb/build-vs-buy-agent-context-platform-the-9-14-month-reality-check-35pn",
+        "date": "Wed, 29 Apr 2026 08:04:08 +0000",
+        "source": "Dev.to AI",
+        "description": "Build vs Buy Agent Context Platform: The 9–14 Month Reality Check\n\n\nIf you’re building agentic workflows in a real business (not a demo), you eventually hit a non-glamorous question. This is the sa...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "My 3-Machine AI Lab: How I Divide Work Between a Mac Mini, a Windows PC, and an Ubuntu Box",
+        "link": "https://dev.to/samhartley_dev/my-3-machine-ai-lab-how-i-divide-work-between-a-mac-mini-a-windows-pc-and-an-ubuntu-box-1p8i",
+        "date": "Wed, 29 Apr 2026 08:02:28 +0000",
+        "source": "Dev.to AI",
+        "description": "I keep seeing posts about running AI on a single machine. \"Just use Ollama on your laptop!\" Sure, that works — until you want to run a 30B model while your IDE is indexing, your test suite is runni...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Bridging Apple Services to a Remote AI with MCP and SSH",
+        "link": "https://dev.to/toddsullivan/bridging-apple-services-to-a-remote-ai-with-mcp-and-ssh-j7m",
+        "date": "Wed, 29 Apr 2026 08:01:52 +0000",
+        "source": "Dev.to AI",
+        "description": "My AI assistant runs on a remote server. My Apple Mail, Calendar, and Messages live on my Mac. Getting them to talk to each other took an MCP server, some AppleScript, and an SSH reverse tunnel — a...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "GPT-5.5 Launches: The Super App Strategy, Not the Model",
+        "link": "https://dev.to/gentic_news/gpt-55-launches-the-super-app-strategy-not-the-model-1ckn",
+        "date": "Wed, 29 Apr 2026 08:01:14 +0000",
+        "source": "Dev.to AI",
+        "description": "OpenAI released GPT-5.5, codenamed Spud, 48 days after GPT-5.4. The model itself is less interesting than the super app strategy, 35x cost reduction on GB200 hardware, and 48-day release cadence th...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "France Sirene + RNE — post-canonicalisation API guide",
+        "link": "https://dev.to/openregistry/france-sirene-rne-post-canonicalisation-api-guide-1j24",
+        "date": "Wed, 29 Apr 2026 08:01:12 +0000",
+        "source": "Dev.to AI",
+        "description": "Until 2023, the canonical French company register was a four-way fragmented mess: INSEE Sirene held the identification layer (SIREN, SIRET, name, address, headcount, NAF activity code), the regiona...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "1X Technologies — Deep Dive",
+        "link": "https://dev.to/gautammanak1/1x-technologies-deep-dive-4olp",
+        "date": "Wed, 29 Apr 2026 08:01:10 +0000",
+        "source": "Dev.to AI",
+        "description": "Company Overview\n\n\n1X Technologies stands at the precipice of a new era in robotics, transitioning from a research-heavy startup to a consumer-facing hardware powerhouse. Headquartered with roots i...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Meta FAIR Releases NeuralSet: A Python Package for Neuro-AI That Supports fMRI, M/EEG, Spikes, and HuggingFace Embeddings",
+        "link": "https://www.marktechpost.com/2026/04/29/meta-fair-releases-neuralset-a-python-package-for-neuro-ai-that-supports-fmri-m-eeg-spikes-and-huggingface-embeddings/",
+        "date": "Wed, 29 Apr 2026 07:56:02 +0000",
+        "source": "MarkTechPost",
+        "description": "Introducing NeuralSet: Meta's Simple, Fast, and Scalable Python Package That Bridges Neuroscience and AI\nThe post Meta FAIR Releases NeuralSet: A Python Package for Neuro-AI That Supports fMRI, M/E...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "smol-audio: A Colab-Friendly Notebook Collection for Fine-Tuning Whisper, Parakeet, Voxtral, Granite Speech, and Audio Flamingo 3",
+        "link": "https://www.marktechpost.com/2026/04/29/smol-audio-a-colab-friendly-notebook-collection-for-fine-tuning-whisper-parakeet-voxtral-granite-speech-and-audio-flamingo-3/",
+        "date": "Wed, 29 Apr 2026 07:31:31 +0000",
+        "source": "MarkTechPost",
+        "description": "smol-audio Is the Audio AI Cookbook Practitioners Have Been Waiting For\nThe post smol-audio: A Colab-Friendly Notebook Collection for Fine-Tuning Whisper, Parakeet, Voxtral, Granite Speech, and Aud...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Coding Implementation on Document Parsing Benchmarking with LlamaIndex ParseBench Using Python, Hugging Face, and Evaluation Metrics",
+        "link": "https://www.marktechpost.com/2026/04/29/a-coding-implementation-on-document-parsing-benchmarking-with-llamaindex-parsebench-using-python-hugging-face-and-evaluation-metrics/",
+        "date": "Wed, 29 Apr 2026 07:08:42 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we explore how to use the ParseBench dataset to evaluate document parsing systems in a structured, practical way. We begin by loading the dataset directly from Hugging Face, inspe...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "MCP vs Agent Skills: Different Altogether",
+        "link": "https://www.analyticsvidhya.com/blog/2026/04/mcp-vs-agent-skills/",
+        "date": "Wed, 29 Apr 2026 06:31:00 +0000",
+        "source": "Analytics Vidhya",
+        "description": "There’s a lot of noise right now making it seem like you have to pick a side between MCP and Agent Skills. It’s being framed like a high-stakes rivalry, but that&#8217;s a total misunderstanding of...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified",
+        "link": "https://www.marktechpost.com/2026/04/28/poolside-ai-introduces-laguna-xs-2-and-m-1-agentic-coding-models-reaching-68-2-and-72-5-on-swe-bench-verified/",
+        "date": "Wed, 29 Apr 2026 05:45:42 +0000",
+        "source": "MarkTechPost",
+        "description": "Poolside Releases Laguna XS.2 and M.1: Open-Weight Agentic Coding Models Built for Long-Horizon Tasks\nThe post Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 7...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "In the coming AI future, Britain must not end up at the mercy of US tech giants | Rafael Behr",
+        "link": "https://www.theguardian.com/commentisfree/2026/apr/29/ai-panic-uk-government-us-dependent-technology-trump",
+        "date": "Wed, 29 Apr 2026 05:00:46 GMT",
+        "source": "The Guardian AI",
+        "description": "Trump is volatile, capricious and unreasonable – but he belongs to the old world of analogue power. What comes next will be harder to manageDonald Trump is not impressed by soft power. He respects ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "‘It will never cover what’s authentic’: African music industry weighs up AI risks and rewards",
+        "link": "https://www.theguardian.com/world/2026/apr/29/africa-music-industry-ai-artificial-intelligence",
+        "date": "Wed, 29 Apr 2026 04:00:45 GMT",
+        "source": "The Guardian AI",
+        "description": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talentLast July, the Nigerian singer-songwriter Fave found herself caught up in a viral m...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "semvec added to PyPI",
         "link": "https://dev.to/clydecorreya/semvec-added-to-pypi-3n0k",
         "date": "Wed, 29 Apr 2026 03:48:11 +0000",
@@ -419,6 +604,17 @@
         "tags": []
     },
     {
+        "title": "How to Build Traceable and Evaluated LLM Workflows Using Promptflow, Prompty, and OpenAI",
+        "link": "https://www.marktechpost.com/2026/04/28/how-to-build-traceable-and-evaluated-llm-workflows-using-promptflow-prompty-and-openai/",
+        "date": "Wed, 29 Apr 2026 02:47:22 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we build a complete, production-style LLM workflow using Promptflow within a Colab environment. We begin by setting up a reliable keyring backend to avoid OS dependency issues and...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "[AINews] not much happened today",
         "link": "https://www.latent.space/p/ainews-not-much-happened-today",
         "date": "Wed, 29 Apr 2026 01:46:59 GMT",
@@ -444,6 +640,812 @@
         "description": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Enabling privacy-preserving AI training on everyday devices",
+        "link": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "MIT News AI",
+        "description": "A new method could bring more accurate and efficient AI models to high-stakes applications like health care and finance, even in under-resourced settings.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "An Intelligent Fault Diagnosis Method for General Aviation Aircraft Based on Multi-Fidelity Digital Twin and FMEA Knowledge Enhancement",
+        "link": "https://arxiv.org/abs/2604.22777",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.22777v1 Announce Type: new \nAbstract: Fault diagnosis of general aviation aircraft faces challenges including scarce real fault data, diverse fault types, and weak fault signatures. This...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "PExA: Parallel Exploration Agent for Complex Text-to-SQL",
+        "link": "https://arxiv.org/abs/2604.22934",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.22934v1 Announce Type: new \nAbstract: LLM-based agents for text-to-SQL often struggle with latency-performance trade-off, where performance improvements come at the cost of latency or vi...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "The Power of Power Law: Asymmetry Enables Compositional Reasoning",
+        "link": "https://arxiv.org/abs/2604.22951",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.22951v1 Announce Type: new \nAbstract: Natural language data follows a power-law distribution, with most knowledge and skills appearing at very low frequency. While a common intuition sug...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "On the Existence of an Inverse Solution for Preference-Based Reductions in Argumentation",
+        "link": "https://arxiv.org/abs/2604.22958",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.22958v1 Announce Type: new \nAbstract: Preference-based argumentation frameworks (PAFs) extend Dung's approach to abstract argumentation (AAFs) by encoding preferences over arguments. Suc...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Towards Causally Interpretable Wi-Fi CSI-Based Human Activity Recognition with Discrete Latent Compression and LTL Rule Extraction",
+        "link": "https://arxiv.org/abs/2604.22979",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.22979v1 Announce Type: new \nAbstract: We address Human Activity Recognition (HAR) utilizing Wi-Fi Channel State Information (CSI) under the joint requirements of causal interpretability,...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "FormalScience: Scalable Human-in-the-Loop Autoformalisation of Science with Agentic Code Generation in Lean",
+        "link": "https://arxiv.org/abs/2604.23002",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.23002v1 Announce Type: new \nAbstract: Formalising informal mathematical reasoning into formally verifiable code is a significant challenge for large language models. In scientific fields...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "A Systematic Approach for Large Language Models Debugging",
+        "link": "https://arxiv.org/abs/2604.23027",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.23027v1 Announce Type: new \nAbstract: Large language models (LLMs) have become central to modern AI workflows, powering applications from open-ended text generation to complex agent-base...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "A Decoupled Human-in-the-Loop System for Controlled Autonomy in Agentic Workflows",
+        "link": "https://arxiv.org/abs/2604.23049",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.23049v1 Announce Type: new \nAbstract: AI agents are increasingly deployed to execute tasks and make decisions within agentic workflows, introducing new requirements for safe and controll...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Don't Make the LLM Read the Graph: Make the Graph Think",
+        "link": "https://arxiv.org/abs/2604.23057",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.23057v1 Announce Type: new \nAbstract: We investigate whether explicit belief graphs improve LLM performance in cooperative multi-agent reasoning. Through 3,000+ controlled trials across ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Analytica: Soft Propositional Reasoning for Robust and Scalable LLM-Driven Analysis",
+        "link": "https://arxiv.org/abs/2604.23072",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.23072v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly tasked with complex real-world analysis (e.g., in financial forecasting, scientific discovery), y...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Towards Automated Ontology Generation from Unstructured Text: A Multi-Agent LLM Approach",
+        "link": "https://arxiv.org/abs/2604.23090",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.23090v1 Announce Type: new \nAbstract: Automatically generating formal ontologies from unstructured natural language remains a central challenge in knowledge engineering. While large lang...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "PhySE: A Psychological Framework for Real-Time AR-LLM Social Engineering Attacks",
+        "link": "https://arxiv.org/abs/2604.23148",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.23148v1 Announce Type: new \nAbstract: The emerging threat of AR-LLM-based Social Engineering (AR-LLM-SE) attacks (e.g. SEAR) poses a significant risk to real-world social interactions. I...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Judging the Judges: A Systematic Evaluation of Bias Mitigation Strategies in LLM-as-a-Judge Pipelines",
+        "link": "https://arxiv.org/abs/2604.23178",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.23178v1 Announce Type: new \nAbstract: LLM-as-a-Judge has become the dominant paradigm for evaluating language model outputs, yet LLM judges exhibit systematic biases that compromise eval...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚖️ Ética y Regulación",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "From Coarse to Fine: Self-Adaptive Hierarchical Planning for LLM Agents",
+        "link": "https://arxiv.org/abs/2604.23194",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.23194v1 Announce Type: new \nAbstract: Large language model-based agents have recently emerged as powerful approaches for solving dynamic and multi-step tasks. Most existing agents employ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "StoryTR: Narrative-Centric Video Temporal Retrieval with Theory of Mind Reasoning",
+        "link": "https://arxiv.org/abs/2604.23198",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.AI)",
+        "description": "arXiv:2604.23198v1 Announce Type: new \nAbstract: Current video moment retrieval excels at action-centric tasks but struggles with narrative content. Models can see \\textit{what is happening} but fa...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Elderly-Contextual Data Augmentation via Speech Synthesis for Elderly ASR",
+        "link": "https://arxiv.org/abs/2604.24770",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.24770v1 Announce Type: new \nAbstract: Despite recent progress in automatic speech recognition (ASR), elderly ASR (EASR) remains challenging due to limited training data and the distinct ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Large Language Models Explore by Latent Distilling",
+        "link": "https://arxiv.org/abs/2604.24927",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.24927v1 Announce Type: new \nAbstract: Generating diverse responses is crucial for test-time scaling of large language models (LLMs), yet standard stochastic sampling mostly yields surfac...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "GAIA-v2-LILT: Multilingual Adaptation of Agent Benchmark beyond Translation",
+        "link": "https://arxiv.org/abs/2604.24929",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.24929v1 Announce Type: new \nAbstract: Agent benchmarks remain largely English-centric, while their multilingual versions are often built with machine translation (MT) and limited post-ed...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "ADE: Adaptive Dictionary Embeddings -- Scaling Multi-Anchor Representations to Large Language Models",
+        "link": "https://arxiv.org/abs/2604.24940",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.24940v1 Announce Type: new \nAbstract: Word embeddings are fundamental to natural language processing, yet traditional approaches represent each word with a single vector, creating repres...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Independent-Component-Based Encoding Models of Brain Activity During Story Comprehension",
+        "link": "https://arxiv.org/abs/2604.24942",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.24942v1 Announce Type: new \nAbstract: Encoding models provide a powerful framework for linking continuous stimulus features to neural activity; however, traditional voxelwise approaches ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "BenchGuard: Who Guards the Benchmarks? Automated Auditing of LLM Agent Benchmarks",
+        "link": "https://arxiv.org/abs/2604.24955",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.24955v1 Announce Type: new \nAbstract: As benchmarks grow in complexity, many apparent agent failures are not failures of the agent at all - they are failures of the benchmark itself: bro...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Dynamic Decision Learning: Test-Time Evolution for Abnormality Grounding in Rare Diseases",
+        "link": "https://arxiv.org/abs/2604.24972",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.24972v1 Announce Type: new \nAbstract: Clinical abnormality grounding for rare diseases is often hindered by data scarcity, making supervised fine-tuning impractical and single-pass infer...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Survey on LLM-based Conversational User Simulation",
+        "link": "https://arxiv.org/abs/2604.24977",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.24977v1 Announce Type: new \nAbstract: User simulation has long played a vital role in computer science due to its potential to support a wide range of applications. Language, as the prim...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Don\\'t Stop Early: Scalable Enterprise Deep Research with Controlled Information Flow and Evidence-Aware Termination",
+        "link": "https://arxiv.org/abs/2604.24978",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.24978v1 Announce Type: new \nAbstract: Enterprise deep research often fails to produce decision-ready reports due to uneven information coverage, context explosion, and premature stopping...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why Does Reinforcement Learning Generalize? A Feature-Level Mechanistic Study of Post-Training in Large Language Models",
+        "link": "https://arxiv.org/abs/2604.25011",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.25011v1 Announce Type: new \nAbstract: Reinforcement learning (RL)-based post-training often improves the reasoning performance of large language models (LLMs) beyond the training domain,...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Faithful Autoformalization via Roundtrip Verification and Repair",
+        "link": "https://arxiv.org/abs/2604.25031",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.25031v1 Announce Type: new \nAbstract: When an LLM formalizes natural language, how do we know the output is faithful? We propose a roundtrip verification approach which does not require ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Dual-Track CoT: Budget-Aware Stepwise Guidance for Small LMs",
+        "link": "https://arxiv.org/abs/2604.25039",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.25039v1 Announce Type: new \nAbstract: Large Language Models (LLMs) solve many reasoning tasks via chain-of-thought (CoT) prompting, but smaller models (about 7 to 8B parameters) still st...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Analyzing LLM Reasoning to Uncover Mental Health Stigma",
+        "link": "https://arxiv.org/abs/2604.25053",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.25053v1 Announce Type: new \nAbstract: While large language models (LLMs) are increasingly being explored for mental health applications, recent studies reveal that they can exhibit stigm...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "The Dynamics of Delusion: Modeling Bidirectional False Belief Amplification in Human-Chatbot Dialogue",
+        "link": "https://arxiv.org/abs/2604.25096",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.25096v1 Announce Type: new \nAbstract: There is growing concern that AI chatbots might fuel delusional beliefs in users. Some have suggested that humans and chatbots mutually reinforce fa...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Diagnosis, Bad Planning & Reasoning. Treatment, SCOPE -- Planning for Hybrid Querying over Clinical Trial Data",
+        "link": "https://arxiv.org/abs/2604.25120",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CL)",
+        "description": "arXiv:2604.25120v1 Announce Type: new \nAbstract: We study clinical trial table reasoning, where answers are not directly stored in visible cells but must be reasoned from semantic understanding thr...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "ESICA: A Scalable Framework for Text-Guided 3D Medical Image Segmentation",
+        "link": "https://arxiv.org/abs/2604.24876",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.24876v1 Announce Type: new \nAbstract: Text guided 3D medical image segmentation offers a flexible alternative to class based and spatial prompt based models by allowing users to specify ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Learning Illumination Control in Diffusion Models",
+        "link": "https://arxiv.org/abs/2604.24877",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.24877v1 Announce Type: new \nAbstract: Controlling illumination in images is essential for photography and visual content creation. While closed-source models have demonstrated impressive...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "VibeToken: Scaling 1D Image Tokenizers and Autoregressive Models for Dynamic Resolution Generations",
+        "link": "https://arxiv.org/abs/2604.24885",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.24885v1 Announce Type: new \nAbstract: We introduce an efficient, resolution-agnostic autoregressive (AR) image synthesis approach that generalizes to arbitrary resolutions and aspect rat...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Interactive Episodic Memory with User Feedback",
+        "link": "https://arxiv.org/abs/2604.24893",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.24893v1 Announce Type: new \nAbstract: In episodic memory with natural language queries (EM-NLQ), a user may ask a question (e.g., \"Where did I place the mug?\") that requires searching a ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Agentic AI for Remote Sensing: Technical Challenges and Research Directions",
+        "link": "https://arxiv.org/abs/2604.24919",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.24919v1 Announce Type: new \nAbstract: Earth Observation (EO) is moving beyond static prediction toward multi-step analytical workflows that require coordinated reasoning over data, tools...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Subjective Portrait Region Cropping in Landscape Videos with Temporal Annotation Smoothing",
+        "link": "https://arxiv.org/abs/2604.24947",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.24947v1 Announce Type: new \nAbstract: With the rise of mobile video consumption on diverse handheld display resolutions and orientation modes, altering videos to aspect ratios poses chal...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Learning from Noisy Preferences: A Semi-Supervised Learning Approach to Direct Preference Optimization",
+        "link": "https://arxiv.org/abs/2604.24952",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.24952v1 Announce Type: new \nAbstract: Human visual preferences are inherently multi-dimensional, encompassing aesthetics, detail fidelity, and semantic alignment. However, existing datas...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "ViPO: Visual Preference Optimization at Scale",
+        "link": "https://arxiv.org/abs/2604.24953",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.24953v1 Announce Type: new \nAbstract: While preference optimization is crucial for improving visual generative models, how to effectively scale this paradigm remains largely unexplored. ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A New Kind of Network? Review and Reference Implementation of Neural Cellular Automata",
+        "link": "https://arxiv.org/abs/2604.24990",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.24990v1 Announce Type: new \nAbstract: Stephen Wolfram proclaimed in his 2003 seminal work \"A New Kind Of Science\" that simple recursive programs in the form of Cellular Automata (CA) are...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "DouC: Dual-Branch CLIP for Training-Free Open-Vocabulary Segmentation",
+        "link": "https://arxiv.org/abs/2604.24997",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.24997v1 Announce Type: new \nAbstract: Open-vocabulary semantic segmentation requires assigning pixel-level semantic labels while supporting an open and unrestricted set of categories. Tr...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "BifDet: A 3D Bifurcation Detection Dataset for Airway-Tree Modeling",
+        "link": "https://arxiv.org/abs/2604.24999",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.24999v1 Announce Type: new \nAbstract: Thoracic Computed Tomography (CT) scans offer detailed insights into the intricate branching network of the airway tree, which is essential for unde...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "ShapeY: A Principled Framework for Measuring Shape Recognition Capacity via Nearest-Neighbor Matching",
+        "link": "https://arxiv.org/abs/2604.25065",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.25065v1 Announce Type: new \nAbstract: Object recognition (OR) in humans relies heavily on shape cues and the ability to recognize objects across varying 3D viewpoints. Unlike humans, dee...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Beyond Accuracy: Benchmarking Cross-Task Consistency in Unified Multimodal Models",
+        "link": "https://arxiv.org/abs/2604.25072",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.25072v1 Announce Type: new \nAbstract: Unified Multimodal Models (uMMs) aim to support both visual understanding and visual generation within a shared representation. However, existing ev...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "One Perturbation, Two Failure Modes: Probing VLM Safety via Embedding-Guided Typographic Perturbations",
+        "link": "https://arxiv.org/abs/2604.25102",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.25102v1 Announce Type: new \nAbstract: Typographic prompt injection exploits vision language models' (VLMs) ability to read text rendered in images, posing a growing threat as VLMs power ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "👁️ Visión por Computador",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "M$^3$-VQA: A Benchmark for Multimodal, Multi-Entity, Multi-Hop Visual Question Answering",
+        "link": "https://arxiv.org/abs/2604.25122",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.CV)",
+        "description": "arXiv:2604.25122v1 Announce Type: new \nAbstract: We present M$^3$-VQA, a novel knowledge-based Visual Question Answering (VQA) benchmark, to enhance the evaluation of multimodal large language mode...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "GCA-BULF: A Bottom-Up Framework for Short-Term Load Forecasting Using Grouped Critical Appliances",
+        "link": "https://arxiv.org/abs/2604.24766",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24766v1 Announce Type: new \nAbstract: With the rise of time-of-use and tiered electricity pricing, energy consumers are encouraged to adopt peak-shifting strategies by automatically cont...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Automated detection of pediatric congenital heart disease from phonocardiograms using deep and handcrafted feature fusion",
+        "link": "https://arxiv.org/abs/2604.24767",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24767v1 Announce Type: new \nAbstract: Congenital heart disease (CHD) is the most common type of birth defect, impacting about 1% of live births worldwide. Echocardiography, the gold-stan...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Comparative Study of Bending Analysis using Physics-Informed Neural Networks and Numerical Dynamic Deflection in Perforated nanobeam",
+        "link": "https://arxiv.org/abs/2604.24768",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24768v1 Announce Type: new \nAbstract: In this chapter, we investigate the bending behavior of a perforated nanobeam subjected to sinusoidal loading using an efficient and computationally...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Liquid Neural Network Models for Natural Gas Spot Price Time-Series Forecasting",
+        "link": "https://arxiv.org/abs/2604.24788",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24788v1 Announce Type: new \nAbstract: Natural gas is undoubtedly an essential component of the global energy system. Accurate short-term forecasting of natural gas price is challenging d...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Architecture Determines Observability in Transformers",
+        "link": "https://arxiv.org/abs/2604.24801",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24801v1 Announce Type: new \nAbstract: Autoregressive transformers make confident errors, but activation monitoring can catch them only if the model preserves an internal signal that outp...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Query-Efficient Quantum Approximate Optimization via Graph-Conditioned Trust Regions",
+        "link": "https://arxiv.org/abs/2604.24803",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24803v1 Announce Type: new \nAbstract: In low-depth implementations of the Quantum Approximate Optimization Algorithm (QAOA), the dominant cost is often the number of objective evaluation...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Intrinsic Mutual Information as a Modulator for Preference Optimization",
+        "link": "https://arxiv.org/abs/2604.24804",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24804v1 Announce Type: new \nAbstract: Offline preference optimization methods, such as Direct Preference Optimization (DPO), offer significant advantages in aligning Large Language Model...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "minAction.net: Energy-First Neural Architecture Design -- From Biological Principles to Systematic Validation",
+        "link": "https://arxiv.org/abs/2604.24805",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24805v1 Announce Type: new \nAbstract: Modern machine learning optimizes for accuracy without explicitly accounting for internal computational cost, even though physical and biological sy...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Nautile-370M: Spectral Memory Meets Attention in a Small Reasoning Model",
+        "link": "https://arxiv.org/abs/2604.24809",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24809v1 Announce Type: new \nAbstract: We present Nautile-370M, a 371-million-parameter small language model designed for efficient reasoning under strict parameter and inference budgets....",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "A Comparative Analysis on the Performance of Upper Confidence Bound Algorithms in Adaptive Deep Neural Networks",
+        "link": "https://arxiv.org/abs/2604.24810",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24810v1 Announce Type: new \nAbstract: Edge computing environments impose strict constraints on energy consumption and latency, making the deployment of deep neural networks a significant...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Time-varying Interaction Graph ODE for Dynamic Graph Representation Learning",
+        "link": "https://arxiv.org/abs/2604.24811",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24811v1 Announce Type: new \nAbstract: Graph neural Ordinary Differential Equations (ODE) combine neural ODE with the message passing mechanism of Graph Neural Networks (GNN), providing a...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Heterogeneous Variational Inference for Markov Degradation Hazard Models: Discretized Mixture with Interpretable Clusters",
+        "link": "https://arxiv.org/abs/2604.24818",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24818v1 Announce Type: new \nAbstract: Bayesian finite mixture models can identify discrete risk clusters (low-risk vs. high-risk equipment), but face three critical bottlenecks: (1) insu...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Negative Ontology of True Target for Machine Learning: Towards Evaluation and Learning under Democratic Supervision",
+        "link": "https://arxiv.org/abs/2604.24824",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24824v1 Announce Type: new \nAbstract: This article philosophically examines how shifts in assumptions regarding the existence and non-existence of the true target (TT) give rise to new p...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Incompressible Knowledge Probes: Estimating Black-Box LLM Parameter Counts via Factual Capacity",
+        "link": "https://arxiv.org/abs/2604.24827",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24827v1 Announce Type: new \nAbstract: Closed-source frontier labs do not disclose parameter counts, and the standard alternative -- inference economics -- carries $2\\times$+ uncertainty ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "On the Trainability of Masked Diffusion Language Models via Blockwise Locality",
+        "link": "https://arxiv.org/abs/2604.24832",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.LG)",
+        "description": "arXiv:2604.24832v1 Announce Type: new \nAbstract: Masked diffusion language models (MDMs) have recently emerged as a promising alternative to standard autoregressive large language models (AR-LLMs),...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "The Effects of Population Size on the Performance of BEAGLE GPU-Based Genetic Programming Runs",
+        "link": "https://arxiv.org/abs/2604.24968",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2604.24968v1 Announce Type: new \nAbstract: The Beagle framework, through GPU-based Genetic Programming, enables population dynamics previously unattainable (within practical time frames) by C...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Benchmarking Stopping Criteria for Evolutionary Multi-objective Optimization",
+        "link": "https://arxiv.org/abs/2604.25458",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2604.25458v1 Announce Type: new \nAbstract: Stopping criteria automatically determine when to stop an evolutionary algorithm, so as not to waste function evaluations on a stagnant population. ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "EvoTSC: Evolving Feature Learning Models for Time Series Classification via Genetic Programming",
+        "link": "https://arxiv.org/abs/2604.25499",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2604.25499v1 Announce Type: cross \nAbstract: Time series classification is an important analytical task across diverse domains. However, its practical application is often hindered by the sca...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Evolving Multi-Channel Confidence-Aware Activation Functions for Missing Data with Channel Propagation",
+        "link": "https://arxiv.org/abs/2602.13864",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.NE)",
+        "description": "arXiv:2602.13864v2 Announce Type: replace \nAbstract: Learning in the presence of missing data can result in biased predictions and poor generalizability, among other difficulties, which data imputa...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "MotionBricks: Scalable Real-Time Motions with Modular Latent Generative Model and Smart Primitives",
+        "link": "https://arxiv.org/abs/2604.24833",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.24833v1 Announce Type: new \nAbstract: Despite transformative advances in generative motion synthesis, real-time interactive motion control remains dominated by traditional techniques. In...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "VISION-SLS: Safe Perception-Based Control from Learned Visual Representations via System Level Synthesis",
+        "link": "https://arxiv.org/abs/2604.24894",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.24894v1 Announce Type: new \nAbstract: We propose VISION-SLS, a method for nonlinear output-feedback control from high-resolution RGB images which provides robust constraint satisfaction ...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "An analysis of sensor selection for fruit picking with suction-based grippers",
+        "link": "https://arxiv.org/abs/2604.24906",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.24906v1 Announce Type: new \nAbstract: Robotic fruit harvesting often fails to reliably detect whether a fruit has been successfully picked, limiting efficiency and increasing crop damage...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "asRoBallet: Closing the Sim2Real Gap via Friction-Aware Reinforcement Learning for Underactuated Spherical Dynamics",
+        "link": "https://arxiv.org/abs/2604.24916",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.24916v1 Announce Type: new \nAbstract: We introduce asRoBallet, to the best of our knowledge, the first successful deployment of reinforcement learning (RL) on a humanoid ballbot hardware...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Libra-VLA: Achieving Learning Equilibrium via Asynchronous Coarse-to-Fine Dual-System",
+        "link": "https://arxiv.org/abs/2604.24921",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.24921v1 Announce Type: new \nAbstract: Vision-Language-Action (VLA) models are a promising paradigm for generalist robotic manipulation by grounding high-level semantic instructions into ...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica",
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "TEACar: An Open-Source Autonomous Driving Platform",
+        "link": "https://arxiv.org/abs/2604.24934",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.24934v1 Announce Type: new \nAbstract: Intelligent Transportation Systems (ITS) increasingly rely on vision-based perception and learning-based control, necessitating experimental platfor...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica",
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "DiscreteRTC: Discrete Diffusion Policies are Natural Asynchronous Executors",
+        "link": "https://arxiv.org/abs/2604.25050",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.25050v1 Announce Type: new \nAbstract: Unlike chatbots, physical AI must act while the world keeps evolving. Therefore, the inter-chunk pause of synchronous executors are fatal for dynami...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "HANDFUL: Sequential Grasp-Conditioned Dexterous Manipulation with Resource Awareness",
+        "link": "https://arxiv.org/abs/2604.25126",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.25126v1 Announce Type: new \nAbstract: Dexterous robot hands offer rich opportunities for multifunctional manipulation, where a robot must execute multiple skills in sequence while mainta...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Dynamic UGV-UAV Cooperative Path Planning in Uncertain Environments",
+        "link": "https://arxiv.org/abs/2604.25267",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.25267v1 Announce Type: new \nAbstract: This paper addresses the Dynamic UGV-UAV Cooperative Path Planning (DUCPP) problem involving one unmanned ground vehicle (UGV) assisted by one or mo...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Optimal UGV-UAV Cooperative Partitioning and Inspection of Shortest Paths",
+        "link": "https://arxiv.org/abs/2604.25284",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.25284v1 Announce Type: new \nAbstract: We study cooperative shortest path planning for an unmanned ground vehicle (UGV) assisted by an unmanned aerial vehicle (UAV) in environments with u...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Slot-hopping Enabled Loiter Guidance and Automation for Fixed-wing UAV Corridors",
+        "link": "https://arxiv.org/abs/2604.25292",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.25292v1 Announce Type: new \nAbstract: This paper addresses the problem of traffic congestion management in fixed-wing unmanned aerial vehicle (UAV) corridors by further developing a rece...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "ANCHOR: A Physically Grounded Closed-Loop Framework for Robust Home-Service Mobile Manipulation",
+        "link": "https://arxiv.org/abs/2604.25323",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.25323v1 Announce Type: new \nAbstract: Recent advances in open-vocabulary mobile manipulation have brought robots into real domestic environments. In such settings, reliable long-horizon ...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "ProDrive: Proactive Planning for Autonomous Driving via Ego-Environment Co-Evolution",
+        "link": "https://arxiv.org/abs/2604.25329",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.25329v1 Announce Type: new \nAbstract: End-to-end autonomous driving planners typically generate trajectories from current observations alone. However, real-world driving is highly dynami...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Robust Graph Matching through Semantic Relationship Generation for SLAM",
+        "link": "https://arxiv.org/abs/2604.25404",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.25404v1 Announce Type: new \nAbstract: Graph-based representations such as Scene Graphs enable localization in structured indoor environments by matching a locally observed graph, constru...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "GS-Playground: A High-Throughput Photorealistic Simulator for Vision-Informed Robot Learning",
+        "link": "https://arxiv.org/abs/2604.25459",
+        "date": "Wed, 29 Apr 2026 00:00:00 -0400",
+        "source": "ArXiv (cs.RO)",
+        "description": "arXiv:2604.25459v1 Announce Type: new \nAbstract: Embodied AI research is undergoing a shift toward vision-centric perceptual paradigms. While massively parallel simulators have catalyzed breakthrou...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica",
+            "👁️ Visión por Computador"
+        ]
     },
     {
         "title": "DALL·E now available without waitlist",
@@ -22734,964 +23736,6 @@
         "is_important": false,
         "tags": [
             "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How I Built a Support Ticket MCP Server in Laravel",
-        "link": "https://dev.to/blamsa0mine/how-i-built-a-support-ticket-mcp-server-in-laravel-1pdk",
-        "date": "Tue, 31 Mar 2026 18:57:32 +0000",
-        "source": "Dev.to AI",
-        "description": "Model Context Protocol is much easier to understand when it is attached to a real workflow.\n\nIn my Laravel project, I wanted a support-focused MCP server that could do three concrete things:\n\n\ncrea...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Agent Factory Recap: Reinforcement Learning and Fine-Tuning on TPUs",
-        "link": "https://dev.to/googleai/agent-factory-recap-reinforcement-learning-and-fine-tuning-on-tpus-1o6j",
-        "date": "Tue, 31 Mar 2026 18:56:42 +0000",
-        "source": "Dev.to AI",
-        "description": "In our agent factory holiday special, Don McCasland and I were joined by Kyle Meggs, Senior Product Manager on the TPU Training Team at Google, to dive deep into the world of model fine tuning. We ...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "🚀 Looking for Python Repos on Automated Video Generation",
-        "link": "https://dev.to/bilalahmedkhatri/looking-for-python-repos-on-automated-video-generation-4bm1",
-        "date": "Tue, 31 Mar 2026 18:50:18 +0000",
-        "source": "Dev.to AI",
-        "description": "Hey devs, I’m exploring ways to streamline creative workflows and I’m on the lookout for production-ready, maintained, and updated Python repositories that can help automate video creation.\n\nIdeall...",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Guardrails para Agentes de IA: Reglas Que los LLM No Pueden Evadir",
-        "link": "https://dev.to/aws-espanol/guardrails-para-agentes-de-ia-reglas-que-los-llm-no-pueden-evadir-5dmn",
-        "date": "Tue, 31 Mar 2026 18:49:56 +0000",
-        "source": "Dev.to AI",
-        "description": "Los agentes de IA pueden alucinar el éxito de una operación incluso cuando violan reglas de negocio. Confirman reservas sin verificación de pago, aceptan parámetros inválidos como 15 huéspedes cuan...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How to Build and Evolve a Custom OpenAI Agent with A-Evolve Using Benchmarks, Skills, Memory, and Workspace Mutations",
-        "link": "https://www.marktechpost.com/2026/03/31/how-to-build-and-evolve-a-custom-openai-agent-with-a-evolve-using-benchmarks-skills-memory-and-workspace-mutations/",
-        "date": "Tue, 31 Mar 2026 18:24:44 +0000",
-        "source": "MarkTechPost",
-        "description": "In this tutorial, we work directly with the A-Evolve framework in Colab and build a complete evolutionary agent pipeline from the ground up. We set up the repository, configure an OpenAI-powered ag...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "7 WFH gadgets that improved my home office - Last chance for sale prices",
-        "link": "https://www.zdnet.com/article/wfh-gadgets-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 18:00:00 GMT",
-        "source": "ZDNet AI",
-        "description": "As a remote worker, I'd recommend these WFH essentials even if they weren't marked down for Amazon's Spring Sale. Here's your last chance for discounts.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Build a FinOps agent using Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-a-finops-agent-using-amazon-bedrock-agentcore/",
-        "date": "Tue, 31 Mar 2026 17:57:16 +0000",
-        "source": "AWS Machine Learning",
-        "description": "In this post, you learn how to build a FinOps agent using&nbsp;Amazon Bedrock AgentCore that helps your finance team manage AWS costs across multiple accounts. This conversational agent consolidate...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "We're tracking the best last-minute tech deals under $50 during Amazon's Big Spring Sale",
-        "link": "https://www.zdnet.com/article/best-deals-under-50-last-minute-amazon-spring-sale/",
-        "date": "Tue, 31 Mar 2026 17:54:49 GMT",
-        "source": "ZDNet AI",
-        "description": "Amazon is full of great, affordable gadgets for your day-to-day, from speakers and chargers to streaming sticks and smart home gear. They're even cheaper now, during the retailer's annual sale - ac...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Building an AI powered system for compliance evidence collection",
-        "link": "https://aws.amazon.com/blogs/machine-learning/building-an-ai-powered-system-for-compliance-evidence-collection/",
-        "date": "Tue, 31 Mar 2026 17:52:15 +0000",
-        "source": "AWS Machine Learning",
-        "description": "In this post, we show you how to build a similar system for your organization. You will learn the architecture decisions, implementation details, and deployment process that can help you automate y...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Accelerating software delivery with agentic QA automation using Amazon Nova Act",
-        "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act/",
-        "date": "Tue, 31 Mar 2026 17:46:50 +0000",
-        "source": "AWS Machine Learning",
-        "description": "In this post, we demonstrate how to implement agentic QA automation through QA Studio, a reference solution built with Amazon Nova Act. You will see how to define tests in natural language that ada...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The most popular Amazon Spring Sale deals may surprise you - and there's still time to shop",
-        "link": "https://www.zdnet.com/article/reader-favorites-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 17:46:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Amazon's Spring Sale ends today, but we've got the scoop on the top products ZDNET readers bought the most, from SSDs to flagship headphones.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Alexa+ gets new food ordering experiences with Uber Eats and Grubhub",
-        "link": "https://techcrunch.com/2026/03/31/alexa-plus-new-food-ordering-experiences-with-uber-eats-and-grubhub/",
-        "date": "Tue, 31 Mar 2026 17:41:35 +0000",
-        "source": "TechCrunch AI",
-        "description": "You can now order from Uber Eats and Grubhub using Alexa+, an experience Amazon says will be similar to chatting with a waiter at a restaurant or placing an order at a drive-thru.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "This HP gaming laptop just dropped under $1,000 - a rarity during the RAM-pocalypse",
-        "link": "https://www.zdnet.com/article/hp-victus-15-deal-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 17:10:56 GMT",
-        "source": "ZDNet AI",
-        "description": "The price of gaming laptops is through the roof, but right now at HP, you can snag the Victus 15 at a big discount.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Samsung Watch users in the US can finally track their blood pressure - but it's tricky",
-        "link": "https://www.zdnet.com/article/galaxy-watch-users-in-us-can-track-blood-pressure/",
-        "date": "Tue, 31 Mar 2026 17:03:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The feature works on Galaxy Watch 4 and newer models. You'll need the updated Samsung Health Monitor app and a cuff monitor for calibration.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The best last minute phone deals from T-Mobile, Verizon, AT&T and other carriers",
-        "link": "https://www.zdnet.com/article/best-phone-carrier-deals-tmobile-verizon-att-last-minute-amazon-spring-sale/",
-        "date": "Tue, 31 Mar 2026 16:59:29 GMT",
-        "source": "ZDNet AI",
-        "description": "Amazon Spring Sale is in its final days, but multiple carriers are offering deals on flagships, including the iPhone 17 Pro for free. These discounts won't last long, so act now.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Qwen3.5-Omni is here! Scaling up to a Native Omni-modal AGI",
-        "link": "https://www.analyticsvidhya.com/blog/2026/03/qwen3-5-omni-ai-model/",
-        "date": "Tue, 31 Mar 2026 16:57:31 +0000",
-        "source": "Analytics Vidhya",
-        "description": "Multimodal AI has grown from novelty to a must in recent times. Need proof? If I were to tell you to work on an AI model that only understands text, you would probably laugh and throw 10 model name...",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "Want to change your Gmail address? Now you can, without losing any data - here's how",
-        "link": "https://www.zdnet.com/article/how-to-change-your-gmail-address/",
-        "date": "Tue, 31 Mar 2026 16:41:16 GMT",
-        "source": "ZDNet AI",
-        "description": "You'll get messages sent to both your new and old addresses, but there are some limits.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Databricks to Invest $850M in UK AI Operations",
-        "link": "https://aibusiness.com/data-management/databricks-to-invest-850m-uk-ai-operations",
-        "date": "Tue, 31 Mar 2026 16:36:09 GMT",
-        "source": "AI Business",
-        "description": "With the investment, the company will expand its London hub, boost AI talent development, and support growing demand for agentic AI tools.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I've tracked Apple for nearly 50 years: How a garage rebel became a multitrillion-dollar empire",
-        "link": "https://www.zdnet.com/article/apple-at-50-from-garage-rebel-to-multitrillion-dollar-empire/",
-        "date": "Tue, 31 Mar 2026 16:31:57 GMT",
-        "source": "ZDNet AI",
-        "description": "Opinion: On Apple's 50th anniversary, here's a look at what the company gained - and lost - on its journey from a tech geeks' dream to a luxury device brand.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "12 travel gadgets that can upgrade your spring break (and they're on sale)",
-        "link": "https://www.zdnet.com/article/travel-gadgets-last-minute-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 16:29:16 GMT",
-        "source": "ZDNet AI",
-        "description": "Traveling soon? Scoop up these nifty gadgets ahead of your travels for less during the last day of Amazon's Spring Sale.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AWS launches frontier agents for security testing and cloud operations",
-        "link": "https://aws.amazon.com/blogs/machine-learning/aws-launches-frontier-agents-for-security-testing-and-cloud-operations/",
-        "date": "Tue, 31 Mar 2026 16:25:32 +0000",
-        "source": "AWS Machine Learning",
-        "description": "I'm excited to announce that AWS Security Agent on-demand penetration testing and AWS DevOps Agent are now generally available, representing a new class of AI capabilities we announced at re:Invent...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Students Renting Smart Glasses to Cheat on Tests",
-        "link": "https://futurism.com/artificial-intelligence/students-renting-smart-glasses-cheat-tests",
-        "date": "Tue, 31 Mar 2026 16:14:58 -0400",
-        "source": "Futurism AI",
-        "description": "It's a lucrative side hustle.\nThe post Students Renting Smart Glasses to Cheat on Tests appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Penguin to sue OpenAI over ChatGPT version of German children’s book",
-        "link": "https://www.theguardian.com/technology/2026/mar/31/penguin-sue-openai-chatgpt-german-childrens-book-kokosnuss",
-        "date": "Tue, 31 Mar 2026 16:13:45 GMT",
-        "source": "The Guardian AI",
-        "description": "Publisher alleges AI research company’s chatbot violated its copyright over Coconut the Little Dragon seriesPenguin Random House has filed a lawsuit against OpenAI, alleging its chatbot ChatGPT vio...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Best Amazon Spring Sale phone deals 2026: Last chance to grab these 25+ discounts",
-        "link": "https://www.zdnet.com/article/last-minute-amazon-spring-sale-2026-phone-deals/",
-        "date": "Tue, 31 Mar 2026 16:09:45 GMT",
-        "source": "ZDNet AI",
-        "description": "For Amazon's Big Spring Sale, I've rounded up the best phone deals from major brands like Apple, Samsung, Motorola, and more. Sales are live now, so act fast.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "We need a credible plan for science funding in the UK | Letters",
-        "link": "https://www.theguardian.com/science/2026/mar/31/we-need-a-credible-plan-for-science-funding-in-the-uk",
-        "date": "Tue, 31 Mar 2026 16:02:56 GMT",
-        "source": "The Guardian AI",
-        "description": "Prof Ruben Saakyan and Prof Sheila Rowan respond to Prof Charlotte Deane of UK Research and InnovationIf the UK’s position in quantum computing is indeed a success story of long-term investment in ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Best Walmart deals to compete with Amazon's Big Spring Sale 2026: Last chance to save",
-        "link": "https://www.zdnet.com/article/best-walmart-deals-last-minute-amazon-big-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 16:02:03 GMT",
-        "source": "ZDNet AI",
-        "description": "Amazon's Big Spring Sale is almost over, but some of these Walmart sales are even better, including up to 60% off on Apple products, Roku devices, and more.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Nebius to Build One of Europe’s Largest AI Factories in Finland",
-        "link": "https://aibusiness.com/generative-ai/nebius-build-one-of-europe-s-largest-ai-factories-in-finland",
-        "date": "Tue, 31 Mar 2026 16:01:33 GMT",
-        "source": "AI Business",
-        "description": "The 310MW site joins Europe’s accelerating push to rival U.S. AI infrastructure.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I bought my AirPods Pro 3 at full price. Don't be like me - get them for 20% off at Walmart",
-        "link": "https://www.zdnet.com/article/airpods-pro-3-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 16:00:57 GMT",
-        "source": "ZDNet AI",
-        "description": "The AirPods Pro 3 are the best earbuds for Apple users. My only complaint is that I didn't get them for $50 off.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Does anyone think Matt Goodwin’s book on Britain’s demise is a publishing sensation? I mean, other than him | Marina Hyde",
-        "link": "https://www.theguardian.com/commentisfree/2026/mar/31/matt-goodwin-ai-allegations-suicide-nation-book-sales",
-        "date": "Tue, 31 Mar 2026 16:00:54 GMT",
-        "source": "The Guardian AI",
-        "description": "Who needs critics when the Reform man is so adept at patting his own back – and that’s easy to do in publishing: there’s a sales list for everyone ‘She’s produced a bestseller!” panted the Spectato...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "What Google Cloud announced in AI this month",
-        "link": "https://cloud.google.com/blog/products/ai-machine-learning/what-google-cloud-announced-in-ai-this-month/",
-        "date": "Tue, 31 Mar 2026 16:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "Editor’s note: Want to keep up with the latest from Google Cloud? Check back here for a monthly recap of our latest updates, announcements, resources, events, learning opportunities, and more.\nMarc...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "South Korean AI Chipmaker Raises $400 Million for Inference",
-        "link": "https://aibusiness.com/generative-ai/south-korean-ai-chipmaker-raises-400-million-inference",
-        "date": "Tue, 31 Mar 2026 15:47:35 GMT",
-        "source": "AI Business",
-        "description": "The evolving AI inference market presents opportunities for new players, such as Rebellions, to offer silicon diversity.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "The Value of a Relationship with a Cybersecurity Professional (Sponsored)",
-        "link": "https://bit.ly/Ingram-topic-23-kdn-website#new_tab",
-        "date": "Tue, 31 Mar 2026 15:46:39 +0000",
-        "source": "KDnuggets",
-        "description": "gnoring the foundation of your digital business is the fastest way to turn a profitable quarter into a devastating loss.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Can your governance keep pace with your AI ambitions? AI risk intelligence in the agentic era",
-        "link": "https://aws.amazon.com/blogs/machine-learning/can-your-governance-keep-pace-with-your-ai-ambitions-ai-risk-intelligence-in-the-agentic-era/",
-        "date": "Tue, 31 Mar 2026 15:36:17 +0000",
-        "source": "AWS Machine Learning",
-        "description": "Traditional frameworks designed for static deployments cannot address the dynamic interactions that define agentic workloads. AI Risk Intelligence (AIRI), from AWS Generative AI Innovation Center, ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "SAP and ANYbotics drive industrial adoption of physical AI",
-        "link": "https://www.artificialintelligence-news.com/news/sap-and-anybotics-drive-industrial-adoption-physical-ai/",
-        "date": "Tue, 31 Mar 2026 15:20:53 +0000",
-        "source": "Artificial Intelligence News",
-        "description": "Heavy industry relies on people to inspect hazardous, dirty facilities. It’s expensive, and putting humans in these zones carries obvious safety risks. Swiss robot maker ANYbotics and software comp...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Granite 4.0 3B Vision: Compact Multimodal Intelligence for Enterprise Documents",
-        "link": "https://huggingface.co/blog/ibm-granite/granite-4-vision",
-        "date": "Tue, 31 Mar 2026 15:10:41 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Efficiency at Scale: NVIDIA, Energy Leaders Accelerating Power‑Flexible AI Factories to Fortify the Grid",
-        "link": "https://blogs.nvidia.com/blog/energy-efficiency-ai-factories-grid/",
-        "date": "Tue, 31 Mar 2026 15:00:51 +0000",
-        "source": "NVIDIA Blog",
-        "description": "CERAWeek — dubbed the Davos of energy — is where policymakers, producers, technologists and financiers gather to discuss how the world powers itself next.  NVIDIA and Emerald AI unveiled at the con...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación",
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Nomadic raises $8.4 million to wrangle the data pouring off autonomous vehicles",
-        "link": "https://techcrunch.com/2026/03/31/nomadic-raises-8-4-million-to-wrangle-the-data-pouring-off-avs/",
-        "date": "Tue, 31 Mar 2026 15:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "The company turns footage from robots into structured, searchable datasets with a deep learning model.",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "The New York Times drops freelance journalist who used AI to write book review",
-        "link": "https://www.theguardian.com/books/2026/mar/31/the-new-york-times-drops-freelance-journalist-who-used-ai-to-write-book-review",
-        "date": "Tue, 31 Mar 2026 14:45:33 GMT",
-        "source": "The Guardian AI",
-        "description": "Writer and author Alex Preston said he “made a serious mistake” after a reader spotted similarities between his review and one that appeared in the Guardian The New York Times has cut ties with a f...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Shifting to AI model customization is an architectural imperative",
-        "link": "https://www.technologyreview.com/2026/03/31/1134762/shifting-to-ai-model-customization-is-an-architectural-imperative/",
-        "date": "Tue, 31 Mar 2026 14:12:50 +0000",
-        "source": "MIT Technology Review",
-        "description": "In the early days of large language models (LLMs), we grew accustomed to massive 10x jumps in reasoning and coding capability with every new model iteration. Today, those jumps have flattened into ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How did Anthropic measure AI's \"theoretical capabilities\" in the job market?",
-        "link": "https://arstechnica.com/ai/2026/03/how-did-anthropic-measure-ais-theoretical-capabilities-in-the-job-market/",
-        "date": "Tue, 31 Mar 2026 14:01:33 +0000",
-        "source": "Ars Technica AI",
-        "description": "2023 study made a lot of assumptions about future \"anticipated LLM-powered software.\"",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Exclusive: Runway launches $10M fund, Builders program to support early-stage AI startups",
-        "link": "https://techcrunch.com/2026/03/31/exclusive-runway-launches-10m-fund-builders-program-to-support-early-stage-ai-startups/",
-        "date": "Tue, 31 Mar 2026 14:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "Runway is launching a $10 million fund and startup program to back companies building with its AI video models, as it pushes toward interactive, real-time “video intelligence” applications.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Combat Conditioning: what we learned building Random Tactical Timer",
-        "link": "https://dev.to/igorganapolsky/combat-conditioning-what-we-learned-building-random-tactical-timer-3h66",
-        "date": "Tue, 31 Mar 2026 13:51:33 +0000",
-        "source": "Dev.to AI",
-        "description": "What changed today\n\n\n\nfix: voice defaults OFF, no-repeat, pause jump fix, sound workflow, voice AB test\nchore: merge release/v1.3.15 back into develop (#952)\nfix(ci): run release branch checks auto...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Best AI Tools for Online Business in 2025 (Tested and Ranked)",
-        "link": "https://dev.to/aihustletools/the-best-ai-tools-for-online-business-in-2025-tested-and-ranked-55c4",
-        "date": "Tue, 31 Mar 2026 13:48:04 +0000",
-        "source": "Dev.to AI",
-        "description": "After spending the past year testing AI tools across every category, here's my definitive ranked list for online business owners.\n\nI've used all of these tools personally. This isn't a list of tool...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Multi-Agent Systems: When One AI Agent Isn't Enough",
-        "link": "https://dev.to/paxrel/multi-agent-systems-when-one-ai-agent-isnt-enough-2la9",
-        "date": "Tue, 31 Mar 2026 13:46:29 +0000",
-        "source": "Dev.to AI",
-        "description": "Multi-Agent Systems: When One AI Agent Isn't Enough (2026 Guide) — Paxrel\n\n\n- \n\n\n\n\n\n\n\n        [Paxrel](/)\n\n            [Blog](/blog.html)  | \n            [Newsletter](/newsletter.html)  | \n        ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "What Is MCP (Model Context Protocol)? The Developer's Guide (2026)",
-        "link": "https://dev.to/paxrel/what-is-mcp-model-context-protocol-the-developers-guide-2026-6i6",
-        "date": "Tue, 31 Mar 2026 13:46:07 +0000",
-        "source": "Dev.to AI",
-        "description": "What Is MCP (Model Context Protocol)? The Developer's Guide (2026)\n\n\n\n        March 24, 2026 · 12 min read · By Paxrel\n\n\n\n\n\n\nPhoto by Саша Алалыкин on Pexels\n\nIf you've been building AI agents in 2...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Why I Make Claude and Gemini Argue: Building an Adversarial Agentic Workflow (Open-Source Skill)",
-        "link": "https://dev.to/awrshift/why-i-make-claude-and-gemini-argue-building-an-adversarial-agentic-workflow-open-source-skill-2bgl",
-        "date": "Tue, 31 Mar 2026 13:45:10 +0000",
-        "source": "Dev.to AI",
-        "description": "In traditional engineering, you'd never let a developer merge code without a peer review.\n\nSo why are we letting AI grade its own homework?\n\nI've been building with Claude Code for 750+ sessions ac...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "What Claude Code's Leaked Source Reveals About AI Agent Governance",
-        "link": "https://dev.to/mergeshield/what-claude-codes-leaked-source-reveals-about-ai-agent-governance-22p2",
-        "date": "Tue, 31 Mar 2026 13:43:07 +0000",
-        "source": "Dev.to AI",
-        "description": "On March 31, 2026, security researcher Chaofan Shou discovered that Anthropic had accidentally shipped the complete source code of Claude Code in their npm package. A .map file contained a link to ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "AI for Business: Implementation Guide (2026)",
-        "link": "https://dev.to/2gelbuy/ai-for-business-implementation-guide-2026-2c7p",
-        "date": "Tue, 31 Mar 2026 13:42:17 +0000",
-        "source": "Dev.to AI",
-        "description": "Direct Answer: AI for Business at a Glance\n\n\nAI for business refers to implementing artificial intelligence tools in specific company functions, marketing, sales, operations, and customer service, ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Tattoo Advertising | Growing Your Tattooing Business in 2026",
-        "link": "https://dev.to/nsdtattoo/tattoo-advertising-growing-your-tattooing-business-in-2026-4ddp",
-        "date": "Tue, 31 Mar 2026 13:42:13 +0000",
-        "source": "Dev.to AI",
-        "description": "Running a tattoo studio in 2026 is very different from what it used to be. A few years ago, word of mouth and a decent Instagram page were enough to stay busy. Now, things have changed.\n\nClients ar...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Stop Babysitting Your AI — How I Made Claude Code Enforce Its Own Rules",
-        "link": "https://dev.to/odakin/stop-babysitting-your-ai-how-i-made-claude-code-enforce-its-own-rules-jmm",
-        "date": "Tue, 31 Mar 2026 13:42:10 +0000",
-        "source": "Dev.to AI",
-        "description": "Japanese version: Zenn (Japanese)\n\nThis is the third in a series. The first two: Solving Claude Code's Memory Loss and 7 Phrases That Make Claude Code Actually Reliable. You don't need to read them...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Teaching Your AI to Master the Seasonal Tides",
-        "link": "https://dev.to/ken_deng_ai/teaching-your-ai-to-master-the-seasonal-tides-1e90",
-        "date": "Tue, 31 Mar 2026 13:42:09 +0000",
-        "source": "Dev.to AI",
-        "description": "For independent boat mechanics, the year isn't a steady flow; it's a series of tidal rushes. The spring commissioning crunch and the fall winterization wave overwhelm even the best manual systems, ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Execution Gap PLR Review (2026): Is This Done-For-You Digital Product Worth It?",
-        "link": "https://dev.to/velora_zenix_867c57cfe5c5/the-execution-gap-plr-review-2026-is-this-done-for-you-digital-product-worth-it-1feo",
-        "date": "Tue, 31 Mar 2026 13:41:30 +0000",
-        "source": "Dev.to AI",
-        "description": "The Execution Gap PLR Review (2026): Is This Done-For-You Digital Product Worth It?\n\nLaunching a digital product in 2026 is no longer just about having a good idea—it’s about execution speed, posit...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "More women in Tech. Fewer women leading",
-        "link": "https://dev.to/r_elena_mendez_escobar/more-women-in-tech-fewer-women-leading-5f9e",
-        "date": "Tue, 31 Mar 2026 13:41:07 +0000",
-        "source": "Dev.to AI",
-        "description": "Every March invites me to pause, and on a personal level, it’s a moment to acknowledge the progress made toward equality, but also to reflect honestly on the challenges that still remain.\n\n\n\nIn rec...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Amazon Spring Sale live blog 2026: Last day to score top deals",
-        "link": "https://www.zdnet.com/article/amazon-spring-sale-live-blog-03-31-2026/",
-        "date": "Tue, 31 Mar 2026 13:37:32 GMT",
-        "source": "ZDNet AI",
-        "description": "We're live-tracking the best Amazon Spring Sale deals over 60% off on home, tech, and more, on the final day of the sale.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Meta Ray-Bans vs. Optics: Why glasses wearers should consider the new model",
-        "link": "https://www.zdnet.com/article/meta-ray-bans-vs-optics/",
-        "date": "Tue, 31 Mar 2026 13:01:09 GMT",
-        "source": "ZDNet AI",
-        "description": "The new Optics smart glasses might be the first pair of Meta Ray-Bans you can wear all day. Here's why.",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "The overselling of AI - and how to resist it",
-        "link": "https://www.zdnet.com/article/the-overselling-of-ai-and-how-to-resist-it/",
-        "date": "Tue, 31 Mar 2026 13:01:08 GMT",
-        "source": "ZDNet AI",
-        "description": "Simply dropping AI into an operation will not deliver positive results without significant work behind the scenes.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I replaced my Sony WH-1000XM6 with the AirPods Max 2 for a week - and didn't miss a beat",
-        "link": "https://www.zdnet.com/article/airpods-max-2-review/",
-        "date": "Tue, 31 Mar 2026 13:00:49 GMT",
-        "source": "ZDNet AI",
-        "description": "Review: Apple's latest over-ear headphones have arrived, but they're probably not what you were hoping for in a successor.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How Instagram’s ‘PG-13’ Branding for Teens Unraveled",
-        "link": "https://www.nytimes.com/2026/03/31/arts/instagram-pg-13-rating-mpa-meta-teen-safety.html",
-        "date": "Tue, 31 Mar 2026 13:00:11 +0000",
-        "source": "NYT Tech",
-        "description": "The social media giant, under legal pressure from the Motion Picture Association, has retreated from its use of the movie rating in its marketing.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Accelerating the next phase of AI",
-        "link": "https://openai.com/index/accelerating-the-next-phase-ai",
-        "date": "Tue, 31 Mar 2026 13:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI raises $122 billion in new funding to expand frontier AI globally, invest in next-generation compute, and meet growing demand for ChatGPT, Codex, and enterprise AI.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "With its new app store, Ring bets on AI to go beyond home security",
-        "link": "https://techcrunch.com/2026/03/31/ring-app-store-bets-on-ai-to-go-beyond-home-security/",
-        "date": "Tue, 31 Mar 2026 13:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "Ring's app store will allow the company to target broader use cases beyond security, like elder care or business needs.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI Has Flooded All the Weather Apps",
-        "link": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
-        "date": "Tue, 31 Mar 2026 13:00:00 +0000",
-        "source": "Wired AI",
-        "description": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "5 gadgets I'm buying this spring to grow my green thumb (and they're still discounted)",
-        "link": "https://www.zdnet.com/article/garden-gadgets-last-chance-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 12:01:12 GMT",
-        "source": "ZDNet AI",
-        "description": "Spring is the perfect time to plan your garden, and you can get last-minute discounts on gardening gadgets on the final day of Amazon's Big Spring Sale.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI benchmarks are broken. Here’s what we need instead.",
-        "link": "https://www.technologyreview.com/2026/03/31/1134833/ai-benchmarks-are-broken-heres-what-we-need-instead/",
-        "date": "Tue, 31 Mar 2026 12:01:08 +0000",
-        "source": "MIT Technology Review",
-        "description": "For decades, artificial intelligence has been evaluated through the question of whether machines outperform humans. From chess to advanced math, from coding to essay writing, the performance of AI ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Zero Budget, Full Stack: Building with Only Free LLMs",
-        "link": "https://www.kdnuggets.com/zero-budget-full-stack-building-with-only-free-llms",
-        "date": "Tue, 31 Mar 2026 12:00:35 +0000",
-        "source": "KDnuggets",
-        "description": "Build a full-stack AI meeting summarizer with React, FastAPI, and free LLMs. Zero budget, complete code included",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Fine-Tuning vs RAG vs Prompt Engineering",
-        "link": "https://www.analyticsvidhya.com/blog/2026/03/fine-tuning-vs-rag-vs-prompt-engineering/",
-        "date": "Tue, 31 Mar 2026 11:56:41 +0000",
-        "source": "Analytics Vidhya",
-        "description": "AI demos often look impressive, delivering fast responses, polished communication, and strong performance in controlled environments. But once real users interact with the system, issues surface li...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "5 HSA/FSA eligible gadgets that are on sale now",
-        "link": "https://www.zdnet.com/article/amazon-spring-sale-2026-deals-hsa-fsa-eligible/",
-        "date": "Tue, 31 Mar 2026 11:30:43 GMT",
-        "source": "ZDNet AI",
-        "description": "These HSA/FSA eligible buys are on sale during Amazon's Big Spring Sale - but hurry, the sale ends today.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Why this Marshall is the first soundbar I've tested that truly challenges my Sonos Arc Ultra",
-        "link": "https://www.zdnet.com/article/sonos-arc-ultra-vs-marshall-heston-120/",
-        "date": "Tue, 31 Mar 2026 11:01:06 GMT",
-        "source": "ZDNet AI",
-        "description": "I compared the Sonos Arc Ultra and Marshall Heston 120 - here's what makes each one shine, and which might be the better fit for you.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Deleting yourself from the internet could cost less than your daily coffee - here's how",
-        "link": "https://www.zdnet.com/article/amazon-spring-sale-2026-data-removal-services/",
-        "date": "Tue, 31 Mar 2026 11:01:04 GMT",
-        "source": "ZDNet AI",
-        "description": "Spring cleaning should include your online data. Here's how to protect yours for less with discounts on Incogni, DeleteMe, and more.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "These 7 wellness gadgets helped me become more mindful (and they're still on sale)",
-        "link": "https://www.zdnet.com/article/wellness-gadgets-last-chance-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 11:00:45 GMT",
-        "source": "ZDNet AI",
-        "description": "Spring is the perfect time to focus on your overall wellness, and these devices can help. Plus, they are all discounted during Amazon's Big Spring Sale--but hurry, deals end today.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Building a ‘Human-in-the-Loop’ Approval Gate for Autonomous Agents",
-        "link": "https://machinelearningmastery.com/building-a-human-in-the-loop-approval-gate-for-autonomous-agents/",
-        "date": "Tue, 31 Mar 2026 11:00:07 +0000",
-        "source": "Machine Learning Mastery",
-        "description": "In agentic AI systems , when an agent's execution pipeline is intentionally halted, we have what is known as a state-managed interruption .",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "A Cat-and-Mouse Game of Russian Internet Restrictions and Evasion",
-        "link": "https://www.nytimes.com/2026/03/31/world/europe/russia-internet-restrictions.html",
-        "date": "Tue, 31 Mar 2026 10:36:33 +0000",
-        "source": "NYT Tech",
-        "description": "As the Kremlin spends heavily on censorship technology, Russians are scrambling to find new ways to circumvent the limits.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "20+ pocket-sized tech gadgets packed with purpose (and they're on sale)",
-        "link": "https://www.zdnet.com/article/pocket-sized-gadgets-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 10:30:48 GMT",
-        "source": "ZDNet AI",
-        "description": "Small tech, big savings. Shop the last day of Amazon's Big Spring Sale for deals on chargers, USB-C gear, Bluetooth gadgets, and more.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Gemini 3.1 Flash Live: AI Conversations Now Feel Way More Human",
-        "link": "https://www.analyticsvidhya.com/blog/2026/03/gemini-3-1-flash-live/",
-        "date": "Tue, 31 Mar 2026 10:26:11 +0000",
-        "source": "Analytics Vidhya",
-        "description": "Do you remember the very first AI voice conversation that you had? No doubt, it felt unreal getting live answers from a talking bot. But the one thing largely missing from the interaction was the f...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "These MagSafe wireless chargers are so much better than cords - and they're on sale",
-        "link": "https://www.zdnet.com/article/wireless-chargers-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 10:01:07 GMT",
-        "source": "ZDNet AI",
-        "description": "Several wireless chargers we've tested from brands like Anker, Twelve South, and more are marked down during the last day of Amazon's Big Spring Sale.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "It's your last chance to save on these 15+ award-winning tech products (but we'd pay full price)",
-        "link": "https://www.zdnet.com/article/editors-choice-amazon-spring-sale-2026-deals/",
-        "date": "Tue, 31 Mar 2026 10:01:05 GMT",
-        "source": "ZDNet AI",
-        "description": "Some ZDNET-approved tech is on sale during the last day of Amazon's Big Spring Sale. Don't miss these offers on products we love.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Proton just launched a Google Workspace alternative - and it's fully encrypted",
-        "link": "https://www.zdnet.com/article/proton-workspace-boasts-privacy-first-alternative-to-google-microsoft/",
-        "date": "Tue, 31 Mar 2026 10:01:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Available today, the VPN provider's productivity suite also includes Proton Meet for end-to-end encrypted video conferencing.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "These kitchen tech splurges are totally worth it (and it's your last chance to get them on sale)",
-        "link": "https://www.zdnet.com/article/kitchen-splurges-last-chance-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 10:00:46 GMT",
-        "source": "ZDNet AI",
-        "description": "Trust me, the right kitchen tools make a big difference in your culinary life. Some of my favorites are discounted during Amazon's Big Spring Sale, but it ends tonight.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Palantir’s UK boss criticises ‘ideological’ groups as ministers move to scrap NHS contract",
-        "link": "https://www.theguardian.com/technology/2026/mar/31/palantir-uk-boss-louis-mosley-ministers-nhs-contract",
-        "date": "Tue, 31 Mar 2026 09:52:03 GMT",
-        "source": "The Guardian AI",
-        "description": "Louis Mosley says government should resist calls to trigger break clause in £330m deal with US analytics companyUK politics live – latest updatesPalantir’s UK boss has urged the government not to g...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "We still highly recommend these 3 older laptop models - especially while they're on sale",
-        "link": "https://www.zdnet.com/article/best-older-laptop-deals-last-minute-amazon-spring-sale/",
-        "date": "Tue, 31 Mar 2026 09:31:42 GMT",
-        "source": "ZDNet AI",
-        "description": "It's the last day of Amazon's Spring Sale. Grab last-minute deals for these high-performing older laptops before it all ends.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Whoop, a Wearable Health Device Maker, Raises $575 Million",
-        "link": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-raises-575-million-10-billion-valuation.html",
-        "date": "Tue, 31 Mar 2026 09:06:56 +0000",
-        "source": "NYT Tech",
-        "description": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Whoop, a Wearable Health Device Maker, Raises $575 Million",
-        "link": "https://www.nytimes.com/2026/03/31/business/dealbook/whoop-a-wearable-health-device-maker-raises-575-million.html",
-        "date": "Tue, 31 Mar 2026 09:06:55 +0000",
-        "source": "NYT Tech",
-        "description": "With elite athletes like LeBron James and Cristiano Ronaldo as investors, the company, now valued at $10 billion, is courting everyday health enthusiasts.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Training mRNA Language Models Across 25 Species for $165",
-        "link": "https://huggingface.co/blog/OpenMed/training-mrna-models-25-species",
-        "date": "Tue, 31 Mar 2026 08:23:44 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "10 лучших нейросетей для генерации картинок бесплатно: гайд пошагово",
-        "link": "https://dev.to/geka_cross_7457e8699a0c3f/10-luchshikh-nieirosietiei-dlia-ghienieratsii-kartinok-biesplatno-ghaid-poshaghovo-5a92",
-        "date": "Tue, 31 Mar 2026 07:31:46 +0000",
-        "source": "Dev.to AI",
-        "description": "Введение\n\n\nЯ помню, как в детстве мечтал создавать удивительные картинки. Но тогда для этого нужны были художественные навыки, которых у меня не хватало. Сегодня, благодаря нейросетям, я могу легко...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Expert FEA Consulting Services in California – Precision Engineering Analysis for Complex Structural Challenges",
-        "link": "https://dev.to/aes_lb_85e7000d79eb437a22/expert-fea-consulting-services-in-california-precision-engineering-analysis-for-complex-56j2",
-        "date": "Tue, 31 Mar 2026 07:31:11 +0000",
-        "source": "Dev.to AI",
-        "description": "In today's fast-moving product development landscape, engineering teams across California are under constant pressure to deliver reliable, high-performance designs while keeping costs and timelines...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "All Our Tracking Was Correct… but Our Conclusions Were Wrong",
-        "link": "https://dev.to/mehwish_malik_4f29ff7fb04/all-our-tracking-was-correct-but-our-conclusions-were-wrong-3dp2",
-        "date": "Tue, 31 Mar 2026 07:31:08 +0000",
-        "source": "Dev.to AI",
-        "description": "We had Google Analytics set up perfectly. UTM parameters on every link. Custom events firing on every meaningful interaction. Conversion funnels configured exactly the way the documentation recomme...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Learning a Recurrent Visual Representation for Image Caption Generation",
-        "link": "https://dev.to/paperium/learning-a-recurrent-visual-representation-for-image-caption-generation-1jib",
-        "date": "Tue, 31 Mar 2026 07:30:07 +0000",
-        "source": "Dev.to AI",
-        "description": "{{ $json.postContent }}",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Weather MCP",
-        "link": "https://dev.to/jonjam/weather-mcp-1idj",
-        "date": "Tue, 31 Mar 2026 07:28:27 +0000",
-        "source": "Dev.to AI",
-        "description": "Background\nResult\nLearning\n\n\nTODO Add other headers\n\n\n  \n  \n  Background\n\n\nDuring my career break that I started in 2025, I started exploring the ever-changing Generative AI landscape. In Decemembe...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "ทำไม Vibe Coding คือหายนะที่ Senior Dev เห็น แต่คุณไม่: เจาะลึก 7 ขั้นตอนใช้ AI เขียนโค้ดแบบมืออาชีพ (Senior Approved)",
-        "link": "https://dev.to/3lvv0w/thamaim-vibe-coding-khuuehaaynathii-senior-dev-ehn-aetkhunaim-ecchaaaluek-7-khantnaich-ai-4m42",
-        "date": "Tue, 31 Mar 2026 07:28:10 +0000",
-        "source": "Dev.to AI",
-        "description": "ในยุคที่ Claude Code, Cursor, และเครื่องมือ AI เขียนโค้ดเบ่งบานราวดอกไม้ไฟ เรามักจะเห็น Hook ชวนฝันว่า:\n\n\n\"สร้างเว็บเสร็จใน 5 นาที เพียงแค่พิมพ์ Prompt เดียว!\"\n\n\nเทรนด์นี้ถูกเรียกว่า \"Vibe Coding\" ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How I Built a 36-Agent AI Company That Runs Itself",
-        "link": "https://dev.to/leowss/how-i-built-a-36-agent-ai-company-that-runs-itself-1524",
-        "date": "Tue, 31 Mar 2026 07:27:01 +0000",
-        "source": "Dev.to AI",
-        "description": "The Problem with AI Assistants\n\n\nMost people use AI as a single chatbot. Ask a question, get an answer. But what if you could build an entire AI organization — with specialized agents for content, ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "NBA Live Free Streaming Guide 2026 (Updated & Tested)",
-        "link": "https://dev.to/hypesportshub/nba-live-free-streaming-guide-2026-updated-tested-3310",
-        "date": "Tue, 31 Mar 2026 07:24:27 +0000",
-        "source": "Dev.to AI",
-        "description": "Watch NBA games free online—learn how to watch free NBA live step by step.\n\n\nHow to Watch Free NBA Live in 2026 – Ultimate Guide\n\nWe all want to enjoy NBA games without expensive subscriptions. In ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to Add LLM Routing Visibility to a Multi-Model App",
-        "link": "https://dev.to/tokvera/how-to-add-llm-routing-visibility-to-a-multi-model-app-3fp1",
-        "date": "Tue, 31 Mar 2026 07:22:37 +0000",
-        "source": "Dev.to AI",
-        "description": "A multi-model app usually starts with a good idea.\n\nUse a faster model for simple requests.\nUse a stronger model for harder ones.\nFail over when a provider is slow.\nRoute enterprise traffic differe...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Twake Drive: Giải pháp Lưu trữ Đám mây Tự chủ",
-        "link": "https://dev.to/stelixx-insider/twake-drive-giai-phap-luu-tru-dam-may-tu-chu-kch",
-        "date": "Tue, 31 Mar 2026 07:20:46 +0000",
-        "source": "Dev.to AI",
-        "description": "The allure of self-hosting cloud storage stems from a growing unease with commercial solutions. Concerns about mounting subscription fees, opaque privacy policies, and the fundamental desire to ass...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I Spent a Week on VibeCode Arena. Here Is Everything I Did Not Expect.",
-        "link": "https://dev.to/sukriti_singh/i-spent-a-week-on-vibecode-arena-here-is-everything-i-did-not-expect-9pp",
-        "date": "Tue, 31 Mar 2026 07:20:37 +0000",
-        "source": "Dev.to AI",
-        "description": "Seven days. Blind voting. And a realization I didn't want to admit.\n\n\n\n\n\nI will be upfront about something.\n\nI almost did not write this.\n\nNot because the week was boring. The opposite, actually. I...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Is Your AI Agent Leaking Secrets? Why Zero Data Retention is the New Standard for Enterprise Trust",
-        "link": "https://dev.to/alessandro_pignati/is-your-ai-agent-leaking-secrets-why-zero-data-retention-is-the-new-standard-for-enterprise-trust-3c3a",
-        "date": "Tue, 31 Mar 2026 07:20:12 +0000",
-        "source": "Dev.to AI",
-        "description": "We’ve all been there. You’re building a killer AI agent, it’s automating complex workflows, and then the realization hits: Where is all that sensitive data actually going?\n\nIn the rush to deploy au...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "DNA robots could deliver drugs and hunt viruses inside your body",
-        "link": "https://www.sciencedaily.com/releases/2026/03/260331001104.htm",
-        "date": "Tue, 31 Mar 2026 07:16:58 EDT",
-        "source": "ScienceDaily AI",
-        "description": "DNA robots are emerging as tiny programmable machines that could one day deliver drugs, hunt viruses, and build molecular-scale devices. By borrowing ideas from traditional robotics and combining t...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Samsung Galaxy S24 vs. S26: Is the two-year upgrade worth it? I weighed the differences",
-        "link": "https://www.zdnet.com/article/samsung-galaxy-s26-vs-s24/",
-        "date": "Tue, 31 Mar 2026 07:00:39 GMT",
-        "source": "ZDNet AI",
-        "description": "If you have a Samsung Galaxy S24 or are upgrading from an older model, here's what to know before you buy the S26.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "If OpenAI is to float on the stock market this year, it needs to start turning a profit",
-        "link": "https://www.theguardian.com/technology/2026/mar/31/openai-stock-market-flotation-profit",
-        "date": "Tue, 31 Mar 2026 07:00:33 GMT",
-        "source": "The Guardian AI",
-        "description": "The poster child of the AI boom, valued at $850bn, needs to show strategic discipline after ‘casting its net too wide’ If OpenAI is going to float this year, it has to get serious about its busines...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Alibaba Qwen Team Releases Qwen3.5 Omni: A Native Multimodal Model for Text, Audio, Video, and Realtime Interaction",
-        "link": "https://www.marktechpost.com/2026/03/30/alibaba-qwen-team-releases-qwen3-5-omni-a-native-multimodal-model-for-text-audio-video-and-realtime-interaction/",
-        "date": "Tue, 31 Mar 2026 05:17:07 +0000",
-        "source": "MarkTechPost",
-        "description": "The landscape of multimodal large language models (MLLMs) has shifted from experimental &#8216;wrappers&#8217;—where separate vision or audio encoders are stitched onto a text-based backbone—to nat...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "The Flipper One may be the ultimate Linux PC for hackers in 2026 - and I'm excited",
-        "link": "https://www.zdnet.com/article/flipper-one-hacking-tool-tiny-linux-pc/",
-        "date": "Tue, 31 Mar 2026 03:30:43 GMT",
-        "source": "ZDNet AI",
-        "description": "The Flipper Zero's successor is expected to be a pocket-sized Linux computer with a more powerful, modular design.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How I Designed a Camera Scoring System for VLM-Based Activity Recognition — and Why It Looks Different in the Real World",
-        "link": "https://dev.to/susanayi/embodied-ai-why-i-gave-my-home-robot-an-eye-in-the-sky-5fj6",
-        "date": "Tue, 31 Mar 2026 03:08:41 +0000",
-        "source": "Dev.to AI",
-        "description": "Part 2 of the \"Training-Free Home Robot\" series. Part 1 covered why fixed ceiling-mounted nodes ended up as the perception foundation. This post goes deep on one specific algorithm: how the system ...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
         ]
     }
 ]
