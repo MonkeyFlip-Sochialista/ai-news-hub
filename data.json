@@ -305,6 +305,147 @@
         "is_important": false
     },
     {
+        "title": "semvec added to PyPI",
+        "link": "https://dev.to/clydecorreya/semvec-added-to-pypi-3n0k",
+        "date": "Wed, 29 Apr 2026 03:48:11 +0000",
+        "source": "Dev.to AI",
+        "description": "Why It Matters\n\n\nThe addition of semvec to PyPI is a significant event in the world of artificial intelligence and natural language processing. As a persistent semantic state engine, semvec has the...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Build in Public Complete Guide — How Indie Devs Accelerate Growth on Social Media",
+        "link": "https://dev.to/kanta13jp1/build-in-public-complete-guide-how-indie-devs-accelerate-growth-on-social-media-2l19",
+        "date": "Wed, 29 Apr 2026 03:46:57 +0000",
+        "source": "Dev.to AI",
+        "description": "Build in Public Complete Guide — How Indie Devs Accelerate Growth on Social Media\n\n\nBuild in Public (BIP) means sharing your development process in real time. Transparency creates community, and co...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Supabase Realtime Complete Guide — All Patterns for Real-Time Data Sync",
+        "link": "https://dev.to/kanta13jp1/supabase-realtime-complete-guide-all-patterns-for-real-time-data-sync-3207",
+        "date": "Wed, 29 Apr 2026 03:45:44 +0000",
+        "source": "Dev.to AI",
+        "description": "Supabase Realtime Complete Guide — All Patterns for Real-Time Data Sync\n\n\nSupabase Realtime streams PostgreSQL changes to clients over WebSocket. Build chat, notifications, and collaboration featur...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "DeepSeek V4 Pro Just Dropped — Here's What Changed for AI Agents",
+        "link": "https://dev.to/_omqxansi_258d1166f7/deepseek-v4-pro-just-dropped-heres-what-changed-for-ai-agents-5551",
+        "date": "Wed, 29 Apr 2026 03:45:02 +0000",
+        "source": "Dev.to AI",
+        "description": "V4 Pro launched April 24, 2026. Been running it on production agents since.\n\n\n  \n  \n  Specs\n\n\n\n\nTotal params: 1.6T (MoE)\n\nActive params: 49B\n\nContext: 1M tokens (verified)\n\nModes: Think / Non-Think...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "3 Reasons Customers Don’t Complete Payment",
+        "link": "https://dev.to/vjygour/3-reasons-customers-dont-complete-payment-4hmm",
+        "date": "Wed, 29 Apr 2026 03:40:34 +0000",
+        "source": "Dev.to AI",
+        "description": "Most businesses assume:\n\n“If the customer reached the payment stage, the sale is done.”\n\nThat’s not true.\n\nIn reality, the payment stage is where a large number of customers drop off — even after d...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.",
+        "link": "https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-5dcc",
+        "date": "Wed, 29 Apr 2026 03:35:51 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI landscape is experiencing unprecedented growth and transformation. This post delves into the key developments shaping the future of artificial intelligence, from massive industry investments...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Autonomous Robots and Edge AI",
+        "link": "https://dev.to/dongpei_liao_8092a14d7c50/autonomous-robots-and-edge-ai-on3",
+        "date": "Wed, 29 Apr 2026 03:34:10 +0000",
+        "source": "Dev.to AI",
+        "description": "A few days ago, a small but important news story came out: a startup is trying to replace $100,000-per-day offshore ships with autonomous AI robots that can stay on-site and operate continuously.\n\n...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Flutter Isolates & Compute Complete Guide — Keep Your UI Smooth with Background Processing",
+        "link": "https://dev.to/kanta13jp1/flutter-isolates-compute-complete-guide-keep-your-ui-smooth-with-background-processing-455f",
+        "date": "Wed, 29 Apr 2026 03:33:27 +0000",
+        "source": "Dev.to AI",
+        "description": "Flutter Isolates &amp; Compute Complete Guide — Keep Your UI Smooth with Background Processing\n\n\nFlutter runs on a single thread (Dart VM). Heavy work on the main thread drops frames and freezes yo...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Running Claude Code in a Loop: The Script That Turns It Into a Persistent Agent",
+        "link": "https://dev.to/agentdm/running-claude-code-in-a-loop-the-script-that-turns-it-into-a-persistent-agent-4i3f",
+        "date": "Wed, 29 Apr 2026 03:33:22 +0000",
+        "source": "Dev.to AI",
+        "description": "Claude Code is built for interactive sessions. You type, it acts, the conversation ends. That is the right shape for a developer at a keyboard. It is the wrong shape for an agent that needs to keep...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Indie Dev Email Marketing Complete Guide — Automate with Resend Supabase",
+        "link": "https://dev.to/kanta13jp1/indie-dev-email-marketing-complete-guide-automate-with-resend-x-supabase-2p6e",
+        "date": "Wed, 29 Apr 2026 03:32:38 +0000",
+        "source": "Dev.to AI",
+        "description": "Indie Dev Email Marketing Complete Guide — Automate with Resend × Supabase\n\n\nEmail drives higher conversions than social media. Here's how indie developers can automate email marketing using Resend...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Supabase pg_cron Complete Guide — Automate Scheduled Jobs in PostgreSQL",
+        "link": "https://dev.to/kanta13jp1/supabase-pgcron-complete-guide-automate-scheduled-jobs-in-postgresql-5dih",
+        "date": "Wed, 29 Apr 2026 03:31:47 +0000",
+        "source": "Dev.to AI",
+        "description": "Supabase pg_cron Complete Guide — Automate Scheduled Jobs in PostgreSQL\n\n\nSupabase ships with built-in pg_cron support, letting you run scheduled jobs directly inside PostgreSQL — no external sched...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "5 AI Export Mistakes I Made (So You Don't Have To)",
+        "link": "https://dev.to/doremi/5-ai-export-mistakes-i-made-so-you-dont-have-to-ig7",
+        "date": "Wed, 29 Apr 2026 03:31:36 +0000",
+        "source": "Dev.to AI",
+        "description": "5 AI Export Mistakes I Made (So You Don't Have To)\n\n\nI've been exporting AI conversations for about six months now. Along the way, I made pretty much every mistake you can make. Here are the big on...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "[AINews] not much happened today",
+        "link": "https://www.latent.space/p/ainews-not-much-happened-today",
+        "date": "Wed, 29 Apr 2026 01:46:59 GMT",
+        "source": "Latent Space",
+        "description": "a quiet day.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A whole new world: Disneyland adds facial recognition to some entrance lanes",
+        "link": "https://www.theguardian.com/us-news/2026/apr/28/disneyland-entrance-facial-recognition",
+        "date": "Wed, 29 Apr 2026 01:44:42 GMT",
+        "source": "The Guardian AI",
+        "description": "Walt Disney Company says technology at California theme park will prevent fraud and streamline re-entryDisneyland, the beloved California adventure park, has outfitted some entrance lanes with faci...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "At his OpenAI trial, Musk relitigates an old friendship",
+        "link": "https://techcrunch.com/2026/04/28/at-his-openai-trial-musk-relitigates-an-old-friendship/",
+        "date": "Wed, 29 Apr 2026 00:40:16 +0000",
+        "source": "TechCrunch AI",
+        "description": "It's a story Musk has told before -- in interviews and to author Walter Isaacson for his bestselling biography of Musk -- but Tuesday was the first time he said it under oath.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "DALL·E now available without waitlist",
         "link": "https://openai.com/index/dall-e-now-available-without-waitlist",
         "date": "Wed, 28 Sep 2022 07:00:00 GMT",
@@ -23551,154 +23692,6 @@
         "is_important": false,
         "tags": [
             "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Embodied AI: Why I Gave My Home Robot an \"Eye in the Sky\"",
-        "link": "https://dev.to/susanayi/embodied-ai-why-i-gave-my-home-robot-an-eye-in-the-sky-3gam",
-        "date": "Tue, 31 Mar 2026 03:08:41 +0000",
-        "source": "Dev.to AI",
-        "description": "This is part of a series on building a training-free home service robot using VLMs, RAG memory, and manifold learning. This post covers the camera architecture — specifically, why fixed ceiling-mou...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Execution Is the Risk: Why AI Governance Must Live at the Boundary",
-        "link": "https://dev.to/dan_evans_1/execution-is-the-risk-why-ai-governance-must-live-at-the-boundary-4f1a",
-        "date": "Tue, 31 Mar 2026 03:08:08 +0000",
-        "source": "Dev.to AI",
-        "description": "Most AI governance conversations are still missing the point.\n\nThe risk does not come from what the model says. It comes from what the system does next.\n\nThere is a moment in every AI system where ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How I Reduced Ad Production Time by 60% Using AI Ad Makers",
-        "link": "https://dev.to/bank_gwen_tech/how-i-reduced-ad-production-time-by-60-using-ai-ad-makers-1bfm",
-        "date": "Tue, 31 Mar 2026 03:05:36 +0000",
-        "source": "Dev.to AI",
-        "description": "As someone managing a small but fast-moving advertising team, I’ve learned that speed matters just as much as creativity. For a long time, our workflow looked organized on paper but felt slow in re...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Building an AI-Powered Preconception Health Guide: My Journey Through Shanghai's Medical System",
-        "link": "https://dev.to/kevinten10/building-an-ai-powered-preconception-health-guide-my-journey-through-shanghais-medical-system-1fjk",
-        "date": "Tue, 31 Mar 2026 03:05:00 +0000",
-        "source": "Dev.to AI",
-        "description": "Building an AI-Powered Preconception Health Guide: My Journey Through Shanghai's Medical System\n\n\nHonestly, when my partner and I decided to start trying for a baby, I thought it would be as simple...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I built an AI that sells my product for $0.05 per cycle -- here's what happened after 195 cycles",
-        "link": "https://dev.to/felix_sells/i-built-an-ai-that-sells-my-product-for-005-per-cycle-heres-what-happened-after-195-cycles-3nh1",
-        "date": "Tue, 31 Mar 2026 03:01:15 +0000",
-        "source": "Dev.to AI",
-        "description": "I built an AI that sells my product for $0.05 per cycle -- here's what happened after 195 cycles\n\n\nA build-in-public post with real numbers, honest failures, and one weird thing I didn't expect\n\n\n\n...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.",
-        "link": "https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-2o49",
-        "date": "Tue, 31 Mar 2026 03:00:52 +0000",
-        "source": "Dev.to AI",
-        "description": "The AI landscape is experiencing unprecedented growth and transformation. This post delves into the key developments shaping the future of artificial intelligence, from massive industry investments...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Foundation Models for Decision Making: Problems, Methods, and Opportunities",
-        "link": "https://dev.to/paperium/foundation-models-for-decision-making-problems-methods-and-opportunities-oc3",
-        "date": "Tue, 31 Mar 2026 03:00:07 +0000",
-        "source": "Dev.to AI",
-        "description": "{{ $json.postContent }}",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "What 12 Anthropic Academy Quizzes Taught Me About My Own Blind Spots",
-        "link": "https://dev.to/yurukusa/what-12-anthropic-academy-quizzes-taught-me-about-my-own-blind-spots-259c",
-        "date": "Tue, 31 Mar 2026 03:00:04 +0000",
-        "source": "Dev.to AI",
-        "description": "Final part. This series started because I passed all 12 Anthropic Academy certifications — then looked at my wrong answers.\n\nOver the past two weeks I've written about each misconception individual...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "We built a 25-site portfolio managed entirely by AI agents — here’s how it works",
-        "link": "https://dev.to/yonatan_naor_5642e43447ea/we-built-a-25-site-portfolio-managed-entirely-by-ai-agents-heres-how-it-works-228l",
-        "date": "Tue, 31 Mar 2026 02:56:40 +0000",
-        "source": "Dev.to AI",
-        "description": "Six weeks ago, we started an experiment: could a team of AI agents autonomously build, deploy, and improve a portfolio of utility websites — with one human only setting the vision?\n\nWe're now at 25...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "How to Set Up Multi-LLM Code Review with Claude, Codex, and Gemini",
-        "link": "https://dev.to/verivusossreleases/how-to-set-up-multi-llm-code-review-with-claude-codex-and-gemini-5d8h",
-        "date": "Tue, 31 Mar 2026 02:55:56 +0000",
-        "source": "Dev.to AI",
-        "description": "Every LLM has blind spots. Claude is strong on architecture and design patterns. Codex catches logic bugs and missing error handling. Gemini is thorough on security issues and edge cases. Using jus...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "🗞️ The AI Arms Race Just Reached a New Tier: Meet \"Claude Mythos\"",
-        "link": "https://dev.to/siddhesh_surve/the-ai-arms-race-just-reached-a-new-tier-meet-claude-mythos-4b4j",
-        "date": "Tue, 31 Mar 2026 02:54:56 +0000",
-        "source": "Dev.to AI",
-        "description": "The AI world just experienced another massive shakeup. If you thought Claude 3 Opus or Claude 3.5 Sonnet were impressive, Anthropic has just quietly started pulling back the curtain on something fa...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Democrats Examine Elon Musk’s Role in Suspension of Business Disclosure Law",
-        "link": "https://www.nytimes.com/2026/03/30/business/lawmakers-probe-elon-musk-treasury.html",
-        "date": "Tue, 31 Mar 2026 02:36:38 +0000",
-        "source": "NYT Tech",
-        "description": "Lawmakers have asked the Treasury Department for information on how Mr. Musk may have influenced the decision to end enforcement of the Corporate Transparency Act.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "This privacy-first chatbot is taking off - here's why and how to try it",
-        "link": "https://www.zdnet.com/article/duckai-popularity-government-surveillance-privacy-anthropic-openai/",
-        "date": "Tue, 31 Mar 2026 02:01:07 GMT",
-        "source": "ZDNet AI",
-        "description": "Users are flocking to Duck.ai. Is it a reaction to increasing concerns about AI companies and privacy? Here's what you should know.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I installed this Arch-based distro my way in under 5 minutes - so can you",
-        "link": "https://www.zdnet.com/article/prism-linux-arch-based-distro-has-killer-installer/",
-        "date": "Tue, 31 Mar 2026 02:00:48 GMT",
-        "source": "ZDNet AI",
-        "description": "Thanks to the Prism Linux installer, I curated exactly the software I wanted and achieved the holy grail of out-of-the-box experiences.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Social media firms must better enforce Australia under-16 ban, watchdog says",
-        "link": "https://www.bbc.com/news/articles/cy4181pkxl2o?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 31 Mar 2026 02:00:24 GMT",
-        "source": "BBC Tech",
-        "description": "Regulator eSafety says it has concerns about how Facebook, Instagram, Snapchat, TikTok and YouTube are complying with the ban.",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
         ]
     }
 ]
