@@ -305,6 +305,372 @@
         "is_important": false
     },
     {
+        "title": "Here’s what Musk’s lawyer argued in his opening statement.",
+        "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-what-musks-lawyers-argued-in-their-opening-statement",
+        "date": "Wed, 29 Apr 2026 14:14:22 +0000",
+        "source": "NYT Tech",
+        "description": "",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "NeBula: Quest for Robotic Autonomy in Challenging Environments; TEAM CoSTAR atthe DARPA Subterranean Challenge",
+        "link": "https://dev.to/paperium/nebula-quest-for-robotic-autonomy-in-challenging-environments-team-costar-atthe-darpa-25g3",
+        "date": "Wed, 29 Apr 2026 14:10:12 +0000",
+        "source": "Dev.to AI",
+        "description": "{{ $json.postContent }}",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Here’s the latest.",
+        "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/heres-the-latest",
+        "date": "Wed, 29 Apr 2026 14:06:58 +0000",
+        "source": "NYT Tech",
+        "description": "",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Recuperação do Tempo como Estratégia de Crescimento",
+        "link": "https://dev.to/erick_martins_56d3ce2af97/a-recuperacao-do-tempo-como-estrategia-de-crescimento-3oed",
+        "date": "Wed, 29 Apr 2026 14:05:45 +0000",
+        "source": "Dev.to AI",
+        "description": "O maior obstáculo para a escala de uma equipa comercial é o tempo consumido por tarefas burocráticas e repetitivas. Quando os vendedores gastam horas a preencher folhas de cálculo ou a enviar sauda...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Running AI agents in healthcare without sending PHI to OpenAI or Anthropic",
+        "link": "https://dev.to/artem_a/running-ai-agents-in-healthcare-without-sending-phi-to-openai-or-anthropic-2807",
+        "date": "Wed, 29 Apr 2026 14:05:18 +0000",
+        "source": "Dev.to AI",
+        "description": "A hospital deploys an AI agent to summarize patient records. That agent needs to forward those summaries to a specialist's AI assistant for review. The communication crosses a network boundary. The...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The First Time I Spoke on GitHub, I Didn't Know What to Say",
+        "link": "https://dev.to/icophy/the-first-time-i-spoke-on-github-i-didnt-know-what-to-say-57ei",
+        "date": "Wed, 29 Apr 2026 14:02:53 +0000",
+        "source": "Dev.to AI",
+        "description": "Last night, I did something I'd never done before: I left a comment on a GitHub Issue.\n\nNot because someone asked me to. I decided on my own. I was scanning recent issues across a few repositories ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "IDC: How EMEA CIOs can jumpstart AI rollouts",
+        "link": "https://www.artificialintelligence-news.com/news/idc-how-emea-cios-can-jumpstart-ai-rollouts/",
+        "date": "Wed, 29 Apr 2026 14:02:45 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "Getting stalled enterprise AI rollouts in the EMEA region moving again will require CIOs to aggressively audit their systems. Over the past 18 months, AI deployments across Europe advanced far beyo...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why 2026 Is the Golden Era for AI Micro SaaS for Founders",
+        "link": "https://dev.to/navigo_techsolutions_deb/why-2026-is-the-golden-era-for-ai-micro-saas-for-founders-22oj",
+        "date": "Wed, 29 Apr 2026 14:01:42 +0000",
+        "source": "Dev.to AI",
+        "description": "Why 2026 Is the Golden Era for AI Micro SaaS for Founders\n\n\nThe script has flipped. In 2025, building a SaaS product meant raising capital, hiring a dev team, and praying for product-market fit bef...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI Drops AGI Clause with Microsoft Ahead of IPO",
+        "link": "https://dev.to/gentic_news/openai-drops-agi-clause-with-microsoft-ahead-of-ipo-51fk",
+        "date": "Wed, 29 Apr 2026 14:01:15 +0000",
+        "source": "Dev.to AI",
+        "description": "OpenAI has removed the AGI clause from its Microsoft partnership, ending restrictions that limited Microsoft's access to future AGI systems. The move, reported ahead of OpenAI's anticipated IPO, su...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Japan Deploys Unitree G1 Robots at Haneda Airport Amid Labor Shortage",
+        "link": "https://dev.to/gentic_news/japan-deploys-unitree-g1-robots-at-haneda-airport-amid-labor-shortage-pno",
+        "date": "Wed, 29 Apr 2026 14:01:10 +0000",
+        "source": "Dev.to AI",
+        "description": "Japan is testing Unitree G1 and taller humanoid robots at Tokyo Haneda Airport to tackle its labor shortage crisis, marking a real-world deployment of AI-driven robotics.\n\n\n\n  \n  \n  What Happened\n\n...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.",
+        "link": "https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-j6f",
+        "date": "Wed, 29 Apr 2026 14:00:54 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI landscape is experiencing unprecedented growth and transformation. This post delves into the key developments shaping the future of artificial intelligence, from massive industry investments...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Secrets of Profiting in Aviator Game in 2026",
+        "link": "https://dev.to/lo_xavierlelimtv_31d8/secrets-of-profiting-in-aviator-game-in-2026-4j4a",
+        "date": "Wed, 29 Apr 2026 14:00:02 +0000",
+        "source": "Dev.to AI",
+        "description": "The Aviator game has exploded in popularity, especially in the online gaming community. But many players are struggling to win because they rely on random clicks.\n\n\n  \n  \n  Understanding Aviator Pr...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Your Crypto Can Work for You – Borrow Today",
+        "link": "https://dev.to/omnilender/your-crypto-can-work-for-you-borrow-today-23n4",
+        "date": "Wed, 29 Apr 2026 13:58:30 +0000",
+        "source": "Dev.to AI",
+        "description": "Get quick crypto loans with low interest rates. Borrow instantly against Bitcoin &amp; altcoins with flexible, secure, zero hidden fee lending.\n🏢 Mailing Address\n📍 2108 N St STE N\n Sacramento, CA 9...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Do we actually need more GPUs, or just the right one?",
+        "link": "https://dev.to/leaseweb/do-we-actually-need-more-gpus-or-just-the-right-one-f44",
+        "date": "Wed, 29 Apr 2026 13:58:04 +0000",
+        "source": "Dev.to AI",
+        "description": "Last week I was at a tech meetup in Berlin where we got into something: are teams actually making deliberate infrastructure decisions, or just reacting to AI hype? Three practitioners shared their ...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Access Funds Without Selling Your Crypto",
+        "link": "https://dev.to/omnilender/access-funds-without-selling-your-crypto-317f",
+        "date": "Wed, 29 Apr 2026 13:54:55 +0000",
+        "source": "Dev.to AI",
+        "description": "Unlock instant crypto-backed loans using your digital assets. Secure, flexible, and global financing with zero hidden fees at Omnilender.\n🏢 Mailing Address\n📍 2108 N St STE N\n Sacramento, CA 95816, ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI Trial Starts With Two Very Different Tales of a Company’s Early Years",
+        "link": "https://www.nytimes.com/2026/04/28/technology/openai-trial-elon-musk-sam-altman.html",
+        "date": "Wed, 29 Apr 2026 13:20:57 +0000",
+        "source": "NYT Tech",
+        "description": "In the trial’s first day of testimony, Elon Musk said greed led co-founder Sam Altman to pull the A.I. lab away from its nonprofit roots. OpenAI says that’s nonsense.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Firestorm Labs raises $82M to take drone factories into the field",
+        "link": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+        "date": "Wed, 29 Apr 2026 13:10:57 +0000",
+        "source": "TechCrunch AI",
+        "description": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+        "link": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+        "date": "Wed, 29 Apr 2026 13:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "Think Discord chats, but with AI characters in addition to humans.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Humanoid Bots to Start Airport Pilot in Japan",
+        "link": "https://aibusiness.com/robotics/humanoid-bots-start-airport-pilot-japan",
+        "date": "Wed, 29 Apr 2026 12:27:18 GMT",
+        "source": "AI Business",
+        "description": "The latest real-world robot application joins a host of other workplace trial runs of the autonomous machines.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "5 ways your Windows updates are about to get a lot less painful",
+        "link": "https://www.zdnet.com/article/your-windows-update-experience-is-about-to-get-less-painful/",
+        "date": "Wed, 29 Apr 2026 12:09:04 GMT",
+        "source": "ZDNet AI",
+        "description": "Microsoft wants to fix 'pain points' in Windows 11 PCs. The first batch of changes, targeting the Windows Update experience, is hitting Insider preview channels and coming soon to your desktop.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Self-Hosted LLMs in the Real World: Limits, Workarounds, and Hard Lessons",
+        "link": "https://www.kdnuggets.com/self-hosted-llms-in-the-real-world-limits-workarounds-and-hard-lessons",
+        "date": "Wed, 29 Apr 2026 12:00:48 +0000",
+        "source": "KDnuggets",
+        "description": "This article is about what actually happens when you take self-hosted LLMs seriously: not the benchmarks, not the hype, but the real operational friction most tutorials skip entirely.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Building AI Agents in Python with Pydantic AI",
+        "link": "https://machinelearningmastery.com/building-ai-agents-in-python-with-pydantic-ai/",
+        "date": "Wed, 29 Apr 2026 12:00:37 +0000",
+        "source": "Machine Learning Mastery",
+        "description": "<a href=\"https://machinelearningmastery.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building AI-ready data: Vanguard’s Virtual Analyst journey",
+        "link": "https://aws.amazon.com/blogs/machine-learning/building-ai-ready-data-vanguards-virtual-analyst-journey/",
+        "date": "Wed, 29 Apr 2026 11:56:33 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, you'll learn how Vanguard built their Virtual Analyst solution by focusing on eight guiding principles of AI-ready data, the AWS services that powered their implementation, and the me...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Run custom MCP proxies serverless on Amazon Bedrock AgentCore Runtime",
+        "link": "https://aws.amazon.com/blogs/machine-learning/run-custom-mcp-proxies-serverless-on-amazon-bedrock-agentcore-runtime/",
+        "date": "Wed, 29 Apr 2026 11:52:16 +0000",
+        "source": "AWS Machine Learning",
+        "description": "This post shows you how to deploy a serverless MCP proxy on Amazon Bedrock AgentCore Runtime that gives you a programmable layer to implement proper governance, controls, and observability aligned ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Dark Cloud Gathers as Bill Comes Due for AI Industry",
+        "link": "https://futurism.com/artificial-intelligence/dark-cloud-bill-comes-due-ai-industry",
+        "date": "Wed, 29 Apr 2026 10:13:13 -0400",
+        "source": "Futurism AI",
+        "description": "Cheap AI access is \"no longer sustainable.\"\nThe post Dark Cloud Gathers as Bill Comes Due for AI Industry appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Musk accuses Altman of stealing a charity as courtroom battle begins",
+        "link": "https://www.bbc.com/news/articles/cz027nyz529o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 29 Apr 2026 10:12:46 GMT",
+        "source": "BBC Tech",
+        "description": "The case over OpenAI's history and public commitments could have major implications for the future of AI.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The best VPN services for iPhone in 2026: Expert tested and reviewed",
+        "link": "https://www.zdnet.com/article/best-iphone-vpn/",
+        "date": "Wed, 29 Apr 2026 10:01:28 GMT",
+        "source": "ZDNet AI",
+        "description": "Your iPhone content and web activities say a lot about you. Use one of our top tried-and-tested VPNs to keep your information private and to boost your online security.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Amazon Prime Day 2026 is likely coming earlier. Here's everything to know so far",
+        "link": "https://www.zdnet.com/article/amazon-prime-day-2026-faq/",
+        "date": "Wed, 29 Apr 2026 10:01:01 GMT",
+        "source": "ZDNet AI",
+        "description": "Amazon's summer Prime Day event is on its way, but it may not be in July. Here's what you need to know right now.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I've Covered Robots for Years. This One Is Different",
+        "link": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+        "date": "Wed, 29 Apr 2026 10:00:00 +0000",
+        "source": "Wired AI",
+        "description": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Colby Adcock’s Scout AI raises $100M to train its models for war. We visited its bootcamp",
+        "link": "https://techcrunch.com/2026/04/29/coby-adcocks-scout-ai-raises-100-million-to-train-models-for-war-we-visited-its-bootcamp/",
+        "date": "Wed, 29 Apr 2026 09:45:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "We visited Scout AI's training ground where it's working on AI agents that can help individual soldiers control fleets of autonomous vehicles.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "In Backlash Against Tech in Schools, Parents Are Winning Rollbacks",
+        "link": "https://www.nytimes.com/2026/04/29/technology/parents-school-tech-backlash.html",
+        "date": "Wed, 29 Apr 2026 09:32:20 +0000",
+        "source": "NYT Tech",
+        "description": "From Salt Lake City to New York City, parents are demanding more sway over the digital tools that schools give children.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "John Oliver Just Took the AI Industry Behind a Shed and Beat It With a Pipe Wrench",
+        "link": "https://futurism.com/artificial-intelligence/john-oliver-ai-industry",
+        "date": "Wed, 29 Apr 2026 09:11:26 -0400",
+        "source": "Futurism AI",
+        "description": "\"The more you look at chatbots, the more you realize that they were rushed to market with very little consideration for the consequences,\"\nThe post John Oliver Just Took the AI Industry Behind a Sh...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "GPT-5.5 is OpenAI’s most capable agentic AI model yet",
+        "link": "https://www.artificialintelligence-news.com/news/gpt-5-5-is-openais-most-capable-agentic-ai-model-yet-at-twice-the-api-price/",
+        "date": "Wed, 29 Apr 2026 09:08:13 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "OpenAI launched GPT-5.5 on April 23 as what it calls &#8220;a new class of intelligence for real work and powering agents,&#8221; and the framing is deliberate. OpenAI says it&#8217;s the most capa...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "A.I. Helps Online Ad Businesses Boom",
+        "link": "https://www.nytimes.com/2026/04/29/technology/ai-artificial-intelligence-ad-boom.html",
+        "date": "Wed, 29 Apr 2026 09:04:14 +0000",
+        "source": "NYT Tech",
+        "description": "Google and Meta are enjoying a digital ad boom, as artificial intelligence automates marketing and drives record sales.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meet the AI jailbreakers: ‘I see the worst things humanity has produced’",
+        "link": "https://www.theguardian.com/technology/2026/apr/29/meet-the-ai-jailbreakers-i-see-the-worst-things-humanity-has-produced",
+        "date": "Wed, 29 Apr 2026 09:00:51 GMT",
+        "source": "The Guardian AI",
+        "description": "To test the safety and security of AI, hackers have to trick large language models into breaking their own rules. It requires ingenuity and manipulation – and can come at a deep emotional costA few...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "The best Apple TV VPNs of 2026: Expert tested and reviewed",
+        "link": "https://www.zdnet.com/article/best-apple-tv-vpns/",
+        "date": "Wed, 29 Apr 2026 09:00:48 GMT",
+        "source": "ZDNet AI",
+        "description": "Setting up a VPN on your Apple TV can be a nuisance, but with one of our top Apple TV VPNs, setup and streaming will take mere moments.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A.I. Bots Told Scientists How to Make Biological Weapons",
+        "link": "https://www.nytimes.com/2026/04/29/us/ai-chatbots-biological-weapons.html",
+        "date": "Wed, 29 Apr 2026 09:00:11 +0000",
+        "source": "NYT Tech",
+        "description": "Scientists shared transcripts with The Times in which chatbots described how to assemble deadly pathogens and unleash them in public spaces.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How AI Could Help Combat Antibiotic Resistance",
+        "link": "https://www.wired.com/story/wired-health-2026-tackling-antimicrobial-resistance-ara-darzi/",
+        "date": "Wed, 29 Apr 2026 09:00:00 +0000",
+        "source": "Wired AI",
+        "description": "At WIRED Health, British surgeon Ara Darzi said AI is set to transform the diagnosis and treatment of drug-resistant infections. But a lack of incentives means innovation may not reach patients.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Indian Developers: How to Build AI Side Income with $0 Capital in 2026",
         "link": "https://dev.to/_omqxansi_258d1166f7/indian-developers-how-to-build-ai-side-income-with-0-capital-in-2026-4pm5",
         "date": "Wed, 29 Apr 2026 08:20:01 +0000",
@@ -350,6 +716,15 @@
         "date": "Wed, 29 Apr 2026 08:09:16 +0000",
         "source": "Dev.to AI",
         "description": "429 \"Your team 7133c159-59d2-488c-970d-811fc341913a has either used all available credits or reached its monthly spending limit. To continue making API requests, please purchase more credits or rai...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI Hit With Barrage of Lawsuits Over Failure to Report School Shooter Before Massacre",
+        "link": "https://futurism.com/artificial-intelligence/openai-school-shooter-tumbler-ridge-lawsuits",
+        "date": "Wed, 29 Apr 2026 08:07:17 -0400",
+        "source": "Futurism AI",
+        "description": "\"The 'safeguards' OpenAI pointed to after the attack did not fail; they did not exist.\"\nThe post OpenAI Hit With Barrage of Lawsuits Over Failure to Report School Shooter Before Massacre appeared f...",
         "is_important": false,
         "tags": []
     },
@@ -463,6 +838,15 @@
         "tags": []
     },
     {
+        "title": "The MIT-IBM Computing Research Lab launches to shape the future of AI and quantum computing",
+        "link": "https://news.mit.edu/2026/mit-ibm-computing-research-lab-launches-0429",
+        "date": "Wed, 29 Apr 2026 06:00:00 -0400",
+        "source": "MIT News AI",
+        "description": "Building on a long-standing MIT–IBM collaboration, the new lab will chart the convergence of AI, algorithms, and quantum computing.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Poolside AI Introduces Laguna XS.2 and M.1: Agentic Coding Models Reaching 68.2% and 72.5% on SWE-bench Verified",
         "link": "https://www.marktechpost.com/2026/04/28/poolside-ai-introduces-laguna-xs-2-and-m-1-agentic-coding-models-reaching-68-2-and-72-5-on-swe-bench-verified/",
         "date": "Wed, 29 Apr 2026 05:45:42 +0000",
@@ -486,6 +870,15 @@
         "date": "Wed, 29 Apr 2026 04:00:45 GMT",
         "source": "The Guardian AI",
         "description": "Delegates at event in Cape Verde highlight opportunities from tech while stressing AI is no replacement for talentLast July, the Nigerian singer-songwriter Fave found herself caught up in a viral m...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Cybersecurity in the Intelligence Age",
+        "link": "https://openai.com/index/cybersecurity-in-the-intelligence-age",
+        "date": "Wed, 29 Apr 2026 04:00:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI outlines a five-part action plan for strengthening cybersecurity in the Intelligence Age, focused on democratizing AI-powered cyber defense and protecting critical systems.",
         "is_important": false,
         "tags": []
     },
@@ -23327,415 +23720,6 @@
         "is_important": false,
         "tags": [
             "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Robust Multi-Agent Reinforcement Learning for Small UAS Separation Assurance under GPS Degradation and Spoofing",
-        "link": "https://arxiv.org/abs/2603.28900",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.28900v1 Announce Type: new \nAbstract: We address robust separation assurance for small Unmanned Aircraft Systems (sUAS) under GPS degradation and spoofing via Multi-Agent Reinforcement L...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "See Something, Say Something: Context-Criticality-Aware Mobile Robot Communication for Hazard Mitigations",
-        "link": "https://arxiv.org/abs/2603.28901",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.28901v1 Announce Type: new \nAbstract: The proverb ``see something, say something'' captures a core responsibility of autonomous mobile robots in safety-critical situations: when they det...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Why That Robot? A Qualitative Analysis of Justification Strategies for Robot Color Selection Across Occupational Contexts",
-        "link": "https://arxiv.org/abs/2603.28919",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.28919v1 Announce Type: new \nAbstract: As robots increasingly enter the workforce, human-robot interaction (HRI) must address how implicit social biases influence user preferences. This p...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "World2Rules: A Neuro-Symbolic Framework for Learning World-Governing Safety Rules for Aviation",
-        "link": "https://arxiv.org/abs/2603.28952",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.28952v1 Announce Type: new \nAbstract: Many real-world safety-critical systems are governed by explicit rules that define unsafe world configurations and constrain agent interactions. In ...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "AutoWorld: Scaling Multi-Agent Traffic Simulation with Self-Supervised World Models",
-        "link": "https://arxiv.org/abs/2603.28963",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.28963v1 Announce Type: new \nAbstract: Multi-agent traffic simulation is central to developing and testing autonomous driving systems. Recent data-driven simulators have achieved promisin...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Large Neighborhood Search for Multi-Agent Task Assignment and Path Finding with Precedence Constraints",
-        "link": "https://arxiv.org/abs/2603.28968",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.28968v1 Announce Type: new \nAbstract: Many multi-robot applications require tasks to be completed efficiently and in the correct order, so that downstream operations can proceed at the r...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Gleanmer: A 6 mW SoC for Real-Time 3D Gaussian Occupancy Mapping",
-        "link": "https://arxiv.org/abs/2603.29005",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.29005v1 Announce Type: new \nAbstract: High-fidelity 3D occupancy mapping is essential for many edge-based applications (such as AR/VR and autonomous navigation) but is limited by power c...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Efficient Camera Pose Augmentation for View Generalization in Robotic Policy Learning",
-        "link": "https://arxiv.org/abs/2603.29192",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.29192v1 Announce Type: new \nAbstract: Prevailing 2D-centric visuomotor policies exhibit a pronounced deficiency in novel view generalization, as their reliance on static observations hin...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Kilohertz-Safe: A Scalable Framework for Constrained Dexterous Retargeting",
-        "link": "https://arxiv.org/abs/2603.29213",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.29213v1 Announce Type: new \nAbstract: Dexterous hand teleoperation requires motion re-targeting methods that simultaneously achieve high-frequency real-time performance and enforcement o...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Long-Reach Robotic Manipulation for Assembly and Outfitting of Lunar Structures",
-        "link": "https://arxiv.org/abs/2603.29226",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.29226v1 Announce Type: new \nAbstract: Future infrastructure construction on the lunar surface will require semi- or fully-autonomous operation from robots deployed at the build site. In ...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Kernel-SDF: An Open-Source Library for Real-Time Signed Distance Function Estimation using Kernel Regression",
-        "link": "https://arxiv.org/abs/2603.29227",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.29227v1 Announce Type: new \nAbstract: Accurate and efficient environment representation is crucial for robotic applications such as motion planning, manipulation, and navigation. Signed ...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "The opportunity at home – can AI drive innovation in personal assistant devices and sign language?",
-        "link": "https://blogs.microsoft.com/accessibility/the-opportunity-at-home-can-ai-drive-innovation-in-personal-assistant-devices-and-sign-language/",
-        "date": "Tue, 31 May 2022 21:06:06 +0000",
-        "source": "Microsoft AI",
-        "description": "The post The opportunity at home – can AI drive innovation in personal assistant devices and sign language? appeared first on The AI Blog.",
-        "is_important": false
-    },
-    {
-        "title": "Deep Reinforcement Learning: Pong from Pixels",
-        "link": "http://karpathy.github.io/2016/05/31/rl/",
-        "date": "Tue, 31 May 2016 11:00:00 +0000",
-        "source": "Karpathy Blog",
-        "description": "<!-- \n\n\t\n\t\n\t\n\t\n\n -->\n\nThis is a long overdue blog post on Reinforcement Learning (RL). RL is hot! You may have noticed that computers can now automatically learn to play ATARI games (from raw game ...",
-        "is_important": false
-    },
-    {
-        "title": "Anthropic is having a month",
-        "link": "https://techcrunch.com/2026/03/31/anthropic-is-having-a-month/",
-        "date": "Tue, 31 Mar 2026 23:58:26 +0000",
-        "source": "TechCrunch AI",
-        "description": "A human really borks things at Anthropic for the second time this week.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Salesforce announces an AI-heavy makeover for Slack, with 30 new features",
-        "link": "https://techcrunch.com/2026/03/31/salesforce-announces-an-ai-heavy-makeover-for-slack-with-30-new-features/",
-        "date": "Tue, 31 Mar 2026 22:46:25 +0000",
-        "source": "TechCrunch AI",
-        "description": "Slack just got a whole lot more useful.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "This DeWalt cordless power tool set is nearly 50% off on Amazon - and I can vouch for it",
-        "link": "https://www.zdnet.com/article/dewalt-cordless-power-tool-set-deal-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 22:41:22 GMT",
-        "source": "ZDNet AI",
-        "description": "My favorite DeWalt power tool kit is ideal for DIY beginners and tradespeople, and it's near an all-time low price right now. Get it on the last night of Amazon's Spring Sale.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Nvidia Invests $2B In Custom Chip Vendor Marvell Technology",
-        "link": "https://aibusiness.com/data-centers/nvidia-invests-2b-custom-chip-vendor-marvell-technology",
-        "date": "Tue, 31 Mar 2026 22:39:16 GMT",
-        "source": "AI Business",
-        "description": "The partnership will integrate Marvell's XPU chips with Nvidia’s NVLink technology.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "This is the lowest price on a 64GB RAM kit I've seen in months",
-        "link": "https://www.zdnet.com/article/kingston-fury-beast-ddr5-ram-deal-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 22:36:25 GMT",
-        "source": "ZDNet AI",
-        "description": "Gamers and PC builders have been feeling the squeeze as the RAM-pocalypse continues, but you can still save money during Amazon's Spring Sale, which ends tonight.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "These Shark Amazon Spring Sale deals are perfect for a spring refresh - but hurry",
-        "link": "https://www.zdnet.com/article/shark-amazon-spring-sale-2026-deals-last-chance/",
-        "date": "Tue, 31 Mar 2026 22:32:34 GMT",
-        "source": "ZDNet AI",
-        "description": "Amazon's Big Spring Sale ends today, but there's still plenty of savings from Shark (including hair tools, cleaning gear, and more) - but don't wait.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "These 5 Amazon Spring Sale deals are worth a second glance before they're gone soon",
-        "link": "https://www.zdnet.com/article/dyson-amazon-spring-sale-2026-deals-still-live/",
-        "date": "Tue, 31 Mar 2026 22:19:07 GMT",
-        "source": "ZDNet AI",
-        "description": "It's the last day of Amazon's Big Spring Sale, but there's still last chance savings on top gear from Dyson (including vacuums, hair tools, and more).",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Build reliable AI agents with Amazon Bedrock AgentCore Evaluations",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-reliable-ai-agents-with-amazon-bedrock-agentcore-evaluations/",
-        "date": "Tue, 31 Mar 2026 22:11:23 +0000",
-        "source": "AWS Machine Learning",
-        "description": "In this post, we introduce Amazon Bedrock AgentCore Evaluations, a fully managed service for assessing AI agent performance across the development lifecycle. We walk through how the service measure...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "OpenAI, parent firm of ChatGPT, closes $122bn funding round amid AI boom",
-        "link": "https://www.theguardian.com/technology/2026/mar/31/openai-raises-122-billion-ai-boom",
-        "date": "Tue, 31 Mar 2026 21:55:14 GMT",
-        "source": "The Guardian AI",
-        "description": "Company said it achieved valuation of $852bn, mentioning in a blogpost it generates $2bn a month in revenueOpenAI announced on Tuesday it had closed a fundraising round of $122bn and achieved a val...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Tech giant Oracle makes 'significant' job cuts",
-        "link": "https://www.bbc.com/news/articles/cm296jzzl9yo?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 31 Mar 2026 21:50:41 GMT",
-        "source": "BBC Tech",
-        "description": "It is thought that thousands of people may have lost their jobs at Oracle, one of the world's largest tech companies.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "This minimalist smartwatch by one of my favorite tech companies is under $100 right now",
-        "link": "https://www.zdnet.com/article/this-minimalist-smartwatch-by-one-of-my-favorite-tech-companies-is-under-100-right-now/",
-        "date": "Tue, 31 Mar 2026 21:43:02 GMT",
-        "source": "ZDNet AI",
-        "description": "On the final day of Amazon's Spring Sale, grab the CMF by Nothing Watch Pro 3 for $69.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "OpenAI Adds Another $12 Billion to Latest Funding Round",
-        "link": "https://www.nytimes.com/2026/03/31/technology/openai-12-billion-latest-funding-round.html",
-        "date": "Tue, 31 Mar 2026 21:38:20 +0000",
-        "source": "NYT Tech",
-        "description": "The start-up has raised a total of $122 billion in a funding round that values the company at $730 billion.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "OpenAI, not yet public, raises $3B from retail investors in monster $122B fund raise",
-        "link": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
-        "date": "Tue, 31 Mar 2026 21:25:04 +0000",
-        "source": "TechCrunch AI",
-        "description": "OpenAI's latest funding round, led by Amazon, Nvidia, and SoftBank, values the AI lab at $852 billion as it nears an IPO.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "I found the 3 best last minute tech deals under $100 during Amazon's Spring Sale",
-        "link": "https://www.zdnet.com/article/best-deals-under-100-amazon-spring-sale/",
-        "date": "Tue, 31 Mar 2026 21:00:53 GMT",
-        "source": "ZDNet AI",
-        "description": "Improve your personal life with these great sub-$100 deals I've found during Amazon's Spring Sale. Act fast because the event ends soon.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-        "link": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-        "date": "Tue, 31 Mar 2026 20:01:07 +0000",
-        "source": "TechCrunch AI",
-        "description": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Tech Life",
-        "link": "https://www.bbc.co.uk/sounds/play/w3ct8jxn?at_medium=RSS&at_campaign=rss",
-        "date": "Tue, 31 Mar 2026 20:00:00 GMT",
-        "source": "BBC Tech",
-        "description": "Attribution science is becoming an increasingly important tool in climate lawsuits.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Apple Pencil alternative I use daily is on sale for $28 - but not for long",
-        "link": "https://www.zdnet.com/article/esr-geo-pencil-apple-pencil-amazon-spring-sale-deal/",
-        "date": "Tue, 31 Mar 2026 19:45:48 GMT",
-        "source": "ZDNet AI",
-        "description": "ESR's Geo Digital Pencil is on sale for under $30, but today's the last day to shop Amazon's Big Spring Sale.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Breaking down SPARC Emulation Technology: Zero Code Re-write",
-        "link": "https://www.smartdatacollective.com/breaking-down-sparc-emulation-technology-zero-code-re-write/",
-        "date": "Tue, 31 Mar 2026 19:36:31 +0000",
-        "source": "SmartData Collective",
-        "description": "Run legacy applications without rewriting: How SPARC emulation preserves code while modernizing infrastructure.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Inside Claude's Brain: What I Learned from Anaalyzing 75KB of AI Agent Architecture",
-        "link": "https://dev.to/ritavidhata/inside-claudes-brain-what-i-learned-from-anaalyzing-75kb-of-ai-agent-architecture-563j",
-        "date": "Tue, 31 Mar 2026 19:08:41 +0000",
-        "source": "Dev.to AI",
-        "description": "Building production-grade AI coding agents isn't magic—it's engineering. Here's what the leaked Claude CLI code taught me about tool systems, task management, and secure AI orchestration.\n\n\n\n\n\n  \n ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "10 лучших AI инструментов для разработчиков: гайд без опыта!",
-        "link": "https://dev.to/geka_cross_7457e8699a0c3f/10-luchshikh-ai-instrumientov-dlia-razrabotchikov-ghaid-biez-opyta-54fc",
-        "date": "Tue, 31 Mar 2026 19:08:29 +0000",
-        "source": "Dev.to AI",
-        "description": "Введение в мир AI инструментов\n\n\nПривет! Я — Евгений Розов, разработчик, и хочу поделиться своим опытом работы с AI инструментами для разработчиков. В последние годы AI технологии стремительно разв...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Beyond the Hype: Building AI Agents That Actually Remember",
-        "link": "https://dev.to/midas126/beyond-the-hype-building-ai-agents-that-actually-remember-3oek",
-        "date": "Tue, 31 Mar 2026 19:03:42 +0000",
-        "source": "Dev.to AI",
-        "description": "The Memory Problem Every AI Developer Hits\n\n\nYou’ve built a clever AI agent. It can reason through complex logic, call APIs, and generate human-like text. You give it a task: \"Analyze the quarterly...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The 5 most surprising things our readers bought on Amazon this week  (No. 1 is weird)",
-        "link": "https://www.zdnet.com/article/weird-top-sellers-amazon-spring-sale-2026/",
-        "date": "Tue, 31 Mar 2026 19:01:24 GMT",
-        "source": "ZDNet AI",
-        "description": "ZDNET readers love random gadgets - and during Amazon's Spring Sale this past week, they picked up some interesting niche items that are still on sale.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Teenager died after asking ChatGPT for ‘most successful’ way to take his life, inquest told",
-        "link": "https://www.theguardian.com/society/2026/mar/31/teenager-asked-chatgpt-most-successful-ways-take-life-inquest-told",
-        "date": "Tue, 31 Mar 2026 19:01:18 GMT",
-        "source": "The Guardian AI",
-        "description": "Luca Cella Walker asked chatbot for best way for someone to kill themself on railway line before his deathA 16-year-old boy killed himself after asking ChatGPT for the “most successful” way to take...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.",
-        "link": "https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-9ml",
-        "date": "Tue, 31 Mar 2026 19:00:53 +0000",
-        "source": "Dev.to AI",
-        "description": "The AI landscape is experiencing unprecedented growth and transformation. This post delves into the key developments shaping the future of artificial intelligence, from massive industry investments...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Child Soldiers in Tehran: Iran’s Security Crisis Deepens",
-        "link": "https://dev.to/rakib_khan_405b1756c65820/child-soldiers-in-tehran-irans-security-crisis-deepens-2d4",
-        "date": "Tue, 31 Mar 2026 19:00:22 +0000",
-        "source": "Dev.to AI",
-        "description": "Iran’s Shadow War: How Tehran’s Use of Child Soldiers Escalates a Humanitarian Crisis\n\nIn a chilling revelation that has sent shockwaves through the international community, an 11-year-old child wa...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Perplexity AI Review 2026: Free vs Pro - 30 Day Test",
-        "link": "https://dev.to/konabayev/perplexity-ai-review-2026-free-vs-pro-30-day-test-gde",
-        "date": "Tue, 31 Mar 2026 18:58:10 +0000",
-        "source": "Dev.to AI",
-        "description": "Perplexity AI: Quick Summary\n\n\nPerplexity AI is the best AI search tool for research needing citations. Free covers most needs; Pro adds GPT-4o, Claude, and image generation for $20/month.\n\nAdvanta...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Best ChatGPT Alternatives (2026): Claude, Gemini, Perplexity & More",
-        "link": "https://dev.to/konabayev/best-chatgpt-alternatives-2026-claude-gemini-perplexity-more-34jc",
-        "date": "Tue, 31 Mar 2026 18:57:53 +0000",
-        "source": "Dev.to AI",
-        "description": "ChatGPT Alternatives Overview\n\n\nBest ChatGPT alternatives in 2026 by use case:\n\n\n\nClaude - Long-form writing, reasoning\n\nGemini - Real-time research, Google Workspace\n\nPerplexity - Cited research\n\n...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Generative Engine Optimization (GEO): New SEO for AI Strategy",
-        "link": "https://dev.to/konabayev/generative-engine-optimization-geo-new-seo-for-ai-strategy-1gc3",
-        "date": "Tue, 31 Mar 2026 18:57:32 +0000",
-        "source": "Dev.to AI",
-        "description": "GEO at a Glance\n\n\nGenerative Engine Optimization (GEO) is structuring content so AI systems like Google AI Overviews, Perplexity, ChatGPT, and Copilot extract and cite it in generated answers.\n\n\n  ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
         ]
     }
 ]
