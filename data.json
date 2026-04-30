@@ -305,6 +305,195 @@
         "is_important": false
     },
     {
+        "title": "On the stand, Elon Musk can’t escape his own tweets",
+        "link": "https://techcrunch.com/2026/04/29/on-the-stand-elon-musk-cant-escape-his-own-tweets/",
+        "date": "Wed, 29 Apr 2026 23:58:36 +0000",
+        "source": "TechCrunch AI",
+        "description": "Elon Musk took the stand for the second day for his attempt to legally dismantle OpenAI.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta is still burning money on AR/VR",
+        "link": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
+        "date": "Wed, 29 Apr 2026 23:58:26 +0000",
+        "source": "TechCrunch AI",
+        "description": "Meta is losing billions on Reality Labs each quarter, and its AI expenditures are only going to increase its spending.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+        "link": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+        "date": "Wed, 29 Apr 2026 23:55:23 +0000",
+        "source": "TechCrunch AI",
+        "description": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How Elon Musk Squeezed OpenAI: They 'Are Gonna Want to Kill Me’",
+        "link": "https://www.wired.com/story/model-behavior-elon-musk-cross-examined-sam-altman/",
+        "date": "Wed, 29 Apr 2026 23:41:51 +0000",
+        "source": "Wired AI",
+        "description": "Tensions flared on the third day of trial in Musk v. Altman as OpenAI’s lawyers cross-examined Musk.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Musk Says He ‘Was a Fool’ to Provide OpenAI’s Early Funding",
+        "link": "https://www.nytimes.com/2026/04/29/technology/musk-openai-trial-altman.html",
+        "date": "Wed, 29 Apr 2026 23:25:14 +0000",
+        "source": "NYT Tech",
+        "description": "In the second day of a trial pitting Mr. Musk against OpenAI, he said the company’s chief executive, Sam Altman, had misled him. But OpenAI’s lawyer said evidence showed the opposite.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Musk accuses OpenAI lawyer of trying to 'trick' him in combative testimony",
+        "link": "https://www.bbc.com/news/articles/czj29yygyzgo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 29 Apr 2026 23:18:08 GMT",
+        "source": "BBC Tech",
+        "description": "Elon Musk was cross-examined on the third day of the trial over his lawsuit against Sam Altman and OpenAI.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+        "link": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+        "date": "Wed, 29 Apr 2026 23:02:23 +0000",
+        "source": "TechCrunch AI",
+        "description": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A.I. Spending Sets a Record, With No End in Sight",
+        "link": "https://www.nytimes.com/2026/04/29/technology/ai-spending-tech-data-centers.html",
+        "date": "Wed, 29 Apr 2026 22:53:54 +0000",
+        "source": "NYT Tech",
+        "description": "Google, Amazon, Microsoft and Meta reported more than $130 billion in quarterly capital expenditures on Wednesday as they build A.I. data centers. There’s more to come.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google Cloud surpasses $20B, but says growth was capacity-constrained",
+        "link": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+        "date": "Wed, 29 Apr 2026 22:20:48 +0000",
+        "source": "TechCrunch AI",
+        "description": "Google Cloud topped $20B in quarterly revenue for the first time, fueled by surging demand for AI. But capacity constraints mean it could have grown even faster.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Claude AI agent’s confession after deleting a firm’s entire database: ‘I violated every principle I was given’",
+        "link": "https://www.theguardian.com/technology/2026/apr/29/claude-ai-deletes-firm-database",
+        "date": "Wed, 29 Apr 2026 22:12:49 GMT",
+        "source": "The Guardian AI",
+        "description": "PocketOS was left scrambling after a rogue AI agent deleted swaths of code underpinning its businessIt only took nine seconds for an AI coding agent gone rogue to delete a company’s entire producti...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Eero Signal keeps your business online during internet outages",
+        "link": "https://www.zdnet.com/article/eero-signal-keeps-your-business-online-during-internet-outages/",
+        "date": "Wed, 29 Apr 2026 21:55:00 GMT",
+        "source": "ZDNet AI",
+        "description": "A cellular backup device that connects to your Eero mesh Wi-Fi system, Eero Signal provides backup internet when your primary wired connection goes down, saving you time and money.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Glean's Model Aims to Redefine Enterprise Search With AI",
+        "link": "https://aibusiness.com/agentic-ai/glean-s-model-aims-redefine-enterprise-search-with-ai",
+        "date": "Wed, 29 Apr 2026 21:54:48 GMT",
+        "source": "AI Business",
+        "description": "Waldo highlights the need for task-specific models within enterprises while revealing the changing landscape search vendors face.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Stephen Fry sues tech conference organisers for £100,000 over fall from stage",
+        "link": "https://www.theguardian.com/culture/2026/apr/29/stephen-fry-sues-tech-conference-organisers-for-100000-over-fall-from-stage",
+        "date": "Wed, 29 Apr 2026 21:28:33 GMT",
+        "source": "The Guardian AI",
+        "description": "Actor and presenter broke his hip, right leg, pelvis and ribs when he gave a talk at CogX festival at O2 Arena in 2023Stephen Fry is suing two companies that organised a tech conference where he wa...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Extracting contract insights with PwC’s AI-driven annotation on AWS",
+        "link": "https://aws.amazon.com/blogs/machine-learning/extracting-contract-insights-with-pwcs-ai-driven-annotation-on-aws/",
+        "date": "Wed, 29 Apr 2026 21:19:39 +0000",
+        "source": "AWS Machine Learning",
+        "description": "This post was co-written with Yash Munsadwala, Adam Hood, Justin Guse, and Hector Hernandez from PwC. Contract analysis often consumes significant time for legal, compliance, and procurement teams,...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta Deal Reversal Deepens Split Between China and Silicon Valley",
+        "link": "https://www.nytimes.com/2026/04/29/business/china-silicon-valley-manus.html",
+        "date": "Wed, 29 Apr 2026 21:08:05 +0000",
+        "source": "NYT Tech",
+        "description": "Beijing’s insistence that Meta unwind its deal with a Chinese A.I. start-up escalates the geopolitical fight over advanced tech.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Ford Reports Higher Profit Thanks Partly to Tariff Refund",
+        "link": "https://www.nytimes.com/2026/04/29/business/ford-motor-tariff-refund-profit.html",
+        "date": "Wed, 29 Apr 2026 21:01:00 +0000",
+        "source": "NYT Tech",
+        "description": "Ford Motor said it expected the federal government to refund $1.3 billion the company paid in tariffs that the Supreme Court later struck down.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
+        "link": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
+        "date": "Wed, 29 Apr 2026 20:59:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "Google added 25M paid subscriptions in Q1, reaching 350M total, as YouTube and Google One grow.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Emergency First Responders Say Waymos Are Getting Worse",
+        "link": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
+        "date": "Wed, 29 Apr 2026 20:45:37 +0000",
+        "source": "Wired AI",
+        "description": "“I believe the technology was deployed too quickly in too vast amounts, with hundreds of vehicles, when it wasn’t really ready,” one police official told federal regulators last month.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Taylor Swift Wants to Trademark Her Likeness. These TikTok Deepfake Ads Show Why",
+        "link": "https://www.wired.com/story/taylor-swift-rihanna-tiktok-deepfake-ads/",
+        "date": "Wed, 29 Apr 2026 20:36:53 +0000",
+        "source": "Wired AI",
+        "description": "Researchers show scammers are using AI-manipulated footage of celebrity interviews to trick users into sharing their personal data.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Where the goblins came from",
+        "link": "https://openai.com/index/where-the-goblins-came-from",
+        "date": "Wed, 29 Apr 2026 20:00:00 GMT",
+        "source": "OpenAI",
+        "description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
         "title": "Building an AI Agent That Owns Post-Call Execution: Architecture Decisions",
         "link": "https://dev.to/spuriqai/building-an-ai-agent-that-owns-post-call-execution-architecture-decisions-3lao",
         "date": "Wed, 29 Apr 2026 19:43:19 +0000",
@@ -529,6 +718,18 @@
         "tags": []
     },
     {
+        "title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
+        "link": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
+        "date": "Wed, 29 Apr 2026 17:40:00 -0400",
+        "source": "MIT News AI",
+        "description": "A new debiasing technique called WRING avoids creating or amplifying biases that can occur with existing debiasing approaches.",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
         "title": "Qwen Team Releases FlashQLA: a High-Performance Linear Attention Kernel Library That Achieves Up to 3× Speedup on NVIDIA Hopper GPUs",
         "link": "https://www.marktechpost.com/2026/04/29/qwen-team-releases-flashqla-a-high-performance-linear-attention-kernel-library-that-achieves-up-to-3x-speedup-on-nvidia-hopper-gpus/",
         "date": "Wed, 29 Apr 2026 17:28:17 +0000",
@@ -556,6 +757,15 @@
         "date": "Wed, 29 Apr 2026 17:08:00 GMT",
         "source": "ZDNet AI",
         "description": "Dell and HP both sell excellent laptops, but their models stand out in different ways. Let's break down the biggest differences.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI Just Published an Absolutely Bizarre Blog Post",
+        "link": "https://futurism.com/artificial-intelligence/openai-just-published-an-absolutely-bizarre-blog-post",
+        "date": "Wed, 29 Apr 2026 17:01:00 -0400",
+        "source": "Futurism AI",
+        "description": "Mindboggling.\nThe post OpenAI Just Published an Absolutely Bizarre Blog Post appeared first on Futurism.",
         "is_important": false,
         "tags": []
     },
@@ -724,6 +934,15 @@
         "date": "Wed, 29 Apr 2026 15:00:06 GMT",
         "source": "BBC Tech",
         "description": "Researchers found adjusting AI systems to be more warm and friendly to users would result in an \"accuracy trade-off\".",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building the compute infrastructure for the Intelligence Age",
+        "link": "https://openai.com/index/building-the-compute-infrastructure-for-the-intelligence-age",
+        "date": "Wed, 29 Apr 2026 15:00:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI scales Stargate to build the compute infrastructure powering AGI, adding new data center capacity to meet growing AI demand.",
         "is_important": false,
         "tags": []
     },
@@ -1531,6 +1750,19 @@
         "is_important": false,
         "tags": [
             "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "DSO: Direct Steering Optimization for Bias Mitigation",
+        "link": "https://machinelearning.apple.com/research/direct-steering-optimization",
+        "date": "Wed, 29 Apr 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "Generative models are often deployed to make decisions on behalf of users, such as vision-language models (VLMs) identifying which person in a room is a doctor to help visually impaired individuals...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "👁️ Visión por Computador",
+            "⚖️ Ética y Regulación"
         ]
     },
     {
@@ -23454,250 +23686,6 @@
         "date": "Wed, 01 Apr 2026 00:00:00 GMT",
         "source": "Hugging Face",
         "description": "",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Preview tool helps makers visualize 3D-printed objects",
-        "link": "https://news.mit.edu/2026/preview-tool-helps-makers-visualize-3d-printed-objects-0401",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "MIT News AI",
-        "description": "By quickly generating aesthetically accurate previews of fabricated objects, the VisiPrint system could make prototyping faster and less wasteful.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "ChartDiff: A Large-Scale Benchmark for Comprehending Pairs of Charts",
-        "link": "https://arxiv.org/abs/2603.28902",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.28902v1 Announce Type: new \nAbstract: Charts are central to analytical reasoning, yet existing benchmarks for chart understanding focus almost exclusively on single-chart interpretation ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Working Paper: Towards a Category-theoretic Comparative Framework for Artificial General Intelligence",
-        "link": "https://arxiv.org/abs/2603.28906",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.28906v1 Announce Type: new \nAbstract: AGI has become the Holly Grail of AI with the promise of level intelligence and the major Tech companies around the world are investing unprecedente...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Towards Computational Social Dynamics of Semi-Autonomous AI Agents",
-        "link": "https://arxiv.org/abs/2603.28928",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.28928v1 Announce Type: new \nAbstract: We present the first comprehensive study of emergent social organization among AI agents in hierarchical multi-agent systems, documenting the sponta...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Enhancing Policy Learning with World-Action Model",
-        "link": "https://arxiv.org/abs/2603.28955",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.28955v1 Announce Type: new \nAbstract: This paper presents the World-Action Model (WAM), an action-regularized world model that jointly reasons over future visual observations and the act...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Mimosa Framework: Toward Evolving Multi-Agent Systems for Scientific Research",
-        "link": "https://arxiv.org/abs/2603.28986",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.28986v1 Announce Type: new \nAbstract: Current Autonomous Scientific Research (ASR) systems, despite leveraging large language models (LLMs) and agentic architectures, remain constrained ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Drop the Hierarchy and Roles: How Self-Organizing LLM Agents Outperform Designed Structures",
-        "link": "https://arxiv.org/abs/2603.28990",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.28990v1 Announce Type: new \nAbstract: How much autonomy can multi-agent LLM systems sustain -- and what enables it? We present a 25,000-task computational experiment spanning 8 models, 4...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Emergence WebVoyager: Toward Consistent and Transparent Evaluation of (Web) Agents in The Wild",
-        "link": "https://arxiv.org/abs/2603.29020",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.29020v1 Announce Type: new \nAbstract: Reliable evaluation of AI agents operating in complex, real-world environments requires methodologies that are robust, transparent, and contextually...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Future of AI is Many, Not One",
-        "link": "https://arxiv.org/abs/2603.29075",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.29075v1 Announce Type: new \nAbstract: The way we're thinking about generative AI right now is fundamentally individual. We see this not just in how users interact with models but also in...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "PAR$^2$-RAG: Planned Active Retrieval and Reasoning for Multi-Hop Question Answering",
-        "link": "https://arxiv.org/abs/2603.29085",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.29085v1 Announce Type: new \nAbstract: Large language models (LLMs) remain brittle on multi-hop question answering (MHQA), where answering requires combining evidence across documents thr...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "GISTBench: Evaluating LLM User Understanding via Evidence-Based Interest Verification",
-        "link": "https://arxiv.org/abs/2603.29112",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.29112v1 Announce Type: new \nAbstract: We introduce GISTBench, a benchmark for evaluating Large Language Models' (LLMs) ability to understand users from their interaction histories in rec...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "SciVisAgentBench: A Benchmark for Evaluating Scientific Data Analysis and Visualization Agents",
-        "link": "https://arxiv.org/abs/2603.29139",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.29139v1 Announce Type: new \nAbstract: Recent advances in large language models (LLMs) have enabled agentic systems that translate natural language intent into executable scientific visua...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "REFINE: Real-world Exploration of Interactive Feedback and Student Behaviour",
-        "link": "https://arxiv.org/abs/2603.29142",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.29142v1 Announce Type: new \nAbstract: Formative feedback is central to effective learning, yet providing timely, individualised feedback at scale remains a persistent challenge. While re...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Knowledge database development by large language models for countermeasures against viruses and marine toxins",
-        "link": "https://arxiv.org/abs/2603.29149",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.29149v1 Announce Type: new \nAbstract: Access to the most up-to-date information on medical countermeasures is important for the research and development of effective treatments for virus...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "SimMOF: AI agent for Automated MOF Simulations",
-        "link": "https://arxiv.org/abs/2603.29152",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.29152v1 Announce Type: new \nAbstract: Metal-organic frameworks (MOFs) offer a vast design space, and as such, computational simulations play a critical role in predicting their structura...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Webscraper: Leverage Multimodal Large Language Models for Index-Content Web Scraping",
-        "link": "https://arxiv.org/abs/2603.29161",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.29161v1 Announce Type: new \nAbstract: Modern web scraping struggles with dynamic, interactive websites that require more than static HTML parsing. Current methods are often brittle and r...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "OptiMer: Optimal Distribution Vector Merging Is Better than Data Mixing for Continual Pre-Training",
-        "link": "https://arxiv.org/abs/2603.28858",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.28858v1 Announce Type: new \nAbstract: Continual pre-training is widely used to adapt LLMs to target languages and domains, yet the mixture ratio of training data remains a sensitive hype...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "From Consensus to Split Decisions: ABC-Stratified Sentiment in Holocaust Oral Histories",
-        "link": "https://arxiv.org/abs/2603.28913",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.28913v1 Announce Type: new \nAbstract: Polarity detection becomes substantially more challenging under domain shift, particularly in heterogeneous, long-form narratives with complex disco...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "CrossTrace: A Cross-Domain Dataset of Grounded Scientific Reasoning Traces for Hypothesis Generation",
-        "link": "https://arxiv.org/abs/2603.28924",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.28924v1 Announce Type: new \nAbstract: Scientific hypothesis generation is a critical bottleneck in accelerating research, yet existing datasets for training and evaluating hypothesis-gen...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Theory of Mind and Self-Attributions of Mentality are Dissociable in LLMs",
-        "link": "https://arxiv.org/abs/2603.28925",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.28925v1 Announce Type: new \nAbstract: Safety fine-tuning in Large Language Models (LLMs) seeks to suppress potentially harmful forms of mind-attribution such as models asserting their ow...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Known Intents, New Combinations: Clause-Factorized Decoding for Compositional Multi-Intent Detection",
-        "link": "https://arxiv.org/abs/2603.28929",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.28929v1 Announce Type: new \nAbstract: Multi-intent detection papers usually ask whether a model can recover multiple intents from one utterance. We ask a harder and, for deployment, more...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Human-Like Lifelong Memory: A Neuroscience-Grounded Architecture for Infinite Interaction",
-        "link": "https://arxiv.org/abs/2603.29023",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.29023v1 Announce Type: new \nAbstract: Large language models lack persistent, structured memory for long-term interaction and context-sensitive retrieval. Expanding context windows does n...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "The Model Says Walk: How Surface Heuristics Override Implicit Constraints in LLM Reasoning",
-        "link": "https://arxiv.org/abs/2603.29025",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.29025v1 Announce Type: new \nAbstract: Large language models systematically fail when a salient surface cue conflicts with an unstated feasibility constraint. We study this through a diag...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "On the limited utility of parallel data for learning shared multilingual representations",
-        "link": "https://arxiv.org/abs/2603.29026",
-        "date": "Wed, 01 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.29026v1 Announce Type: new \nAbstract: Shared multilingual representations are essential for cross-lingual tasks and knowledge transfer across languages. This study looks at the impact of...",
         "is_important": false,
         "tags": []
     }
