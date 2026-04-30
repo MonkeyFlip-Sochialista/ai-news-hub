@@ -718,6 +718,15 @@
         "tags": []
     },
     {
+        "title": "Who is the judge in the case?",
+        "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/who-is-the-judge-in-the-case",
+        "date": "Wed, 29 Apr 2026 17:41:36 +0000",
+        "source": "NYT Tech",
+        "description": "",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Solving the “Whac-a-mole dilemma”: A smarter way to debias AI vision models",
         "link": "https://news.mit.edu/2026/smarter-way-to-debias-ai-vision-models-0429",
         "date": "Wed, 29 Apr 2026 17:40:00 -0400",
@@ -976,6 +985,15 @@
     {
         "title": "Et tu, Brute? What Elon Musk’s clash with Sam Altman is really about.",
         "link": "https://www.nytimes.com/live/2026/04/29/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
+        "date": "Wed, 29 Apr 2026 14:35:23 +0000",
+        "source": "NYT Tech",
+        "description": "",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Et tu, Brute? What Elon Musk’s clash with Sam Altman is really about.",
+        "link": "https://www.nytimes.com/live/2026/04/30/technology/openai-trial-sam-altman-elon-musk/et-tu-brute-what-elon-musks-clash-with-sam-altman-is-really-about",
         "date": "Wed, 29 Apr 2026 14:35:23 +0000",
         "source": "NYT Tech",
         "description": "",
@@ -23666,25 +23684,5 @@
         "description": "A feature called Reserved Storage keeps a small amount of storage for updates - here's how to disable it (and if you should).",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "AirPods Pro 3 vs. Samsung Galaxy Buds 4 Pro: Why I'm looking past brand ecosystems now",
-        "link": "https://www.zdnet.com/article/airpods-pro-3-vs-samsung-galaxy-buds-4-pro/",
-        "date": "Wed, 01 Apr 2026 02:30:53 GMT",
-        "source": "ZDNet AI",
-        "description": "Samsung's latest wireless earbuds close the gap in audio fidelity and ANC performance with Apple - here's how to choose the right pair.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Gradient Labs gives every bank customer an AI account manager",
-        "link": "https://openai.com/index/gradient-labs",
-        "date": "Wed, 01 Apr 2026 02:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Gradient Labs uses GPT-4.1 and GPT-5.4 mini and nano to power AI agents that automate banking support workflows with low latency and high reliability.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
