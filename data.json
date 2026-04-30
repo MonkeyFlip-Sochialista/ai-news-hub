@@ -761,6 +761,15 @@
         "tags": []
     },
     {
+        "title": "Crack ML Interviews with Confidence: K-Nearest Neighbors (KNN 20 Q&A)",
+        "link": "https://towardsai.net/p/machine-learning/crack-ml-interviews-with-confidence-k-nearest-neighbors-knn-20-qa",
+        "date": "Wed, 29 Apr 2026 17:01:03 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on April 29, 2026 by Editorial Team Author(s): Shahidullah Kawsar Originally published on Towards AI. Data Scientist &#38; Machine Learning Interview Preparation How to train a ML mode...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "OpenAI Just Published an Absolutely Bizarre Blog Post",
         "link": "https://futurism.com/artificial-intelligence/openai-just-published-an-absolutely-bizarre-blog-post",
         "date": "Wed, 29 Apr 2026 17:01:00 -0400",
@@ -1516,6 +1525,15 @@
         "tags": []
     },
     {
+        "title": "The Event-Driven Blueprint: How I Scaled a Spring Boot System to 10 Million Kafka Messages/Day",
+        "link": "https://towardsai.net/p/machine-learning/the-event-driven-blueprint-how-i-scaled-a-spring-boot-system-to-10-million-kafka-messages-day",
+        "date": "Wed, 29 Apr 2026 07:30:05 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on April 29, 2026 by Editorial Team Author(s): FutureLens Originally published on Towards AI. The Event-Driven Blueprint: How I Scaled a Spring Boot System to 10 Million Kafka Messages...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "A Coding Implementation on Document Parsing Benchmarking with LlamaIndex ParseBench Using Python, Hugging Face, and Evaluation Metrics",
         "link": "https://www.marktechpost.com/2026/04/29/a-coding-implementation-on-document-parsing-benchmarking-with-llamaindex-parsebench-using-python-hugging-face-and-evaluation-metrics/",
         "date": "Wed, 29 Apr 2026 07:08:42 +0000",
@@ -1704,6 +1722,15 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
+    },
+    {
+        "title": "Building Vector Search? Why FAISS Alone Isn’t Enough",
+        "link": "https://towardsai.net/p/machine-learning/building-vector-search-why-faiss-alone-isnt-enough",
+        "date": "Wed, 29 Apr 2026 02:31:01 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on April 29, 2026 by Editorial Team Author(s): Tina Sharma Originally published on Towards AI. What FAISS Does Well, Where It Stops, and When to Use a Vector Database Instead FAISS is ...",
+        "is_important": false,
+        "tags": []
     },
     {
         "title": "[AINews] not much happened today",
@@ -23659,34 +23686,5 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
-    },
-    {
-        "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-        "link": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-        "date": "Wed, 01 Apr 2026 01:42:59 +0000",
-        "source": "TechCrunch AI",
-        "description": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How AI has suddenly become much more useful to open-source developers",
-        "link": "https://www.zdnet.com/article/maybe-open-source-needs-ai/",
-        "date": "Wed, 01 Apr 2026 01:40:49 GMT",
-        "source": "ZDNet AI",
-        "description": "More open-source developers are finding that, when used properly, AI can actually help current and long-neglected programs. However, legal and quality issues loom.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Any Custom Frontend with Gradio's Backend",
-        "link": "https://huggingface.co/blog/introducing-gradio-server",
-        "date": "Wed, 01 Apr 2026 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false,
-        "tags": []
     }
 ]
