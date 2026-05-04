@@ -11844,6 +11844,15 @@
         "is_important": false
     },
     {
+        "title": "PyTorch Conference Europe 2026: A Landmark Moment for Open Source AI in Paris",
+        "link": "https://pytorch.org/blog/pytorch-conference-europe-2026-a-landmark-moment-for-open-source-ai-in-paris/",
+        "date": "Wed, 15 Apr 2026 22:02:07 +0000",
+        "source": "PyTorch Blog",
+        "description": "The first-ever PyTorch Conference Europe April 7-8, 2026 brought together more than 600 researchers, developers, practitioners, and academics in Paris for two packed days of keynotes, technical dee...",
+        "is_important": true,
+        "tags": []
+    },
+    {
         "title": "Social media leaders called to Downing Street over children's safety",
         "link": "https://www.bbc.com/news/articles/crl11ynjyn1o?at_medium=RSS&at_campaign=rss",
         "date": "Wed, 15 Apr 2026 21:30:40 GMT",
@@ -18620,6 +18629,15 @@
         ]
     },
     {
+        "title": "PyTorch Foundation Announces Safetensors as Newest Contributed Project to Secure AI Model Execution",
+        "link": "https://pytorch.org/blog/pytorch-foundation-announces-safetensors-as-newest-contributed-project-to-secure-ai-model-execution/",
+        "date": "Wed, 08 Apr 2026 07:00:49 +0000",
+        "source": "PyTorch Blog",
+        "description": "Safetensors is welcomed into the PyTorch Foundation to secure model distribution and build trusted agentic solutions PARIS – PyTorch Conference EU – April 8, 2026 – The PyTorch Foundation, a...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Monarch: an API to your supercomputer",
         "link": "https://pytorch.org/blog/monarch-an-api-to-your-supercomputer/",
         "date": "Wed, 08 Apr 2026 07:00:27 +0000",
@@ -23666,23 +23684,5 @@
         "tags": [
             "🤖 Robótica"
         ]
-    },
-    {
-        "title": "Vibe Coding for Marketers: Build Without Code",
-        "link": "https://dev.to/2gelbuy/vibe-coding-for-marketers-build-without-code-32b3",
-        "date": "Wed, 01 Apr 2026 03:20:45 +0000",
-        "source": "Dev.to AI",
-        "description": "Direct Answer: Vibe Coding in Marketing at a Glance\n\n\nVibe coding is the practice of building software, scripts, and automation tools by describing what you want in plain language to an AI agent, t...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Windows might be hiding some of your PC's storage by default - here's how to reclaim it",
-        "link": "https://www.zdnet.com/article/windows-reserved-storage-setting-turn-off-and-why/",
-        "date": "Wed, 01 Apr 2026 03:02:21 GMT",
-        "source": "ZDNet AI",
-        "description": "A feature called Reserved Storage keeps a small amount of storage for updates - here's how to disable it (and if you should).",
-        "is_important": false,
-        "tags": []
     }
 ]
