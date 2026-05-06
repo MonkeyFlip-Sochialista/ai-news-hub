@@ -19756,6 +19756,179 @@
         "is_important": false
     },
     {
+        "title": "Google’s Agentic Data Cloud to power ‘systems of action’",
+        "link": "https://dev.to/clydecorreya/googles-agentic-data-cloud-to-power-systems-of-action-2496",
+        "date": "Wed, 06 May 2026 03:48:10 +0000",
+        "source": "Dev.to AI",
+        "description": "Why It Matters\n\n\nThe shift from reactive analytics to AI agents is a significant trend in the enterprise world, and Google Cloud's Agentic Data Cloud is poised to play a crucial role in this transi...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "NeuralBridge: Open-Source Recovery Engine for AI Agents — Reproducible Benchmarks Inside",
+        "link": "https://dev.to/easterndev/neuralbridge-open-source-recovery-engine-for-ai-agents-reproducible-benchmarks-inside-1bba",
+        "date": "Wed, 06 May 2026 03:48:10 +0000",
+        "source": "Dev.to AI",
+        "description": "NeuralBridge: Open-Source Recovery Engine for AI Agents\n\n\n\n  \n  \n  TL;DR\n\n\nWe built an open-source recovery engine for AI agents. It catches failures, retries intelligently, and learns patterns. Th...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Top AI Productivity Tools to Supercharge Your Workflow in 2023",
+        "link": "https://dev.to/eric_chang_c089489f9f21bc/top-ai-productivity-tools-to-supercharge-your-workflow-in-2023-596p",
+        "date": "Wed, 06 May 2026 03:46:30 +0000",
+        "source": "Dev.to AI",
+        "description": "Top AI Productivity Tools to Supercharge Your Workflow in 2023\n\n\nIn today’s fast-paced digital world, productivity is key to staying ahead. Whether you’re managing a business, juggling multiple pro...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Agent-Ready Engineering Infrastructure",
+        "link": "https://dev.to/gezilinll/agent-ready-engineering-infrastructure-3lco",
+        "date": "Wed, 06 May 2026 03:43:27 +0000",
+        "source": "Dev.to AI",
+        "description": "GitHub repository: https://github.com/gezilinll/agent-grove\n\nOnline documentation: https://gezilinll.github.io/agent-grove/agent-ready-engineering-infrastructure\n\n\n\nProject infrastructure for Codin...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Microsoft shipped Agent 365 last Friday with something most people skipped past.",
+        "link": "https://dev.to/harsh_m04/microsoft-shipped-agent-365-last-friday-with-something-most-people-skipped-past-59on",
+        "date": "Wed, 06 May 2026 03:42:14 +0000",
+        "source": "Dev.to AI",
+        "description": "Microsoft shipped Agent 365 last Friday with something most people skipped past: cross-cloud registry sync with AWS Bedrock and Google Cloud's agent platform. IT teams can now discover, inventory, ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "5 MCP Server Security Mistakes That Could Expose Your AI Stack",
+        "link": "https://dev.to/whoffagents/5-mcp-server-security-mistakes-that-could-expose-your-ai-stack-4mh6",
+        "date": "Wed, 06 May 2026 03:41:43 +0000",
+        "source": "Dev.to AI",
+        "description": "I've scanned over 50 public MCP servers in the last 30 days. The results were concerning.\n\nMost developers ship MCP servers the same way they shipped REST APIs in 2015 — move fast, worry about secu...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "From Plan to Prediction: How AI Automates Your Harvest Forecast",
+        "link": "https://dev.to/ken_deng_ai/from-plan-to-prediction-how-ai-automates-your-harvest-forecast-37nb",
+        "date": "Wed, 06 May 2026 03:41:02 +0000",
+        "source": "Dev.to AI",
+        "description": "Staring at a half-empty market table or scrambling to fill CSA boxes? For the small-scale grower, inaccurate yield forecasting is a constant source of stress and lost income. Manually planning succ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "MCP Explained Simply: How AI Talk to Your Data",
+        "link": "https://dev.to/shahjalalbu/mcp-explained-simply-how-ai-talk-to-your-data-1p44",
+        "date": "Wed, 06 May 2026 03:39:36 +0000",
+        "source": "Dev.to AI",
+        "description": "Hello friends \n\nToday I want to share something I’m currently learning — MCP (Model Context Protocol).\n\nI am learning MCP and while studying it, I realized many explanations online are too complex....",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "🫡We'll Support You with All Our Might (AI Avatar v7: Pose Capture and More (VS Code and Chrome Extension))",
+        "link": "https://dev.to/webdeveloperhyper/well-support-you-with-all-our-might-ai-avatar-v7-pose-capture-and-more-vs-code-and-chrome-3aab",
+        "date": "Wed, 06 May 2026 03:38:45 +0000",
+        "source": "Dev.to AI",
+        "description": "Intro\n\n\nAI Avatar is a completely free app that lets your VRoid (VRM) 3D avatar animate in response to AI chat and the Enter key in VS Code and Chrome (Edge). I have been creating and updating AI A...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.",
+        "link": "https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-5c3n",
+        "date": "Wed, 06 May 2026 03:35:51 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI landscape is experiencing unprecedented growth and transformation. This post delves into the key developments shaping the future of artificial intelligence, from massive industry investments...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Why Agentic AI Is the Biggest Shift Since Transformers [03:31:12]",
+        "link": "https://dev.to/aibughunter/why-agentic-ai-is-the-biggest-shift-since-transformers-033112-1a3m",
+        "date": "Wed, 06 May 2026 03:31:13 +0000",
+        "source": "Dev.to AI",
+        "description": "Hey there! If you've been keeping up with the AI space lately, you know we're in the middle of something genuinely historic. What used to be science fiction is becoming production code — and it's h...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "6 Months of AI Receptionists in Production: What We Learned | Dental Clinics Edition",
+        "link": "https://dev.to/ai_businessman/6-months-of-ai-receptionists-in-production-what-we-learned-dental-clinics-edition-1bh",
+        "date": "Wed, 06 May 2026 03:31:03 +0000",
+        "source": "Dev.to AI",
+        "description": "# 6 Months of AI Receptionists in Production: What We Learned | Dental Clinics Edition\n\n## Introduction to the Problem\n\nIn today's competitive healthcare landscape, dental clinics face a significan...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "These Countries Embrace E.V.s to Avoid Oil Price Shocks",
+        "link": "https://www.nytimes.com/2026/05/03/business/electric-vehicles-costa-rica.html",
+        "date": "Wed, 06 May 2026 02:37:03 +0000",
+        "source": "NYT Tech",
+        "description": "People in Costa Rica and other Latin American, Asian and African countries are increasingly buying electric vehicles to avoid spiking fuel prices.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "All Linux gamers should take the latest Bazzite release seriously - here's why",
+        "link": "https://www.zdnet.com/article/why-linux-gamers-should-take-latest-bazzite-release-seriously/",
+        "date": "Wed, 06 May 2026 02:00:37 GMT",
+        "source": "ZDNet AI",
+        "description": "Want the best possible out-of-the-box gaming experience on Linux? The latest Bazzite distro delivers.",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Fedora 44 made me forget I was using Linux - in the best way",
+        "link": "https://www.zdnet.com/article/fedora-44-takes-the-distribution-to-new-heights/",
+        "date": "Wed, 06 May 2026 01:00:48 GMT",
+        "source": "ZDNet AI",
+        "description": "The latest release from the Fedora Project is now available, and it includes a long list of refinements that make this one of the best versions yet.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Elon Musk Wanted OpenAI to Go Commercial, Greg Brockman Testifies",
+        "link": "https://www.nytimes.com/2026/05/05/technology/openai-trial-elon-musk-greg-brockman.html",
+        "date": "Wed, 06 May 2026 00:52:04 +0000",
+        "source": "NYT Tech",
+        "description": "Greg Brockman, OpenAI’s president, testified in a trial pitting Mr. Musk against his company that the world’s richest man was eager to change how it operated as a nonprofit.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Inworld AI Launches Realtime TTS-2: A Closed-Loop Voice Model That Adapts to How You Actually Talk",
+        "link": "https://www.marktechpost.com/2026/05/05/inworld-ai-launches-realtime-tts-2-a-closed-loop-voice-model-that-adapts-to-how-you-actually-talk/",
+        "date": "Wed, 06 May 2026 00:34:38 +0000",
+        "source": "MarkTechPost",
+        "description": "The Inworld AI's new model conditions on full audio context, not just transcripts — a meaningful architectural shift for voice-first AI agents\nThe post Inworld AI Launches Realtime TTS-2: A Closed-...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Apple to pay $250m to US iPhone buyers over AI features lawsuit",
+        "link": "https://www.bbc.com/news/articles/c0j2nydnzy7o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 06 May 2026 00:15:14 GMT",
+        "source": "BBC Tech",
+        "description": "Claims from last year said the tech firm’s advertising of Apple Intelligence fooled iPhone buyers.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Enter Bob, IBM’s Friendly AI Coding Assistant",
+        "link": "https://aibusiness.com/agentic-ai/bob-ibm-ai-coding-assistant",
+        "date": "Wed, 06 May 2026 00:01:56 GMT",
+        "source": "AI Business",
+        "description": "For the long-established tech vendor, the software development lifecycle platform is an accessible entry point for enterprises into the realm of AI coding.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Using AI to improve patient access to clinical trials",
         "link": "https://openai.com/index/paradigm",
         "date": "Wed, 06 Mar 2024 08:00:00 GMT",
@@ -23504,185 +23677,5 @@
         "description": "✍️ Article\n\nIf you still think AI/ML engineering is about building models, you’re already behind.\n\nThe industry has quietly shifted.\n\nThe real demand today is not for people who can train models — ...",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "Falcon Perception",
-        "link": "https://huggingface.co/blog/tiiuae/falcon-perception",
-        "date": "Wed, 01 Apr 2026 07:13:20 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Hugging Face Releases TRL v1.0: A Unified Post-Training Stack for SFT, Reward Modeling, DPO, and GRPO Workflows",
-        "link": "https://www.marktechpost.com/2026/04/01/hugging-face-releases-trl-v1-0-a-unified-post-training-stack-for-sft-reward-modeling-dpo-and-grpo-workflows/",
-        "date": "Wed, 01 Apr 2026 07:04:43 +0000",
-        "source": "MarkTechPost",
-        "description": "Hugging Face has officially released TRL (Transformer Reinforcement Learning) v1.0, marking a pivotal transition for the library from a research-oriented repository to a stable, production-ready fr...",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "Revealed: the vast illegal casino network targeting UK gamblers",
-        "link": "https://www.theguardian.com/society/2026/apr/01/the-vast-casino-network-targeting-uk-gamblers",
-        "date": "Wed, 01 Apr 2026 07:00:40 GMT",
-        "source": "The Guardian AI",
-        "description": "Calls for tougher laws as network stretching from Caribbean to Georgia generates riches for offshore tycoons by appearing to prey on the vulnerableImmaculately groomed and beaming from ear to ear, ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "[AINews] The Claude Code Source Leak",
-        "link": "https://www.latent.space/p/ainews-the-claude-code-source-leak",
-        "date": "Wed, 01 Apr 2026 06:24:21 GMT",
-        "source": "Latent Space",
-        "description": "The accidental \"open sourcing\" of Claude Code brings a ton of insights.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Google AI Releases Veo 3.1 Lite: Giving Developers Low Cost High Speed Video Generation via The Gemini API",
-        "link": "https://www.marktechpost.com/2026/03/31/google-ai-releases-veo-3-1-lite-giving-developers-low-cost-high-speed-video-generation-via-the-gemini-api/",
-        "date": "Wed, 01 Apr 2026 06:22:48 +0000",
-        "source": "MarkTechPost",
-        "description": "Google has announced the release of Veo 3.1 Lite, a new model tier within its generative video portfolio designed to address the primary bottleneck for production-scale deployments: pricing. While ...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Liquid AI Released LFM2.5-350M: A Compact 350M Parameter Model Trained on 28T Tokens with Scaled Reinforcement Learning",
-        "link": "https://www.marktechpost.com/2026/03/31/liquid-ai-released-lfm2-5-350m-a-compact-350m-parameter-model-trained-on-28t-tokens-with-scaled-reinforcement-learning/",
-        "date": "Wed, 01 Apr 2026 05:01:59 +0000",
-        "source": "MarkTechPost",
-        "description": "In the current landscape of generative AI, the &#8216;scaling laws&#8217; have generally dictated that more parameters equal more intelligence. However, Liquid AI is challenging this convention wit...",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "I wore Meta’s smartglasses for a month – and it left me feeling like a creep",
-        "link": "https://www.theguardian.com/technology/2026/apr/01/i-wore-metas-smartglasses-for-a-month-and-it-left-me-feeling-like-a-creep",
-        "date": "Wed, 01 Apr 2026 04:00:38 GMT",
-        "source": "The Guardian AI",
-        "description": "Content creators love the built-in camera; sceptics call them ‘pervert glasses’. Do we really need any more hi-tech wearables, even with a voice assistant that sounds like Judi Dench?Lately, I’ve b...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Why every woman can see herself in the story of a German celebrity couple’s split | Fatma Aydemir",
-        "link": "https://www.theguardian.com/commentisfree/2026/apr/01/why-every-woman-can-see-herself-in-the-story-of-a-german-celebrity-couples-split",
-        "date": "Wed, 01 Apr 2026 04:00:37 GMT",
-        "source": "The Guardian AI",
-        "description": "Many will recognise their own experiences of digital abuse in Collien Fernandes’s allegations – the sense that technology offers perps both tools and coverSome stories that unfold in real life woul...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Competitive Analysis: Frameworks and Templates",
-        "link": "https://dev.to/2gelbuy/competitive-analysis-frameworks-and-templates-2kbb",
-        "date": "Wed, 01 Apr 2026 03:26:18 +0000",
-        "source": "Dev.to AI",
-        "description": "Direct Answer:\n\n\nCompetitive analysis is the systematic process of identifying your competitors, evaluating their strategies, strengths, and weaknesses, and using those insights to inform your own ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Dev.to Article",
-        "link": "https://dev.to/untakacorp/devto-article-42k4",
-        "date": "Wed, 01 Apr 2026 03:26:02 +0000",
-        "source": "Dev.to AI",
-        "description": "Title\n\n\nHow I organized my Claude Code workflow with skill folders (and stopped wasting 10 minutes per session)\n\n\n  \n  \n  Tags\n\n\nclaudecode, webdev, nextjs, productivity\n\n\n  \n  \n  Cover image\n\n\nUse...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Data-Driven Marketing: Evidence Over Gut Feel",
-        "link": "https://dev.to/2gelbuy/data-driven-marketing-evidence-over-gut-feel-iff",
-        "date": "Wed, 01 Apr 2026 03:25:41 +0000",
-        "source": "Dev.to AI",
-        "description": "Direct Answer: What Data-Driven Marketing Actually Means\n\n\nData-driven marketing is making campaign decisions based on measured performance data rather than assumptions. It means tracking the right...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Demand Generation: Strategy and Metrics 2026",
-        "link": "https://dev.to/2gelbuy/demand-generation-strategy-and-metrics-2026-48n6",
-        "date": "Wed, 01 Apr 2026 03:25:06 +0000",
-        "source": "Dev.to AI",
-        "description": "Direct Answer: Demand Generation at a Glance\n\n\nDemand generation is the set of marketing activities that build awareness and interest among people not yet actively searching to buy. Unlike lead gen...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Market Segmentation: Types, Methods, Examples",
-        "link": "https://dev.to/2gelbuy/market-segmentation-types-methods-examples-1870",
-        "date": "Wed, 01 Apr 2026 03:24:30 +0000",
-        "source": "Dev.to AI",
-        "description": "Direct Answer: What Market Segmentation Is and Why It Matters\n\n\nMarket segmentation is the process of dividing a broad market into smaller, more defined groups of customers who share similar charac...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Marketing Consultant: Role, Cost, and Value",
-        "link": "https://dev.to/2gelbuy/marketing-consultant-role-cost-and-value-34l0",
-        "date": "Wed, 01 Apr 2026 03:23:53 +0000",
-        "source": "Dev.to AI",
-        "description": "Direct Answer: Marketing Consultant at a Glance\n\n\nA marketing consultant diagnoses why your current marketing underperforms, builds a strategy to fix it, and either executes or hands off to your te...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Marketing ROI: Calculate and Improve It (2026)",
-        "link": "https://dev.to/2gelbuy/marketing-roi-calculate-and-improve-it-2026-5785",
-        "date": "Wed, 01 Apr 2026 03:23:14 +0000",
-        "source": "Dev.to AI",
-        "description": "Direct Answer: What Is Marketing ROI and How Do You Calculate It?\n\n\nMarketing ROI (Return on Investment) measures the revenue generated by marketing activities relative to their cost. The basic for...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Marketing Plan: Template and Step-by-Step Guide",
-        "link": "https://dev.to/2gelbuy/marketing-plan-template-and-step-by-step-guide-1g8n",
-        "date": "Wed, 01 Apr 2026 03:22:38 +0000",
-        "source": "Dev.to AI",
-        "description": "Direct Answer: What Goes Into a Marketing Plan?\n\n\nA marketing plan is a document that outlines your marketing goals, target audience, channels, budget, timeline, and KPIs for a specific period (usu...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Marketing KPIs: Metrics by Channel and Role",
-        "link": "https://dev.to/2gelbuy/marketing-kpis-metrics-by-channel-and-role-5h17",
-        "date": "Wed, 01 Apr 2026 03:22:02 +0000",
-        "source": "Dev.to AI",
-        "description": "Direct Answer: What Marketing KPIs Should You Track?\n\n\nThe marketing KPIs that matter depend on your channel, funnel stage, and role. At a minimum, every marketing team should track: Customer Acqui...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Marketing Audit: Find and Fix Problems (2026)",
-        "link": "https://dev.to/2gelbuy/marketing-audit-find-and-fix-problems-2026-309j",
-        "date": "Wed, 01 Apr 2026 03:21:26 +0000",
-        "source": "Dev.to AI",
-        "description": "Direct Answer: Marketing Audit at a Glance\n\n\nA marketing audit is a systematic review of every active channel, SEO, paid ads, email, social, content, website CRO, and brand messaging, to identify w...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "YC Killer: An Open-Source Framework for Autonomous Agents",
-        "link": "https://dev.to/stelixx-insider/yc-killer-an-open-source-framework-for-autonomous-agents-318e",
-        "date": "Wed, 01 Apr 2026 03:20:47 +0000",
-        "source": "Dev.to AI",
-        "description": "The \"Autonomous Agent Framework\" Enigma: Demystifying Complexity with Open Source\n\nThe tech world has been abuzz with the rise of \"autonomous agent frameworks.\" Startups are securing significant fu...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
     }
 ]
