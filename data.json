@@ -19756,6 +19756,138 @@
         "is_important": false
     },
     {
+        "title": "Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI",
+        "link": "https://www.nytimes.com/2026/05/06/technology/elon-musk-shivon-zilis-openai-trial.html",
+        "date": "Wed, 06 May 2026 23:50:25 +0000",
+        "source": "NYT Tech",
+        "description": "Shivon Zilis worked closely with Elon Musk while she was on OpenAI’s board. Her ties to the world’s richest man were detailed in a landmark trial on Wednesday.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Elon Musk’s Last-Ditch Effort to Control OpenAI: Recruit Sam Altman to Tesla",
+        "link": "https://www.wired.com/story/elon-musk-recruit-sam-altman-tesla-ai-lab-trial/",
+        "date": "Wed, 06 May 2026 23:23:45 +0000",
+        "source": "Wired AI",
+        "description": "Messages between Shivon Zilis and Tesla executives reveal plans in 2017 to start a rival AI lab, potentially led by Altman or Demis Hassabis.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Groq-Powered Agentic Research Assistant with LangGraph, Tool Calling, Sub-Agents, and Agentic Memory: Lets Built It",
+        "link": "https://www.marktechpost.com/2026/05/06/a-groq-powered-agentic-research-assistant-with-langgraph-tool-calling-sub-agents-and-agentic-memory-lets-built-it/",
+        "date": "Wed, 06 May 2026 23:00:03 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we build a Groq-powered agentic research workflow that runs directly using Groq’s free OpenAI-compatible inference endpoint\nThe post A Groq-Powered Agentic Research Assistant with...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Anthropic Finance Agents Pose Threat to Established Service Providers",
+        "link": "https://aibusiness.com/agentic-ai/anthropic-finance-agents-threaten-established-service-providers",
+        "date": "Wed, 06 May 2026 22:17:15 GMT",
+        "source": "AI Business",
+        "description": "The vendor’s new agents could find a home in big Wall Street firms, threaten mid-sized service providers and start to push entry-level finance jobs aside.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Anthropic raises Claude Code usage limits, credits new deal with SpaceX",
+        "link": "https://arstechnica.com/ai/2026/05/anthropic-raises-claude-code-usage-limits-credits-new-deal-with-spacex/",
+        "date": "Wed, 06 May 2026 22:09:14 +0000",
+        "source": "Ars Technica AI",
+        "description": "Deal follows others with Microsoft, Amazon, and more.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Barry Diller trusts Sam Altman. But ‘trust is irrelevant’ as AGI nears, he says.",
+        "link": "https://techcrunch.com/2026/05/06/barry-diller-trusts-sam-altman-but-trust-is-irrelevant-as-agi-nears-he-says/",
+        "date": "Wed, 06 May 2026 21:57:56 +0000",
+        "source": "TechCrunch AI",
+        "description": "Barry Diller defended OpenAI CEO Sam Altman, while warning that AGI remains an unpredictable force needing guardrails.",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Snap says its $400M deal with Perplexity ‘amicably ended’",
+        "link": "https://techcrunch.com/2026/05/06/snap-says-its-400m-deal-with-perplexity-amicably-ended/",
+        "date": "Wed, 06 May 2026 21:43:24 +0000",
+        "source": "TechCrunch AI",
+        "description": "The deal, announced last November, would have seen Perplexity's AI search engine integrated directly into Snapchat.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Is xAI a neocloud now?",
+        "link": "https://techcrunch.com/2026/05/06/is-xai-a-neocloud-now/",
+        "date": "Wed, 06 May 2026 21:32:55 +0000",
+        "source": "TechCrunch AI",
+        "description": "xAI's real business may be more about building data centers than training AI models.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meditating or Rebooting? A Robot Buddhist Monk Comes to Korea.",
+        "link": "https://www.nytimes.com/2026/05/06/technology/robot-monk-buddhist-seoul.html",
+        "date": "Wed, 06 May 2026 21:21:44 +0000",
+        "source": "NYT Tech",
+        "description": "Gabi, the newest monk at a temple in Seoul, vowed to not overcharge as it seeks enlightenment.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "CopilotKit Introduces Enterprise Intelligence Platform That Gives Agentic Applications Persistent Memory Across Sessions and Devices",
+        "link": "https://www.marktechpost.com/2026/05/06/copilotkit-introduces-enterprise-intelligence-platform-that-gives-agentic-applications-persistent-memory-across-sessions-and-devices/",
+        "date": "Wed, 06 May 2026 21:10:08 +0000",
+        "source": "MarkTechPost",
+        "description": "CopilotKit Intelligence adds a managed persistence layer on top of the open-source CopilotKit stack, giving agents the ability to retain context, state, and interaction history without custom stora...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I hand-picked 10 Mother's Day gifts that will arrive by Sunday",
+        "link": "https://www.zdnet.com/article/amazon-prime-mothers-day-2026/",
+        "date": "Wed, 06 May 2026 21:07:21 GMT",
+        "source": "ZDNet AI",
+        "description": "Quick shipping saves the day on these last-minute Mother's Day picks, but I'd recommend these items any time of year.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI Launches Training Spec to Boost Large-Scale AI",
+        "link": "https://aibusiness.com/generative-ai/openai-launches-training-spec-boost-large-scale-ai",
+        "date": "Wed, 06 May 2026 20:18:15 GMT",
+        "source": "AI Business",
+        "description": "The protocol is designed to improve GPU performance as AI compute ramps up.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Roku sued for allegedly bricking TVs - see which models are affected, and your best alternatives",
+        "link": "https://www.zdnet.com/article/roku-is-being-sued-for-allegedly-bricking-tvs/",
+        "date": "Wed, 06 May 2026 20:13:38 GMT",
+        "source": "ZDNet AI",
+        "description": "Many users are reporting that Roku TVs get stuck in boot loops, show black screens, or are otherwise unusable.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Former OpenAI board member says Elon Musk offered her sperm donations",
+        "link": "https://www.bbc.com/news/articles/c33243j44p8o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 06 May 2026 20:05:02 GMT",
+        "source": "BBC Tech",
+        "description": "Shivon Zilis is the mother of four of Musk's children. That relationship began as she advised OpenAI.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "How Different Universities Define Plagiarism in 2026",
         "link": "https://dev.to/martiinn/how-different-universities-define-plagiarism-in-2026-9mi",
         "date": "Wed, 06 May 2026 19:55:49 +0000",
@@ -20180,6 +20312,15 @@
         "tags": [
             "⚙️ Hardware de IA"
         ]
+    },
+    {
+        "title": "HP and the art of AI and data for the enterprise",
+        "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
+        "date": "Wed, 06 May 2026 15:14:00 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "Ahead of the AI &#38; Big Data Expo at the San Jose McEnery Convention Center, May 18-19, we spoke to Jerome Gabryszewski, the company&#8217;s AI &#38; Data Science Business Development Manager abo...",
+        "is_important": false,
+        "tags": []
     },
     {
         "title": "Jeeves and Ask.com Shut Down After Almost 30 Years",
@@ -21003,6 +21144,55 @@
         "description": "OpenAI’s B2B Signals research shows how frontier enterprises deepen AI adoption, scale Codex-powered agentic workflows, and build durable competitive advantage.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Singular Bank helps bankers move fast with ChatGPT and Codex",
+        "link": "https://openai.com/index/singular-bank",
+        "date": "Wed, 06 May 2026 00:00:00 GMT",
+        "source": "OpenAI",
+        "description": "Singular Bank built Singularity, an internal assistant using ChatGPT and Codex to help bankers save 60–90 minutes daily on meeting prep, portfolio analysis, and follow-up.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Uber uses OpenAI to help people earn smarter and book faster",
+        "link": "https://openai.com/index/uber",
+        "date": "Wed, 06 May 2026 00:00:00 GMT",
+        "source": "OpenAI",
+        "description": "Uber uses OpenAI to power AI assistants and voice features that help drivers earn smarter and riders book faster across a global real-time marketplace.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "SpecMD: A Comprehensive Study on Speculative Expert Prefetching",
+        "link": "https://machinelearning.apple.com/research/specmd-expert-prefetching",
+        "date": "Wed, 06 May 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "Mixture-of-Experts (MoE) models enable sparse expert activation, meaning that only a subset of the model’s parameters is used during each inference. However, to translate this sparsity into practic...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Normalizing Flows with Iterative Denoising",
+        "link": "https://machinelearning.apple.com/research/normalizing-flows-iterative-denoising",
+        "date": "Wed, 06 May 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "Normalizing Flows (NFs) are a classical family of likelihood-based methods that have received revived attention. Recent efforts such as TARFlow have shown that NFs are capable of achieving promisin...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "From Where Things Are to What They’re For: Benchmarking Spatial–Functional Intelligence for Multimodal LLMs",
+        "link": "https://machinelearning.apple.com/research/spatial",
+        "date": "Wed, 06 May 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "True spatial intelligence for multimodal agents transcends low-level geometric perception, evolving from knowing where things are to understanding what they are for. While existing benchmarks, such...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "2026 Roadmap on Artificial Intelligence and Machine Learning for Smart Manufacturing",
@@ -23543,218 +23733,6 @@
         "date": "Wed, 04 Mar 2026 00:00:00 -0500",
         "source": "ArXiv (cs.CL)",
         "description": "arXiv:2603.02258v1 Announce Type: new \nAbstract: Do neural machine translation models learn language-universal conceptual representations, or do they merely cluster languages by surface similarity?...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Characterizing Memorization in Diffusion Language Models: Generalized Extraction and Sampling Effects",
-        "link": "https://arxiv.org/abs/2603.02333",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02333v1 Announce Type: new \nAbstract: Autoregressive language models (ARMs) have been shown to memorize and occasionally reproduce training data verbatim, raising concerns about privacy ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Detecting AI-Generated Essays in Writing Assessment: Responsible Use and Generalizability Across LLMs",
-        "link": "https://arxiv.org/abs/2603.02353",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02353v1 Announce Type: new \nAbstract: Writing is a foundational literacy skill that underpins effective communication, fosters critical thinking, facilitates learning across disciplines,...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "RO-N3WS: Enhancing Generalization in Low-Resource ASR with Diverse Romanian Speech Benchmarks",
-        "link": "https://arxiv.org/abs/2603.02368",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02368v1 Announce Type: new \nAbstract: We introduce RO-N3WS, a benchmark Romanian speech dataset designed to improve generalization in automatic speech recognition (ASR), particularly in ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "GLoRIA: Gated Low-Rank Interpretable Adaptation for Dialectal ASR",
-        "link": "https://arxiv.org/abs/2603.02464",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02464v1 Announce Type: new \nAbstract: Automatic Speech Recognition (ASR) in dialect-heavy settings remains challenging due to strong regional variation and limited labeled data. We propo...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "CoDAR: Continuous Diffusion Language Models are More Powerful Than You Think",
-        "link": "https://arxiv.org/abs/2603.02547",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02547v1 Announce Type: new \nAbstract: We study why continuous diffusion language models (DLMs) have lagged behind discrete diffusion approaches despite their appealing continuous generat...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "How Controllable Are Large Language Models? A Unified Evaluation across Behavioral Granularities",
-        "link": "https://arxiv.org/abs/2603.02578",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02578v1 Announce Type: new \nAbstract: Large Language Models (LLMs) are increasingly deployed in socially sensitive domains, yet their unpredictable behaviors, ranging from misaligned int...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "ExpGuard: LLM Content Moderation in Specialized Domains",
-        "link": "https://arxiv.org/abs/2603.02588",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02588v1 Announce Type: new \nAbstract: With the growing deployment of large language models (LLMs) in real-world applications, establishing robust safety guardrails to moderate their inpu...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "GPUTOK: GPU Accelerated Byte Level BPE Tokenization",
-        "link": "https://arxiv.org/abs/2603.02597",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02597v1 Announce Type: new \nAbstract: As large language models move toward million-token context windows, CPU tokenizers become a major slowdown because they process text one step at a t...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Think, But Don't Overthink: Reproducing Recursive Language Models",
-        "link": "https://arxiv.org/abs/2603.02615",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02615v1 Announce Type: new \nAbstract: This project reproduces and extends the recently proposed ``Recursive Language Models'' (RLMs) framework by Zhang et al. (2026). This framework enab...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Cross-Family Speculative Prefill: Training-Free Long-Context Compression with Small Draft Models",
-        "link": "https://arxiv.org/abs/2603.02631",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02631v1 Announce Type: new \nAbstract: Prompt length is a major bottleneck in agentic large language model (LLM) workloads, where repeated inference steps and multi-call loops incur subst...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Real-Time Generation of Game Video Commentary with Multimodal LLMs: Pause-Aware Decoding Approaches",
-        "link": "https://arxiv.org/abs/2603.02655",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02655v1 Announce Type: new \nAbstract: Real-time video commentary generation provides textual descriptions of ongoing events in videos. It supports accessibility and engagement in domains...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Evaluating Cross-Modal Reasoning Ability and Problem Characteristics with Multimodal Item Response Theory",
-        "link": "https://arxiv.org/abs/2603.02663",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02663v1 Announce Type: new \nAbstract: Multimodal Large Language Models (MLLMs) have recently emerged as general architectures capable of reasoning over diverse modalities. Benchmarks for...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "ITLC at SemEval-2026 Task 11: Normalization and Deterministic Parsing for Formal Reasoning in LLMs",
-        "link": "https://arxiv.org/abs/2603.02676",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02676v1 Announce Type: new \nAbstract: Large language models suffer from content effects in reasoning tasks, particularly in multi-lingual contexts. We introduce a novel method that reduc...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "CamDirector: Towards Long-Term Coherent Video Trajectory Editing",
-        "link": "https://arxiv.org/abs/2603.02256",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.02256v1 Announce Type: new \nAbstract: Video (camera) trajectory editing aims to synthesize new videos that follow user-defined camera paths while preserving scene content and plausibly i...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Social-JEPA: Emergent Geometric Isomorphism",
-        "link": "https://arxiv.org/abs/2603.02263",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.02263v1 Announce Type: new \nAbstract: World models compress rich sensory streams into compact latent codes that anticipate future observations. We let separate agents acquire such models...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "From Visual to Multimodal: Systematic Ablation of Encoders and Fusion Strategies in Animal Identification",
-        "link": "https://arxiv.org/abs/2603.02270",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.02270v1 Announce Type: new \nAbstract: Automated animal identification is a practical task for reuniting lost pets with their owners, yet current systems often struggle due to limited dat...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Beyond Prompt Degradation: Prototype-guided Dual-pool Prompting for Incremental Object Detection",
-        "link": "https://arxiv.org/abs/2603.02286",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.02286v1 Announce Type: new \nAbstract: Incremental Object Detection (IOD) aims to continuously learn new object categories without forgetting previously learned ones. Recently, prompt-bas...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "AutoFFS: Adversarial Deformations for Facial Feminization Surgery Planning",
-        "link": "https://arxiv.org/abs/2603.02288",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.02288v1 Announce Type: new \nAbstract: Facial feminization surgery (FFS) is a key component of gender affirmation for transgender and gender diverse patients, aiming to reshape craniofaci...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "HAMMER: Harnessing MLLM via Cross-Modal Integration for Intention-Driven 3D Affordance Grounding",
-        "link": "https://arxiv.org/abs/2603.02329",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.02329v1 Announce Type: new \nAbstract: Humans commonly identify 3D object affordance through observed interactions in images or videos, and once formed, such knowledge can be generically ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "MERG3R: A Divide-and-Conquer Approach to Large-Scale Neural Visual Geometry",
-        "link": "https://arxiv.org/abs/2603.02351",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.02351v1 Announce Type: new \nAbstract: Recent advancements in neural visual geometry, including transformer-based models such as VGGT and Pi3, have achieved impressive accuracy on 3D reco...",
         "is_important": false,
         "tags": []
     }
