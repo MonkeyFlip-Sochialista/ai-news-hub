@@ -20670,6 +20670,17 @@
         "tags": []
     },
     {
+        "title": "AlphaEvolve: How our Gemini-powered coding agent is scaling impact across fields",
+        "link": "https://deepmind.google/blog/alphaevolve-impact/",
+        "date": "Wed, 06 May 2026 10:43:49 +0000",
+        "source": "Google DeepMind",
+        "description": "Explore how AlphaEvolve's Gemini-powered algorithms are driving impact across business, infrastructure, and science.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Apple Will Pay $250 Million to Settle Lawsuit Over Siri's AI Features",
         "link": "https://www.wired.com/story/apple-will-pay-dollar250-million-to-settle-lawsuit-over-siris-ai-features/",
         "date": "Wed, 06 May 2026 10:41:37 +0000",
@@ -23726,16 +23737,5 @@
         "description": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "A “ChatGPT for spreadsheets” helps solve difficult engineering challenges faster",
-        "link": "https://news.mit.edu/2026/chatgpt-spreadsheets-helps-solve-difficult-engineering-challenges-faster-0304",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "MIT News AI",
-        "description": "The approach could help engineers tackle extremely complex design problems, from power grid optimization to vehicle design.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
