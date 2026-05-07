@@ -19756,6 +19756,15 @@
         "is_important": false
     },
     {
+        "title": "In 'Musk v Altman', this judge will make the final call",
+        "link": "https://www.bbc.com/news/articles/cx214rnlpn7o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 06 May 2026 23:52:48 GMT",
+        "source": "BBC Tech",
+        "description": "The feud has fuelled a costly showdown between two tech titans.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Elon Musk’s Confidante Shivon Zilis Is Cast as His Inside Source at OpenAI",
         "link": "https://www.nytimes.com/2026/05/06/technology/elon-musk-shivon-zilis-openai-trial.html",
         "date": "Wed, 06 May 2026 23:50:25 +0000",
@@ -20168,6 +20177,17 @@
     {
         "title": "Anthropic’s 10 AI Agents are Redefining Finance Work",
         "link": "https://www.analyticsvidhya.com/blog/2026/05/claude-finance-agents/",
+        "date": "Wed, 06 May 2026 16:37:12 +0000",
+        "source": "Analytics Vidhya",
+        "description": "The headline may sound extreme here. Of course, Claude is not replacing CFOs tomorrow morning. But with the debut of Claude&#8217;s new Financial Services Solution by Anthropic, it has clearly move...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Anthropic’s 10 AI Agents are Redefining Finance Work",
+        "link": "https://www.analyticsvidhya.com/blog/2026/05/claude-finance-solutions/",
         "date": "Wed, 06 May 2026 16:37:12 +0000",
         "source": "Analytics Vidhya",
         "description": "The headline may sound extreme here. Of course, Claude is not replacing CFOs tomorrow morning. But with the debut of Claude&#8217;s new Financial Services Solution by Anthropic, it has clearly move...",
@@ -23717,23 +23737,5 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
-    },
-    {
-        "title": "A Zipf-preserving, long-range correlated surrogate for written language and other symbolic sequences",
-        "link": "https://arxiv.org/abs/2603.02213",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02213v1 Announce Type: new \nAbstract: Symbolic sequences such as written language and genomic DNA display characteristic frequency distributions and long-range correlations extending ove...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Universal Conceptual Structure in Neural Translation: Probing NLLB-200's Multilingual Geometry",
-        "link": "https://arxiv.org/abs/2603.02258",
-        "date": "Wed, 04 Mar 2026 00:00:00 -0500",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.02258v1 Announce Type: new \nAbstract: Do neural machine translation models learn language-universal conceptual representations, or do they merely cluster languages by surface similarity?...",
-        "is_important": false,
-        "tags": []
     }
 ]
