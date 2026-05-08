@@ -20883,6 +20883,17 @@
         "tags": []
     },
     {
+        "title": "How ChatGPT learns about the world while protecting privacy",
+        "link": "https://openai.com/index/how-chatgpt-protects-privacy",
+        "date": "Wed, 06 May 2026 08:00:00 GMT",
+        "source": "OpenAI",
+        "description": "Learn how ChatGPT safeguards your privacy, reduces personal data in training, and gives you control over whether your conversations improve AI models.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "When Claude Hallucinates in Court: The Latham & Watkins Incident and What It Means for Attorney Liability",
         "link": "https://www.marktechpost.com/2026/05/06/when-claude-hallucinates-in-court-the-latham-watkins-incident-and-what-it-means-for-attorney-liability/",
         "date": "Wed, 06 May 2026 07:23:12 +0000",
@@ -23726,15 +23737,6 @@
         "date": "Wed, 04 Mar 2026 00:00:00 GMT",
         "source": "OpenAI",
         "description": "OpenAI introduces the Learning Outcomes Measurement Suite to assess AI’s impact on student learning across diverse educational environments over time.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How Axios uses AI to help deliver high-impact local journalism",
-        "link": "https://openai.com/index/axios-allison-murphy",
-        "date": "Wed, 04 Mar 2026 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Axios COO Allison Murphy explains how the company uses AI to support local reporters, streamline newsroom workflows, and deliver high-impact local journalism at scale.",
         "is_important": false,
         "tags": []
     }
