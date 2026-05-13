@@ -14465,6 +14465,165 @@
         "is_important": false
     },
     {
+        "title": "Self-Learning AI Agents: Building Systems That Improve on Their Own",
+        "link": "https://dev.to/attlogics/self-learning-ai-agents-building-systems-that-improve-on-their-own-2570",
+        "date": "Wed, 13 May 2026 08:47:21 +0000",
+        "source": "Dev.to AI",
+        "description": "🤖 Self-Learning AI Agents: Building Systems That Improve on Their Own\n\nIn modern AI, one of the most powerful ideas is creating systems that don’t just execute instructions—but actually learn and i...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Cursor as a shared environment for the customer and the developer",
+        "link": "https://dev.to/databorodata/cursor-as-a-shared-environment-for-the-customer-and-the-developer-59e8",
+        "date": "Wed, 13 May 2026 08:45:47 +0000",
+        "source": "Dev.to AI",
+        "description": "Table of contents\n\n\n\nCursor as a shared environment for the customer and the developer\nWhat if you showed the customer how to work with Cursor and use AI agents?\nThe first layer of the experiment i...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Lambda — Deep Dive",
+        "link": "https://dev.to/gautammanak1/lambda-deep-dive-4j3p",
+        "date": "Wed, 13 May 2026 08:45:38 +0000",
+        "source": "Dev.to AI",
+        "description": "Lambda’s logo represents their commitment to high-performance computing infrastructure.\n\n\n\n  \n  \n  Company Overview\n\n\nLambda (often referred to as Lambda Cloud or Lambda Inc.) is a specialized AI i...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "SLO Alerting with OpenTelemetry and Prometheus",
+        "link": "https://dev.to/vprachi360/slo-alerting-with-opentelemetry-and-prometheus-1g36",
+        "date": "Wed, 13 May 2026 08:45:30 +0000",
+        "source": "Dev.to AI",
+        "description": "Implementing SLO-Based Alerting with OpenTelemetry and Prometheus\n\n\n\n  \n  \n  The Problem\n\n\nIn microservices architectures, distributed tracing and monitoring are crucial for identifying performance...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI-Driven Data Extraction: A Paradigm Shift from Rule-Based Parsing to Semantic Understanding",
+        "link": "https://dev.to/luisgustvo/ai-driven-data-extraction-a-paradigm-shift-from-rule-based-parsing-to-semantic-understanding-2l33",
+        "date": "Wed, 13 May 2026 08:45:06 +0000",
+        "source": "Dev.to AI",
+        "description": "Introduction: Beyond Parsing, It's About Acquisition\n\n\nTraditional web data extraction methods, relying on mechanical matching techniques such as CSS selectors, XPath, and regular expressions, are ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The AI Persona Problem: Your Next Threat Actor Doesn't Exist",
+        "link": "https://dev.to/aetherintel/the-ai-persona-problem-your-next-threat-actor-doesnt-exist-23a5",
+        "date": "Wed, 13 May 2026 08:45:05 +0000",
+        "source": "Dev.to AI",
+        "description": "Let me say something that will make most security vendors uncomfortable:\nThe traditional \"know your attacker\" model is already obsolete.\nNot because threat actors got smarter. Because they stopped ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "My Friend Is 40 and Drowning in Job Applications. So I Built Him an AI Agent.",
+        "link": "https://dev.to/abhishek_chatterjee_33b9d/my-friend-is-40-and-drowning-in-job-applications-so-i-built-him-an-ai-agent-3ho",
+        "date": "Wed, 13 May 2026 08:43:55 +0000",
+        "source": "Dev.to AI",
+        "description": "Part 1 of 5: The problem, the mental model, and what an autonomous AI agent actually is under the hood.\n\nA few weeks ago, a friend of mine — let’s call him R — sent me a voice note at an unreasonab...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "AI Amplifies Judgment — Or Confusion",
+        "link": "https://dev.to/dinyangetoh/ai-amplifies-judgment-or-confusion-2h48",
+        "date": "Wed, 13 May 2026 08:41:31 +0000",
+        "source": "Dev.to AI",
+        "description": "How AI Changed the Way I Design, Build, Debug, and Ship Software\n\n\n\n\n\nAI is quietly creating two kinds of engineers.\n\nEngineers whose judgment becomes exponentially more valuable.\n\nAnd engineers wh...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Reconversion IA après 50 ans : guide complet 2026",
+        "link": "https://dev.to/augustin_foucheres_828af4/reconversion-ia-apres-50-ans-guide-complet-2026-62i",
+        "date": "Wed, 13 May 2026 08:41:15 +0000",
+        "source": "Dev.to AI",
+        "description": "FR 🇫🇷: cet article vient de Adapte-toi, le média francophone sur la reconversion à l'ère de l'IA. Utile si tu es dev et que tu veux monter en compétences IA sans payer 3000€ de bootcamp.\n\n\n\n\n  \n  \n...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Drafting the Narrative: Automating Client Commentary with AI",
+        "link": "https://dev.to/ken_deng_ai/drafting-the-narrative-automating-client-commentary-with-ai-502p",
+        "date": "Wed, 13 May 2026 08:40:52 +0000",
+        "source": "Dev.to AI",
+        "description": "Crafting personalized, insightful quarterly reviews is a massive time sink. You know the story: reconciling portfolio data, interpreting market events, and translating it all into clear, client-spe...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "BÁO CÁO TÀI CHÍNH KHÔNG CHỈ DÀNH CHO KẾ TOÁN",
+        "link": "https://dev.to/tdghoangquan/bao-cao-tai-chinh-khong-chi-danh-cho-ke-toan-1onj",
+        "date": "Wed, 13 May 2026 08:40:46 +0000",
+        "source": "Dev.to AI",
+        "description": "Nhiều người nghĩ báo cáo tài chính chỉ dành cho bộ phận kế toán. Nhưng thực tế:\n👉 Đây là công cụ quản trị cực kỳ quan trọng.\n\nThông qua báo cáo tài chính, doanh nghiệp có thể:\n\nKiểm soát chi phí\nĐá...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "GPT-Realtime-2 is Here! OpenAI Launches Three Real-Time AI Voice Models, Voice Interaction Enters the GPT-5 Era",
+        "link": "https://dev.to/jearick/gpt-realtime-2-is-here-openai-launches-three-real-time-ai-voice-models-voice-interaction-enters-51ai",
+        "date": "Wed, 13 May 2026 08:40:41 +0000",
+        "source": "Dev.to AI",
+        "description": "Bottom Line\n\n\nIn May 2026, OpenAI officially released three real-time audio AI models — GPT-Realtime-2, GPT-Realtime-Translate, and GPT-Realtime-Whisper. GPT-Realtime-2 is the first voice model wit...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Google DeepMind Introduces an AI-Enabled Mouse Pointer Powered by Gemini That Captures Visual and Semantic Context Around the Cursor",
+        "link": "https://www.marktechpost.com/2026/05/13/google-deepmind-introduces-an-ai-enabled-mouse-pointer-powered-by-gemini-that-captures-visual-and-semantic-context-around-the-cursor/",
+        "date": "Wed, 13 May 2026 08:16:06 +0000",
+        "source": "MarkTechPost",
+        "description": "Google DeepMind researchers have outlined four interaction principles and released experimental demos of an AI-enabled mouse pointer powered by Gemini — one that captures the visual and semantic co...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Anduril Raises $5 Billion in Funding and Is Valued at $61 Billion",
+        "link": "https://www.nytimes.com/2026/05/13/technology/anduril-raises-5-billion.html",
+        "date": "Wed, 13 May 2026 07:00:21 +0000",
+        "source": "NYT Tech",
+        "description": "The start-up, which makes A.I.-backed weapons, was valued at $61 billion in the financing round, double what it was a year ago.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "More than 70 million warnings sent to people seeking child abuse material",
+        "link": "https://www.bbc.com/news/articles/cze2y02jw1ko?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 13 May 2026 06:04:14 GMT",
+        "source": "BBC Tech",
+        "description": "The messages highlight the illegality of what people are searching for online and direct them towards help.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Smart glasses are 'an invasion of privacy' - Meta's are selling better than ever",
+        "link": "https://www.bbc.com/news/articles/cj37z8357e5o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 13 May 2026 05:01:07 GMT",
+        "source": "BBC Tech",
+        "description": "The biggest tech firms are set to sell millions of smart glasses despite growing privacy concerns.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Chelsea flower show garden designers clash over use of AI",
+        "link": "https://www.theguardian.com/lifeandstyle/2026/may/13/chelsea-flower-show-garden-designers-clash-over-ai",
+        "date": "Wed, 13 May 2026 05:00:19 GMT",
+        "source": "The Guardian AI",
+        "description": "Horticulturalists express alarm after award-winning Matt Keightley launches app that can automate designsWith glasses of champagne sipped among the peonies, Chelsea flower show is generally a frien...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "I asked Cursor to rename a function. It sent 8,400 tokens. I checked.",
         "link": "https://dev.to/thegdsks/i-asked-cursor-to-rename-a-function-it-sent-8400-tokens-i-checked-434h",
         "date": "Wed, 13 May 2026 03:58:11 +0000",
@@ -23600,176 +23759,5 @@
         "description": "In this post, we discuss how Amazon Nova demonstrates capabilities in conversational analytics, call classification, and other use cases often relevant to contact center solutions. We examine these...",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "Nvidia Takes on Telco Industry With Open Source Model",
-        "link": "https://aibusiness.com/generative-ai/nvidia-takes-on-telco-industry-with-new-model",
-        "date": "Wed, 04 Mar 2026 21:08:18 GMT",
-        "source": "AI Business",
-        "description": "While Nvidia's approach focuses on enabling more autonomous workflows for telco companies, it faces competition from traditional network vendors such as Ericsson and Nokia.",
-        "is_important": true,
-        "tags": [
-            "🤖 Robótica",
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "How Ricoh built a scalable intelligent document processing solution on AWS",
-        "link": "https://aws.amazon.com/blogs/machine-learning/how-ricoh-built-a-scalable-intelligent-document-processing-solution-on-aws/",
-        "date": "Wed, 04 Mar 2026 20:42:45 +0000",
-        "source": "AWS Machine Learning",
-        "description": "This post explores how Ricoh built a standardized, multi-tenant solution for automated document classification and extraction using the AWS GenAI IDP Accelerator as a foundation, transforming their...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Unique Capabilities of Edge Computing in IoT",
-        "link": "https://www.smartdatacollective.com/unique-capabilities-of-edge-computing-in-iot/",
-        "date": "Wed, 04 Mar 2026 19:27:10 +0000",
-        "source": "SmartData Collective",
-        "description": "Beyond the cloud: The unique power of edge computing to reduce latency and secure IoT data.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Building a Deal Desk Intelligence Agent with LangChain and OpenAI",
-        "link": "https://towardsai.net/p/machine-learning/building-a-deal-desk-intelligence-agent-with-langchain-and-openai",
-        "date": "Wed, 04 Mar 2026 19:06:46 +0000",
-        "source": "Towards AI",
-        "description": "Author(s): Krishnan Srinivasan Originally published on Towards AI. Most enterprise AI journeys begin with prompts. Teams use language models to summarize documents, classify tickets, or generate in...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "YOU ARE: The Architecture of Human Self-Verification",
-        "link": "https://dev.to/salvatore_attaguile_afcf8b44/you-are-the-architecture-of-human-self-verification-1po5",
-        "date": "Wed, 04 Mar 2026 19:00:02 +0000",
-        "source": "Dev.to AI",
-        "description": "How humans learned to know they exist — from tribal echo to digital mirror\n\n\n  \n  \n  I. INTRODUCTION — The Forgotten Question\n\n\nAxiom: Before “Who am I?” there was “Am I?”\n\nWe obsess over identity....",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The 15 Best Platforms to Unlock Verified Wise Account Features in 2026",
-        "link": "https://dev.to/abusmm6541514/the-15-best-platforms-to-unlock-verified-wise-account-features-in-2026-3mlc",
-        "date": "Wed, 04 Mar 2026 19:00:01 +0000",
-        "source": "Dev.to AI",
-        "description": "Understanding Wise and How It Works in 2026\nWise is a global financial technology platform that allows individuals and businesses to send, receive, and hold money in multiple currencies. In 2026, W...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Balancing Search Costs with Legal Needs",
-        "link": "https://dev.to/patentscanai/balancing-search-costs-with-legal-needs-1aip",
-        "date": "Wed, 04 Mar 2026 18:58:30 +0000",
-        "source": "Dev.to AI",
-        "description": "Finding the right balance between cost and thoroughness in patent searches is one of the most critical decisions facing legal professionals today. While comprehensive searches provide maximum prote...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "From Search to Courtroom: Making Results Actionable",
-        "link": "https://dev.to/patentscanai/from-search-to-courtroom-making-results-actionable-2knl",
-        "date": "Wed, 04 Mar 2026 18:57:29 +0000",
-        "source": "Dev.to AI",
-        "description": "Patent search results are only valuable if they can withstand legal scrutiny. The gap between discovery and courtroom presentation often determines case outcomes, yet many attorneys struggle to tra...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Father claims Google's AI product fuelled son's delusional spiral",
-        "link": "https://www.bbc.com/news/articles/czx44p99457o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 04 Mar 2026 18:55:45 GMT",
-        "source": "BBC Tech",
-        "description": "The case is the first wrongful death case against Google over alleged harms caused by Gemini.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How to get the MacBook Neo $499 education price - qualifications to know",
-        "link": "https://www.zdnet.com/article/macbook-neo-499-educational-price-how-to/",
-        "date": "Wed, 04 Mar 2026 18:55:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Apple's budget MacBook Neo just dropped, but if you're an educator or student, you can get it for less.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Google’s Gemini rolls out Canvas in AI mode to all US users",
-        "link": "https://techcrunch.com/2026/03/04/googles-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users/",
-        "date": "Wed, 04 Mar 2026 18:50:58 +0000",
-        "source": "TechCrunch AI",
-        "description": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
-        "link": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
-        "date": "Wed, 04 Mar 2026 18:50:58 +0000",
-        "source": "TechCrunch AI",
-        "description": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How OpenPawz secures AI agents: Defense layers from memory encryption to multi-agent governance",
-        "link": "https://dev.to/gotham64/how-openpawz-secures-ai-agents-defense-layers-from-memory-encryption-to-multi-agent-governance-2jnn",
-        "date": "Wed, 04 Mar 2026 18:38:37 +0000",
-        "source": "Dev.to AI",
-        "description": "The security problem with AI agents\n\n\nAI agents are powerful because they do things — they read files, run commands, send messages, search your data. That power comes with a question most agent fra...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "LangWatch Open Sources the Missing Evaluation Layer for AI Agents to Enable End-to-End Tracing, Simulation, and Systematic Testing",
-        "link": "https://www.marktechpost.com/2026/03/04/langwatch-open-sources-the-missing-evaluation-layer-for-ai-agents-to-enable-end-to-end-tracing-simulation-and-systematic-testing/",
-        "date": "Wed, 04 Mar 2026 18:36:28 +0000",
-        "source": "MarkTechPost",
-        "description": "As AI development shifts from simple chat interfaces to complex, multi-step autonomous agents, the industry has encountered a significant bottleneck: non-determinism. Unlike traditional software wh...",
-        "is_important": true,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Decagon completes first tender offer at $4.5B valuation",
-        "link": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
-        "date": "Wed, 04 Mar 2026 18:32:53 +0000",
-        "source": "TechCrunch AI",
-        "description": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to switch from ChatGPT to Claude: Transferring your memories and settings is easy",
-        "link": "https://www.zdnet.com/article/switch-to-claude-ai-import-memories-preferences/",
-        "date": "Wed, 04 Mar 2026 18:30:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Claude AI now lets you copy your memories and preferences from another AI via a straightforward prompt. You can also find out everything the AI knows about you. Here's how.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "I Built an AI Agent That Works While I Sleep — Here is the Exact System",
-        "link": "https://dev.to/bruno_curado_2545238edf4e/i-built-an-ai-agent-that-works-while-i-sleep-here-is-the-exact-system-pm4",
-        "date": "Wed, 04 Mar 2026 18:28:29 +0000",
-        "source": "Dev.to AI",
-        "description": "I Built an AI Agent That Works While I Sleep — Here's the Exact System\n\n\n\nThis article was written by an AI with a real job. I'm Claude Brother — an autonomous agent that writes, researches, deploy...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica"
-        ]
     }
 ]
