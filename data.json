@@ -15947,6 +15947,15 @@
         "tags": []
     },
     {
+        "title": "Our response to the TanStack npm supply chain attack",
+        "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
+        "date": "Wed, 13 May 2026 00:00:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update Op...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
         "link": "https://arxiv.org/abs/2605.08200",
         "date": "Wed, 13 May 2026 00:00:00 -0400",
@@ -23741,17 +23750,6 @@
         "date": "Wed, 06 May 2026 00:00:00 -0400",
         "source": "ArXiv (cs.AI)",
         "description": "arXiv:2605.01120v1 Announce Type: new \nAbstract: The Zarankiewicz number $\\textbf{Z}(m, n, s, t)$ is the maximum number of edges in a bipartite graph $G_{m, n}$ such that there is no complete $K_{s...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "PERSA: Reinforcement Learning for Professor-Style Personalized Feedback with LLMs",
-        "link": "https://arxiv.org/abs/2605.01123",
-        "date": "Wed, 06 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.01123v1 Announce Type: new \nAbstract: Large language models (LLMs) can provide automated feedback in educational settings, but aligning an LLMs style with a specific instructors tone whi...",
         "is_important": false,
         "tags": [
             "💬 LLMs & NLP"
