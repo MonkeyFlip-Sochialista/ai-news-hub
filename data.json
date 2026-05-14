@@ -14465,6 +14465,74 @@
         "is_important": false
     },
     {
+        "title": "Why big tech is betting on cute mascots",
+        "link": "https://www.bbc.com/news/articles/c99l1zzp8xzo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 13 May 2026 23:08:37 GMT",
+        "source": "BBC Tech",
+        "description": "The likes of Apple, Microsoft and Google are all putting cartoon characters centre stage.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Everyone at the Musk v. Altman Trial Is Using Fancy Butt Cushions",
+        "link": "https://www.wired.com/story/fancy-butt-pillows-musk-v-altman-trial/",
+        "date": "Wed, 13 May 2026 21:58:47 +0000",
+        "source": "Wired AI",
+        "description": "The plaintiffs and defense have rested their cases, as well as their rear ends.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Anthropic in Talks to Raise Funding at a $950 Billion Valuation",
+        "link": "https://www.nytimes.com/2026/05/12/technology/anthropic-funding-950-billion-valuation.html",
+        "date": "Wed, 13 May 2026 21:55:44 +0000",
+        "source": "NYT Tech",
+        "description": "The start-up, which recently released a powerful A.I. model called Mythos and is separately battling with the Pentagon, was previously valued at $380 billion.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Notion just turned its workspace into a hub for AI agents",
+        "link": "https://techcrunch.com/2026/05/13/notion-just-turned-its-workspace-into-a-hub-for-ai-agents/",
+        "date": "Wed, 13 May 2026 21:45:09 +0000",
+        "source": "TechCrunch AI",
+        "description": "Notion’s new developer platform lets teams connect AI agents, external data sources, and custom code directly into their workspace as the company pushes deeper into agentic productivity software.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahead of the Policies That Cover Them",
+        "link": "https://www.marktechpost.com/2026/05/13/enterprise-ai-governance-in-2026-why-the-tools-employees-use-are-ahead-of-the-policies-that-cover-them/",
+        "date": "Wed, 13 May 2026 21:44:37 +0000",
+        "source": "MarkTechPost",
+        "description": "63% of organizations have no AI governance policy. Shadow AI is already running inside your stack — here is the data.\nThe post Enterprise AI Governance in 2026: Why the Tools Employees Use Are Ahea...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Fastino Labs Open-Sources GLiGuard: A 300M Parameter Safety Moderation Model That Matches or Exceeds Accuracy of Models 23–90x Its Size",
+        "link": "https://www.marktechpost.com/2026/05/13/fastino-labs-open-sources-gliguard-a-300m-parameter-safety-moderation-model-that-matches-or-exceeds-accuracy-of-models-23-90x-its-size/",
+        "date": "Wed, 13 May 2026 20:41:13 +0000",
+        "source": "MarkTechPost",
+        "description": "Fastino Labs has released GLiGuard, a 300M parameter open-source safety moderation model that evaluates four safety tasks — prompt safety, jailbreak strategy detection, harm category classification...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Adobe Express vs Canva: Which design tool is better?",
+        "link": "https://www.zdnet.com/article/adobe-express-vs-canva-compared-2026/",
+        "date": "Wed, 13 May 2026 20:09:59 GMT",
+        "source": "ZDNet AI",
+        "description": "I tested Adobe Express and Canva to compare value and workflow fit so you can choose the right design tool for your needs.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Beyond Basic RAG: The Rise of Agentic Retrieval",
         "link": "https://dev.to/petediano/beyond-basic-rag-the-rise-of-agentic-retrieval-18h9",
         "date": "Wed, 13 May 2026 20:03:38 +0000",
@@ -23688,78 +23756,5 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
-    },
-    {
-        "title": "Iterative Finetuning is Mostly Idempotent",
-        "link": "https://arxiv.org/abs/2605.01130",
-        "date": "Wed, 06 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.01130v1 Announce Type: new \nAbstract: If a model has some behavioral tendency, such as sycophancy or misalignment, and it is trained on its own outputs, will the tendency be amplified in...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación",
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "To Use AI as Dice of Possibilities with Timing Computation",
-        "link": "https://arxiv.org/abs/2605.01134",
-        "date": "Wed, 06 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.01134v1 Announce Type: new \nAbstract: The dominant noun-based modeling paradigm has fundamentally constrained AI development, precluding any adequate representation of the future as an o...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A Low-Latency Fraud Detection Layer for Detecting Adversarial Interaction Patterns in LLM-Powered Agents",
-        "link": "https://arxiv.org/abs/2605.01143",
-        "date": "Wed, 06 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.01143v1 Announce Type: new \nAbstract: Large Language Model (LLM)-powered agents demonstrate strong capabilities in autonomous task execution, tool use, and multi-step reasoning. However,...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "When Should a Language Model Trust Itself? Same-Model Self-Verification as a Conditional Confidence Signal",
-        "link": "https://arxiv.org/abs/2605.02915",
-        "date": "Wed, 06 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.02915v1 Announce Type: new \nAbstract: Same-model self-verification, prompting a model to audit its own predicted answer, is a plausible confidence signal for selective prediction, but it...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Evaluating Reasoning Models for Queries with Presuppositions",
-        "link": "https://arxiv.org/abs/2605.03050",
-        "date": "Wed, 06 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.03050v1 Announce Type: new \nAbstract: Millions of users turn to AI models for their information needs. It is conceivable that a large number of user queries contain assumptions that may ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How Language Models Process Negation",
-        "link": "https://arxiv.org/abs/2605.03052",
-        "date": "Wed, 06 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.03052v1 Announce Type: new \nAbstract: We study how Large Language Models (LLMs) process negation mechanistically. First, we establish that even though open-weight models often provide wr...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "The TTS-STT Flywheel: Synthetic Entity-Dense Audio Closes the Indic ASR Gap Where Commercial and Open-Source Systems Fail",
-        "link": "https://arxiv.org/abs/2605.03073",
-        "date": "Wed, 06 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.03073v1 Announce Type: new \nAbstract: Niche-domain Indic ASR -- digit strings, currency amounts, addresses, brand names, English/Indic codemix -- is under-served by both open-source SOTA...",
-        "is_important": false,
-        "tags": []
     }
 ]
