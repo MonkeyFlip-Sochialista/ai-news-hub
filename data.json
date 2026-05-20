@@ -8780,6 +8780,211 @@
         "is_important": false
     },
     {
+        "title": "Manifold Security Just Scored 7,700 MCP Servers. Here's Why That Number Should Worry You.",
+        "link": "https://dev.to/om_shree_0709/manifold-security-just-scored-7700-mcp-servers-heres-why-that-number-should-worry-you-1c22",
+        "date": "Wed, 20 May 2026 09:46:12 +0000",
+        "source": "Dev.to AI",
+        "description": "The MCP ecosystem grew faster than anyone could audit it. Now there's a tool trying to catch up — and what it's finding isn't reassuring.\n\n\n  \n  \n  The Problem It's Solving\n\n\nWhen Model Context Pro...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Running Nvidia Nemotron on LangChain via OpenRouter",
+        "link": "https://dev.to/syeedmdtalha/running-nvidia-nemotron-on-langchain-via-openrouter-21j0",
+        "date": "Wed, 20 May 2026 09:46:09 +0000",
+        "source": "Dev.to AI",
+        "description": "Nvidia's Nemotron models are powerful, free-to-use AI models available through OpenRouter. In this guide, you'll learn how to set up a LangChain agent that uses Nemotron — from installing packages ...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "The Synthetic Data Trap: When It Helps, When It Lies",
+        "link": "https://dev.to/theforwardpass/the-synthetic-data-trap-when-it-helps-when-it-lies-am7",
+        "date": "Wed, 20 May 2026 09:44:50 +0000",
+        "source": "Dev.to AI",
+        "description": "This article originally appeared in The Forward Pass, a weekly newsletter for ML engineers who ship. Get a free issue every month →\n\n\n\n  \n  \n  The Synthetic Data Trap: When It Helps, When It Lies\n\n...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why Your LLM Evals Are Lying to You",
+        "link": "https://dev.to/theforwardpass/why-your-llm-evals-are-lying-to-you-cb7",
+        "date": "Wed, 20 May 2026 09:44:49 +0000",
+        "source": "Dev.to AI",
+        "description": "This article originally appeared in The Forward Pass, a weekly newsletter for ML engineers who ship. Get a free issue every month →\n\n\n\n  \n  \n  Why Your LLM Evals Are Lying to You\n\n\nThree failure mo...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Freshworks Just Shipped an MCP Gateway Inside Its ITSM Platform. Here's What That Actually Changes.",
+        "link": "https://dev.to/om_shree_0709/freshworks-just-shipped-an-mcp-gateway-inside-its-itsm-platform-heres-what-that-actually-changes-34lp",
+        "date": "Wed, 20 May 2026 09:43:29 +0000",
+        "source": "Dev.to AI",
+        "description": "Enterprise ITSM has always been a walled garden — every tool talking to nothing, every workflow requiring a custom integration ticket. Freshworks just put an MCP Gateway inside Freshservice and cal...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Truth About Passive Income in 2025 (From Someone Who Tried Most of It)",
+        "link": "https://dev.to/scresiii_25786958f7f8a897/the-truth-about-passive-income-in-2025-from-someone-who-tried-most-of-it-2baf",
+        "date": "Wed, 20 May 2026 09:42:39 +0000",
+        "source": "Dev.to AI",
+        "description": "The Truth About Passive Income in 2025 (From Someone Who Tried Most of It)\n\n\nThe Truth About Passive Income in 2025 (From Someone Who Tried Most of It)\n\nAs I sit here writing this article, I'm remi...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "heyy I'm Abhinav Pandey \n\nin short I'm - 17 y/o Indian builder exploring AI, robotics & automation | Founder @ SalvaZer | Building futuristic tech projects publicly through Decoding Blaze | Mission: make India a global tech hub 🇮🇳",
+        "link": "https://dev.to/decodingblaze/heyy-im-abhinav-pandey-in-short-im-17-yo-indian-builder-exploring-ai-robotics--5g5a",
+        "date": "Wed, 20 May 2026 09:42:22 +0000",
+        "source": "Dev.to AI",
+        "description": "",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "BizNode Pro: BizChannel decentralized ad marketplace — advertise across a network of bot operators",
+        "link": "https://dev.to/biznode/biznode-pro-bizchannel-decentralized-ad-marketplace-advertise-across-a-network-of-bot-operators-1jd2",
+        "date": "Wed, 20 May 2026 09:41:39 +0000",
+        "source": "Dev.to AI",
+        "description": "The 1BZ Ecosystem\n\n\nCopyGuard (protect) → IPVault (monetize) → SmartPDF (deliver) → DZIT (settle on Polygon) → BizNode (automate)\n\n\n\nDecentralized ad marketplace — https://bizchannel.1bz.biz\n\n\nAI b...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Train Your AI to Audition Like You: Automating Your Vocal Brand",
+        "link": "https://dev.to/ken_deng_ai/train-your-ai-to-audition-like-you-automating-your-vocal-brand-199p",
+        "date": "Wed, 20 May 2026 09:40:52 +0000",
+        "source": "Dev.to AI",
+        "description": "Ever feel like you're drowning in audition scripts? The dream of AI automation is real, but generic tools churn out generic results. The secret isn't just automation; it's teaching the AI to think,...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How We Ship Production-Ready Software in 14 Days (Not MVPs)",
+        "link": "https://dev.to/infoinlet1/how-we-ship-production-ready-software-in-14-days-not-mvps-18dp",
+        "date": "Wed, 20 May 2026 09:40:45 +0000",
+        "source": "Dev.to AI",
+        "description": "For about fifteen years, the software world has used \"MVP\" as an acceptable excuse for shipping broken things.\n\nA login page that doesn't work on mobile. A payment flow that fails on the third edge...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "HookGuard AI: A Local React Hook Reviewer Powered by Gemma 4 and Ollama",
+        "link": "https://dev.to/eloisa_tr_d28d3df9c8ad2c/hookguard-ai-a-local-react-hook-reviewer-powered-by-gemma-4-and-ollama-5hb",
+        "date": "Wed, 20 May 2026 09:38:01 +0000",
+        "source": "Dev.to AI",
+        "description": "This is a submission for the Gemma 4 Challenge: Build with Gemma 4\n\n\n  \n  \n  What I Built\n\n\nHookGuard AI is a local AI-powered code review tool focused on React hooks.\n\nThe goal is simple: help dev...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "SEARCH",
+        "link": "https://dev.to/aa_aa_f7d9c2454af1f05d828/search-2d49",
+        "date": "Wed, 20 May 2026 09:36:10 +0000",
+        "source": "Dev.to AI",
+        "description": "The x402 protocol is an emerging\n\n\n  \n  \n  Install\n\n\n\n\n\npip install aifinpay-agent\n\n\n\n\n\n\nGitHub",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Tell us: have you used an AI chatbot to make a significant decision – and regretted it?",
+        "link": "https://www.theguardian.com/technology/2026/may/20/tell-us-have-you-used-ai-chatbot-tsignificant-decision-regretted-it",
+        "date": "Wed, 20 May 2026 08:43:09 GMT",
+        "source": "The Guardian AI",
+        "description": "We would like to hear from people who regret turning to AI chatbots for advice on their personal or social lives People are increasingly turning to AI chatbots for advice on their personal and soci...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "This E ink tablet is the best annotator I've tested - but there's a steep learning curve",
+        "link": "https://www.zdnet.com/article/boox-go-10-3-gen-2-lumi-review/",
+        "date": "Wed, 20 May 2026 08:30:39 GMT",
+        "source": "ZDNet AI",
+        "description": "Boox's Gen-2 Go 10.3 tablet is made for power users seeking a customizable Android tablet with a backlight.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Alibaba Qwen Team Introduces Qwen3.5-LiveTranslate-Flash: Real-Time Multimodal Interpretation Across 60 Languages at 2.8-Second Latency",
+        "link": "https://www.marktechpost.com/2026/05/20/alibaba-qwen-team-introduces-qwen3-5-livetranslate-flash-real-time-multimodal-interpretation-across-60-languages-at-2-8-second-latency/",
+        "date": "Wed, 20 May 2026 08:09:51 +0000",
+        "source": "MarkTechPost",
+        "description": "Alibaba's Qwen team has released Qwen3.5-LiveTranslate-Flash, a real-time multimodal translation model that processes audio and video simultaneously. The model covers 60 input languages and produce...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "4 Android Auto settings I always turn on for a safer ride",
+        "link": "https://www.zdnet.com/article/4-android-auto-settings-i-always-turn-on-for-a-safer-ride/",
+        "date": "Wed, 20 May 2026 08:00:35 GMT",
+        "source": "ZDNet AI",
+        "description": "Using Android Auto can be as dangerous as using your phone while driving. Fortunately, these built-in safety features make your daily drive a little safer",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Gemini 3.5 Flash: frontier intelligence with speed",
+        "link": "https://www.analyticsvidhya.com/blog/2026/05/gemini-3-5-flash/",
+        "date": "Wed, 20 May 2026 07:56:55 +0000",
+        "source": "Analytics Vidhya",
+        "description": "Google Gemini’s next-generation family offering: Gemini 3.5 is here!&#160; Gemini 3.5 Flash combines frontier intelligence with real-world action and supports high-speed agentic workflows, coding, ...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Google Introduces Gemini 3.5 Flash at I/O 2026: A Faster and Cheaper Model for AI Agents and Coding",
+        "link": "https://www.marktechpost.com/2026/05/20/google-introduces-gemini-3-5-flash-at-i-o-2026-a-faster-and-cheaper-model-for-ai-agents-and-coding/",
+        "date": "Wed, 20 May 2026 07:12:49 +0000",
+        "source": "MarkTechPost",
+        "description": "Google's Gemini 3.5 Flash beats its own flagship on coding and agentic benchmarks while running four times faster and at half the cost.\nThe post Google Introduces Gemini 3.5 Flash at I/O 2026: A Fa...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Real or AI: can a photographer and internet addict spot fake portraits? – video",
+        "link": "https://www.theguardian.com/global/video/2026/may/20/real-or-ai-can-a-photographer-and-internet-addict-spot-fake-portraits-video",
+        "date": "Wed, 20 May 2026 07:01:05 GMT",
+        "source": "The Guardian AI",
+        "description": "It's getting harder and harder to guess whether a face is AI. The University of New South Wales recently launched an AI faces test, which challenges users ability to distinguish between real and fa...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI engineer says Google unfairly sacked him after he protested against work for Israel",
+        "link": "https://www.theguardian.com/technology/2026/may/20/ai-engineer-says-google-unfairly-sacked-him-after-he-protested-against-work-for-israel",
+        "date": "Wed, 20 May 2026 06:00:26 GMT",
+        "source": "The Guardian AI",
+        "description": "Exclusive: Employment tribunal claim says worker lost his job after distributing leaflets throughout London officeGoogle is facing a legal challenge from an AI engineer who claims he was unfairly d...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Everything we saw at Google I/O: Gemini 3.5, Android XR glasses, Spark, and more",
+        "link": "https://www.zdnet.com/article/google-io-05-19-2026-live-blog/",
+        "date": "Wed, 20 May 2026 05:05:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Here's everything we saw in Mountain View at Google's annual developer conference.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "SEARCH",
         "link": "https://dev.to/aa_aa_f7d9c2454af1f05d828/search-341",
         "date": "Wed, 20 May 2026 04:08:53 +0000",
@@ -8911,6 +9116,15 @@
         "date": "Wed, 20 May 2026 00:45:46 GMT",
         "source": "ZDNet AI",
         "description": "With an 820W solar setup, you can save up to 130kWh a month. I did with Anker's Solix F3800 Plus.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The next phase of OpenAI’s Education for Countries",
+        "link": "https://openai.com/index/the-next-phase-of-education-for-countries",
+        "date": "Wed, 20 May 2026 00:00:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI advances Education for Countries, expanding AI adoption in schools with new partnerships, teacher training, and tools to improve global learning outcomes.",
         "is_important": false,
         "tags": []
     },
@@ -23588,219 +23802,6 @@
         "date": "Wed, 06 May 2026 16:56:49 +0000",
         "source": "Ars Technica AI",
         "description": "Move comes as CCP Games spends $120M to go independent, rebrands as Fenris Creations.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I Am Begging AI Companies to Stop Naming Features After Human Processes",
-        "link": "https://www.wired.com/story/i-am-begging-ai-companies-to-stop-naming-features-after-human-processes/",
-        "date": "Wed, 06 May 2026 16:51:12 +0000",
-        "source": "Wired AI",
-        "description": "Anthropic announced “dreaming” for AI agents to sort through “memories” at its developer conference. Can we not?",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Anthropic’s 10 AI Agents are Redefining Finance Work",
-        "link": "https://www.analyticsvidhya.com/blog/2026/05/claude-finance-agents/",
-        "date": "Wed, 06 May 2026 16:37:12 +0000",
-        "source": "Analytics Vidhya",
-        "description": "The headline may sound extreme here. Of course, Claude is not replacing CFOs tomorrow morning. But with the debut of Claude&#8217;s new Financial Services Solution by Anthropic, it has clearly move...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Anthropic’s 10 AI Agents are Redefining Finance Work",
-        "link": "https://www.analyticsvidhya.com/blog/2026/05/claude-finance-solutions/",
-        "date": "Wed, 06 May 2026 16:37:12 +0000",
-        "source": "Analytics Vidhya",
-        "description": "The headline may sound extreme here. Of course, Claude is not replacing CFOs tomorrow morning. But with the debut of Claude&#8217;s new Financial Services Solution by Anthropic, it has clearly move...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "No flattery please, Claude: I’m British | Brief letters",
-        "link": "https://www.theguardian.com/technology/2026/may/06/no-flattery-please-claude-im-british",
-        "date": "Wed, 06 May 2026 16:25:01 GMT",
-        "source": "The Guardian AI",
-        "description": "Richard Dawkins and chatbots | LLM meaning | Flattery battery | Dancing in PE | Maths breakthroughThe otherwise admirable Richard Dawkins should adjust the local settings of the chatbot or tell it ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Your Claude agents can 'dream' now - how Anthropic's new feature works",
-        "link": "https://www.zdnet.com/article/your-claude-agents-can-dream-now-how-anthropics-new-feature-works/",
-        "date": "Wed, 06 May 2026 16:15:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The naming choice for Anthropic's latest update is yet another instance of the company humanizing its products.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "From ‘it helped me stick to a routine’ to ‘I despise it’: 11 people explain how they’re using AI for fitness",
-        "link": "https://www.theguardian.com/wellness/2026/may/06/ai-fitness-health-programs",
-        "date": "Wed, 06 May 2026 16:00:23 GMT",
-        "source": "The Guardian AI",
-        "description": "While some are using AI to tailor programs better suited to their needs, others warn ‘it can be wrong, confidently so’People have mixed feelings about AI. While many people regularly use it – 62% i...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Pioneering AI-assisted code migration: How Google achieved 6x faster migration from TensorFlow to JAX",
-        "link": "https://cloud.google.com/blog/topics/developers-practitioners/6x-faster-migration-from-tensorflow-to-jax/",
-        "date": "Wed, 06 May 2026 16:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "AI coding agents are rapidly becoming ubiquitous across the software industry, fundamentally changing how developers write, test, and debug daily code. While these tools excel at localized, self-co...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Blueprint: Translating stream-of-conscious speech into responsive, actionable task lists",
-        "link": "https://cloud.google.com/blog/topics/startups/the-blueprint-doist-stream-of-consciousness-ai-task-list-creation/",
-        "date": "Wed, 06 May 2026 16:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "Welcome to The Blueprint, a new feature where we highlight how Google Cloud customers are tackling unique and common challenges across industries using the latest AI and cloud technologies. We hope...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Fitting the future: How Breuninger boosted sales with its \"be your own model\" AI",
-        "link": "https://cloud.google.com/blog/topics/retail/how-breuninger-boosted-sales-with-its-be-your-own-model-ai/",
-        "date": "Wed, 06 May 2026 16:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "“How will this look on me?” It’s the question every online fashion shopper asks, and one that most retailers still can’t answer well. \nBreuninger, a fashion and lifestyle company based in Germany, ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "3 ways AI can help you ace your next job interview",
-        "link": "https://www.zdnet.com/article/3-ways-you-can-use-ai-to-ace-your-next-job-interview/",
-        "date": "Wed, 06 May 2026 15:57:03 GMT",
-        "source": "ZDNet AI",
-        "description": "Nervous about a job interview? AI could help you get ready.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Google updates AI search to include quotes from Reddit and other sources",
-        "link": "https://techcrunch.com/2026/05/06/google-updates-ai-search-to-include-expert-advice-from-reddit-and-other-web-forums/",
-        "date": "Wed, 06 May 2026 15:49:39 +0000",
-        "source": "TechCrunch AI",
-        "description": "While citing web forums and discussion boards can help users find answers to more niche queries, this design choice could also prove chaotic.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Hackers Hate AI Slop Even More Than You Do",
-        "link": "https://www.wired.com/story/cybercriminals-are-complaining-about-ai-slop-flooding-their-forums/",
-        "date": "Wed, 06 May 2026 15:49:12 +0000",
-        "source": "Wired AI",
-        "description": "It's not just you. Scammers, hackers, and other cybercriminals are complaining about “AI shit” flooding platforms where they discuss cyberattacks and other illegal activity.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Khosla-backed robotics startup Genesis AI has gone full stack, demo shows",
-        "link": "https://techcrunch.com/2026/05/06/khosla-backed-robotics-startup-genesis-ai-has-gone-full-stack-demo-shows/",
-        "date": "Wed, 06 May 2026 15:46:38 +0000",
-        "source": "TechCrunch AI",
-        "description": "Genesis AI, a startup that raised a $105 million seed round to build foundational AI for robotics, has unveiled its first model, GENE-26.5, but also a demo showcasing a set of robotic hands perform...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Cost effective deployment of vision-language models for pet behavior detection on AWS Inferentia2",
-        "link": "https://aws.amazon.com/blogs/machine-learning/cost-effective-deployment-of-vision-language-models-for-pet-behavior-detection-on-aws-inferentia2/",
-        "date": "Wed, 06 May 2026 15:37:08 +0000",
-        "source": "AWS Machine Learning",
-        "description": "Tomofun, the Taiwan-headquartered pet-tech startup behind the Furbo Pet Camera, is redefining how pet owners interact with their pets remotely. To reduce costs and maintain accuracy, Tomofun turned...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Tinder owner Match Group is slowing hiring to pay for its increased use of AI tools",
-        "link": "https://techcrunch.com/2026/05/06/tinder-owner-match-group-is-slowing-hiring-to-pay-for-its-increased-use-of-ai-tools/",
-        "date": "Wed, 06 May 2026 15:27:36 +0000",
-        "source": "TechCrunch AI",
-        "description": "Match Group said that it's slowing its hiring plans for the rest of the year because AI tools \"cost a lot of money.\"",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "FBI Director Kash Patel Says AI Has Stopped Numerous Violent Attacks Against America. We’d Love to See a Single Whiff of Evidence",
-        "link": "https://futurism.com/artificial-intelligence/fbi-kash-patel-ai-violent-attacks",
-        "date": "Wed, 06 May 2026 15:19:42 -0400",
-        "source": "Futurism AI",
-        "description": "\"I'm using it everywhere.\"\nThe post FBI Director Kash Patel Says AI Has Stopped Numerous Violent Attacks Against America. We&#8217;d Love to See a Single Whiff of Evidence appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Nvidia, Corning Partner on Large-Scale AI infrastructure Buildout",
-        "link": "https://aibusiness.com/generative-ai/nvidia-corning-partner-large-scale-ai-infrastructure-buildout",
-        "date": "Wed, 06 May 2026 15:16:37 GMT",
-        "source": "AI Business",
-        "description": "The companies will build optical fiber manufacturing plants to meet growing industry demand.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "HP and the art of AI and data for the enterprise",
-        "link": "https://www.artificialintelligence-news.com/news/hps-ai-and-data-offerings-for-the-enterprise/",
-        "date": "Wed, 06 May 2026 15:14:00 +0000",
-        "source": "Artificial Intelligence News",
-        "description": "Ahead of the AI &#38; Big Data Expo at the San Jose McEnery Convention Center, May 18-19, we spoke to Jerome Gabryszewski, the company&#8217;s AI &#38; Data Science Business Development Manager abo...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Jeeves and Ask.com Shut Down After Almost 30 Years",
-        "link": "https://www.nytimes.com/2026/05/03/business/ask-jeeves-shuts-down-internet-search-engine.html",
-        "date": "Wed, 06 May 2026 15:13:42 +0000",
-        "source": "NYT Tech",
-        "description": "The pioneering search engine shut down on May 1, after nearly 30 years in operation.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Apple to pay $250M to settle lawsuit over Siri’s delayed AI features",
-        "link": "https://techcrunch.com/2026/05/06/apple-to-pay-250m-to-settle-lawsuit-over-siris-delayed-ai-features/",
-        "date": "Wed, 06 May 2026 15:12:49 +0000",
-        "source": "TechCrunch AI",
-        "description": "Apple has agreed to pay $250 million to settle a class action lawsuit for overpromising the arrival of Siri's AI features.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "‘Your craft is obsolete’: WiseTech staff in limbo as AI touted as better than humans",
-        "link": "https://www.theguardian.com/technology/2026/may/07/your-craft-is-obsolete-wisetech-staff-in-limbo-as-ai-touted-as-better-than-humans",
-        "date": "Wed, 06 May 2026 15:00:23 GMT",
-        "source": "The Guardian AI",
-        "description": "The software company said in February it would cut 7,000 jobs but, as it touts new technology, workers are still waiting to hear which roles will goGet our breaking news email, free app or daily ne...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Ethos raises $22.75M from a16z for its expert network with voice onboarding",
-        "link": "https://techcrunch.com/2026/05/06/ethos-raises-22-75m-from-a16z-for-its-expert-network-with-voice-onboarding/",
-        "date": "Wed, 06 May 2026 15:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "Ethos says it is onboarding 35,000 experts per week.",
         "is_important": false,
         "tags": []
     }
