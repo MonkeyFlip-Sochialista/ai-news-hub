@@ -10006,6 +10006,15 @@
         ]
     },
     {
+        "title": "Proving the case on day two at TechEx North America",
+        "link": "https://www.artificialintelligence-news.com/news/proving-the-case-on-day-two-at-techex-north-america/",
+        "date": "Wed, 20 May 2026 02:37:00 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "The AI and Big Data programme on day two of TechEx North America referred at least once to the &#8220;AI graveyard,&#8221; meaning the large number of pilots that never become durable systems. That...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "These backyard solar panels saved me $20/mo on my power bill - here's my setup",
         "link": "https://www.zdnet.com/article/anker-solix-f3800-plus-410w-solar-panels-review/",
         "date": "Wed, 20 May 2026 00:45:46 GMT",
@@ -23814,15 +23823,6 @@
         "date": "Wed, 08 Apr 2026 00:00:00 -0400",
         "source": "ArXiv (cs.CV)",
         "description": "arXiv:2604.05060v1 Announce Type: new \nAbstract: Accurate Point Cloud Registration (PCR) is an important task in 3D data processing, involving the estimation of a rigid transformation between two p...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "SVAgent: Storyline-Guided Long Video Understanding via Cross-Modal Multi-Agent Collaboration",
-        "link": "https://arxiv.org/abs/2604.05079",
-        "date": "Wed, 08 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2604.05079v1 Announce Type: new \nAbstract: Video question answering (VideoQA) is a challenging task that requires integrating spatial, temporal, and semantic information to capture the comple...",
         "is_important": false,
         "tags": []
     }
