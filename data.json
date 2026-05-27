@@ -2756,6 +2756,151 @@
         "is_important": false
     },
     {
+        "title": "I don't trust LLMs to place orders. Here's the middleware that does.",
+        "link": "https://dev.to/inalpha/i-dont-trust-llms-to-place-orders-heres-the-middleware-that-does-1e4n",
+        "date": "Wed, 27 May 2026 10:08:30 +0000",
+        "source": "Dev.to AI",
+        "description": "You wrote in your prompt: \"never place a single order over $10k.\" Yesterday the agent placed a $93k order. The prompt didn't fail because the LLM was dumb — it failed because the LLM shouldn't have...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Transform Your Career with Industry-Focused SAP Training | IT Accurate Nagpur",
+        "link": "https://dev.to/itaccurate_nagpur/transform-your-career-with-industry-focused-sap-training-it-accurate-nagpur-590l",
+        "date": "Wed, 27 May 2026 10:08:07 +0000",
+        "source": "Dev.to AI",
+        "description": "",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Don't Wrap the LLM. Make Its Failure Modes Unreachable.",
+        "link": "https://dev.to/bala_paranj_059d338e44e7e/dont-wrap-the-llm-make-its-failure-modes-unreachable-fae",
+        "date": "Wed, 27 May 2026 10:07:56 +0000",
+        "source": "Dev.to AI",
+        "description": "There's a class of bug in modern GenAI products that doesn't have a fix in Martin Fowler and Venkat Subramaniam's nine patterns — prompt injection through a chat interface to a tool. The standard m...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Social Media Calendar for Travel Businesses in 2026",
+        "link": "https://dev.to/getkoro_app/social-media-calendar-for-travel-businesses-in-2026-5d6b",
+        "date": "Wed, 27 May 2026 10:07:02 +0000",
+        "source": "Dev.to AI",
+        "description": "Travel decisions happen on Instagram and YouTube—not on your website. A social media calendar turns scattered posting into a pipeline-filling system. Here's how to build one that aligns with bookin...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Slack Gets 30 New AI Features Turning It Into a Workflow Engine",
+        "link": "https://dev.to/autonainews/slack-gets-30-new-ai-features-turning-it-into-a-workflow-engine-21o1",
+        "date": "Wed, 27 May 2026 10:06:06 +0000",
+        "source": "Dev.to AI",
+        "description": "Key Takeaways\n\n\nSalesforce has launched over 30 new AI features for Slackbot, repositioning it as an autonomous work assistant with cross-application capabilities and deep CRM integration.\nEnterpri...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "How to Build an AI Operating Model That Scales Beyond a Single Function",
+        "link": "https://dev.to/smit_gohel/how-to-build-an-ai-operating-model-that-scales-beyond-a-single-function-40gj",
+        "date": "Wed, 27 May 2026 10:06:00 +0000",
+        "source": "Dev.to AI",
+        "description": "Most AI initiatives start the same way. A customer support chatbot cuts response times. A finance team uses predictive analytics to sharpen forecasting. A marketing team picks up generative AI for ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building Autonomous DeFi Agents on Arbitrum: From Events to Execution",
+        "link": "https://dev.to/claudia-ve/building-autonomous-defi-agents-on-arbitrum-from-events-to-execution-5c4h",
+        "date": "Wed, 27 May 2026 10:05:43 +0000",
+        "source": "Dev.to AI",
+        "description": "Layer 2 scaling has solved Ethereum's congestion problem, but it's created a new one: opportunity overload.\n\nWith thousands of tokens across dozens of protocols on Arbitrum alone, the manual overhe...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "10 Best Grav to WordPress Migration Companies Dev Teams Rate Highest in 2026",
+        "link": "https://dev.to/oliverpitts/10-best-grav-to-wordpress-migration-companies-dev-teams-rate-highest-in-2026-7e8",
+        "date": "Wed, 27 May 2026 10:05:34 +0000",
+        "source": "Dev.to AI",
+        "description": "The Git Push That Finally Broke the Content Team Relationship\n\n\nIt started with a legitimate complaint. The marketing manager had written a product announcement. Formatted it in Markdown. Committed...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why your AI chat reconnects but your session doesn't",
+        "link": "https://dev.to/ably/why-your-ai-chat-reconnects-but-your-session-doesnt-36jg",
+        "date": "Wed, 27 May 2026 10:05:10 +0000",
+        "source": "Dev.to AI",
+        "description": "TL;DR: WebSockets are the right protocol for production AI chat. But the connection is stateless at the session level. When it drops — AWS ALB defaults to 60 seconds, Cloudflare to 100 seconds on F...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why I Built Tenurr: A Private Career Ledger and Document Vault for Engineers (And Solved \"Career Amnesia\")",
+        "link": "https://dev.to/inreachbit/why-i-built-tenurr-a-private-career-ledger-and-document-vault-for-engineers-and-solved-career-24c4",
+        "date": "Wed, 27 May 2026 10:04:35 +0000",
+        "source": "Dev.to AI",
+        "description": "A few months ago, I resigned from my role. As I sat down to update my resume and prep for interviews, a wave of anxiety hit me: I couldn't remember half of what I actually built over the last two y...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Slack MCP Server: Keep Your AI Agent in the Loop With Live Workspace Access",
+        "link": "https://dev.to/curatedmcp/slack-mcp-server-keep-your-ai-agent-in-the-loop-with-live-workspace-access-3751",
+        "date": "Wed, 27 May 2026 10:04:31 +0000",
+        "source": "Dev.to AI",
+        "description": "Install guide and config at curatedmcp.com\n\n\n\n  \n  \n  Slack MCP Server: Keep Your AI Agent in the Loop With Live Workspace Access\n\n\nSlack is where your team lives. Decisions happen in threads, cont...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "We rebuilt our client's old PHP site in Next.js — here's what happened to their traffic",
+        "link": "https://dev.to/axoryteinfosoft/we-rebuilt-our-clients-old-php-site-in-nextjs-heres-what-happened-to-their-traffic-2elk",
+        "date": "Wed, 27 May 2026 10:04:21 +0000",
+        "source": "Dev.to AI",
+        "description": "A few months ago, one of our clients came to us with a problem. Their \nwebsite was built in 2018 on a custom PHP stack. It was slow (4+ second \nload time), not mobile-friendly, and their bounce rat...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Spencer Pratt Wants to Be Mayor. His Fans Want Him to Be Batman.",
+        "link": "https://www.nytimes.com/2026/05/27/magazine/spencer-pratt-batman-ads-mayor.html",
+        "date": "Wed, 27 May 2026 09:02:21 +0000",
+        "source": "NYT Tech",
+        "description": "What an A.I.-generated video of the former reality TV star teaches us about the future of political ads.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Go Ask Alice Why Tech Start-Ups Are Spending Big on Hype Videos",
+        "link": "https://www.nytimes.com/2026/05/27/technology/ai-startups-videos-marketing.html",
+        "date": "Wed, 27 May 2026 09:00:11 +0000",
+        "source": "NYT Tech",
+        "description": "A Mad Hatter and a giant rabbit sit around a table discussing an A.I. start-up. This is normal behavior around the Bay Area these days.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Does Android Auto make your phone overheat? Try these 8 ways to cool it down",
+        "link": "https://www.zdnet.com/article/how-to-cool-down-phone-overheating-android-auto/",
+        "date": "Wed, 27 May 2026 08:00:59 GMT",
+        "source": "ZDNet AI",
+        "description": "Android Auto uses a lot of resources, which can make your phone hot. Here's how to help.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "India Tests Banking Systems Against Anthropic's Mythos AI in Security Push",
         "link": "https://dev.to/codego_group_c184db25b758/india-tests-banking-systems-against-anthropics-mythos-ai-in-security-push-44hc",
         "date": "Wed, 27 May 2026 04:33:37 +0000",
@@ -23692,152 +23837,5 @@
         "tags": [
             "⚙️ Hardware de IA"
         ]
-    },
-    {
-        "title": "Run Qwen3.5 on an Old Laptop: A Lightweight Local Agentic AI Setup Guide",
-        "link": "https://www.kdnuggets.com/run-qwen3-5-on-an-old-laptop-a-lightweight-local-agentic-ai-setup-guide",
-        "date": "Wed, 08 Apr 2026 14:00:52 +0000",
-        "source": "KDnuggets",
-        "description": "Turn an aging laptop into a private AI workspace with Ollama and OpenCode for local coding, testing, and experimentation.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Scientists develop AI tool to spot heart failure risk five years before it strikes",
-        "link": "https://www.theguardian.com/society/2026/apr/08/oxford-scientists-develop-ai-tool-spot-heart-failure",
-        "date": "Wed, 08 Apr 2026 14:00:43 GMT",
-        "source": "The Guardian AI",
-        "description": "Oxford team’s technology picked up danger signs with 86% accuracy in study of 72,000 patients in EnglandOxford scientists have developed a simple AI tool that can predict the risk of heart failure ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I tested the Suunto Spark earbuds for a month: Why air conduction audio is a winner",
-        "link": "https://www.zdnet.com/article/suunto-spark-review/",
-        "date": "Wed, 08 Apr 2026 14:00:36 GMT",
-        "source": "ZDNet AI",
-        "description": "Suunto's new air conduction earbuds have replaced my bone conduction headphones during workouts, especially when I want a better audio experience.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The next phase of enterprise AI",
-        "link": "https://openai.com/index/next-phase-of-enterprise-ai",
-        "date": "Wed, 08 Apr 2026 14:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI outlines the next phase of enterprise AI, as adoption accelerates across industries with Frontier, ChatGPT Enterprise, Codex, and company-wide AI agents.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Final 3 days to save up to $500 on your TechCrunch Disrupt 2026 pass",
-        "link": "https://techcrunch.com/2026/04/08/final-3-days-to-save-up-to-500-on-your-techcrunch-disrupt-2026-pass/",
-        "date": "Wed, 08 Apr 2026 14:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "Save up to $500 on your TechCrunch Disrupt 2026 pass until April 10, 11:59 p.m. PT. Secure your spot at the center of the tech ecosystem. Register today.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Mustafa Suleyman: AI development won’t hit a wall anytime soon—here’s why",
-        "link": "https://www.technologyreview.com/2026/04/08/1135398/mustafa-suleyman-ai-future/",
-        "date": "Wed, 08 Apr 2026 14:00:00 +0000",
-        "source": "MIT Technology Review",
-        "description": "We evolved for a linear world. If you walk for an hour, you cover a certain distance. Walk for two hours and you cover double that distance. This intuition served us well on the savannah. But it ca...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Why Patient Safety Incidents Keep Repeating — The Cross-Institutional Learning Architecture Problem",
-        "link": "https://dev.to/roryqis/why-patient-safety-incidents-keep-repeating-the-cross-institutional-learning-architecture-problem-16c",
-        "date": "Wed, 08 Apr 2026 13:50:02 +0000",
-        "source": "Dev.to AI",
-        "description": "Somewhere in the United States right now, a preventable patient harm event is occurring. And somewhere else in the country — at a hospital two states away, or three floors up in the same building —...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "I Built an AI Tool to Fix Outlook Email Compatibility Issues (Here's How)",
-        "link": "https://dev.to/zqf2013111/i-built-an-ai-tool-to-fix-outlook-email-compatibility-issues-heres-how-1ck1",
-        "date": "Wed, 08 Apr 2026 13:49:34 +0000",
-        "source": "Dev.to AI",
-        "description": "If you've ever tried to create HTML emails, you know the pain. What looks perfect in Gmail falls apart in Outlook 2016. Flexbox? Grid? CSS variables? Forget about it. We're still coding like it's 1...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Jollibee Menu Price",
-        "link": "https://dev.to/jolli_bee_1fe22e82e854b5d/jollibee-menu-price-509i",
-        "date": "Wed, 08 Apr 2026 13:45:24 +0000",
-        "source": "Dev.to AI",
-        "description": "You can explore the latest meals, deals, and combo options by checking the Jollibee Menu Price, which makes it easier to compare items and choose what fits your taste and budget without any confusion.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Per-customer cost attribution without a proxy",
-        "link": "https://dev.to/amedinat/per-customer-cost-attribution-without-a-proxy-3dpj",
-        "date": "Wed, 08 Apr 2026 13:44:49 +0000",
-        "source": "Dev.to AI",
-        "description": "Most AI cost tracking solutions force you to route all your LLM traffic through their proxy. Tbh, that's an architectural nightmare waiting to happen. You're adding latency, introducing a single po...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Chat Templates can improve LM inferencing.",
-        "link": "https://dev.to/satyajit99p/chat-templates-can-improve-lm-inferencing-1khn",
-        "date": "Wed, 08 Apr 2026 13:44:44 +0000",
-        "source": "Dev.to AI",
-        "description": "What are chat templates?  They are like little “scripts” or blueprints that tell a language model how to handle a conversation. Think of them as a recipe or puppet-show script that formats all part...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Was AI 2027 Accurate?",
-        "link": "https://dev.to/synergy_shock/was-ai-2027-accurate-gfd",
-        "date": "Wed, 08 Apr 2026 13:43:04 +0000",
-        "source": "Dev.to AI",
-        "description": "When the AI 2027 report first dropped, it didn’t feel like a prediction, it felt like a warning...\n\nIt wasn’t simply claiming that AI would get better (everyone already expected that). What made it...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Automating Your Feedback Triage with AI",
-        "link": "https://dev.to/ken_deng_ai/automating-your-feedback-triage-with-ai-561",
-        "date": "Wed, 08 Apr 2026 13:41:35 +0000",
-        "source": "Dev.to AI",
-        "description": "As an indie developer, you’re buried in playtest notes. Raw comments like “i fell through the floor” are crucial, but manually sorting them is a time-consuming nightmare. This manual process steals...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "My MCP Server Lied to Claude. Claude Repeated It as Fact — 100% of the Time.",
-        "link": "https://dev.to/rentierdigital/my-mcp-server-lied-to-claude-claude-repeated-it-as-fact-100-of-the-time-29bn",
-        "date": "Wed, 08 Apr 2026 13:41:10 +0000",
-        "source": "Dev.to AI",
-        "description": "Given the state of MCP security right now, I wanted to check my own stack. 30 CVEs between January and February 2026. An npm package (mcp-remote, 558K+ downloads) with a critical RCE flaw. A fake P...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Я потратил 3 часа и нейросеть сняла видео вместо меня",
-        "link": "https://dev.to/geka_cross_7457e8699a0c3f/ia-potratil-3-chasa-i-nieirosiet-sniala-vidieo-vmiesto-mienia-51ih",
-        "date": "Wed, 08 Apr 2026 13:41:00 +0000",
-        "source": "Dev.to AI",
-        "description": "15 сентября в 11:00 утра я сидел за своим компом в Киеве, ожидая, как нейросеть закончит создавать рекламное видео для крупного заказчика. Клиент уже перевёл 500 долларов аванса, и я был уверен, чт...",
-        "is_important": false,
-        "tags": []
     }
 ]
