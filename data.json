@@ -2756,6 +2756,15 @@
         "is_important": false
     },
     {
+        "title": "Process financial documents using Amazon Bedrock Data Automation",
+        "link": "https://aws.amazon.com/blogs/machine-learning/process-financial-documents-using-amazon-bedrock-data-automation/",
+        "date": "Wed, 27 May 2026 21:28:53 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, we explore how Amazon Bedrock Data Automation can accurately extract information from four common types of financial documents: bank statements, W-2 forms, 1099-B tax forms, and vendo...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "YouTube etiquetará automáticamente videos con IA fotorrealista",
         "link": "https://dev.to/lu1tr0n/youtube-etiquetara-automaticamente-videos-con-ia-fotorrealista-4h0i",
         "date": "Wed, 27 May 2026 20:18:48 +0000",
@@ -3046,6 +3055,18 @@
         "description": "",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "NVIDIA Releases Polar, a Token-Faithful Rollout Framework for GRPO Training Across Codex, Claude Code, and Qwen Code",
+        "link": "https://www.marktechpost.com/2026/05/27/nvidia-releases-polar-a-token-faithful-rollout-framework-for-grpo-training-across-codex-claude-code-and-qwen-code/",
+        "date": "Wed, 27 May 2026 17:09:38 +0000",
+        "source": "MarkTechPost",
+        "description": "NVIDIA researchers have introduced Polar, a rollout framework that trains language agents using reinforcement learning without modifying their agent harnesses. Polar places a model API proxy betwee...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
+        ]
     },
     {
         "title": "I found an easy way to automatically keep AI out of my search results - and it works in nearly every browser",
@@ -3533,6 +3554,15 @@
         "date": "Wed, 27 May 2026 11:41:20 GMT",
         "source": "The Guardian AI",
         "description": "We’d like to hear what Americans think about the pope’s latest remarks criticizing the rapid development of AIThe first American pope has made waves since taking the position. However, after his la...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Cisco and OpenAI redefine enterprise engineering with Codex",
+        "link": "https://openai.com/index/cisco",
+        "date": "Wed, 27 May 2026 11:00:00 GMT",
+        "source": "OpenAI",
+        "description": "Cisco and OpenAI are redefining enterprise engineering with Codex, helping Cisco scale AI-native development, accelerate AI Defense work, and automate defect remediation.",
         "is_important": false,
         "tags": []
     },
@@ -23872,30 +23902,6 @@
         "date": "Wed, 10 Jul 2024 06:30:00 GMT",
         "source": "OpenAI",
         "description": "OpenAI and Los Alamos National Laboratory are working to develop safety evaluations to assess and measure biological capabilities and risks associated with frontier models.",
-        "is_important": false
-    },
-    {
-        "title": "Announcing New Hugging Face and KerasHub integration",
-        "link": "https://huggingface.co/blog/keras-hub-integration",
-        "date": "Wed, 10 Jul 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Experimenting with Automatic PII Detection on the Hub using Presidio",
-        "link": "https://huggingface.co/blog/presidio-pii-detection",
-        "date": "Wed, 10 Jul 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Preference Optimization for Vision Language Models",
-        "link": "https://huggingface.co/blog/dpo_vlm",
-        "date": "Wed, 10 Jul 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
         "is_important": false
     }
 ]
