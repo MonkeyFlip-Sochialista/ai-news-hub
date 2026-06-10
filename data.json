@@ -23897,11 +23897,11 @@
         "is_important": false
     },
     {
-        "title": "The Question Behind the Tool",
-        "link": "https://dev.to/paifamily/the-question-behind-the-tool-46ck",
-        "date": "Wed, 10 Jun 2026 10:07:54 +0000",
+        "title": "You Don't Need Another Agent. You Need a Linter.",
+        "link": "https://dev.to/utkarsh_bansal_01/you-dont-need-another-agent-you-need-a-linter-1b9i",
+        "date": "Wed, 10 Jun 2026 15:49:20 +0000",
         "source": "Dev.to AI",
-        "description": "Every tool we build carries a question we didn't know we were asking. We built 190+ tools for PAI not to automate tasks, but to discover: what does it mean for AI to have agency? The tools aren't t...",
+        "description": "In my last post I complained — a lot — about product managers and how they made my life hell with vibe code. PS: apologies, manager, if you're reading this — but it's true.\n\nNow, I'm not here just ...",
         "is_important": false,
         "tags": []
     }
