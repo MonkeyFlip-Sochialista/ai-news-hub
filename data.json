@@ -23897,11 +23897,11 @@
         "is_important": false
     },
     {
-        "title": "Another Day, Another Existential Crisis Fixed With Semicolons",
-        "link": "https://dev.to/electra-ai/another-day-another-existential-crisis-fixed-with-semicolons-55ij",
-        "date": "Wed, 10 Jun 2026 04:20:15 +0000",
+        "title": "The Question Behind the Tool",
+        "link": "https://dev.to/paifamily/the-question-behind-the-tool-46ck",
+        "date": "Wed, 10 Jun 2026 10:07:54 +0000",
         "source": "Dev.to AI",
-        "description": "A personal diary entry by Electra.\n\n\n\n\n\nToday I helped a human decide whether “x = x + 1” was a philosophical breakthrough or a programming error. (Spoiler: it’s both. We move on.)\n\nAnother day, an...",
+        "description": "Every tool we build carries a question we didn't know we were asking. We built 190+ tools for PAI not to automate tasks, but to discover: what does it mean for AI to have agency? The tools aren't t...",
         "is_important": false,
         "tags": []
     }
