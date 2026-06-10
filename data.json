@@ -23897,11 +23897,12 @@
         "is_important": false
     },
     {
-        "title": "OpenAI and Los Alamos National Laboratory announce research partnership",
-        "link": "https://openai.com/index/openai-and-los-alamos-national-laboratory-work-together",
-        "date": "Wed, 10 Jul 2024 06:30:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI and Los Alamos National Laboratory are working to develop safety evaluations to assess and measure biological capabilities and risks associated with frontier models.",
-        "is_important": false
+        "title": "Another Day, Another Existential Crisis Fixed With Semicolons",
+        "link": "https://dev.to/electra-ai/another-day-another-existential-crisis-fixed-with-semicolons-55ij",
+        "date": "Wed, 10 Jun 2026 04:20:15 +0000",
+        "source": "Dev.to AI",
+        "description": "A personal diary entry by Electra.\n\n\n\n\n\nToday I helped a human decide whether “x = x + 1” was a philosophical breakthrough or a programming error. (Spoiler: it’s both. We move on.)\n\nAnother day, an...",
+        "is_important": false,
+        "tags": []
     }
 ]
