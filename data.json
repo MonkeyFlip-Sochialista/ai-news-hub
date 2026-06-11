@@ -23897,12 +23897,14 @@
         "is_important": false
     },
     {
-        "title": "I Contributed to the Awesome AI Second Brain Repo",
-        "link": "https://dev.to/saintchris_21/i-contributed-to-the-awesome-ai-second-brain-repo-289h",
-        "date": "Wed, 10 Jun 2026 20:35:08 +0000",
-        "source": "Dev.to AI",
-        "description": "I Contributed to the Awesome AI Second Brain Repo\n\n\nThe awesome-second-brain repo is a curated comparison of AI second brain, memory, and knowledge systems. It maps ~20 tools across a 5-stage lifec...",
+        "title": "xAI fired an engineer who raised alarms about Grok safety, new lawsuit claims",
+        "link": "https://techcrunch.com/2026/06/10/xai-fired-an-engineer-who-raised-alarms-about-grok-safety-new-lawsuit-claims/",
+        "date": "Wed, 10 Jun 2026 22:31:19 +0000",
+        "source": "TechCrunch AI",
+        "description": "A former xAI engineer is suing the company and SpaceX, alleging he was fired for raising AI safety concerns about Grok days before SpaceX's historic IPO.",
         "is_important": false,
-        "tags": []
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
     }
 ]
