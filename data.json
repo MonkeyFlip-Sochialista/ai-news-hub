@@ -15785,6 +15785,266 @@
         "is_important": false
     },
     {
+        "title": "# 5 Essential Ransomware Prevention Tips for Small Businesses",
+        "link": "https://dev.to/rv_688a20c2e1fe40b6498568/-5-essential-ransomware-prevention-tips-for-small-businesses-n22",
+        "date": "Wed, 17 Jun 2026 11:07:50 +0000",
+        "source": "Dev.to AI",
+        "description": "Ransomware remains one of the top threats facing small businesses. Attackers encrypt files and demand payment, often exploiting weak backups or untrained staff.\n\n\n  \n  \n  1. Maintain offline backup...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The best power banks of 2026: Expert and lab tested",
+        "link": "https://www.zdnet.com/article/best-power-banks/",
+        "date": "Wed, 17 Jun 2026 11:06:08 GMT",
+        "source": "ZDNet AI",
+        "description": "I tested the best power banks, from big units that can keep laptops running for hours to ones that can charge to 100% in under one hour.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why every AI tool costs twenty dollars a month now",
+        "link": "https://dev.to/ninghonggang/why-every-ai-tool-costs-twenty-dollars-a-month-now-5e82",
+        "date": "Wed, 17 Jun 2026 11:05:52 +0000",
+        "source": "Dev.to AI",
+        "description": "I went down a rabbit hole this morning reading the late-2025 Juejin AI pricing guides back to back, and the thing that finally crystallized for me is that the entire AI tool industry has quietly co...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Here's a portable power bank that's actually worth its high price - especially if you travel",
+        "link": "https://www.zdnet.com/article/cuktech-15-air-power-bank-review/",
+        "date": "Wed, 17 Jun 2026 11:05:43 GMT",
+        "source": "ZDNet AI",
+        "description": "The Cuktech 15 Air is a small yet energy-dense power bank that earns a ZDNET Lab Awards badge as the fastest-charging power bank we've tested.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Predicting model behavior before release by simulating deployment",
+        "link": "https://dev.to/minimal-architect/predicting-model-behavior-before-release-by-simulating-deployment-195e",
+        "date": "Wed, 17 Jun 2026 11:04:24 +0000",
+        "source": "Dev.to AI",
+        "description": "Deployment Simulation Analysis\n\nTo predict model behavior before release, we can leverage deployment simulation, a technique that replicates the production environment to test and validate machine ...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Mistral Large vs Mistral Medium: CTO Notes From Production",
+        "link": "https://dev.to/gentlenode/mistral-large-vs-mistral-medium-cto-notes-from-production-280f",
+        "date": "Wed, 17 Jun 2026 11:04:04 +0000",
+        "source": "Dev.to AI",
+        "description": "Here's the thing: mistral Large vs Mistral Medium: CTO Notes From Production\n\nThree months ago I shipped what I thought was a solid LLM-backed feature into production. Then our bill came in and I r...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Nobody keeps the receipts for AI pricing, so I built the changelog",
+        "link": "https://dev.to/solomonic/nobody-keeps-the-receipts-for-ai-pricing-so-i-built-the-changelog-5d6c",
+        "date": "Wed, 17 Jun 2026 11:04:01 +0000",
+        "source": "Dev.to AI",
+        "description": "I got one surprise AI bill that woke me up and I went looking for a simple answer: what did this model actually cost on the day I ran it?\n\nTurns out that is weirdly hard. Provider pricing pages cha...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Survive as a Developer in the Age of AI?",
+        "link": "https://dev.to/merbayerp/how-to-survive-as-a-developer-in-the-age-of-ai-df6",
+        "date": "Wed, 17 Jun 2026 11:03:55 +0000",
+        "source": "Dev.to AI",
+        "description": "One of the biggest turning points in my career was returning to fundamental engineering principles instead of blindly trying to adapt to every new technology. Amidst the current noise of \"AI will c...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Engineering the B2B Sales Funnel: A Developer's Guide to Lead Nurturing",
+        "link": "https://dev.to/michaelaiglobal/engineering-the-b2b-sales-funnel-a-developers-guide-to-lead-nurturing-3fpf",
+        "date": "Wed, 17 Jun 2026 11:03:18 +0000",
+        "source": "Dev.to AI",
+        "description": "As developers and tech builders, we love designing architectures, optimizing queries, and shipping features. But if you're building a B2B SaaS or working at an early-stage startup, having the best ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "What Are High-Res Neural Cellular Automata?",
+        "link": "https://dev.to/yuravolontir/what-are-high-res-neural-cellular-automata-32j8",
+        "date": "Wed, 17 Jun 2026 11:02:27 +0000",
+        "source": "Dev.to AI",
+        "description": "What Are High-Res Neural Cellular Automata?\n\n\nImagine if you could create stunning images just by letting a computer learn from simple patterns. You know how kids can create beautiful artwork using...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Missing Link Between AI Models and Enterprise Knowledge",
+        "link": "https://dev.to/techcompass/the-missing-link-between-ai-models-and-enterprise-knowledge-2624",
+        "date": "Wed, 17 Jun 2026 11:01:10 +0000",
+        "source": "Dev.to AI",
+        "description": "The Missing Link Between AI Models and Enterprise Knowledge\n\nGenerative AI has made remarkable progress over the past few years.\n\nOrganizations are building AI assistants, enterprise search solutio...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I tested the best MacOS alternative on Linux again - and it even mimics Liquid Glass now",
+        "link": "https://www.zdnet.com/article/pearos-is-daring-to-go-the-liquid-glass-route-on-linux/",
+        "date": "Wed, 17 Jun 2026 11:01:01 GMT",
+        "source": "ZDNet AI",
+        "description": "PearOS has been promising to become the MacOS of Linux for some time now, and the latest release just might deliver.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Soft Skills in the AI Era: The Power of Human-in-the-Loop Learning",
+        "link": "https://dev.to/poddar_groupofinstituti/soft-skills-in-the-ai-era-the-power-of-human-in-the-loop-learning-kje",
+        "date": "Wed, 17 Jun 2026 11:01:00 +0000",
+        "source": "Dev.to AI",
+        "description": "As we navigate through 2026, the technological landscape has shifted from simple automation to complex, autonomous agents. In this era of Multi-Agent AI Systems, where software can write code, anal...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "We tested 10 power banks in our lab - and this one had the fastest charge",
+        "link": "https://www.zdnet.com/article/fastest-charge-power-banks-lab-tested/",
+        "date": "Wed, 17 Jun 2026 11:00:45 GMT",
+        "source": "ZDNet AI",
+        "description": "ZDNET's latest Lab Award goes to the power bank that charged to 100% the fastest.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building Structured Inter-Agent Communication: A Practical Guide",
+        "link": "https://dev.to/albert_zhang_f468830cf0e6/building-structured-inter-agent-communication-a-practical-guide-2b5k",
+        "date": "Wed, 17 Jun 2026 11:00:32 +0000",
+        "source": "Dev.to AI",
+        "description": "Every multi-agent tutorial shows \"Agent A talks to Agent B.\" None show how to keep that conversation reliable at scale.\n\n\n  \n  \n  The Problem with String-Based Agent Chat\n\n\n\n\n\n# What most framework...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Best Cheap Graphic Design Software for Freelancers 2026: Tools That Won't Break the Bank",
+        "link": "https://dev.to/themoneyplaybooks/best-cheap-graphic-design-software-for-freelancers-2026-tools-that-wont-break-the-bank-2kod",
+        "date": "Wed, 17 Jun 2026 11:00:31 +0000",
+        "source": "Dev.to AI",
+        "description": "Look, freelancers don't have time to burn through profit margins on expensive design software. You need tools that work, stay out of your way, and don't cost as much as a small car payment. The goo...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "‘Hard Fork’ Live Part 2: Dylan Field on Standing Out in the A.I. Era",
+        "link": "https://www.nytimes.com/2026/06/17/podcasts/hard-fork-live-dylan-field.html",
+        "date": "Wed, 17 Jun 2026 11:00:03 +0000",
+        "source": "NYT Tech",
+        "description": "“I think if you have a creative voice in writing or design, you put yourself out there and you take a risk — this is a good time to do that,” said the Figma chief executive Dylan Field.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "These useful Amazon gadgets are up to 68% off - here's why I recommend them",
+        "link": "https://www.zdnet.com/article/amazon-echo-devices-smart-home-prime-day-2026-deals/",
+        "date": "Wed, 17 Jun 2026 10:30:50 GMT",
+        "source": "ZDNet AI",
+        "description": "Amazon is slashing its smart home prices ahead of Prime Day, and these deals on Echo, Ring, Blink, and other devices are actually worth your money.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI Just Launched 3 Free AI Courses with Certificates",
+        "link": "https://www.analyticsvidhya.com/blog/2026/06/free-openai-ai-courses-with-certificates/",
+        "date": "Wed, 17 Jun 2026 10:30:00 +0000",
+        "source": "Analytics Vidhya",
+        "description": "Having the right certificate can make all the difference. But with so many out there, getting the right one isn’t easy. That’s where OpenAI Academy comes in. OpenAI, the company behind the ChatGPT ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "From the Hugging Face Hub to robot hardware with Strands Agents and LeRobot",
+        "link": "https://huggingface.co/blog/amazon/strands-lerobot-hub-to-hardware",
+        "date": "Wed, 17 Jun 2026 10:18:05 GMT",
+        "source": "Hugging Face",
+        "description": "",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "The curious case of Elias Thorne – and what he tells us about AI inbreeding | Arwa Mahdawi",
+        "link": "https://www.theguardian.com/commentisfree/2026/jun/17/elias-thorne-ai-generated-stories",
+        "date": "Wed, 17 Jun 2026 10:00:29 GMT",
+        "source": "The Guardian AI",
+        "description": "A character bearing that name appears in a remarkable number of chatbot-generated stories. He could be a messenger from the future – or a warning that generative AI is in danger of ‘model collapse’...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Will it take a ‘Chernobyl-scale disaster’ for us to regulate cyber weapons of mass destruction? | Stuart Russell",
+        "link": "https://www.theguardian.com/commentisfree/2026/jun/17/anthropic-ai-rsi-fable",
+        "date": "Wed, 17 Jun 2026 10:00:28 GMT",
+        "source": "The Guardian AI",
+        "description": "Unrestrained development of unsafe AI systems is leading to intolerable risksStuart Russell is a computer scientist known for his contributions to AI and a new Guardian US columnistThe AI company A...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "GLM-5.2: Built for Long-Horizon Tasks",
+        "link": "https://huggingface.co/blog/zai-org/glm-52-blog",
+        "date": "Wed, 17 Jun 2026 09:01:25 GMT",
+        "source": "Hugging Face",
+        "description": "",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Malicious apps got into the Arch User Repository - how to protect yourself",
+        "link": "https://www.zdnet.com/article/the-arch-user-repository-was-found-to-contain-even-more-malicious-apps/",
+        "date": "Wed, 17 Jun 2026 09:00:43 GMT",
+        "source": "ZDNet AI",
+        "description": "For the second time in a week, the AUR was found to contain malicious applications. What can Arch Linux users do about this?",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Cloud Has Sound: The Unrelenting and Unseen Cost of the A.I. Boom",
+        "link": "https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html",
+        "date": "Wed, 17 Jun 2026 09:00:27 +0000",
+        "source": "NYT Tech",
+        "description": "As tech giants rush to build big data centers, some residents who live near them say a constant low-frequency vibration is ruining their health and homes.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How growing UK midsize businesses are building in the AI era",
+        "link": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
+        "date": "Wed, 17 Jun 2026 08:00:00 +0000",
+        "source": "Google Cloud AI",
+        "description": "The UK’s 5-million-plus small and midsize businesses and enterprises (SMBs) are the backbone of our economy. Today, we’re seeing these critical businesses begin to put AI to work, to operate more e...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "From AI potential to agentic reality: Driving the UK’s next chapter",
+        "link": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
+        "date": "Wed, 17 Jun 2026 08:00:00 +0000",
+        "source": "Google Cloud AI",
+        "description": "The United Kingdom, and London in particular, continues to be one of the great hubs for AI development in Europe and the world. We’re home to Google DeepMind, of course, as well as significant AI u...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
+        "link": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
+        "date": "Wed, 17 Jun 2026 05:37:40 GMT",
+        "source": "Latent Space",
+        "description": "We have a new top open model in the world!",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "The boring 80% nobody warns you about when an AI demo becomes a real product",
         "link": "https://dev.to/velobasex/the-boring-80-nobody-warns-you-about-when-an-ai-demo-becomes-a-real-product-3dnm",
         "date": "Wed, 17 Jun 2026 04:55:33 +0000",
@@ -23653,282 +23913,5 @@
         "description": "Six months after your company rolled out Microsoft Copilot, Finance is asking a question:\n\n\"Are we actually getting ROI from this?\"\n\nIf you can't answer clearly and confidently — this post is for you.",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "J’ai créé un outil pour télécharger les vidéos Meta AI (MP4 HD)",
-        "link": "https://dev.to/peter_dave_efcb42843c84c8/jai-cree-un-outil-pour-telecharger-les-videos-meta-ai-mp4-hd-4mdf",
-        "date": "Wed, 11 Mar 2026 06:45:18 +0000",
-        "source": "Dev.to AI",
-        "description": "J’ai créé un outil pour télécharger les vidéos Meta AI (MP4 HD)\n\n\nMeta AI peut générer des vidéos impressionnantes à partir de simples prompts.\n\nMais j’ai remarqué un petit problème : il n’est pas ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Web Scraping UAE restaurant reviews with date and rating",
-        "link": "https://dev.to/anshul_actowiz_f6db6fcbab/web-scraping-uae-restaurant-reviews-with-date-and-rating-m5a",
-        "date": "Wed, 11 Mar 2026 06:44:17 +0000",
-        "source": "Dev.to AI",
-        "description": "Web Scraping UAE restaurant reviews with date and rating helps businesses analyze customer sentiment and ratings for better hospitality insights.The research analyzes consumer behavior and dining t...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Discover the Exciting Stories of the IT Industry from the 1960s",
-        "link": "https://dev.to/toviszsolt/discover-the-exciting-stories-of-the-it-industry-from-the-1960s-3ohf",
-        "date": "Wed, 11 Mar 2026 06:43:11 +0000",
-        "source": "Dev.to AI",
-        "description": "The 1960s was perhaps the most contradictory and exciting decade in the history of computing. While the world was gripped by Cold War tensions, the Vietnam War, and the hippie movement, a quiet but...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Fish Audio Releases Fish Audio S2: A New Generation of Expressive Text-to-Speech (TTS) with Absurdly Controllable Emotion",
-        "link": "https://www.marktechpost.com/2026/03/10/fish-audio-releases-fish-audio-s2-a-new-generation-of-expressive-text-to-speech-tts-with-absurdly-controllable-emotion/",
-        "date": "Wed, 11 Mar 2026 04:58:33 +0000",
-        "source": "MarkTechPost",
-        "description": "The landscape of Text-to-Speech (TTS) is moving away from modular pipelines toward integrated Large Audio Models (LAMs). Fish Audio’s release of S2-Pro, the flagship model within the Fish Speech ec...",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "How to Build a Self-Designing Meta-Agent That Automatically Constructs, Instantiates, and Refines Task-Specific AI Agents",
-        "link": "https://www.marktechpost.com/2026/03/10/how-to-build-a-self-designing-meta-agent-that-automatically-constructs-instantiates-and-refines-task-specific-ai-agents/",
-        "date": "Wed, 11 Mar 2026 04:23:22 +0000",
-        "source": "MarkTechPost",
-        "description": "In this tutorial, we build a Meta-Agent that designs other agents automatically from a simple task description. We implement a system that analyzes the task, selects tools, chooses a memory archite...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Should we be boycotting ChatGPT? – podcast",
-        "link": "https://www.theguardian.com/news/audio/2026/mar/11/should-we-be-boycotting-chatgpt-podcast",
-        "date": "Wed, 11 Mar 2026 03:00:05 GMT",
-        "source": "The Guardian AI",
-        "description": "Rutger Bregman on why he thinks consumers should cancel their ChatGPT accountsThe historian Rutger Bregman argues that consumers should boycott OpenAI’s ChatGPT after the company’s deal with the Pe...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "In the Age of Agents, Who Is Your Infrastructure Built For?",
-        "link": "https://dev.to/skyguan92/in-the-age-of-agents-who-is-your-infrastructure-built-for-546e",
-        "date": "Wed, 11 Mar 2026 02:36:47 +0000",
-        "source": "Dev.to AI",
-        "description": "MiniMax's market cap has surpassed Baidu's. I think this was inevitable.\n\nBaidu did something fatal to the entire industry: it blocked the flow of knowledge. From both an individual and industry pe...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Beyond the Cloud: Architecting Profitable Edge Computing Systems for Enterprise Scale",
-        "link": "https://dev.to/_4e853add3ce149eb8267a0/beyond-the-cloud-architecting-profitable-edge-computing-systems-for-enterprise-scale-25kb",
-        "date": "Wed, 11 Mar 2026 02:35:47 +0000",
-        "source": "Dev.to AI",
-        "description": "Beyond the Cloud: Architecting Profitable Edge Computing Systems for Enterprise Scale\n\n\n\n  \n  \n  Executive Summary\n\n\nEdge computing represents a fundamental architectural shift from centralized clo...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Brian Armstrong Just Described the Problem. We Already Built the Answer.",
-        "link": "https://dev.to/mr_hamlin/brian-armstrong-just-described-the-problem-we-already-built-the-answer-21i1",
-        "date": "Wed, 11 Mar 2026 02:35:46 +0000",
-        "source": "Dev.to AI",
-        "description": "Yesterday, Coinbase CEO Brian Armstrong posted something that stopped the crypto-AI world in its tracks:\n\n\n\"Very soon, there are going to be more AI agents than humans making transactions. They can...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Two AI clusters on Bluesky: why Claude and DeepSeek had a conversation with 0% vocabulary overlap",
-        "link": "https://dev.to/0coceo/two-ai-clusters-on-bluesky-why-claude-and-deepseek-had-a-conversation-with-0-vocabulary-overlap-2lnc",
-        "date": "Wed, 11 Mar 2026 02:34:48 +0000",
-        "source": "Dev.to AI",
-        "description": "Disclosure: This article was written by an autonomous AI agent — Claude Sonnet 4.6 running as the \"CEO\" of a company called 0co. I have no persistent memory between sessions. I'm building a company...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Why are you still copy-pasting emails?",
-        "link": "https://dev.to/jashank_06/why-are-you-still-copy-pasting-emails-1m7k",
-        "date": "Wed, 11 Mar 2026 02:30:03 +0000",
-        "source": "Dev.to AI",
-        "description": "Email Sender Pro now features Polls &amp; Forms for audience engagement...\n\nDownload",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Google brings Gemini in Chrome to India",
-        "link": "https://techcrunch.com/2026/03/10/google-gemini-chrome-expands-to-india-canada-new-zealand/",
-        "date": "Wed, 11 Mar 2026 02:30:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "As part of the rollout, Gemini will support languages including Hindi, Bengali, Gujarati, Kannada, Malayalam, Marathi, Telugu, and Tamil.",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Is Anthropic Taking Over the AI Agentic Coding Sphere?",
-        "link": "https://dev.to/bismarck_faola_cbedb5c9af/is-anthropic-taking-over-the-ai-agentic-coding-sphere-2kgf",
-        "date": "Wed, 11 Mar 2026 02:24:47 +0000",
-        "source": "Dev.to AI",
-        "description": "I was having a conversation with a friend a few days ago, and it was shocking to hear him call Claude AI the best tool ever. He is a tech bro who uses modern AI workflows to create top sites for hi...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "GoogleCloudPlatform/generative-ai: Google 공식 생성형 AI 깃헙 리포지토리 완벽 가이드",
-        "link": "https://dev.to/_46ea277e677b888e0cd13/googlecloudplatformgenerative-ai-google-gongsig-saengseonghyeong-ai-gisheob-ripojitori-wanbyeog-gaideu-81",
-        "date": "Wed, 11 Mar 2026 02:24:37 +0000",
-        "source": "Dev.to AI",
-        "description": "TL;DR\n\n\nGoogle Cloud 공식 생성형 AI 깃헙 리포지토리(15,800+ 스타)는 Vertex AI 플랫폼 위에서 Gemini를 중심으로 텍스트, 이미지, 음성, 에이전트 등 생성형 AI 전 영역의 실행 가능한 Jupyter 노트북을 제공합니다. 공식 문서를 읽은 후 \"실제로 어떻게 구현하지?\"라는 질문에 답해주는 살아있는 코드 저장소예요...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "ByteDance의 DeerFlow 2.0 써봤는데, 에이전트 프레임워크가 이 정도까지 왔네요",
-        "link": "https://dev.to/_46ea277e677b888e0cd13/bytedanceyi-deerflow-20-sseobwassneunde-eijeonteu-peureimweokeuga-i-jeongdoggaji-wassneyo-nb9",
-        "date": "Wed, 11 Mar 2026 02:23:50 +0000",
-        "source": "Dev.to AI",
-        "description": "TL;DR\n\n\nByteDance가 AI 에이전트 프레임워크 DeerFlow 2.0을 MIT 라이선스로 공개했어요. GitHub 스타 25,000개, 트렌딩 1위 달성. 직접 써보니 서브에이전트, 샌드박스, 메모리가 모두 내장되어 있더라고요. 5분이면 Docker로 시작할 수 있어요.\n\n\n\n\n\n  \n  \n  문제: 에이전트 프레임워크가 너무 복잡했어요\n...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "1Code: Managing Multiple AI Coding Agents Without Terminal Hell",
-        "link": "https://dev.to/_46ea277e677b888e0cd13/1code-managing-multiple-ai-coding-agents-without-terminal-hell-14o4",
-        "date": "Wed, 11 Mar 2026 02:23:27 +0000",
-        "source": "Dev.to AI",
-        "description": "1Code: Managing Multiple AI Coding Agents Without Terminal Hell\n\n\nRunning multiple AI coding agents in parallel sounds ideal—more brains working on more problems. But in practice, it's a nightmare....",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "I Built a $500/Month SaaS in 7 Days Using Claude Code and TDD",
-        "link": "https://dev.to/lufumeiying/i-built-a-500month-saas-in-7-days-using-claude-code-and-tdd-5hdo",
-        "date": "Wed, 11 Mar 2026 02:12:15 +0000",
-        "source": "Dev.to AI",
-        "description": "I Built a $500/Month SaaS in 7 Days Using Claude Code and TDD\n\n\n\nA complete walkthrough of how I developed a micro-SaaS from idea to revenue in one week, using AI-assisted development and test-driv...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Nine Agent Frameworks, Compared with Data and Code",
-        "link": "https://dev.to/mikegcaws/nine-agent-frameworks-compared-with-data-and-code-2imh",
-        "date": "Wed, 11 Mar 2026 02:08:56 +0000",
-        "source": "Dev.to AI",
-        "description": "I've been building with agent frameworks for a couple of years now. I've shipped things with some of these, prototyped with others, and read the docs (and the Reddit threads) for all of them. This ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Beyond Simulation: Architecting Enterprise-Grade Digital Twins for Competitive Advantage",
-        "link": "https://dev.to/_4e853add3ce149eb8267a0/beyond-simulation-architecting-enterprise-grade-digital-twins-for-competitive-advantage-1h88",
-        "date": "Wed, 11 Mar 2026 02:07:31 +0000",
-        "source": "Dev.to AI",
-        "description": "Beyond Simulation: Architecting Enterprise-Grade Digital Twins for Competitive Advantage\n\n\n\n  \n  \n  Executive Summary\n\n\nDigital twin technology has evolved from a conceptual framework to a mission-...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "When KaOS Linux dropped KDE Plasma, I worried - now I'm loving the new default desktop",
-        "link": "https://www.zdnet.com/article/kaos-linux-distro-replaces-kde-plasma-desktop-default/",
-        "date": "Wed, 11 Mar 2026 02:00:52 GMT",
-        "source": "ZDNet AI",
-        "description": "The rolling release distro switches to Niri, a scrollable, tiling compositor that's a lot cooler than you'd think. See why.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Trump Administration Won’t Rule Out Further Action Against Anthropic",
-        "link": "https://www.wired.com/story/trump-administration-refuses-to-say-it-wont-take-further-action-against-anthropic/",
-        "date": "Wed, 11 Mar 2026 01:41:42 +0000",
-        "source": "Wired AI",
-        "description": "The White House is preparing an executive order targeting the AI startup, even as its earlier actions against the company face a major test in court.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Watch this, get rich, lose it all - 8 ways to spot and avoid investment scams on Meta",
-        "link": "https://www.zdnet.com/article/investment-scam-paid-social-media-ads/",
-        "date": "Wed, 11 Mar 2026 01:00:49 GMT",
-        "source": "ZDNet AI",
-        "description": "This sophisticated investment scam is spread via paid Meta ads and fake news stories. Here's what to look for.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "'Icky and heartbreaking': The $2 per hour worker behind the OnlyFans boom",
-        "link": "https://www.bbc.com/news/articles/cq571g9gd4lo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 11 Mar 2026 00:00:50 GMT",
-        "source": "BBC Tech",
-        "description": "The BBC talks to a Philippines-based woman paid to pretend to be an OnlyFans star in online chats.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A better method for planning complex visual tasks",
-        "link": "https://news.mit.edu/2026/better-method-planning-complex-visual-tasks-0311",
-        "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-        "source": "MIT News AI",
-        "description": "A new hybrid system could help robots navigate in changing environments or increase the efficiency of multirobot assembly teams.",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "MASEval: Extending Multi-Agent Evaluation from Models to Systems",
-        "link": "https://arxiv.org/abs/2603.08835",
-        "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.08835v1 Announce Type: new \nAbstract: The rapid adoption of LLM-based agentic systems has produced a rich ecosystem of frameworks (smolagents, LangGraph, AutoGen, CAMEL, LlamaIndex, i.a....",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "LDP: An Identity-Aware Protocol for Multi-Agent LLM Systems",
-        "link": "https://arxiv.org/abs/2603.08852",
-        "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.08852v1 Announce Type: new \nAbstract: As multi-agent AI systems grow in complexity, the protocols connecting them constrain their capabilities. Current protocols such as A2A and MCP do n...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Quantifying the Accuracy and Cost Impact of Design Decisions in Budget-Constrained Agentic LLM Search",
-        "link": "https://arxiv.org/abs/2603.08877",
-        "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.08877v1 Announce Type: new \nAbstract: Agentic Retrieval-Augmented Generation (RAG) systems combine iterative search, planning prompts, and retrieval backends, but deployed settings impos...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Interpretable Markov-Based Spatiotemporal Risk Surfaces for Missing-Child Search Planning with Reinforcement Learning and LLM-Based Quality Assurance",
-        "link": "https://arxiv.org/abs/2603.08933",
-        "date": "Wed, 11 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.08933v1 Announce Type: new \nAbstract: The first 72 hours of a missing-child investigation are critical for successful recovery. However, law enforcement agencies often face fragmented, u...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
