@@ -15785,6 +15785,64 @@
         "is_important": false
     },
     {
+        "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
+        "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
+        "date": "Wed, 17 Jun 2026 22:52:00 +0000",
+        "source": "Wired AI",
+        "description": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
+        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
+        "date": "Wed, 17 Jun 2026 20:56:36 +0000",
+        "source": "AWS Machine Learning",
+        "description": "Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body of the InvokeEndpointAsync API, removi...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Get back hours every day with autonomous agents in Amazon Quick",
+        "link": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
+        "date": "Wed, 17 Jun 2026 20:35:39 +0000",
+        "source": "AWS Machine Learning",
+        "description": "Today, Quick gets even more powerful: new autonomous agents that work continuously&nbsp;on your behalf,&nbsp;an activity feed that helps you prioritize your most important work, and the ability to&...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Roelof Botha joins SpaceX’s board of directors",
+        "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
+        "date": "Wed, 17 Jun 2026 20:32:52 +0000",
+        "source": "TechCrunch AI",
+        "description": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AWS’s New Agentic Tools Trail Rivals, but Respond to Real Problems",
+        "link": "https://aibusiness.com/agentic-ai/aws-s-new-agentic-tools-trail-rivals-respond-real-problems",
+        "date": "Wed, 17 Jun 2026 20:25:21 GMT",
+        "source": "AI Business",
+        "description": "With its latest AI tools and products, the vendor showed it is listening to its customer base even while it fails to offer novelty in the market.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
+        "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
+        "date": "Wed, 17 Jun 2026 20:24:28 +0000",
+        "source": "TechCrunch AI",
+        "description": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "AI - expert notes",
         "link": "https://dev.to/nirasynthcae26/ai-expert-notes-49pb",
         "date": "Wed, 17 Jun 2026 20:23:49 +0000",
@@ -17017,6 +17075,15 @@
         "date": "Wed, 17 Jun 2026 00:00:00 GMT",
         "source": "Hugging Face",
         "description": "",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Introducing LifeSciBench",
+        "link": "https://openai.com/index/introducing-life-sci-bench",
+        "date": "Wed, 17 Jun 2026 00:00:00 GMT",
+        "source": "OpenAI",
+        "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
         "is_important": false,
         "tags": []
     },
@@ -23831,74 +23898,5 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
-    },
-    {
-        "title": "Replit snags $9B valuation 6 months after hitting $3B",
-        "link": "https://techcrunch.com/2026/03/11/replit-snags-9b-valuation-6-months-after-hitting-3b/",
-        "date": "Wed, 11 Mar 2026 18:52:52 +0000",
-        "source": "TechCrunch AI",
-        "description": "Replit raised a new $400 million round and said it hopes to have $1B in ARR by year's end.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "This security flaw could affect 1 in 4 Android phones - how to check yours",
-        "link": "https://www.zdnet.com/article/security-flaw-affects-1-in-4-android-phones-how-to-check-yours/",
-        "date": "Wed, 11 Mar 2026 18:30:13 GMT",
-        "source": "ZDNet AI",
-        "description": "The hardware vulnerability - found primarily in budget handsets - makes it possible to steal sensitive user data, including crypto wallet seed phrases, in less than a minute.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "3 Questions: On the future of AI and the mathematical and physical sciences",
-        "link": "https://news.mit.edu/2026/3-questions-future-of-ai-and-mathematical-physical-sciences-0311",
-        "date": "Wed, 11 Mar 2026 18:30:00 -0400",
-        "source": "MIT News AI",
-        "description": "Professor Jesse Thaler describes a vision for a two-way bridge between artificial intelligence and the mathematical and physical sciences — one that promises to advance both.",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "NVIDIA Releases Nemotron 3 Super: A 120B Parameter Open-Source Hybrid Mamba-Attention MoE Model Delivering 5x Higher Throughput for Agentic AI",
-        "link": "https://www.marktechpost.com/2026/03/11/nvidia-releases-nemotron-3-super-a-120b-parameter-open-source-hybrid-mamba-attention-moe-model-delivering-5x-higher-throughput-for-agentic-ai/",
-        "date": "Wed, 11 Mar 2026 18:19:24 +0000",
-        "source": "MarkTechPost",
-        "description": "The gap between proprietary frontier models and highly transparent open-source models is closing faster than ever. NVIDIA has officially pulled the curtain back on Nemotron 3 Super, a staggering 12...",
-        "is_important": true,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "MacBook Neo vs. Mac Mini: Both start at $599, which is right for you?",
-        "link": "https://www.zdnet.com/article/macbook-neo-vs-mac-mini-i-compared-both-models-and-heres-the-winner/",
-        "date": "Wed, 11 Mar 2026 18:04:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Apple's new MacBook Neo and the Mac Mini M4 both start at the same price, but they're for very different users. Which one is for you?",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Nvidia Will Spend $26 Billion to Build Open-Weight AI Models, Filings Show",
-        "link": "https://www.wired.com/story/nvidia-investing-26-billion-open-source-models/",
-        "date": "Wed, 11 Mar 2026 18:00:00 +0000",
-        "source": "Wired AI",
-        "description": "The move could position the AI infrastructure powerhouse to quickly compete with OpenAI, Anthropic, and DeepSeek.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "The AI assistant was offering me any help I needed. All I wanted was a living, breathing human | Adrian Chiles",
-        "link": "https://www.theguardian.com/commentisfree/2026/mar/11/the-ai-assistant-was-offering-me-any-help-i-needed-all-i-wanted-was-a-living-breathing-human",
-        "date": "Wed, 11 Mar 2026 17:27:08 GMT",
-        "source": "The Guardian AI",
-        "description": "When I heard ‘Rachel’ answer the helpline number in her metallic voice, my soul felt as empty as the batteries of my malfunctioning carSomething went wrong. The car charger wouldn’t work. Terrible,...",
-        "is_important": false,
-        "tags": []
     }
 ]
