@@ -16137,6 +16137,17 @@
         ]
     },
     {
+        "title": "AI will create more jobs for humans, not replace them, Amazon founder Bezos says",
+        "link": "https://www.bbc.co.uk/news/articles/ceqdrw2yy3vo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 17 Jun 2026 16:37:41 GMT",
+        "source": "BBC Tech",
+        "description": "The Amazon founder, who now has robotics and space travel companies, thinks AI will create a labour shortage.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
         "title": "Every way your phone tracks your location - and how to stop it",
         "link": "https://www.zdnet.com/article/a-guide-to-location-tracking-on-your-phone-how-it-works-and-how-to-stop-it/",
         "date": "Wed, 17 Jun 2026 16:35:06 GMT",
@@ -23887,16 +23898,5 @@
         "description": "Why Self-Paced AI Training Fails Your Engineering Team\n\nYour company bought GitHub Copilot or Microsoft Copilot licenses. You sent the Microsoft Learn link. Maybe you assigned a Pluralsight path. Y...",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "The Questions Engineering Managers Are Actually Asking About Claude Code Adoption",
-        "link": "https://dev.to/askpatrick/the-questions-engineering-managers-are-actually-asking-about-claude-code-adoption-eeg",
-        "date": "Wed, 11 Mar 2026 18:54:13 +0000",
-        "source": "Dev.to AI",
-        "description": "The Questions Engineering Managers Are Actually Asking About Claude Code Adoption\n\n\nThe same questions keep surfacing in engineering Slack channels, HN threads, and manager forums. Not \"which AI co...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
