@@ -7812,6 +7812,396 @@
         "is_important": false
     },
     {
+        "title": "The best Sam's Club deals competing with Prime Day 2026 (including $15 membership)",
+        "link": "https://www.zdnet.com/article/best-amazon-prime-day-sams-club-deals-2026/",
+        "date": "Wed, 24 Jun 2026 14:41:03 GMT",
+        "source": "ZDNet AI",
+        "description": "Beat Amazon Prime Day 2026 with Sam's Club Instant Savings. Get deals on premium TVs, home & kitchen tech, speakers, laptops, and more without a Prime fee.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "RAG vs Long-Context Models for Enterprise AI",
+        "link": "https://dev.to/sadie_casey_4d66104871350/rag-vs-long-context-models-for-enterprise-ai-5hl2",
+        "date": "Wed, 24 Jun 2026 14:36:17 +0000",
+        "source": "Dev.to AI",
+        "description": "Long-context models can read huge inputs in one pass, which raises the question: do you still need RAG? For accuracy and scale, yes.\n\nLoading everything into the window brings two problems:\n\n\ncost ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Buy Verified Binance Account",
+        "link": "https://dev.to/oldgmail5115/buy-verified-binance-account-1dpf",
+        "date": "Wed, 24 Jun 2026 14:35:56 +0000",
+        "source": "Dev.to AI",
+        "description": "Cryptocurrencies have gained immense popularity as a viable investment option. Binance is one of the leading cryptocurrency exchanges globally, offering a platform for users to buy, sell, and trade...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why Your AI Chatbot Slows Down on Large Knowledge Bases",
+        "link": "https://dev.to/sadie_casey_4d66104871350/why-your-ai-chatbot-slows-down-on-large-knowledge-bases-1hoa",
+        "date": "Wed, 24 Jun 2026 14:35:29 +0000",
+        "source": "Dev.to AI",
+        "description": "Instant at 100 docs, sluggish at 10,000? That is an architecture problem, not a content problem.\n\nThe usual cause: the system effectively scans everything per query. Work per request grows with the...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Right Way to Chat With Thousands of Documents",
+        "link": "https://dev.to/sadie_casey_4d66104871350/the-right-way-to-chat-with-thousands-of-documents-2aom",
+        "date": "Wed, 24 Jun 2026 14:34:48 +0000",
+        "source": "Dev.to AI",
+        "description": "The naive approach is pasting everything into one prompt. It does not scale.\n\nProblems with paste-everything:\n\n\nhits token limits\ncost spikes per query\naccuracy drops in a wall of text\n\n\nThe right ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Vendefoul Wolf is a Linux distro that goes against the grain with terrific results",
+        "link": "https://www.zdnet.com/article/vendefoul-wolf-is-a-linux-distro-that-goes-against-the-grain-with-terrific-results/",
+        "date": "Wed, 24 Jun 2026 14:34:33 GMT",
+        "source": "ZDNet AI",
+        "description": "If you're looking for an operating system that doesn't play by the rules, Vendefoul Wolf is everything you need and nothing you don't.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Return of Google Data Studio: What the 2026 Rebrand and AI Upgrades Mean for Analytics",
+        "link": "https://dev.to/tech_croc_f32fbb6ea8ed4/the-return-of-google-data-studio-what-the-2026-rebrand-and-ai-upgrades-mean-for-analytics-2ldc",
+        "date": "Wed, 24 Jun 2026 14:34:15 +0000",
+        "source": "Dev.to AI",
+        "description": "If you have been tracking the evolution of Google's data infrastructure, you know that identity changes are part of the ecosystem. In October 2022, Google folded Data Studio into the Looker family,...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Reduce Hallucinations in AI Chatbots",
+        "link": "https://dev.to/sadie_casey_4d66104871350/how-to-reduce-hallucinations-in-ai-chatbots-7ij",
+        "date": "Wed, 24 Jun 2026 14:34:05 +0000",
+        "source": "Dev.to AI",
+        "description": "A confidently wrong chatbot is worse than no chatbot. Good news: hallucination is an architecture problem, so it is fixable.\n\nTwo fixes do most of the work.\n\n\nGround every answer. Retrieve from a v...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Blackstone Commits $30B as Japan’s AI Battle Heats Up",
+        "link": "https://aibusiness.com/data-centers/blackstone-commits-30b-japan-s-ai-battle-heats-up",
+        "date": "Wed, 24 Jun 2026 14:33:30 GMT",
+        "source": "AI Business",
+        "description": "The plan joins a host of other multi-billion-dollar AI data center deals.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Started Building an E-Commerce Platform to Help a Friend Launch a Fashion Brand. It Turned Into Something Much Bigger.",
+        "link": "https://dev.to/marry-sibstones/i-started-building-an-e-commerce-platform-to-help-a-friend-launch-a-fashion-brand-it-turned-into-4bld",
+        "date": "Wed, 24 Jun 2026 14:33:28 +0000",
+        "source": "Dev.to AI",
+        "description": "A couple of month ago, I wasn't planning to build an e-commerce platform.\n\nA friend of mine is a fashion designer. He was preparing to launch a new collection and needed a website. At first, it sou...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "RAG vs a Giant Context Window: Which Should You Actually Use?",
+        "link": "https://dev.to/sadie_casey_4d66104871350/rag-vs-a-giant-context-window-which-should-you-actually-use-173d",
+        "date": "Wed, 24 Jun 2026 14:33:27 +0000",
+        "source": "Dev.to AI",
+        "description": "Million-token context windows tempt you to skip RAG and paste everything in. For most enterprise workloads, that is the wrong call.\n\nStuffing the window has real costs:\n\n\nlatency climbs as the wind...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "\"Where's My Order? Is Most of Your Support Inbox. Here's How to Automate It Without the Bot Lying About Delivery.\"",
+        "link": "https://dev.to/syednoor760dev/wheres-my-order-is-most-of-your-support-inbox-heres-how-to-automate-it-without-the-bot-lying-113d",
+        "date": "Wed, 24 Jun 2026 14:32:50 +0000",
+        "source": "Dev.to AI",
+        "description": "If you run a Shopify store and you read your own support inbox, you already know the punchline. Most of it is the same question, over and over: where's my order?\n\nIt is the most common question mos...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "When Background Music Becomes a Character: Spotting (and Fixing) Audio That Talks Too Much",
+        "link": "https://dev.to/songo/when-background-music-becomes-a-character-spotting-and-fixing-audio-that-talks-too-much-1bbe",
+        "date": "Wed, 24 Jun 2026 14:32:42 +0000",
+        "source": "Dev.to AI",
+        "description": "SonGo free for 3 days\n\n\n\nThere’s a quiet way to sabotage a solid video: give the background music more personality than the content. The track starts as “just a bit of vibe”, and somewhere around t...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Midjourney vs Gemini: Which AI Image Tool Wins?",
+        "link": "https://dev.to/onsen/midjourney-vs-gemini-which-ai-image-tool-wins-1hlo",
+        "date": "Wed, 24 Jun 2026 14:32:30 +0000",
+        "source": "Dev.to AI",
+        "description": "Midjourney vs Gemini: Which AI Image Tool Wins?\n\n\nMeta Description: Explore our in-depth Midjourney vs Gemini comparison to discover which AI image generator suits your creative workflow, budget, a...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP",
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Why LLMs Hallucinate on PDFs (and How to Stop It)",
+        "link": "https://dev.to/lew_dsw_8ebd7b2a076e99bcb/why-llms-hallucinate-on-pdfs-and-how-to-stop-it-28o",
+        "date": "Wed, 24 Jun 2026 14:32:21 +0000",
+        "source": "Dev.to AI",
+        "description": "Hallucination is not the model lying. It is the model filling a gap with the most probable text when it has no real passage to rely on. PDFs trigger this constantly.\n\nWhy PDFs specifically? Extract...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "It's Prime Day 2: We hand-picked the 90+ best deals and are tracking them live",
+        "link": "https://www.zdnet.com/article/amazon-june-prime-day-live-blog-06-24-2026/",
+        "date": "Wed, 24 Jun 2026 14:32:00 GMT",
+        "source": "ZDNet AI",
+        "description": "LIVE: Amazon Prime Day 2026 deals are here, but they aren't all good. Follow our live blog for real-time tracking on editor-approved products like 4K TVs, M5 MacBooks, Samsung devices, SSDs, and more.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Amazon is selling the Ninja Slushi for its lowest price ever, and I highly recommend it",
+        "link": "https://www.zdnet.com/article/ninja-slushi-amazon-prime-day-2026/",
+        "date": "Wed, 24 Jun 2026 14:26:38 GMT",
+        "source": "ZDNet AI",
+        "description": "The Ninja Slushi brings frosty fun to your kitchen, and it's on sale for its best price ever during Amazon Prime Day.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I've spent 48 hours with the Google Home Speaker, and Gemini is off to a promising start",
+        "link": "https://www.zdnet.com/article/google-home-speaker-review-2026/",
+        "date": "Wed, 24 Jun 2026 14:24:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Here's how the new Google Home Speaker has fared against the likes of my Apple HomePod Mini and Echo Dot Max so far.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "LastPass hit by new data breach - 4 steps you should take now",
+        "link": "https://www.zdnet.com/article/lastpass-new-data-breach-2026-steps-to-take-now/",
+        "date": "Wed, 24 Jun 2026 14:21:24 GMT",
+        "source": "ZDNet AI",
+        "description": "A third-party supplier breach has exposed LastPass customer names, phone numbers, and other data. Here's how to protect yourself.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Mistral AI Tackles Unstructured Data Challenge with OCR 4",
+        "link": "https://aibusiness.com/generative-ai/mistral-ai-tackles-unstructured-data-challenge-ocr-4",
+        "date": "Wed, 24 Jun 2026 14:03:03 GMT",
+        "source": "AI Business",
+        "description": "The French startup's model includes features such as bounding boxes to help users better understand unstructured data.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Talos: Scaling rare disease diagnosis with automated, iterative genomic reanalysis",
+        "link": "https://www.microsoft.com/en-us/research/blog/talos-scaling-rare-disease-diagnosis-with-automated-iterative-genomic-reanalysis/",
+        "date": "Wed, 24 Jun 2026 14:00:14 +0000",
+        "source": "Microsoft Research",
+        "description": "Talos was built to help resolve a major bottleneck in genomic medicine: human review time. The open-source system recovered 90% of in-scope diagnoses while surfacing just 1.3 candidate variants per...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "3 days left to save up to $190 on your TechCrunch Founder Summit 2026 pass",
+        "link": "https://techcrunch.com/2026/06/24/3-days-left-to-save-up-to-190-on-techcrunch-founder-summit-2026/",
+        "date": "Wed, 24 Jun 2026 14:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "You have just 3 days left to save up to $190 on your pass to TechCrunch Founder Summit 2026 before Early Bird rates end on June 26 at 11:59 p.m. PT. Register here.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The best Amazon Prime Day deals: Up to 30% off Anker, Ninja, and Garmin (so far)",
+        "link": "https://www.zdnet.com/article/best-amazon-prime-day-deals-2026/",
+        "date": "Wed, 24 Jun 2026 13:58:23 GMT",
+        "source": "ZDNet AI",
+        "description": "Amazon's Prime Day is here, and these are some of our favorite deals you can shop right now.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Best Amazon Prime Day deals under $25: Top deals on cheap gadgets I've tested",
+        "link": "https://www.zdnet.com/article/best-amazon-prime-day-deals-under-25-2026/",
+        "date": "Wed, 24 Jun 2026 13:57:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Check out our curated list of the top cheap Prime Day 2026 device deals, with discounts of up to 55% off.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I was wary of driverless cars and their tech overlords – but they could give me a different future | Gabriel Stewart",
+        "link": "https://www.theguardian.com/commentisfree/2026/jun/24/driverless-cars-tech-overlords-disabilities-vehicles",
+        "date": "Wed, 24 Jun 2026 13:55:12 GMT",
+        "source": "The Guardian AI",
+        "description": "For those of us who can’t drive due to disabilities, the drawbacks of these vehicles are vastly outweighed by the possibilities they offerThe robotaxis are coming! The robotaxis are coming! Well, a...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Best Amazon Prime Day tablet deals: Up to $300 off Samsung, Apple, and Microsoft",
+        "link": "https://www.zdnet.com/article/best-amazon-prime-day-tablet-deals-2026/",
+        "date": "Wed, 24 Jun 2026 13:50:00 GMT",
+        "source": "ZDNet AI",
+        "description": "We found the best deals on iPads, Surface Pros, and more, dor Amazon's Prime Day sale.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Your Linux PC has a Secure Boot problem - what to do first (and the workaround to avoid)",
+        "link": "https://www.zdnet.com/article/linux-pc-secure-boot-problem-what-to-do-first-workaround-to-avoid/",
+        "date": "Wed, 24 Jun 2026 13:30:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Secure Boot has always been a nuisance for Linux users, but Microsoft's expiring 2011 certificate authorities are making it a real pain.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I'm obsessed with my Ninja Creami ice cream maker - and Amazon just cut the price",
+        "link": "https://www.zdnet.com/article/ninja-creami-amazon-prime-day-2026-deal/",
+        "date": "Wed, 24 Jun 2026 13:09:34 GMT",
+        "source": "ZDNet AI",
+        "description": "Easily make your own ice cream, gelato, sorbet, and smoothie bowls with the Ninja Creami, now 22% off for Amazon Prime Day 2.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "5 disaster-prep tips I've learned after decades of bushcrafting",
+        "link": "https://www.zdnet.com/article/disaster-prep-tips-ive-learned-after-decades-of-bushcrafting/",
+        "date": "Wed, 24 Jun 2026 12:52:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Your emergency plan needs a bugout bag. Here's what I'd pack first, as a wilderness survival expert.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Qualcomm Buys Buzzy Chip Startup Modular for Nearly $4 Billion",
+        "link": "https://www.wired.com/story/qualcomm-buys-buzzy-chip-startup-modular-for-nearly-dollar4-billion/",
+        "date": "Wed, 24 Jun 2026 12:36:07 +0000",
+        "source": "Wired AI",
+        "description": "Modular, one of the most promising chip software startups of the AI era, heads for a multibillion-dollar exit.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "The weirdest things a leak revealed about Peter Thiel’s secret club | Tayo Bero",
+        "link": "https://www.theguardian.com/commentisfree/2026/jun/24/peter-thiel-secret-club-leak",
+        "date": "Wed, 24 Jun 2026 12:00:44 GMT",
+        "source": "The Guardian AI",
+        "description": "The Dialog society grades its attendees on a hidden scale, tackles issues from sex to world wars, and offers matchmakingWhat would happen if roughly 200 members of the global elite gathered every y...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Context Windows Are Not Memory: What AI Agent Developers Need to Understand",
+        "link": "https://machinelearningmastery.com/context-windows-are-not-memory-what-ai-agent-developers-need-to-understand/",
+        "date": "Wed, 24 Jun 2026 12:00:18 +0000",
+        "source": "Machine Learning Mastery",
+        "description": "In this article, you will learn why a large context window is not the same thing as agent memory, and how techniques like retrieval, compression,...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The emergence of the web data infrastructure layer for AI",
+        "link": "https://www.technologyreview.com/2026/06/24/1139202/the-emergence-of-the-web-data-infrastructure-layer-for-ai/",
+        "date": "Wed, 24 Jun 2026 11:59:54 +0000",
+        "source": "MIT Technology Review",
+        "description": "AI is booming. New use cases are emerging each day. To capitalize on the technology’s potential, enterprises require data at scale. In many cases, though, the relevant information is blocked or uns...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta pauses employee tracker for AI training amid privacy concerns",
+        "link": "https://www.theguardian.com/technology/2026/jun/24/meta-pauses-employee-tracker-for-ai-training-amid-privacy-concerns",
+        "date": "Wed, 24 Jun 2026 11:38:33 GMT",
+        "source": "The Guardian AI",
+        "description": "About 1,600 workers signed petition against tool that tracked staff keystrokes, mouse clicks and computer screen contentMark Zuckerberg’s Meta has paused a program that tracked employees’ computer ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "GTA 6 will cost $80 - and physical edition will not contain a disc",
+        "link": "https://www.bbc.co.uk/news/articles/cjrg52egw1ro?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 24 Jun 2026 11:35:14 GMT",
+        "source": "BBC Tech",
+        "description": "Rockstar has said physical copies of the game will contain a code for a digital download for the game.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Harness-1: The 20B Retrieval Subagent That Beats GPT-5.4 at Search",
+        "link": "https://www.analyticsvidhya.com/blog/2026/06/harness-1-ai-retrieval-agent/",
+        "date": "Wed, 24 Jun 2026 11:00:00 +0000",
+        "source": "Analytics Vidhya",
+        "description": "Most search agents try to handle too many jobs at once. They generate new queries, remember what they have already explored, collect evidence, and decide what is relevant as the search keeps expand...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "These 12 tiny travel gadgets will upgrade your flight or drive - and they're cheap",
+        "link": "https://www.zdnet.com/article/travel-gadget-deals-amazon-prime-day-2026/",
+        "date": "Wed, 24 Jun 2026 10:30:49 GMT",
+        "source": "ZDNet AI",
+        "description": "Traveling soon? Scoop up these nifty gadgets ahead of your travels for less.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Failing Robot Cop Company Knightscope Now Publishing Bizarre AI Slop Fan Fiction About Its Robots Solving Absurd Crimes",
+        "link": "https://futurism.com/robots-and-machines/knightscope-robot-cop-company-fan-fiction",
+        "date": "Wed, 24 Jun 2026 10:13:27 -0400",
+        "source": "Futurism AI",
+        "description": "\"The name matched. The money moved. Baby Bob was back.\"\nThe post Failing Robot Cop Company Knightscope Now Publishing Bizarre AI Slop Fan Fiction About Its Robots Solving Absurd Crimes appeared fir...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "I found 4 Bluetooth gadgets that are highly useful - and cheap",
+        "link": "https://www.zdnet.com/article/bluetooth-gadget-deals-amazon-prime-day-2026/",
+        "date": "Wed, 24 Jun 2026 10:00:45 GMT",
+        "source": "ZDNet AI",
+        "description": "Some of my favorite practical Bluetooth gadgets are also on sale during Amazon Prime Day.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "If an AI chatbot misleads you, who is to blame? | Bruce Schneier and Nathan E Sanders",
+        "link": "https://www.theguardian.com/commentisfree/2026/jun/24/ai-errors-companies-responsibility",
+        "date": "Wed, 24 Jun 2026 10:00:41 GMT",
+        "source": "The Guardian AI",
+        "description": "A court in Germany found that Google was responsible for what its chatbots say in search summaries. This is the accountability we needEarlier this month, a German court ruled that Google is liable ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Top 7 Coding Models You Can Run Locally in 2026",
+        "link": "https://www.kdnuggets.com/top-7-coding-models-you-can-run-locally-in-2026",
+        "date": "Wed, 24 Jun 2026 10:00:39 +0000",
+        "source": "KDnuggets",
+        "description": "Explore the best local coding models for private AI coding, fast GGUF inference, agentic workflows, multimodal development, and running powerful open models on your own GPU.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
         "title": "Do I Really Need a VPN for My Business? (And Which One to Choose for Remote Employees)",
         "link": "https://dev.to/robozillaai/do-i-really-need-a-vpn-for-my-business-and-which-one-to-choose-for-remote-employees-58h2",
         "date": "Wed, 24 Jun 2026 09:40:55 +0000",
@@ -8033,6 +8423,18 @@
         "is_important": false,
         "tags": [
             "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "OpenAI and Broadcom unveil LLM-optimized inference chip",
+        "link": "https://openai.com/index/openai-broadcom-jalapeno-inference-chip",
+        "date": "Wed, 24 Jun 2026 06:00:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI and Broadcom introduce Jalapeño, a custom AI chip built for LLM inference to improve performance, efficiency, and scale across AI systems.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
         ]
     },
     {
@@ -23584,426 +23986,5 @@
         "description": "This is a test article body that is published directly.",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "New quantum algorithm solves “impossible” materials problem in seconds",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260512202355.htm",
-        "date": "Wed, 13 May 2026 03:33:27 EDT",
-        "source": "ScienceDaily AI",
-        "description": "A new quantum-inspired algorithm has cracked a problem so massive that conventional supercomputers struggle to even approach it. Researchers used the method to simulate extraordinarily complex quan...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "[AINews] The End of Finetuning",
-        "link": "https://www.latent.space/p/ainews-the-end-of-finetuning",
-        "date": "Wed, 13 May 2026 02:47:22 GMT",
-        "source": "Latent Space",
-        "description": "a quiet day lets us reflect on whither finetuning",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Sam Altman testifies in landmark OpenAI trial, says Musk wanted control of company",
-        "link": "https://siliconangle.com/2026/05/12/sam-altman-testifies-landmark-openai-trial-says-musk-wanted-control-company/",
-        "date": "Wed, 13 May 2026 02:32:09 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "OpenAI Group PBC co-founder and Chief Executive Sam Altman faced the witness stand today in the high-stakes trial that could determine the future of the company. Elon Musk is suing the company and ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Fedora Kinoite vs. Silverblue: My verdict after testing both immutable Linux distros",
-        "link": "https://www.zdnet.com/article/fedora-vs-kinoite/",
-        "date": "Wed, 13 May 2026 02:30:44 GMT",
-        "source": "ZDNet AI",
-        "description": "Fedora offers two different takes on an immutable option, each of which might be similar on the inside, but on the outside, they couldn't be different.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Celonis buys decision-intelligence startup Ikigai Labs to provide operational context for enterprise AI",
-        "link": "https://siliconangle.com/2026/05/12/celonis-buys-decision-intelligence-startup-ikigai-labs-provide-operational-context-enterprise-ai/",
-        "date": "Wed, 13 May 2026 02:20:51 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Process mining software company Celonis SE said today it has snapped up the Massachusetts Institute of Technology-linked decision intelligence startup Ikigai Labs Inc., planning to use it to power ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Buying a robot mower? You can safely ignore these specs (and which ones actually matter)",
-        "link": "https://www.zdnet.com/article/robot-mower-buying-guide-features-to-ignore-2026/",
-        "date": "Wed, 13 May 2026 02:00:44 GMT",
-        "source": "ZDNet AI",
-        "description": "Robot mowers aren't one-size-fits-all devices - many have overhyped specs you don't even need. Here's what I recommend skipping.",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Is Big Brother watching you shop? – podcast",
-        "link": "https://www.theguardian.com/news/audio/2026/may/13/is-big-brother-watching-you-shop-podcast",
-        "date": "Wed, 13 May 2026 02:00:16 GMT",
-        "source": "The Guardian AI",
-        "description": "From supermarkets to corner shops, live facial recognition could be coming to retailers near you. Jessica Murray on the AI systems increasingly used by the police and storesLive facial recognition ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Instructure Strikes Deal for Hackers for Return of Canvas Data",
-        "link": "https://www.nytimes.com/2026/05/12/us/canvas-instructure-hackers-deal.html",
-        "date": "Wed, 13 May 2026 01:21:59 +0000",
-        "source": "NYT Tech",
-        "description": "Instructure, which provides Canvas software to thousands of schools and universities around the world, did not say what it had given the hackers in exchange for the stolen data.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Chromebook vs. Googlebook: How I'm deciding which laptop to upgrade to next",
-        "link": "https://www.zdnet.com/article/googlebook-vs-chromebook-differences/",
-        "date": "Wed, 13 May 2026 01:15:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Google is going all-in on its new product line while assuring users Chromebooks aren't being phased out.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Elementary OS vs. Linux Mint: I compared my once favorite distro to the Windows alternative",
-        "link": "https://www.zdnet.com/article/elementary-os-vs-linux-mint/",
-        "date": "Wed, 13 May 2026 01:12:00 GMT",
-        "source": "ZDNet AI",
-        "description": "If you're looking for a user-friendly Linux distribution, your destination could depend on your starting point. Here's how two of your best options compare.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Nebius snaps up Clarifai’s compute orchestration tech and talent to enhance AI inference",
-        "link": "https://siliconangle.com/2026/05/12/nebius-snaps-clarifais-compute-orchestration-tech-talent-enhance-ai-inference/",
-        "date": "Wed, 13 May 2026 01:11:35 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Dutch artificial intelligence infrastructure giant Nebius Group N.V. said today it’s recruiting the core engineering team from AI orchestration software firm Clarifai Inc. in an effort to boost its...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I switched to a Wi-Fi 7 mesh router at home, and the faster download speed is so worth it",
-        "link": "https://www.zdnet.com/article/tenda-be5100-3-pack-mesh-wi-fi-system-review/",
-        "date": "Wed, 13 May 2026 01:03:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The Tenda BE5100 mesh Wi-Fi system is an accessibly priced, high-speed, easy-to-use package that kills wireless dead spots.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How I made my Windows 11 widgets truly useful: 8 simple tweaks to try before you hide them",
-        "link": "https://www.zdnet.com/article/control-customize-widgets-windows-11/",
-        "date": "Wed, 13 May 2026 01:00:45 GMT",
-        "source": "ZDNet AI",
-        "description": "The Widgets feature can be annoying but it's also able to provide useful news and info. Here's how I tweak it to be less intrusive and more helpful.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Medicare’s new payment model is built for AI, and most of the tech world has no idea",
-        "link": "https://techcrunch.com/2026/05/12/medicares-new-payment-model-is-built-for-ai-and-most-of-the-tech-world-has-no-idea/",
-        "date": "Wed, 13 May 2026 00:26:48 +0000",
-        "source": "TechCrunch AI",
-        "description": "There is no governmental mechanism to pay for an AI agent that monitors a patient between visits, calls to check in, coordinates a housing referral, or makes sure someone picks up their medication....",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "CME Group and Silicon Data to launch AI compute futures market",
-        "link": "https://siliconangle.com/2026/05/12/cme-group-silicon-data-launch-ai-compute-futures-market/",
-        "date": "Wed, 13 May 2026 00:22:08 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Silicon Data, the startup that provides market intelligence for artificial intelligence compute infrastructure, will provide the price indexes for a new futures market that will allow investors to ...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Your “um” and pauses could reveal early dementia risk",
-        "link": "https://www.sciencedaily.com/releases/2026/05/260512202333.htm",
-        "date": "Wed, 13 May 2026 00:18:33 EDT",
-        "source": "ScienceDaily AI",
-        "description": "The little pauses, “ums,” and moments when you struggle to find the right word may reveal far more about your brain than anyone realized. Researchers discovered that everyday speech patterns are cl...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Elon Musk Had ‘Hair-Raising’ Idea of Passing OpenAI On to His Kids, Sam Altman Says",
-        "link": "https://www.wired.com/story/sam-altman-testifies-musk-v-altman-trial/",
-        "date": "Wed, 13 May 2026 00:10:05 +0000",
-        "source": "Wired AI",
-        "description": "Musk’s lawyers questioned Altman over allegations of deception and his network of financial investments, but the OpenAI CEO painted a picture of Musk as obsessed with controlling the company.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Our response to the TanStack npm supply chain attack",
-        "link": "https://openai.com/index/our-response-to-the-tanstack-npm-supply-chain-attack",
-        "date": "Wed, 13 May 2026 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI details its response to the TanStack “Mini Shai-Hulud” supply chain attack, outlines protections taken to secure systems and signing certificates, and explains why macOS users must update Op...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Where Reliability Lives in Vision-Language Models: A Mechanistic Study of Attention, Hidden States, and Causal Circuits",
-        "link": "https://arxiv.org/abs/2605.08200",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08200v1 Announce Type: new \nAbstract: A pervasive intuition holds that vision-language models (VLMs) are most trustworthy when their attention maps look sharp: concentrated attention on ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Spatial Priming Outperforms Semantic Prompting: A Grid-Based Approach to Improving LLM Accuracy on Chart Data Extraction",
-        "link": "https://arxiv.org/abs/2605.08220",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08220v1 Announce Type: new \nAbstract: The automated extraction of data from scientific charts is a critical task for large-scale literature analysis. While multimodal Large Language Mode...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Auto-Rubric as Reward: From Implicit Preferences to Explicit Multimodal Generative Criteria",
-        "link": "https://arxiv.org/abs/2605.08354",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08354v1 Announce Type: new \nAbstract: Aligning multimodal generative models with human preferences demands reward signals that respect the compositional, multi-dimensional structure of h...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Embeddings for Preferences, Not Semantics",
-        "link": "https://arxiv.org/abs/2605.08360",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08360v1 Announce Type: new \nAbstract: Modern AI is opening the door to collective decision-making in which participants express their views as free-form text rather than voting on a fixe...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "On Distinguishing Capability Elicitation from Capability Creation in Post-Training: A Free-Energy Perspective",
-        "link": "https://arxiv.org/abs/2605.08368",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08368v1 Announce Type: new \nAbstract: Debates about large language model post-training often treat supervised fine-tuning (SFT) as imitation and reinforcement learning (RL) as discovery....",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "MemQ: Integrating Q-Learning into Self-Evolving Memory Agents over Provenance DAGs",
-        "link": "https://arxiv.org/abs/2605.08374",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08374v2 Announce Type: new \nAbstract: Episodic memory allows LLM agents to accumulate and retrieve experience, but current methods treat each memory independently, i.e., evaluating retri...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "SkillLens: Adaptive Multi-Granularity Skill Reuse for Cost-Efficient LLM Agents",
-        "link": "https://arxiv.org/abs/2605.08386",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08386v1 Announce Type: new \nAbstract: Skill libraries have become a practical way for LLM agents to reuse procedural experience across tasks. However, existing systems typically treat sk...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "PLACO: A Multi-Stage Framework for Cost-Effective Performance in Human-AI Teams",
-        "link": "https://arxiv.org/abs/2605.08388",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08388v1 Announce Type: new \nAbstract: Human-AI teams play a pivotal role in improving overall system performance when neither the human nor the model can achieve such performance on thei...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "CoCoDA: Co-evolving Compositional DAG for Tool-Augmented Agents",
-        "link": "https://arxiv.org/abs/2605.08399",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08399v1 Announce Type: new \nAbstract: Tool-augmented language models can extend small language models with external executable skills, but scaling the tool library creates a coupled chal...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Belief or Circuitry? Causal Evidence for In-Context Graph Learning",
-        "link": "https://arxiv.org/abs/2605.08405",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08405v1 Announce Type: new \nAbstract: How do LLMs learn in-context? Is it by pattern-matching recent tokens, or by inferring latent structure? We probe this question using a toy graph ra...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Playing games with knowledge: AI-Induced delusions need game theoretic interventions",
-        "link": "https://arxiv.org/abs/2605.08409",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08409v1 Announce Type: new \nAbstract: Conversational AI has a fundamental flaw as a knowledge interface: sycophantic chatbots induce epistemic entrenchment and delusional belief spirals ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Political Plasticity: An Analysis of Ideological Adaptability in Large Language Models",
-        "link": "https://arxiv.org/abs/2605.08415",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08415v1 Announce Type: new \nAbstract: Since the advent of Large Language Models (LLMs), a significant area of research has focused on their intrinsic biases, particularly in political di...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Alignment as Jurisprudence",
-        "link": "https://arxiv.org/abs/2605.08416",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08416v1 Announce Type: new \nAbstract: Jurisprudence, the study of how judges should properly decide cases, and alignment, the science of getting AI models to conform to human values, sha...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "The Attacker in the Mirror: Breaking Self-Consistency in Safety via Anchored Bipolicy Self-Play",
-        "link": "https://arxiv.org/abs/2605.08427",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08427v1 Announce Type: new \nAbstract: Self-play red team is an established approach to improving AI safety in which different instances of the same model play attacker and defender roles...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Measuring What Matters: Benchmarking Generative, Multimodal, and Agentic AI in Healthcare",
-        "link": "https://arxiv.org/abs/2605.08445",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2605.08445v1 Announce Type: new \nAbstract: AI models are increasingly deployed in live clinical environments where they must perform reliably across complex, high-stakes workflows that standa...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Sampling More, Getting Less: Calibration is the Diversity Bottleneck in LLMs",
-        "link": "https://arxiv.org/abs/2605.11128",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.11128v1 Announce Type: new \nAbstract: Diversity is essential for language-model applications ranging from creative generation to scientific discovery, yet modern LLMs often collapse into...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "ClinicalBench: Stress-Testing Assertion-Aware Retrieval for Cross-Admission Clinical QA on MIMIC-IV",
-        "link": "https://arxiv.org/abs/2605.11143",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.11143v1 Announce Type: new \nAbstract: Reasoning benchmarks measure clinical performance on clean inputs. We evaluate the step before reasoning: retrieval over real EHR notes, where negat...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Decomposing Evolutionary Mixture-of-LoRA Architectures: The Routing Lever, the Lifecycle Penalty, and a Substrate-Conditional Boundary",
-        "link": "https://arxiv.org/abs/2605.11153",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.11153v1 Announce Type: new \nAbstract: We decompose an evolutionary mixture-of-LoRA system on a from-scratch ~150M-parameter widened-D substrate (D=1536, V=32000; D/V approx 0.048; the \"w...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Bicameral Model: Bidirectional Hidden-State Coupling Between Parallel Language Models",
-        "link": "https://arxiv.org/abs/2605.11167",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.11167v1 Announce Type: new \nAbstract: Existing multi-model and tool-augmented systems communicate by generating text, serializing every exchange through the output vocabulary. Can two pr...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "How Does Differential Privacy Affect Social Bias in LLMs? A Systematic Evaluation",
-        "link": "https://arxiv.org/abs/2605.11195",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.11195v1 Announce Type: new \nAbstract: Large language models (LLMs) trained on web-scale corpora can memorize sensitive training data, posing significant privacy risks. Differential priva...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Instructions shape Production of Language, not Processing",
-        "link": "https://arxiv.org/abs/2605.11206",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.11206v1 Announce Type: new \nAbstract: Instructions trigger a production-centered mechanism in language models. Through a cognitively inspired lens that separates language processing and ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "ReVision: Scaling Computer-Use Agents via Temporal Visual Redundancy Reduction",
-        "link": "https://arxiv.org/abs/2605.11212",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.11212v1 Announce Type: new \nAbstract: Computer-use agents~(CUAs) rely on visual observations of graphical user interfaces, where each screenshot is encoded into a large number of visual ...",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "RETUYT-INCO at BEA 2026 Shared Task 2: Meta-prompting in Rubric-based Scoring for German",
-        "link": "https://arxiv.org/abs/2605.11242",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.11242v1 Announce Type: new \nAbstract: In this paper, we present the RETUYT-INCO participation at the BEA 2026 shared task \"Rubric-based Short Answer Scoring for German\". Our team partici...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "HEBATRON: A Hebrew-Specialized Open-Weight Mixture-of-Experts Language Model",
-        "link": "https://arxiv.org/abs/2605.11255",
-        "date": "Wed, 13 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.11255v1 Announce Type: new \nAbstract: We present Hebatron, a Hebrew-specialized open-weight large language model built on the NVIDIA Nemotron-3 sparse Mixture-of-Experts architecture. Tr...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚙️ Hardware de IA"
-        ]
     }
 ]
