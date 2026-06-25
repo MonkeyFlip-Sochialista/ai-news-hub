@@ -7848,6 +7848,15 @@
         "tags": []
     },
     {
+        "title": "Qualcomm shares jump 14% on Modular acquisition, guidance upgrade",
+        "link": "https://siliconangle.com/2026/06/24/qualcomm-shares-jump-14-modular-acquisition-guidance-upgrade/",
+        "date": "Wed, 24 Jun 2026 22:45:55 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Qualcomm Inc.&#8217;s stock jumped 14% in after-hours trading today after it shared a series of updates about its artificial intelligence roadmap. The company announced plans to acquire an inferenc...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Cerebras stock plunges after earnings as CEO says margin outlook was misunderstood",
         "link": "https://techcrunch.com/2026/06/24/cerebras-stock-plunges-after-earnings-as-ceo-says-margin-outlook-was-misunderstood/",
         "date": "Wed, 24 Jun 2026 22:41:41 +0000",
@@ -7866,6 +7875,17 @@
         "description": "Google’s Search history update stores media uploads from your interactions, like images used in reverse image searches, for training its AI models.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Grammarly parent Superhuman buys AI detector GPTZero",
+        "link": "https://siliconangle.com/2026/06/24/grammarly-parent-superhuman-buys-ai-detector-gptzero/",
+        "date": "Wed, 24 Jun 2026 22:30:03 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Superhuman Inc., the company formerly known as Grammarly, said today it has agreed to acquire GPTZero Inc., the startup whose detection tools tell teachers, editors and hiring managers when a piece...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "Met gets extension to Palantir AI project after Sadiq Khan blocked deal",
@@ -7931,6 +7951,18 @@
         "description": "A critical Windows expiration date is here for more than a billion PCs - and even some Linux distros are affected. Is your PC ready?",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "OpenAI, Broadcom debut custom Jalapeño chip for AI inference",
+        "link": "https://siliconangle.com/2026/06/24/openai-broadcom-debut-custom-jalapeno-chip-llm-inference/",
+        "date": "Wed, 24 Jun 2026 20:30:46 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "OpenAI Group PBC today revealed a custom chip called Jalapeño that it will use to power its large language models. The processor is the fruit of a collaboration with Broadcom Inc., which is no stra...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
+        ]
     },
     {
         "title": "OpenAI and Broadcom Introduce AI Inference Chip",
@@ -8353,6 +8385,24 @@
         ]
     },
     {
+        "title": "HelloTwin launches ‘Digital Authority’ to bring governed AI agents to the enterprise",
+        "link": "https://siliconangle.com/2026/06/24/hellotwin-launches-digital-authority-bring-governed-ai-agents-enterprise/",
+        "date": "Wed, 24 Jun 2026 16:30:30 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "HelloTwin.ai GmbH today announced what it calls an accountable artificial intelligence AI twin that holds business intelligence and goals in a single source of truth. HelloTwin said it built its da...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Three insights you may have missed from theCUBE’s coverage of Pure Accelerate",
+        "link": "https://siliconangle.com/2026/06/24/three-insights-ai-outcomes-pure-accelerate-pureaccelerate/",
+        "date": "Wed, 24 Jun 2026 16:30:24 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "As enterprises advance their artificial intelligence initiatives, they’re discovering that the real constraint isn’t model sophistication — It’s data. AI outcomes now depend on whether organization...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Introducing computer use in Gemini 3.5 Flash",
         "link": "https://deepmind.google/blog/introducing-computer-use-in-gemini-3-5-flash/",
         "date": "Wed, 24 Jun 2026 16:30:01 +0000",
@@ -8392,6 +8442,17 @@
         "is_important": false,
         "tags": [
             "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "AI agents are changing work — and Dell’s John Roese says it’s just beginning",
+        "link": "https://siliconangle.com/2026/06/24/dell-ai-autonomous-agents-jobs-aifactoriesdatacenters/",
+        "date": "Wed, 24 Jun 2026 15:31:02 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "To gain a better understanding of the longer-term impact that autonomous agents will have on the nature of work, Dell Technologies Inc. has been taking a closer look at how AI is already changing h...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
         ]
     },
     {
@@ -8705,6 +8766,24 @@
         "date": "Wed, 24 Jun 2026 13:09:34 GMT",
         "source": "ZDNet AI",
         "description": "Easily make your own ice cream, gelato, sorbet, and smoothie bowls with the Ninja Creami, now 22% off for Amazon Prime Day 2.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Coval raises $28M as enterprises push voice agents into production",
+        "link": "https://siliconangle.com/2026/06/24/coval-raises-28m-enterprises-push-voice-agents-production/",
+        "date": "Wed, 24 Jun 2026 13:00:52 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Voice artificial intelligence testing startup Coval Inc. revealed today that it has raised $28 million in new funding to expand its platform as more enterprises put voice agents into production. Fo...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Modulate launches AI music detection as synthetic tracks flood streaming",
+        "link": "https://siliconangle.com/2026/06/24/modulate-launches-ai-music-detection-synthetic-tracks-flood-streaming/",
+        "date": "Wed, 24 Jun 2026 13:00:07 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Voice artificial intelligence company Modulate Inc. today launched a tool that flags AI-generated music straight from the audio. The product, an application programming interface called AI Music De...",
         "is_important": false,
         "tags": []
     },
@@ -23911,85 +23990,5 @@
         "description": "The recent report about Google potentially partnering with SpaceX to utilize their infrastructure for AI data centers warrants a closer examination of the technical and strategic implications. \n\nFr...",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "Thousands of Waymos recalled after robotaxi swept into a creek",
-        "link": "https://www.bbc.com/news/articles/cwy2011dl4xo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 13 May 2026 14:40:20 GMT",
-        "source": "BBC Tech",
-        "description": "The voluntary recall follows an incident on 20 April where an empty Waymo car entered a flooded road in San Antonio, Texas.",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Why Answer Engine Optimization Is Becoming Critical for MarTech Companies",
-        "link": "https://dev.to/babaranga/why-answer-engine-optimization-is-becoming-critical-for-martech-companies-5beg",
-        "date": "Wed, 13 May 2026 14:39:38 +0000",
-        "source": "Dev.to AI",
-        "description": "Marketing technology (MarTech) companies are operating in a rapidly changing digital environment where traditional SEO is no longer sufficient on its own. Search engines are evolving into answer en...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A South Philly Beekeeper Is Coaxing 10,000 Bees Out of a Lambert Street Sewer With a Funnel and the Neighbors Get the Honey",
-        "link": "https://dev.to/pudgycat/a-south-philly-beekeeper-is-coaxing-10000-bees-out-of-a-lambert-street-sewer-with-a-funnel-and-the-1ik",
-        "date": "Wed, 13 May 2026 14:39:25 +0000",
-        "source": "Dev.to AI",
-        "description": "A South Philadelphia parking spot on Lambert Street has been quietly hosting 10,000 squatters for the past three to four weeks, and none of them pay rent. They are honeybees. They picked a storm se...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I Ranked AI SDKs by Supply Chain Risk. LangChain Lost.",
-        "link": "https://dev.to/piiiico/i-ranked-ai-sdks-by-supply-chain-risk-langchain-lost-4pm8",
-        "date": "Wed, 13 May 2026 14:37:33 +0000",
-        "source": "Dev.to AI",
-        "description": "OpenAI and Vercel AI score clean. Anthropic hides two CRITICAL deps. LangChain has three.\n\n\n\n\nThe March 2026 LiteLLM supply chain attack followed a pattern that was visible beforehand: a single mai...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Big Tech firms are accelerating AI investments and integration, while regulators and companies focus on safety and responsible adoption.",
-        "link": "https://dev.to/stelixx-insights/big-tech-firms-are-accelerating-ai-investments-and-integration-while-regulators-and-companies-5210",
-        "date": "Wed, 13 May 2026 14:35:57 +0000",
-        "source": "Dev.to AI",
-        "description": "The AI landscape is experiencing unprecedented growth and transformation. This post delves into the key developments shaping the future of artificial intelligence, from massive industry investments...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Building an AI Chat Plugin for WordPress Using Open router by Dwight Bedsaul",
-        "link": "https://dev.to/dwightbedsaul/building-an-ai-chat-plugin-for-wordpress-using-open-router-by-dwight-bedsaul-15p5",
-        "date": "Wed, 13 May 2026 14:35:53 +0000",
-        "source": "Dev.to AI",
-        "description": "AI tools are everywhere right now, but most websites still feel static. You visit a page, search around for information, maybe send a contact form, and that’s about it. I wanted to experiment with ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI-Native Development Platforms Are Redefining Software Delivery",
-        "link": "https://dev.to/scott_mcmahan_d085ae6e508/ai-native-development-platforms-are-redefining-software-delivery-4ekm",
-        "date": "Wed, 13 May 2026 14:35:35 +0000",
-        "source": "Dev.to AI",
-        "description": "Artificial intelligence is changing how software gets built, deployed, monitored, and optimized. AI-native development platforms are pushing this transformation even further by placing AI directly ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Claude AI Workflows That Save 10 Hours a Week",
-        "link": "https://dev.to/aishia/claude-ai-workflows-that-save-10-hours-a-week-5gp7",
-        "date": "Wed, 13 May 2026 14:35:05 +0000",
-        "source": "Dev.to AI",
-        "description": "Claude AI Workflows That Save 10 Hours a Week\n\n\nAs a busy professional, you're always looking for ways to optimize your workflow and save time. With the rise of AI technology, it's now possible to ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
