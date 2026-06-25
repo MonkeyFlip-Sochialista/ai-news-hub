@@ -10265,6 +10265,15 @@
         ]
     },
     {
+        "title": "Scaling Laws, Carefully",
+        "link": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+        "date": "Wed, 24 Jun 2026 00:00:00 +0000",
+        "source": "Lilian Weng",
+        "description": "Scaling laws are one of the most critical empirical findings in deep learning. The observation is simple in form: the training loss $L$ decreases predictably as we scale up model size $N$, dataset ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Improving Model Safety Behavior with Rule-Based Rewards",
         "link": "https://openai.com/index/improving-model-safety-behavior-with-rule-based-rewards",
         "date": "Wed, 24 Jul 2024 09:00:00 GMT",
@@ -23981,14 +23990,5 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
-    },
-    {
-        "title": "Google Is in Talks to Use SpaceX for AI Data Centers. That's Curious",
-        "link": "https://dev.to/minimal-architect/google-is-in-talks-to-use-spacex-for-ai-data-centers-thats-curious-26ni",
-        "date": "Wed, 13 May 2026 14:42:13 +0000",
-        "source": "Dev.to AI",
-        "description": "The recent report about Google potentially partnering with SpaceX to utilize their infrastructure for AI data centers warrants a closer examination of the technical and strategic implications. \n\nFr...",
-        "is_important": false,
-        "tags": []
     }
 ]
