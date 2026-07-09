@@ -2740,6 +2740,15 @@
         "is_important": false
     },
     {
+        "title": "Breaking the Spell of Vibe Coding",
+        "link": "https://www.fast.ai/posts/2026-01-28-dark-flow/",
+        "date": "Wed, 28 Jan 2026 00:00:00 GMT",
+        "source": "Fast.ai",
+        "description": "Sinister variations on the positive state of flow",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "StarCoder2 and The Stack v2",
         "link": "https://huggingface.co/blog/starcoder2",
         "date": "Wed, 28 Feb 2024 00:00:00 GMT",
@@ -13251,6 +13260,17 @@
         "is_important": false
     },
     {
+        "title": "How To Use AI for the Ancient Art of Close Reading",
+        "link": "https://www.fast.ai/posts/2026-01-21-reading-LLMs/",
+        "date": "Wed, 21 Jan 2026 00:00:00 GMT",
+        "source": "Fast.ai",
+        "description": "Experiments in reading with LLMs",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Welcome Gemma - Google’s new open LLM",
         "link": "https://huggingface.co/blog/gemma",
         "date": "Wed, 21 Feb 2024 00:00:00 GMT",
@@ -20710,6 +20730,15 @@
         "is_important": false
     },
     {
+        "title": "How to Solve it With Code course now available",
+        "link": "https://www.fast.ai/posts/2025-10-15-solveit2.html",
+        "date": "Wed, 15 Oct 2025 00:00:00 GMT",
+        "source": "Fast.ai",
+        "description": "An email sent to all fast.ai forum users.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "An Overview of Instruction Tuning Data",
         "link": "https://www.ruder.io/an-overview-of-instruction-tuning-data/",
         "date": "Wed, 15 Nov 2023 20:03:00 GMT",
@@ -23955,37 +23984,6 @@
         "date": "Wed, 13 May 2026 14:46:05 +0000",
         "source": "Dev.to AI",
         "description": "Turn any AI feature spec into a context architecture document.\n\nBefore you use this prompt, read:An Illustrated Guide to Context Engineering, Prompt Engineering, and The Future of Both\n\n\n\n\nContinue...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "# The Algorithmic DBA: AI's Inroads into Database Query Optimization",
-        "link": "https://dev.to/pranith_m_05c4bc7561a6ffd/-the-algorithmic-dba-ais-inroads-into-database-query-optimization-50mh",
-        "date": "Wed, 13 May 2026 14:45:52 +0000",
-        "source": "Dev.to AI",
-        "description": "The traditional database query optimizer, a cornerstone of relational database management systems for decades, operates on a fundamentally limited premise: it makes decisions based on static statis...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Retrieval Is a Second User: threat-modeling AI agent trust boundaries",
-        "link": "https://dev.to/armorer_labs/retrieval-is-a-second-user-threat-modeling-ai-agent-trust-boundaries-4m9j",
-        "date": "Wed, 13 May 2026 14:45:41 +0000",
-        "source": "Dev.to AI",
-        "description": "Retrieval Is a Second User: threat-modeling AI agent trust boundaries\n\n\nMost prompt-injection discussions still talk as if the only thing that matters is the user prompt. That is no longer the real...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "An Illustrated Guide to Context Engineering, Prompt Engineering, and The Future of Both",
-        "link": "https://dev.to/with_attitude/an-illustrated-guide-to-context-engineering-prompt-engineering-and-the-future-of-both-hel",
-        "date": "Wed, 13 May 2026 14:45:30 +0000",
-        "source": "Dev.to AI",
-        "description": "What I've learned about context engineering as an AI PM. Plus the Skill and the prompt I use to pressure-test it.\n\nLast week, I came across a job post that asked for context engineering skills, but...",
         "is_important": false,
         "tags": [
             "💬 LLMs & NLP"
