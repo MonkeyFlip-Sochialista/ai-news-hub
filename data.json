@@ -20771,6 +20771,157 @@
         "is_important": false
     },
     {
+        "title": "The Agent Runtime Got Heavy: Rethinking Sandboxes with Codex App Server",
+        "link": "https://dev.to/gyu07/the-agent-runtime-got-heavy-rethinking-sandboxes-with-codex-app-server-5edf",
+        "date": "Wed, 15 Jul 2026 03:06:18 +0000",
+        "source": "Dev.to AI",
+        "description": "Once an AI agent moves past being a chat box — reading and writing files, installing dependencies, running tests, watching them fail and retrying — the model alone stops being a product. The agent ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Death of Design by Committee in the Age of AI",
+        "link": "https://dev.to/norviktech/the-death-of-design-by-committee-in-the-age-of-ai-297f",
+        "date": "Wed, 15 Jul 2026 03:05:46 +0000",
+        "source": "Dev.to AI",
+        "description": "Originally published at norvik.tech\n\n\n\n  \n  \n  Introduction\n\n\nAnalyzing the shift from collaborative design to autonomous creativity in tech. Understand its implications for development.\n\n\n  \n  \n  ...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Modern Microsoft Teams Architecture in 2026: Apps, Bots, and Agents Aren't the Same Thing",
+        "link": "https://dev.to/avinash247/modern-microsoft-teams-architecture-in-2026-apps-bots-and-agents-arent-the-same-thing-2o45",
+        "date": "Wed, 15 Jul 2026 03:04:56 +0000",
+        "source": "Dev.to AI",
+        "description": "The Problem With \"Teams Bot\" as a Catch-All Term\n\n\nIf you've shipped anything inside Microsoft Teams over the last few years, you've probably called it a \"bot\" regardless of what it actually does. ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A Practical Prompt Workflow for Consistent AI Images",
+        "link": "https://dev.to/chatgptimageapp/a-practical-prompt-workflow-for-consistent-ai-images-199c",
+        "date": "Wed, 15 Jul 2026 03:04:05 +0000",
+        "source": "Dev.to AI",
+        "description": "AI image generation becomes much more predictable when the prompt is treated as a small design specification instead of a collection of adjectives. The goal is not to write the longest prompt. The ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Your Server Room Monitoring System Knows What Happened—But Does It Know Exactly When?",
+        "link": "https://dev.to/phuc_bach_22e/your-server-room-monitoring-system-knows-what-happened-but-does-it-know-exactly-when-1k9m",
+        "date": "Wed, 15 Jul 2026 03:03:20 +0000",
+        "source": "Dev.to AI",
+        "description": "Modern server room monitoring platforms can detect temperature spikes, humidity changes, water leaks, smoke, power failures, and cooling system issues in real time.\n\nBut here's a question that isn'...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Integrating Open-Weight LLMs via API: A Practical Guide for Developers",
+        "link": "https://dev.to/sbt112321321/integrating-open-weight-llms-via-api-a-practical-guide-for-developers-1cfb",
+        "date": "Wed, 15 Jul 2026 03:00:56 +0000",
+        "source": "Dev.to AI",
+        "description": "Integrating Open-Weight LLMs via API: A Practical Guide for Developers\n\n\nTags: #ai #api #opensource #tutorial\n\n\n\n\n\n  \n  \n  Introduction\n\n\nThe AI landscape is shifting. While proprietary models domi...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Building Your Profit Margin Guardrails: The AI's Business Rules",
+        "link": "https://dev.to/ken_deng_ai/building-your-profit-margin-guardrails-the-ais-business-rules-38kk",
+        "date": "Wed, 15 Jul 2026 03:00:52 +0000",
+        "source": "Dev.to AI",
+        "description": "We need to produce a concise Dev.to article 400-500 words. Must include title, intro (2-3 sentences), core explaining ONE key principle or framework clearly, include 1 specific tool name and its pu...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "TinaFace: Strong but Simple Baseline for Face Detection",
+        "link": "https://dev.to/paperium/tinaface-strong-but-simple-baseline-for-face-detection-5hbf",
+        "date": "Wed, 15 Jul 2026 03:00:28 +0000",
+        "source": "Dev.to AI",
+        "description": "{{ $json.postContent }}",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A differential oracle: making agentic code prove its own correctness",
+        "link": "https://dev.to/erik_hill_d7e478733fc524d/a-differential-oracle-making-agentic-code-prove-its-own-correctness-4ce7",
+        "date": "Wed, 15 Jul 2026 02:58:44 +0000",
+        "source": "Dev.to AI",
+        "description": "Six months ago I was running a kitchen. I taught myself to build agentic systems, and the thing I'm proudest of is the part nobody demos: the evaluation layer.\n\nCoding agents are easy to demo and h...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI may be the toughest challenge Anthony Albanese faces this term. Guardrails are urgently needed | Peter Lewis",
+        "link": "https://www.theguardian.com/commentisfree/2026/jul/15/australia-ai-challenge-anthony-albanese",
+        "date": "Wed, 15 Jul 2026 02:53:48 GMT",
+        "source": "The Guardian AI",
+        "description": "Coherent decision-making and internal accountability are critical to meeting this manic momentAnthony Albanese promises fast-track approvals for datacentres to shore up AI investmentThe University ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Local AI for business: cut costs without sending data to the cloud",
+        "link": "https://dev.to/dgmh10uk/local-ai-for-business-cut-costs-without-sending-data-to-the-cloud-4che",
+        "date": "Wed, 15 Jul 2026 02:52:49 +0000",
+        "source": "Dev.to AI",
+        "description": "Local AI for Business: Cut Costs Without Sending Data to the Cloud\n\n\nThe buzz around Artificial Intelligence (AI) is undeniable. Businesses are eager to leverage its potential for improved efficien...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "What we measured building Magical Song at Inithouse: AI custom song generator in numbers",
+        "link": "https://dev.to/jakub_inithouse/what-we-measured-building-magical-song-at-inithouse-ai-custom-song-generator-in-numbers-3ob8",
+        "date": "Wed, 15 Jul 2026 02:50:31 +0000",
+        "source": "Dev.to AI",
+        "description": "Magical Song by Inithouse has produced over 1,200 custom songs since launch. That number is the starting point for everything else we measure about running an AI custom song generator with real voc...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "&#8216;Saaspocalypse&#8217; or ‘Metamorphosis’? Amperity&#8217;s Billy Loizou says data will be the real",
+        "link": "https://dev.to/sam_raisinghani_b6dec128c/8216saaspocalypse8217-or-metamorphosis-amperity8217s-billy-loizou-says-data-will-be-the-5gk1",
+        "date": "Wed, 15 Jul 2026 02:49:15 +0000",
+        "source": "Dev.to AI",
+        "description": "Originally published on Progressino\n\n\nBy the Strategy Desk at Progressino\n\nEditor's note: This article explores 'Saaspocalypse' or ‘Metamorphosis’? Amperity's Billy Loizou says data will be the rea...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why I'm using wired Android Auto when all the cool kids are switching to wireless",
+        "link": "https://www.zdnet.com/article/why-im-using-wired-android-auto-when-all-the-cool-kids-are-switching-to-wireless/",
+        "date": "Wed, 15 Jul 2026 01:00:43 GMT",
+        "source": "ZDNet AI",
+        "description": "Sometimes, you have to dial back the tech to make ends meet.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Data Centers to Add Billions in Power Costs in 13 States",
+        "link": "https://www.nytimes.com/2026/07/14/business/energy-environment/pjm-electricity-prices-data-centers.html",
+        "date": "Wed, 15 Jul 2026 00:39:01 +0000",
+        "source": "NYT Tech",
+        "description": "A power auction conducted by a giant grid operator is expected to add $6.3 billion in additional charges to consumers and businesses because of electricity needs of data centers.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI researcher Miles Wang in talks to launch AI drug discovery startup valued at $2B",
+        "link": "https://techcrunch.com/2026/07/14/openai-researcher-miles-wang-in-talks-to-launch-ai-drug-discovery-startup-valued-at-2b/",
+        "date": "Wed, 15 Jul 2026 00:27:04 +0000",
+        "source": "TechCrunch AI",
+        "description": "The funding discussions point to investor interest in applying AI to make breakthroughs in life sciences.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Partnering with Axios expands OpenAI’s work with the news industry",
         "link": "https://openai.com/index/partnering-with-axios-expands-openai-work-with-the-news-industry",
         "date": "Wed, 15 Jan 2025 03:00:00 GMT",
@@ -23840,153 +23991,5 @@
         "description": "May 2026 update: We’ve refreshed this post to reflect our mid-cycle positioning and the evolution of our platform since the report was first published last November. \nLast fall, Google was recogniz...",
         "is_important": true,
         "tags": []
-    },
-    {
-        "title": "AI ambition is crashing into a decade of deferred IT maintenance, says Red Hat CEO",
-        "link": "https://siliconangle.com/2026/05/13/enterprise-ai-infrastructure-modernization-now-urgent-rhsummit/",
-        "date": "Wed, 13 May 2026 16:35:28 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Enterprise AI infrastructure modernization has reached a critical crossroads as organizations grapple with decades of technical debt while facing intense pressure to deploy AI — and returning to IT...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Who trusts Sam Altman?",
-        "link": "https://techcrunch.com/2026/05/13/who-trusts-sam-altman/",
-        "date": "Wed, 13 May 2026 16:31:04 +0000",
-        "source": "TechCrunch AI",
-        "description": "\"I believe I am an honest and trustworthy business person,\" Altman testified in federal court.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Origin Lab raises $8M to help video game companies sell data to world-model builders",
-        "link": "https://techcrunch.com/2026/05/13/origin-lab-raises-8m-to-help-video-game-companies-sell-data-to-world-model-builders/",
-        "date": "Wed, 13 May 2026 16:22:01 +0000",
-        "source": "TechCrunch AI",
-        "description": "Origin Lab will serve as a marketplace where AI labs can buy high-quality licensed data, and video-game companies can sell it.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "T-Mobile will give you $400 just for switching - here's how to qualify",
-        "link": "https://www.zdnet.com/article/t-mobile-gift-card-deal/",
-        "date": "Wed, 13 May 2026 16:17:38 GMT",
-        "source": "ZDNet AI",
-        "description": "Get a $300 or $400 prepaid Mastercard when you bring your device and old number to T-Mobile. We break down the deal.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "GridSFM: A new, small foundation model for the electric grid",
-        "link": "https://www.microsoft.com/en-us/research/blog/gridsfm-a-new-small-foundation-model-for-the-electric-grid/",
-        "date": "Wed, 13 May 2026 16:00:20 +0000",
-        "source": "Microsoft Research",
-        "description": "Introducing GridSFM, a small foundation model that can predict AC optimal power flow in milliseconds, boosting efficiency and unlocking cost savings. Learn how GridSFM gives grid operators direct v...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The power of LLMs on your data, more than two orders of magnitude faster and cheaper",
-        "link": "https://cloud.google.com/blog/products/data-analytics/more-than-100x-faster-and-cheaper-llm-powered-sql-queries-with-proxy-models/",
-        "date": "Wed, 13 May 2026 16:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "Databases have introduced new AI-powered SQL functions which take natural language instructions as input and are evaluated using LLMs. They leverage the power of LLMs to answer new kinds of queries...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How Glance turns hours of video into mobile-ready clips with AI",
-        "link": "https://cloud.google.com/blog/products/media-entertainment/how-glance-turns-hours-of-video-into-mobile-ready-clips-with-ai/",
-        "date": "Wed, 13 May 2026 16:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "Every day, thousands of hours of new video content sits waiting to be discovered. Most of it lives in long-form, horizontal formats, while audiences are scrolling through vertical feeds on their ph...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Anthropic courts a new kind of customer: small business owners",
-        "link": "https://techcrunch.com/2026/05/13/anthropic-courts-a-new-kind-of-customer-small-business-owners/",
-        "date": "Wed, 13 May 2026 16:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "For founders and investors, Anthropic's new offering signals that the AI platform wars are expanding downmarket and that the next major battleground for user acquisition isn't the Fortune 500; it's...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "One in seven in UK prefer consulting AI chatbots to seeing doctor, study finds",
-        "link": "https://www.theguardian.com/society/2026/may/13/one-in-seven-prefer-ai-chatbots-to-seeing-doctor-uk-study",
-        "date": "Wed, 13 May 2026 15:55:17 GMT",
-        "source": "The Guardian AI",
-        "description": "Exclusive: Doctors say ‘highly concerning’ poll highlights risk to patients of turning to AI for medical adviceOne in seven people are using AI chatbots for health advice instead of seeing their GP...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Get Audible for 30 days totally free - here's how",
-        "link": "https://www.zdnet.com/article/audible-free-trial-deal/",
-        "date": "Wed, 13 May 2026 15:53:00 GMT",
-        "source": "ZDNet AI",
-        "description": "I recently signed up for Audible's free trial deal, and I'm glad I did. Here's what to know.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Veeam’s big pivot on display at VeeamON 2026",
-        "link": "https://siliconangle.com/2026/05/13/veeams-big-pivot-display-veeamon-2026/",
-        "date": "Wed, 13 May 2026 15:46:45 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Veeam Software Group GmbH used VeeamON 2026 in New York City this week to punctuate its shift from “the backup company” to a data and artificial intelligence trust platform for the agentic era. Wit...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "New Wikipedia Clone Made Entirely of AI Hallucinations",
-        "link": "https://futurism.com/artificial-intelligence/deranged-wikipedia-clone-made-entirely-of-ai-hallucinations",
-        "date": "Wed, 13 May 2026 15:09:11 -0400",
-        "source": "Futurism AI",
-        "description": "An entire \"universe\" of nonsensical information that somehow all still fits together.\nThe post New Wikipedia Clone Made Entirely of AI Hallucinations appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Your TV's RS-232 port is a powerful automation tool - how to unlock it (and what it can do)",
-        "link": "https://www.zdnet.com/article/what-is-the-tvs-rss232-serial-port-and-what-it-can-do/",
-        "date": "Wed, 13 May 2026 15:00:38 GMT",
-        "source": "ZDNet AI",
-        "description": "The RS-232 serial port on your smart TV isn't just for professional diagnostics. Here's how to unlock it for more advanced programming.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
-        "link": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
-        "date": "Wed, 13 May 2026 14:59:32 +0000",
-        "source": "TechCrunch AI",
-        "description": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and auto...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Chinese court awards compensation to sacked worker replaced by AI",
-        "link": "https://www.theguardian.com/world/2026/may/13/china-court-awards-compensation-sacked-worker-replaced-by-ai",
-        "date": "Wed, 13 May 2026 14:58:57 GMT",
-        "source": "The Guardian AI",
-        "description": "Case attracts widespread attention as example of China balancing enthusiastic adoption of AI with job securityA court in China has ruled in favour of a worker whose company replaced him with artifi...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Prompt: The Context Spec Generator",
-        "link": "https://dev.to/with_attitude/prompt-the-context-spec-generator-4o32",
-        "date": "Wed, 13 May 2026 14:46:05 +0000",
-        "source": "Dev.to AI",
-        "description": "Turn any AI feature spec into a context architecture document.\n\nBefore you use this prompt, read:An Illustrated Guide to Context Engineering, Prompt Engineering, and The Future of Both\n\n\n\n\nContinue...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
