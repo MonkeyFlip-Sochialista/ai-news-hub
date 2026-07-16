@@ -20771,6 +20771,63 @@
         "is_important": false
     },
     {
+        "title": "Microsoft is reportedly training salespeople to talk down OpenAI and Anthropic",
+        "link": "https://techcrunch.com/2026/07/15/microsoft-is-reportedly-training-salespeople-to-talk-down-openai-and-anthropic/",
+        "date": "Wed, 15 Jul 2026 23:59:44 +0000",
+        "source": "TechCrunch AI",
+        "description": "Microsoft is looking to sell its in-house AI models as more efficient and cost-effective than its competitors' models.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
+        "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
+        "date": "Wed, 15 Jul 2026 23:00:54 +0000",
+        "source": "NVIDIA Blog",
+        "description": "General-purpose robots and autonomous machines are moving from research labs to real-world mass-market deployment, creating demand for compact, power-efficient AI supercomputers capable of running ...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Startup Raises $50 Million to Develop Sovereign AI Infrastructure",
+        "link": "https://aibusiness.com/generative-ai/startup-banks-50-million-develop-sovereign-ai-infrastructure",
+        "date": "Wed, 15 Jul 2026 21:42:30 GMT",
+        "source": "AI Business",
+        "description": "Sovereign AI has been flourishing around the world, but usually with infrastructure built by U.S. tech giants.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Perplexity AI Introduces Space Sandbox for Agents",
+        "link": "https://aibusiness.com/agentic-ai/perplexity-ai-introduces-sandbox-for-agents",
+        "date": "Wed, 15 Jul 2026 20:48:12 GMT",
+        "source": "AI Business",
+        "description": "The platform shows how the search vendor is evolving its strategy.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "5 smart home gadgets I consider completely non-negotiable - and why",
+        "link": "https://www.zdnet.com/article/5-smart-home-gadgets-i-consider-completely-non-negotiable-and-why/",
+        "date": "Wed, 15 Jul 2026 19:50:18 GMT",
+        "source": "ZDNet AI",
+        "description": "These smart home gadgets elevate my home and routine. Here's why you may want them too.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+        "link": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+        "date": "Wed, 15 Jul 2026 19:41:38 +0000",
+        "source": "TechCrunch AI",
+        "description": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+        "is_important": true,
+        "tags": []
+    },
+    {
         "title": "AIoT: The Next Frontier for Software Developers",
         "link": "https://dev.to/emmanuella1203/aiot-the-next-frontier-for-software-developers-5dk8",
         "date": "Wed, 15 Jul 2026 19:13:17 +0000",
@@ -20885,6 +20942,15 @@
         "tags": []
     },
     {
+        "title": "Judge Dismisses Suit Accusing Apple of Failing to Limit Child Sex Abuse Material",
+        "link": "https://www.nytimes.com/2026/07/15/technology/apple-lawsuit-child-sexual-abuse-dismissed.html",
+        "date": "Wed, 15 Jul 2026 18:58:16 +0000",
+        "source": "NYT Tech",
+        "description": "The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "AI Isn’t Smarter Than a Baby—Yet",
         "link": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
         "date": "Wed, 15 Jul 2026 18:30:00 +0000",
@@ -20943,6 +21009,15 @@
     {
         "title": "SpaceX slips below its $135 IPO price ahead of Starship launch",
         "link": "https://techcrunch.com/2026/07/15/spacex-slips-below-its-135-ipo-price-ahead-of-starship-launch/",
+        "date": "Wed, 15 Jul 2026 18:06:05 +0000",
+        "source": "TechCrunch AI",
+        "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+        "link": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
         "date": "Wed, 15 Jul 2026 18:06:05 +0000",
         "source": "TechCrunch AI",
         "description": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
@@ -21062,6 +21137,24 @@
         "tags": []
     },
     {
+        "title": "Sixteen Nobel-Winning Economists Warn That Major AI Job Losses Are Coming",
+        "link": "https://futurism.com/artificial-intelligence/economists-warning-ai-job-losses",
+        "date": "Wed, 15 Jul 2026 16:41:45 -0400",
+        "source": "Futurism AI",
+        "description": "The consequences could be devastating.\nThe post Sixteen Nobel-Winning Economists Warn That Major AI Job Losses Are Coming appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "3 Questions: Neural transparency and the future of AI design",
+        "link": "https://news.mit.edu/2026/3-questions-neural-transparency-and-future-of-ai-design-0715",
+        "date": "Wed, 15 Jul 2026 16:25:00 -0400",
+        "source": "MIT News AI",
+        "description": "Assistant Professor Pat Pataranutaporn describes a new interface that lets everyday users glimpse inside an AI's neural network before their chatbot ever says a word.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "I turned my Moto Razr into a tiny workstation - and wrote this entire story on it",
         "link": "https://www.zdnet.com/article/motorola-razr-tiny-workstation/",
         "date": "Wed, 15 Jul 2026 16:22:00 GMT",
@@ -21103,6 +21196,15 @@
         "date": "Wed, 15 Jul 2026 15:46:11 GMT",
         "source": "ZDNet AI",
         "description": "I try to be diligent about my default firewall policies and which apps access the internet. A simple-to-use tool called Firewally​ makes it easy.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI Strikes Bold Deal With Kalshi to Mix Together the Most Hated Technologies in Existence: AI and Prediction Markets",
+        "link": "https://futurism.com/artificial-intelligence/openai-deal-kalshi-prediction-markets",
+        "date": "Wed, 15 Jul 2026 15:33:08 -0400",
+        "source": "Futurism AI",
+        "description": "A match made in hell.\nThe post OpenAI Strikes Bold Deal With Kalshi to Mix Together the Most Hated Technologies in Existence: AI and Prediction Markets appeared first on Futurism.",
         "is_important": false,
         "tags": []
     },
@@ -22014,6 +22116,29 @@
         "is_important": false,
         "tags": [
             "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "CLaRa: Bridging Retrieval and Generation with Continuous Latent Reasoning",
+        "link": "https://machinelearning.apple.com/research/clara-latent-reasoning",
+        "date": "Wed, 15 Jul 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "Retrieval-augmented generation (RAG) enhances large language models (LLMs) with external knowledge but still suffers from long contexts and disjoint retrieval–generation optimization. In this work,...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Uncertainty Quantification for LLM Function-Calling",
+        "link": "https://machinelearning.apple.com/research/uncertainty-quantification-function-calling",
+        "date": "Wed, 15 Jul 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "Large Language Models (LLMs) are increasingly deployed to autonomously solve real-world tasks. A key ingredient for this is the LLM Function-Calling paradigm, a widely used approach for equipping L...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "🤖 Robótica"
         ]
     },
     {
@@ -23881,126 +24006,5 @@
         "description": "AI may be 'minimally sufficient' at certain work tasks by 2029, according to new MIT research. An expert offers some advice on how to prepare.",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "Inside VAKRA: Reasoning, Tool Use, and Failure Modes of Agents",
-        "link": "https://huggingface.co/blog/ibm-research/vakra-benchmark-analysis",
-        "date": "Wed, 15 Apr 2026 12:07:25 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Booking.com customers warned of 'reservation hijacking' after hack",
-        "link": "https://www.bbc.com/news/articles/cly00jnnxypo?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 15 Apr 2026 12:05:58 GMT",
-        "source": "BBC Tech",
-        "description": "The travel platform said it had changed Pins to protect customers but would not say how many were affected.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "5 Techniques for Efficient Long-Context RAG",
-        "link": "https://machinelearningmastery.com/5-techniques-for-efficient-long-context-rag/",
-        "date": "Wed, 15 Apr 2026 12:00:40 +0000",
-        "source": "Machine Learning Mastery",
-        "description": "<a href=\"https://machinelearningmastery.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Top 5 Extensions for VS Code That Aren’t Copilot",
-        "link": "https://www.kdnuggets.com/top-5-extensions-for-vs-code-that-arent-copilot",
-        "date": "Wed, 15 Apr 2026 12:00:01 +0000",
-        "source": "KDnuggets",
-        "description": "Discover five simple VS Code extensions that boost your everyday productivity without AI.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Berklee College of Music Students Furious That It’s Offering an AI “Songwriting” Class",
-        "link": "https://futurism.com/artificial-intelligence/berklee-college-ai-music",
-        "date": "Wed, 15 Apr 2026 11:05:29 -0400",
-        "source": "Futurism AI",
-        "description": "\"As a Berklee grad, I'm appalled at the questionable use of AI in creative classes.\"\nThe post Berklee College of Music Students Furious That It&#8217;s Offering an AI &#8220;Songwriting&#8221; Clas...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Drones get smarter for large farm holdings",
-        "link": "https://www.artificialintelligence-news.com/news/agricultural-drones-get-smarter-for-large-farm-holdings/",
-        "date": "Wed, 15 Apr 2026 11:03:00 +0000",
-        "source": "Artificial Intelligence News",
-        "description": "Singapore-based DroneDash Technologies and GEODNET have formed a joint venture to be called GEODASH Aerosystems, to build an agricultural spraying drone for large industrial farms. The companies sa...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "The best internal communication tools of 2026: Expert tested and reviewed",
-        "link": "https://www.zdnet.com/article/best-internal-communication-tools/",
-        "date": "Wed, 15 Apr 2026 11:01:14 GMT",
-        "source": "ZDNet AI",
-        "description": "If your office works remotely in any way, you'll need reliable internal communication tools to keep information flowing smoothly and everyone on the same page.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI Slop Is Making the Internet Fake-Happy",
-        "link": "https://www.wired.com/story/ai-slop-is-changing-the-internet-just-not-how-you-might-think/",
-        "date": "Wed, 15 Apr 2026 11:00:00 +0000",
-        "source": "Wired AI",
-        "description": "A new study examines the impact of the rise of AI-generated websites on the internet—and found some surprising results.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Tell us your experience with AI in job interviews",
-        "link": "https://www.theguardian.com/money/2026/apr/15/tell-us-your-experience-with-ai-in-job-interviews",
-        "date": "Wed, 15 Apr 2026 10:27:06 GMT",
-        "source": "The Guardian AI",
-        "description": "We would like to hear your experience of job interviews that were conducted partially or wholly by AICompanies are increasingly using AI in their hiring processes – including conducting job intervi...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Google to punish sites that trap people in with back button tricks",
-        "link": "https://www.bbc.com/news/articles/c05dd2yj3z3o?at_medium=RSS&at_campaign=rss",
-        "date": "Wed, 15 Apr 2026 10:02:19 GMT",
-        "source": "BBC Tech",
-        "description": "The tech giant said it will punish sites that block back button navigation from June.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "TAI #200: Anthropic’s Mythos Capability Step Change and Gated Release",
-        "link": "https://towardsai.net/p/machine-learning/tai-200-anthropics-mythos-capability-step-change-and-gated-release",
-        "date": "Wed, 15 Apr 2026 10:01:02 +0000",
-        "source": "Towards AI",
-        "description": "Last Updated on April 16, 2026 by Editorial Team Author(s): Towards AI Editorial Team Originally published on Towards AI. What happened this week in AI by Louie This week, Anthropic unveiled a new ...",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "The next evolution of the Agents SDK",
-        "link": "https://openai.com/index/the-next-evolution-of-the-agents-sdk",
-        "date": "Wed, 15 Apr 2026 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI updates the Agents SDK with native sandbox execution and a model-native harness, helping developers build secure, long-running agents across files and tools.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Deepfake Nudes Crisis in Schools Is Much Worse Than You Thought",
-        "link": "https://www.wired.com/story/deepfake-nudify-schools-global-crisis/",
-        "date": "Wed, 15 Apr 2026 10:00:00 +0000",
-        "source": "Wired AI",
-        "description": "An analysis by WIRED and Indicator found nearly 90 schools and 600 students around the world impacted by AI-generated deepfake nude images—and the problem shows no signs of going away.",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
     }
 ]
