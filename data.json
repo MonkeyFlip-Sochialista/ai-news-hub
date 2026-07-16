@@ -20789,6 +20789,26 @@
         "tags": []
     },
     {
+        "title": "Thinking Machines Lab Releases Inkling: A 975B-Parameter Open-Weights Multimodal MoE With 41B Active Parameters And Controllable Thinking Effort",
+        "link": "https://www.marktechpost.com/2026/07/15/thinking-machines-lab-releases-inkling-a-975b-parameter-open-weights-multimodal-moe-with-41b-active-parameters-and-controllable-thinking-effort/",
+        "date": "Wed, 15 Jul 2026 23:48:58 +0000",
+        "source": "MarkTechPost",
+        "description": "Thinking Machines Lab released Inkling on July 15, 2026, its first model trained from scratch. The full weights ship under Apache 2.0. It is a 975B-parameter Mixture-of-Experts transformer with 41B...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "I Gave Claude a Memory That Survives Between Conversations — Here’s the MCP Server That Does It",
+        "link": "https://towardsai.com/p/machine-learning/i-gave-claude-a-memory-that-survives-between-conversations-heres-the-mcp-server-that-does-it",
+        "date": "Wed, 15 Jul 2026 23:01:01 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on July 16, 2026 by Editorial Team Author(s): Sai Insights Originally published on Towards AI. I Gave Claude a Memory That Survives Between Conversations — Here’s the MCP Server That D...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
         "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
         "date": "Wed, 15 Jul 2026 23:00:54 +0000",
@@ -20812,6 +20832,17 @@
         ]
     },
     {
+        "title": "The Hidden Cost of Letting AI Agents Write Your Tests",
+        "link": "https://towardsai.com/p/machine-learning/the-hidden-cost-of-letting-ai-agents-write-your-tests",
+        "date": "Wed, 15 Jul 2026 22:01:01 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on July 16, 2026 by Editorial Team Author(s): Sarath S Originally published on Towards AI. I asked Claude to write tests for a payment processing module last week. It generated 47 test...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Startup Raises $50 Million to Develop Sovereign AI Infrastructure",
         "link": "https://aibusiness.com/generative-ai/startup-banks-50-million-develop-sovereign-ai-infrastructure",
         "date": "Wed, 15 Jul 2026 21:42:30 GMT",
@@ -20830,6 +20861,15 @@
         "tags": []
     },
     {
+        "title": "Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transformer MoE Foundation Model For German And English",
+        "link": "https://www.marktechpost.com/2026/07/15/soofi-consortium-releases-soofi-s-30b-a3b-an-open-hybrid-mamba-transformer-moe-foundation-model-for-german-and-english/",
+        "date": "Wed, 15 Jul 2026 21:02:48 +0000",
+        "source": "MarkTechPost",
+        "description": "Soofi S 30B-A3B is an open Mamba-Transformer MoE model activating 3.2B of 31.6B parameters for German and English\nThe post Soofi Consortium Releases Soofi S 30B-A3B: An Open Hybrid Mamba-Transforme...",
+        "is_important": true,
+        "tags": []
+    },
+    {
         "title": "Perplexity AI Introduces Space Sandbox for Agents",
         "link": "https://aibusiness.com/agentic-ai/perplexity-ai-introduces-sandbox-for-agents",
         "date": "Wed, 15 Jul 2026 20:48:12 GMT",
@@ -20844,6 +20884,17 @@
         "date": "Wed, 15 Jul 2026 20:43:15 +0000",
         "source": "SiliconANGLE AI",
         "description": "Monumental BV, a Dutch startup that operates a fleet of bricklaying robots, has raised $35 million in funding.  Khosla Ventures led the Series B investment. Monumental stated in its funding announc...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "The Semantic Layer is the Ultimate Battlefield in the Era of Agentic AI",
+        "link": "https://towardsai.com/p/machine-learning/the-semantic-layer-is-the-ultimate-battlefield-in-the-era-of-agentic-ai",
+        "date": "Wed, 15 Jul 2026 20:01:01 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on July 16, 2026 by Editorial Team Author(s): Vinayak Gole Originally published on Towards AI. How the shift from human dashboards to autonomous agents transformed a forgotten BI featu...",
         "is_important": false,
         "tags": [
             "🤖 Robótica"
@@ -20953,6 +21004,17 @@
         ]
     },
     {
+        "title": "Stop Prompting Claude Code, Start Engineering Loops: Master Agentic Automation",
+        "link": "https://towardsai.com/p/machine-learning/stop-prompting-claude-code-start-engineering-loops-master-agentic-automation",
+        "date": "Wed, 15 Jul 2026 19:01:04 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on July 16, 2026 by Editorial Team Author(s): allglenn Originally published on Towards AI. A prompt is a request. A loop is a system In early June 2026, a tweet from Peter Steinberger,...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Automating User Testing Feedback Synthesis with AI for Solo UX/UI Designers",
         "link": "https://dev.to/ken_deng_ai/automating-user-testing-feedback-synthesis-with-ai-for-solo-uxui-designers-4c9n",
         "date": "Wed, 15 Jul 2026 19:00:48 +0000",
@@ -20987,6 +21049,15 @@
         "date": "Wed, 15 Jul 2026 18:58:16 +0000",
         "source": "NYT Tech",
         "description": "The lawsuit highlighted concerns that the privacy of Apple’s iCloud allows illegal material to be easily stored and shared on the service.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "TAI #213: A Wave of New Frontier Competitors and the Multi-Agent Breakout",
+        "link": "https://towardsai.com/p/machine-learning/tai-213-a-wave-of-new-frontier-competitors-and-the-multi-agent-breakout",
+        "date": "Wed, 15 Jul 2026 18:56:03 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on July 16, 2026 by Editorial Team Author(s): Towards AI Editorial Team Originally published on Towards AI. Towards AI Deployment Some company news and a quick ask before this week’s s...",
         "is_important": false,
         "tags": []
     },
@@ -23928,80 +23999,6 @@
         "date": "Wed, 15 Apr 2026 13:50:46 +0000",
         "source": "Dev.to AI",
         "description": "Video is the king of engagement, but written text remains the undisputed champion of discoverability. Search engines still fundamentally parse the web through text, making blogs an irreplaceable as...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "FreeCodeCamp's Drone Programming Video Lacks Depth: Needs More Practical, Substantive Learning Approach.",
-        "link": "https://dev.to/ilyatech/freecodecamps-drone-programming-video-lacks-depth-needs-more-practical-substantive-learning-2bpi",
-        "date": "Wed, 15 Apr 2026 13:49:54 +0000",
-        "source": "Dev.to AI",
-        "description": "Critical Analysis of FreeCodeCamp's Educational Content Evolution: A Shift Towards Superficial AI-Assisted Learning\n\n\n\n  \n  \n  Mechanisms Underpinning the Shift\n\n\nFreeCodeCamp's recent educational ...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "AI Presentation Prompts: Building Decks That Don't Bore",
-        "link": "https://dev.to/lukefryer4/ai-presentation-prompts-building-decks-that-dont-bore-4ppf",
-        "date": "Wed, 15 Apr 2026 13:48:25 +0000",
-        "source": "Dev.to AI",
-        "description": "Quick Answer\n\n\n\nQuick Answer The biggest mistake professionals make when using AI for presentations is asking the AI to \"make me a 10-slide deck about X.\" This results in slides crammed with paragr...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "AI Image Generator Prompts: Mastering Visual AI",
-        "link": "https://dev.to/lukefryer4/ai-image-generator-prompts-mastering-visual-ai-4pcn",
-        "date": "Wed, 15 Apr 2026 13:47:50 +0000",
-        "source": "Dev.to AI",
-        "description": "Quick Answer\n\n\n\nQuick Answer Writing prompts for AI image generators (like DALL-E 3, Midjourney, or Stable Diffusion) requires you to stop thinking like a writer and start thinking like a film dire...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "An LLM Has No Idea It's Killing Your Infrastructure. That's Your Problem to Solve.",
-        "link": "https://dev.to/ola_the_builder/an-llm-has-no-idea-its-killing-your-infrastructure-thats-your-problem-to-solve-2m19",
-        "date": "Wed, 15 Apr 2026 13:46:46 +0000",
-        "source": "Dev.to AI",
-        "description": "I was mid-way through an architecture review for one of our internal Slack agents when something stopped me. We were sketching out the agentic loop (model receives a message, decides on an action, ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Why they won't vibecode everything: An anecdote",
-        "link": "https://dev.to/mihirmodi/why-they-wont-vibecode-everything-an-anecdote-5cb8",
-        "date": "Wed, 15 Apr 2026 13:45:42 +0000",
-        "source": "Dev.to AI",
-        "description": "I was recently speaking to a very dear friend who isn't a dev but has an itch to build, and he's been learning tools quickly, helping him vibe code fun things like a personal site, a fidget spinner...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI Agents Can’t Write… Until They Join a Workshop",
-        "link": "https://dev.to/bandini/ai-agents-cant-write-until-they-join-a-workshop-1gdg",
-        "date": "Wed, 15 Apr 2026 13:44:28 +0000",
-        "source": "Dev.to AI",
-        "description": "They say AI writes poorly. That might be because good literature is diluted within massive amounts of mediocre text used for training. As a result, language models tend to converge toward barely ac...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "What is Nasdaq Boardvantage?",
-        "link": "https://dev.to/boardpotalinsights/what-is-nasdaq-boardvantage-2fke",
-        "date": "Wed, 15 Apr 2026 13:42:37 +0000",
-        "source": "Dev.to AI",
-        "description": "Nasdaq Boardvantage is a well-known board portal and collaboration platform designed to help corporate boards, committees, and leadership teams manage meetings, share documents securely, and stream...",
         "is_important": false,
         "tags": []
     }
