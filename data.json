@@ -20890,6 +20890,15 @@
         ]
     },
     {
+        "title": "SpaceX Briefly Falls Below I.P.O. Price of $135",
+        "link": "https://www.nytimes.com/2026/07/15/business/spacex-ipo-price.html",
+        "date": "Wed, 15 Jul 2026 20:12:53 +0000",
+        "source": "NYT Tech",
+        "description": "After soaring in its stock market debut, the shares of Elon Musk’s rocket and A.I. company have been rocky.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "The Semantic Layer is the Ultimate Battlefield in the Era of Agentic AI",
         "link": "https://towardsai.com/p/machine-learning/the-semantic-layer-is-the-ultimate-battlefield-in-the-era-of-agentic-ai",
         "date": "Wed, 15 Jul 2026 20:01:01 +0000",
@@ -23990,15 +23999,6 @@
         "date": "Wed, 15 Apr 2026 13:50:47 +0000",
         "source": "Dev.to AI",
         "description": "Generative AI is no longer a novelty—it's the core engine powering the next generation of developer productivity. \n\nHistorically, developers relied on static scripts or massive monolithic IDE plugi...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Content Repurposing: The Ultimate YouTube-to-Blog Workflow",
-        "link": "https://dev.to/themez_world_dc53aea53896/content-repurposing-the-ultimate-youtube-to-blog-workflow-c0j",
-        "date": "Wed, 15 Apr 2026 13:50:46 +0000",
-        "source": "Dev.to AI",
-        "description": "Video is the king of engagement, but written text remains the undisputed champion of discoverability. Search engines still fundamentally parse the web through text, making blogs an irreplaceable as...",
         "is_important": false,
         "tags": []
     }
