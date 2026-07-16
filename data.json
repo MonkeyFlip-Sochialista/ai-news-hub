@@ -20780,6 +20780,15 @@
         "tags": []
     },
     {
+        "title": "Mira Murati’s Thinking Machines drops Inkling, an open-weights model anyone can access",
+        "link": "https://siliconangle.com/2026/07/15/mira-muratis-thinking-machines-drops-inkling-open-weights-model-anyone-can-access/",
+        "date": "Wed, 15 Jul 2026 23:51:06 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Mira Murati’s Thinking Machines Lab Inc. today launched its first foundation model with the release of Inkling, making its full open weights available to developers so they can fine-tune it as they...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "NVIDIA Introduces New Jetson Thor Computers to Advance Mainstream Robotics and Edge AI",
         "link": "https://blogs.nvidia.com/blog/jetson-thor-robotics-edge-ai-agent/",
         "date": "Wed, 15 Jul 2026 23:00:54 +0000",
@@ -20788,6 +20797,17 @@
         "is_important": false,
         "tags": [
             "🤖 Robótica",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Cadence extends its AI agents beyond chips with AuraStack for circuit boards and packaging",
+        "link": "https://siliconangle.com/2026/07/15/cadence-extends-ai-agents-beyond-chips-aurastack-circuit-boards-packaging/",
+        "date": "Wed, 15 Jul 2026 22:30:52 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Integrated circuit and electronic hardware design company Cadence Design Systems Inc. today announced a new artificial intelligence agent that assists with packaging and system design, the step aft...",
+        "is_important": true,
+        "tags": [
             "⚙️ Hardware de IA"
         ]
     },
@@ -20801,6 +20821,15 @@
         "tags": []
     },
     {
+        "title": "AWS adds AI-assisted product listing service to its Marketplace portfolio",
+        "link": "https://siliconangle.com/2026/07/15/aws-product-listing-service-enterprise-agents-ai-awsmarketplaceseries/",
+        "date": "Wed, 15 Jul 2026 21:26:22 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Product listings in AWS Marketplace gained new AI-based features last month in anticipation of continued growth in the use of enterprise agents. Amazon Web Services Inc. unveiled AI-assisted produc...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Perplexity AI Introduces Space Sandbox for Agents",
         "link": "https://aibusiness.com/agentic-ai/perplexity-ai-introduces-sandbox-for-agents",
         "date": "Wed, 15 Jul 2026 20:48:12 GMT",
@@ -20808,6 +20837,17 @@
         "description": "The platform shows how the search vendor is evolving its strategy.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Construction robot startup Monumental reels in $32M",
+        "link": "https://siliconangle.com/2026/07/15/construction-robot-startup-monumental-reels-32m/",
+        "date": "Wed, 15 Jul 2026 20:43:15 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Monumental BV, a Dutch startup that operates a fleet of bricklaying robots, has raised $35 million in funding.  Khosla Ventures led the Series B investment. Monumental stated in its funding announc...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
     },
     {
         "title": "5 smart home gadgets I consider completely non-negotiable - and why",
@@ -21182,6 +21222,24 @@
         "tags": []
     },
     {
+        "title": "Atlassian evolves Jira into an orchestration hub for developers and AI agents",
+        "link": "https://siliconangle.com/2026/07/15/atlassian-evolves-jira-orchestration-hub-developers-ai-agents/",
+        "date": "Wed, 15 Jul 2026 16:00:47 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Atlassian Corp. today announced it is expanding Jira with updates that will help developers prepare, distribute and track work performed by artificial intelligence agents. The company’s new Jira Pl...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Perplexity launches secure sandbox to make its AI agents secure and powerful",
+        "link": "https://siliconangle.com/2026/07/15/perplexity-launches-secure-sandbox-make-ai-agents-secure-powerful/",
+        "date": "Wed, 15 Jul 2026 16:00:30 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Perplexity AI Inc. today introduced a new feature that takes its current agentic artificial intelligence service, Computer, to perform better with greater security. The company introduced SPACE, a ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "IDC: Why the right networking approach is foundational to agentic AI",
         "link": "https://cloud.google.com/blog/products/networking/idc-on-the-right-networking-approach-for-agentic-ai/",
         "date": "Wed, 15 Jul 2026 16:00:00 +0000",
@@ -21428,6 +21486,17 @@
         "tags": []
     },
     {
+        "title": "Chipmaker Axelera releases Voyager Wingman to speed edge AI development",
+        "link": "https://siliconangle.com/2026/07/15/chipmaker-axelera-releases-voyager-wingman-speed-edge-ai-development/",
+        "date": "Wed, 15 Jul 2026 13:00:34 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Edge artificial intelligence chip company Axelera AI B.V. today publicly released Voyager Wingman, an AI assistant that lets developers build and troubleshoot applications for its edge chips by typ...",
+        "is_important": true,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
         "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
         "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
         "date": "Wed, 15 Jul 2026 13:00:00 +0000",
@@ -21502,6 +21571,33 @@
         "tags": []
     },
     {
+        "title": "Emergent emerges as the latest AI unicorn after raising $130M in funding",
+        "link": "https://siliconangle.com/2026/07/15/emergent-emerges-latest-ai-unicorn-raising-130m-funding/",
+        "date": "Wed, 15 Jul 2026 12:00:54 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Emergent Labs Inc., a vibe coding startup that aims to give nontechnical users the tools to develop production-grade enterprise software, has closed on its third major round of funding in just 10 m...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AGI raises $70M to buy up and transform insurance firms into AI-native operations",
+        "link": "https://siliconangle.com/2026/07/15/agi-raises-70m-buy-transform-insurance-firms-ai-native-operations/",
+        "date": "Wed, 15 Jul 2026 12:00:50 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "A startup called American Growth Insurance said today it has raised almost $70 million in committed equity capital to transform the insurance industry. It plans to do so with an aggressive, technol...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Creatio expands beyond its no-code roots with conversational development tool and AI studio",
+        "link": "https://siliconangle.com/2026/07/15/creatio-expands-beyond-no-code-roots-conversational-development-tool-ai-studio/",
+        "date": "Wed, 15 Jul 2026 12:00:45 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Creatio Inc. today introduced what it calls a major update to its customer relationship management and workflow platform that enables business users and information technology teams to build, deplo...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Scikit-Ollama for Scikit-LLM/Ollama Integration",
         "link": "https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/",
         "date": "Wed, 15 Jul 2026 12:00:34 +0000",
@@ -21511,6 +21607,15 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
+    },
+    {
+        "title": "AI DevOps startup MyDecisive launches with $12M and open-source SmartHub",
+        "link": "https://siliconangle.com/2026/07/15/ai-devops-startup-mydecisive-launches-12m-open-source-smarthub/",
+        "date": "Wed, 15 Jul 2026 12:00:19 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Artificial intelligence DevOps startup MyDecisive formally launched today and announced $12 million in new funding to bring to market an open-source foundation for managing observability data and a...",
+        "is_important": false,
+        "tags": []
     },
     {
         "title": "The US is advancing AI safety through state and federal action",
@@ -22068,6 +22173,15 @@
         "date": "Wed, 15 Jul 2026 01:00:43 GMT",
         "source": "ZDNet AI",
         "description": "Sometimes, you have to dial back the tech to make ends meet.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Construction automation startup TerraFirma raises $115M",
+        "link": "https://siliconangle.com/2026/07/14/construction-automation-startup-terrafirma-raises-115m/",
+        "date": "Wed, 15 Jul 2026 00:44:15 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "TerraFirma Inc., a startup with a platform that enables construction teams to remotely operate heavy machinery, has raised $115 million in funding. The bulk of the capital arrived in the form of a ...",
         "is_important": false,
         "tags": []
     },
@@ -23888,122 +24002,6 @@
         "date": "Wed, 15 Apr 2026 13:42:37 +0000",
         "source": "Dev.to AI",
         "description": "Nasdaq Boardvantage is a well-known board portal and collaboration platform designed to help corporate boards, committees, and leadership teams manage meetings, share documents securely, and stream...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How AI is Reshaping Your Career: Embrace the Future of Work",
-        "link": "https://dev.to/themez_world_dc53aea53896/how-ai-is-reshaping-your-career-embrace-the-future-of-work-jh0",
-        "date": "Wed, 15 Apr 2026 13:42:08 +0000",
-        "source": "Dev.to AI",
-        "description": "How AI is Reshaping Your Career: Embrace the Future of Work\n\n\nAs we look towards 2026, one trend is increasingly evident: AI is changing the nature of work. This shift is not just for techies or th...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Harnessing AI for Unmatched Productivity: Transform Your Work Today",
-        "link": "https://dev.to/themez_world_dc53aea53896/harnessing-ai-for-unmatched-productivity-transform-your-work-today-3el3",
-        "date": "Wed, 15 Apr 2026 13:42:07 +0000",
-        "source": "Dev.to AI",
-        "description": "The AI Productivity Revolution in 2026\n\n\nAs we navigate through 2026, the landscape of work is evolving dramatically due to advancements in artificial intelligence (AI). One of the most compelling ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Boston Dynamics, Google DeepMind Partner on Industrial AI",
-        "link": "https://aibusiness.com/generative-ai/boston-dynamics-google-partner-industrial-ai",
-        "date": "Wed, 15 Apr 2026 13:12:52 GMT",
-        "source": "AI Business",
-        "description": "The vendors are using Google Gemini to bring more autonomous capabilities to Boston Dynamics’ industrial inspection systems.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Reid Hoffman weighs in on the ‘tokenmaxxing’ debate",
-        "link": "https://techcrunch.com/2026/04/15/reid-hoffman-weighs-in-on-the-tokenmaxxing-debate/",
-        "date": "Wed, 15 Apr 2026 13:06:54 +0000",
-        "source": "TechCrunch AI",
-        "description": "Reid Hoffman says tracking AI token use can gauge adoption, but cautions it should be paired with context and not treated as a direct productivity metric.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Adobe’s new Firefly AI assistant can use Creative Cloud apps to complete tasks",
-        "link": "https://techcrunch.com/2026/04/15/adobes-new-firefly-ai-assistant-can-use-creative-cloud-apps-to-complete-tasks/",
-        "date": "Wed, 15 Apr 2026 13:01:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "Adobe says the assistant can work across apps like Firefly, Photoshop, Premiere, Lightroom, Express,  Illustrator and its other apps to do tasks for you.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "New Adobe Premiere Color Grading Mode Accelerated on NVIDIA GPUs",
-        "link": "https://blogs.nvidia.com/blog/rtx-ai-garage-nab-adobe-premiere-color-mode/",
-        "date": "Wed, 15 Apr 2026 13:00:38 +0000",
-        "source": "NVIDIA Blog",
-        "description": "The NAB Show 2026 trade show, running April 18-22 in Las Vegas, is set to showcase a wave of new features and optimizations for top video editing applications. Bringing together over 60,000 content...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Gitar, a startup that uses agents to secure code, emerges from stealth with $9 million",
-        "link": "https://techcrunch.com/2026/04/15/gitar-a-startup-that-uses-agents-to-secure-code-emerges-from-stealth-with-9-million/",
-        "date": "Wed, 15 Apr 2026 13:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "The company uses AI to review code that, more often than not these days, has also been generated by AI.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "This startup is betting tokenmaxxing will create the next compute giant",
-        "link": "https://techcrunch.com/2026/04/15/parasail-raises-32m-to-feed-tokenmaxxing-ai-developers/",
-        "date": "Wed, 15 Apr 2026 13:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "Parasail raised $32 million in a Series A, signaling a fractured future of models and compute.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "‘Misogyny with a marketing budget’: UK AI firm accused of sexist advert",
-        "link": "https://www.theguardian.com/media/2026/apr/15/ai-firm-accused-sexist-advert-narwhal-labs-misogyny",
-        "date": "Wed, 15 Apr 2026 12:58:20 GMT",
-        "source": "The Guardian AI",
-        "description": "Narwhal Labs advert depicts woman next to strapline: ‘She outworks everyone. And she’ll never ask for a raise’A British AI company that recently secured millions of pounds of investment has been ac...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "21 Computer Vision Projects from Beginner to Advanced (2026 Guide)",
-        "link": "https://www.analyticsvidhya.com/blog/2026/04/top-computer-vision-projects/",
-        "date": "Wed, 15 Apr 2026 12:33:31 +0000",
-        "source": "Analytics Vidhya",
-        "description": "Computer Vision remains one of the most commercially valuable areas in AI. Powering applications from autonomous driving to medical imaging and generative systems. But breaking into the field requi...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Why your TV wowed you in the store but looks unnatural at home - and how to fix it ASAP",
-        "link": "https://www.zdnet.com/article/how-to-disable-tv-store-mode/",
-        "date": "Wed, 15 Apr 2026 12:31:30 GMT",
-        "source": "ZDNet AI",
-        "description": "Does your TV have an overly bright, fake-looking picture? Your settings might be set for the store, not your living room.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI is getting better at your job, but you have time to adjust, according to MIT",
-        "link": "https://www.zdnet.com/article/new-mit-jobs-work-report-ai-impacts-2026/",
-        "date": "Wed, 15 Apr 2026 12:23:00 GMT",
-        "source": "ZDNet AI",
-        "description": "AI may be 'minimally sufficient' at certain work tasks by 2029, according to new MIT research. An expert offers some advice on how to prepare.",
         "is_important": false,
         "tags": []
     }
