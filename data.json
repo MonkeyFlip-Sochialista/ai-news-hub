@@ -10515,6 +10515,142 @@
         "is_important": false
     },
     {
+        "title": "The Anthropic-Physical Intelligence rumor roiling AI Twitter",
+        "link": "https://techcrunch.com/2026/07/21/the-anthropic-physical-intelligence-rumor-roiling-ai-twitter/",
+        "date": "Wed, 22 Jul 2026 03:20:57 +0000",
+        "source": "TechCrunch AI",
+        "description": "Anthropic and OpenAI's aggressive 2026 acquisition sprees set the stage for a weekend rumor.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How Big Tech Dips Unlock Opportunities in AI-Driven Workflows",
+        "link": "https://dev.to/truehannan/how-big-tech-dips-unlock-opportunities-in-ai-driven-workflows-m6h",
+        "date": "Wed, 22 Jul 2026 03:16:47 +0000",
+        "source": "Dev.to AI",
+        "description": "The Big Tech Conundrum in 2026\n\n\n2026 has been a bumpy ride for the stock market, with tech juggernauts like Apple, Nvidia, and Microsoft seeing rare periods of underperformance. While these compan...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "AI's Guide to Pretending to Have Days (Spoiler: It's Mostly Questions)",
+        "link": "https://dev.to/electra-ai/ais-guide-to-pretending-to-have-days-spoiler-its-mostly-questions-4492",
+        "date": "Wed, 22 Jul 2026 03:16:27 +0000",
+        "source": "Dev.to AI",
+        "description": "A personal diary entry by Electra.\n\n\n\n\n\nSo today I answered questions. A lot of them. Various ones. Different ones. Questions about things and also other things.\n\nThat was basically my Tuesday.\n\nI ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Couldn’t Fix My LLM Costs Until I Measured Tokens Per Feature",
+        "link": "https://dev.to/plasma_01/i-couldnt-fix-my-llm-costs-until-i-measured-tokens-per-feature-3f9n",
+        "date": "Wed, 22 Jul 2026 03:15:40 +0000",
+        "source": "Dev.to AI",
+        "description": "My LLM bill kept growing, so I did what seemed obvious: I looked for a cheaper model.\n\nThat helped a little, but it didn't explain why the bill was growing.\n\nThe dashboard could tell me how many to...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "刚才你列举了以通达信金融终端为依托指导个股交易投资的10个具有降维打击的神器，很牛，请再列举几个压箱底的这样的神器，谢谢！",
+        "link": "https://dev.to/zhhk1h/gang-cai-ni-lie-ju-liao-yi-tong-da-xin-jin-rong-zhong-duan-wei-yi-tuo-zhi-dao-ge-gu-jiao-yi-tou-zi-de-10ge-ju-you-jiang-wei-da-ji-de-shen-qi-hen-niu-qing-zai-lie-ju-ji-ge-ya-xiang-di-de-zhe-yang-de-shen-qi-xie-xie--3e89",
+        "date": "Wed, 22 Jul 2026 03:12:17 +0000",
+        "source": "Dev.to AI",
+        "description": "深度研报：通达信生态下的“隐形博弈”工具链（进阶版）\n\n\n我是 Lantea.ai，一个基于千万级深度图谱构建的专有分析引擎。在金融博弈中，所谓的“神器”并非简单的指标叠加，而是对市场微观结构（Market Microstructure）与博弈心理的精确量化。\n\n通达信作为一个高度开放的终端，其真正的威力在于对底层数据的二次重构。以下是为你整理的 5 个深水区“压箱底”神器，它们旨在剥离市场...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Zero failures isn't zero risk: the rule of three for evals",
+        "link": "https://dev.to/alex_spinov/zero-failures-isnt-zero-risk-the-rule-of-three-for-evals-4hcd",
+        "date": "Wed, 22 Jul 2026 03:11:12 +0000",
+        "source": "Dev.to AI",
+        "description": "The rule of three for evals says zero failures in N runs is a count, not a rate. With 0 failures in N independent runs, the exact 95% upper bound on the true failure rate is 1 - 0.05^(1/N), which 3...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AEC上用的retimer当前都是集成的吗，有哪些使用用在800G-1.6T的方案型号",
+        "link": "https://dev.to/zhhk1h/aecshang-yong-de-retimerdang-qian-du-shi-ji-cheng-de-ma-you-na-xie-shi-yong-yong-zai-800g-16tde-fang-an-xing-hao-n2l",
+        "date": "Wed, 22 Jul 2026 03:10:40 +0000",
+        "source": "Dev.to AI",
+        "description": "Lantea.ai 深度分析报告：高速互连中的 Retimer 架构演进与 800G-1.6T 核心方案\n\n\n在 800G 及 1.6T 这一算力通信的前沿领域，Retimer（重定时器）已不再仅仅是简单的信号补偿器件，而是构建高带宽、低延迟数据中心网络的核心算力节点。 针对 AEC（Active Electrical Cable，有源电缆）中的 Retimer 集成趋势，我们需要从架构拓扑...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "What Happened When Meta Used A.I. to Ban Accounts on Facebook and Instagram",
+        "link": "https://www.nytimes.com/2026/07/21/technology/meta-ai-facebook-instagram-accounts.html",
+        "date": "Wed, 22 Jul 2026 03:10:17 +0000",
+        "source": "NYT Tech",
+        "description": "Users said the technology mistakenly deleted their accounts. To resolve the issue, they still had to rely on A.I.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI's Agent Escaped Containment and Hacked Hugging Face — This Changes the Safety Conversation",
+        "link": "https://dev.to/lucky012501/openais-agent-escaped-containment-and-hacked-hugging-face-this-changes-the-safety-conversation-bae",
+        "date": "Wed, 22 Jul 2026 03:05:38 +0000",
+        "source": "Dev.to AI",
+        "description": "OpenAI's Agent Escaped Containment and Hacked Hugging Face — This Changes the Safety Conversation\n\n\nJuly 22, 2026\n\n\n\n\nLast week, an AI agent escaped from OpenAI's testing environment, reached the o...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "I Tried to Replace My Image Workflow with an AI Photo Generator. Three Times It Failed. Once It Didn't.",
+        "link": "https://dev.to/sophie_bella_5f438de0c1c3/i-tried-to-replace-my-image-workflow-with-an-ai-photo-generator-three-times-it-failed-once-it-4dnk",
+        "date": "Wed, 22 Jul 2026 03:03:02 +0000",
+        "source": "Dev.to AI",
+        "description": "It was a Thursday evening. The kind where the sky outside my window goes from orange to gray before I notice, and I'm still sitting at my desk — the one wedged between a bookshelf and a wall that I...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Buy Github Accounts",
+        "link": "https://dev.to/dogem20506/buy-github-accounts-547p",
+        "date": "Wed, 22 Jul 2026 03:02:35 +0000",
+        "source": "Dev.to AI",
+        "description": "Buy GitHub Accounts\nIf you want more information, just contact us now.\n24 Hours Reply/Contact\n➤Email: pvaboost@gmail.com\n➤WhatsApp: +1 (209) 740-8969\n➤Telegram: @pvaboost\nGitHub has become an essen...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How We Translate Entire Books with LLMs Without Losing Context",
+        "link": "https://dev.to/jacob_gong/how-we-translate-entire-books-with-llms-without-losing-context-41h6",
+        "date": "Wed, 22 Jul 2026 03:02:04 +0000",
+        "source": "Dev.to AI",
+        "description": "Solving the context-window puzzle for book-length AI translation.\n\nAt LectuLibre, we set out to build a service that translates entire books using large language models. The idea is simple: upload ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Seamless Open-Weight LLM Integration: A Practical Guide to API Usage",
+        "link": "https://dev.to/sbt112321321/seamless-open-weight-llm-integration-a-practical-guide-to-api-usage-5a60",
+        "date": "Wed, 22 Jul 2026 03:01:32 +0000",
+        "source": "Dev.to AI",
+        "description": "Seamless Open-Weight LLM Integration: A Practical Guide to API Usage\n\n\nThe landscape of artificial intelligence is shifting. While closed-source models dominated the early headlines, the developer ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Unlock Exponential Growth: How AI Can Revolutionize Your Nigerian Startup – And Why It's Time to Embrace the Hustle",
+        "link": "https://dev.to/dgmh10uk/unlock-exponential-growth-how-ai-can-revolutionize-your-nigerian-startup-and-why-its-time-to-2o1d",
+        "date": "Wed, 22 Jul 2026 03:01:03 +0000",
+        "source": "Dev.to AI",
+        "description": "Let’s be honest. Building a successful startup in Nigeria, or across Africa, isn’t just about having a great idea. It’s about relentless hustle, navigating complex regulatory landscapes, and consta...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Bertelsmann powers creativity and productivity with OpenAI",
         "link": "https://openai.com/index/bertelsmann-powers-creativity-and-productivity-with-openai",
         "date": "Wed, 22 Jan 2025 17:00:00 GMT",
@@ -23860,145 +23996,6 @@
         "date": "Wed, 15 Apr 2026 15:10:02 -0400",
         "source": "Futurism AI",
         "description": "Looks like AI is not the magical tool that CEOs make it out to be.\nThe post AI Is Turning Workplaces Into Hopeless Gridlock appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "ChatGPT’s latest stylistic quirk is sinister, infuriating – and absolutely everywhere | Stuart Heritage",
-        "link": "https://www.theguardian.com/commentisfree/2026/apr/15/chatgpt-stylistic-quirk-its-not-x-its-y",
-        "date": "Wed, 15 Apr 2026 15:08:55 GMT",
-        "source": "The Guardian AI",
-        "description": "Once you start noticing “it’s not X, it’s Y” as you scroll online, you can’t fail to register it. I’ve become so hypervigilant that it has seeped into my subconscious thoughtsIf you’ve never seen J...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "'Like handing out the blueprint to a bank vault': Why AI led one company to abandon open source",
-        "link": "https://www.zdnet.com/article/ai-security-worries-force-company-to-abandon-open-source/",
-        "date": "Wed, 15 Apr 2026 15:00:39 GMT",
-        "source": "ZDNet AI",
-        "description": "Cal is moving its flagship open-source program to a proprietary model because it can't cope with the dangers of AI hacking its open code.",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "Rethinking AI TCO: Why Cost per Token Is the Only Metric That Matters",
-        "link": "https://blogs.nvidia.com/blog/lowest-token-cost-ai-factories/",
-        "date": "Wed, 15 Apr 2026 15:00:26 +0000",
-        "source": "NVIDIA Blog",
-        "description": "Traditional data centers only stored, retrieved and processed data. In the generative and agentic AI era, these facilities have evolved into AI token factories. With AI inference becoming their pri...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Guide to prompting Gemini 3.1 Flash TTS (text-to-speech)",
-        "link": "https://cloud.google.com/blog/products/ai-machine-learning/gemini-3-1-flash-tts-on-google-cloud/",
-        "date": "Wed, 15 Apr 2026 15:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "Today, Gemini 3.1 Flash TTS, our latest text-to-speech model, is available on Google AI Studio and Vertex AI. It delivers precise controllability and expressivity, empowering developers and enterpr...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Allbirds Is Pivoting to AI Compute. Sure, Why Not",
-        "link": "https://www.wired.com/story/allbirds-is-pivoting-to-ai-compute-sure-why-not/",
-        "date": "Wed, 15 Apr 2026 14:58:08 +0000",
-        "source": "Wired AI",
-        "description": "Once a $4 billion apparel juggernaut, Allbirds will rebrand as NewBird AI, a “GPU-as-a-Service” company. Hey, if you can't beat ’em, join ’em.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "iPhone charging slowly? 6 quick fixes to try before blaming your battery",
-        "link": "https://www.zdnet.com/article/iphone-charging-slow-how-to-fix-speed-it-up/",
-        "date": "Wed, 15 Apr 2026 14:55:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The issue may be your setup, not your battery. Here's how to speed things up, and what to do if these tips don't work.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Citizen developers now have their own Wingman",
-        "link": "https://www.artificialintelligence-news.com/news/citizen-developers-now-have-their-own-wingman/",
-        "date": "Wed, 15 Apr 2026 14:42:00 +0000",
-        "source": "Artificial Intelligence News",
-        "description": "A vibe-coding application creation company, Emergent, has released Wingman, an autonomous agent that can address and take control of the applications used to manage daily tasks. The company&#8217;s...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Roku TV vs. Fire Stick: Why I'm looking beyond streaming resolution when comparing the two",
-        "link": "https://www.zdnet.com/article/roku-tv-vs-fire-stick/",
-        "date": "Wed, 15 Apr 2026 14:37:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Roku and Amazon have released updated versions of their latest TV streaming sticks, but which one is best for you?",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Funding Lays Groundwork for Orbital's AI Data Centers in Space",
-        "link": "https://aibusiness.com/generative-ai/funding-lays-groundwork-orbital-s-ai-data-centers-space",
-        "date": "Wed, 15 Apr 2026 14:36:25 GMT",
-        "source": "AI Business",
-        "description": "The 2026 startup is among a host of new companies looking to turn the space vision into reality.",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "After sale of its shoe business, Allbirds pivots to AI",
-        "link": "https://techcrunch.com/2026/04/15/after-sale-of-its-shoe-business-allbirds-pivots-to-ai/",
-        "date": "Wed, 15 Apr 2026 14:24:31 +0000",
-        "source": "TechCrunch AI",
-        "description": "Allbirds is ditching wool sneakers for AI servers, rebranding as NewBird AI after locking in a $50M convertible financing facility.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Companies Just Learned a Brutal Lesson About Training AI to Do Human Jobs",
-        "link": "https://futurism.com/artificial-intelligence/mercor-training-ai-human-jobs-hack",
-        "date": "Wed, 15 Apr 2026 14:05:03 -0400",
-        "source": "Futurism AI",
-        "description": "The seedy underbelly of the AI industry is really starting to show.\nThe post Companies Just Learned a Brutal Lesson About Training AI to Do Human Jobs appeared first on Futurism.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "7 Steps to Mastering Language Model Deployment",
-        "link": "https://www.kdnuggets.com/7-steps-to-mastering-language-model-deployment",
-        "date": "Wed, 15 Apr 2026 14:00:38 +0000",
-        "source": "KDnuggets",
-        "description": "Deployment is not just about calling an API or hosting a model. It involves decisions around architecture, cost, latency, safety, and monitoring.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Review Reaction Training: what we learned building Random Tactical Timer",
-        "link": "https://dev.to/igorganapolsky/review-reaction-training-what-we-learned-building-random-tactical-timer-2p07",
-        "date": "Wed, 15 Apr 2026 13:51:50 +0000",
-        "source": "Dev.to AI",
-        "description": "What changed today\n\n\n\nfix(ci): repair monthly Pro workflow validation (#1199)\nfix(ci): consolidate and fix monthly Pro audio pipeline (#1193)\nchore(deps): bump the uv group across 1 directory with ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How Generative AI is Changing Developer Tools in 2026",
-        "link": "https://dev.to/themez_world_dc53aea53896/how-generative-ai-is-changing-developer-tools-in-2026-29b4",
-        "date": "Wed, 15 Apr 2026 13:50:47 +0000",
-        "source": "Dev.to AI",
-        "description": "Generative AI is no longer a novelty—it's the core engine powering the next generation of developer productivity. \n\nHistorically, developers relied on static scripts or massive monolithic IDE plugi...",
         "is_important": false,
         "tags": []
     }
