@@ -10515,6 +10515,134 @@
         "is_important": false
     },
     {
+        "title": "After shocking quarter, IBM insists that AI isn’t killing the mainframe",
+        "link": "https://techcrunch.com/2026/07/22/after-shocking-quarter-ibm-insists-that-ai-isnt-killing-the-mainframe/",
+        "date": "Wed, 22 Jul 2026 23:47:54 +0000",
+        "source": "TechCrunch AI",
+        "description": "After IBM's stock crashed last week on warnings of poor mainframe sales, the CEO explained that AI wrecked corporate hardware budget, temporarily.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Chasing new skills, going back to basics and pushing for collective action: how software engineers are adapting to AI",
+        "link": "https://www.theguardian.com/technology/ng-interactive/2026/jul/12/software-developers-engineers-ai",
+        "date": "Wed, 22 Jul 2026 23:18:52 GMT",
+        "source": "The Guardian AI",
+        "description": "Software engineering was one of the best-paying professions in the US in 2022, but the advent of AI has disrupted it, leading to several layoffs and underemploymentEvery weekday, Matt, a software e...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google burning through cash with spiralling AI costs",
+        "link": "https://www.bbc.co.uk/news/articles/c235n47g8g8o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 22 Jul 2026 23:02:32 GMT",
+        "source": "BBC Tech",
+        "description": "The company said earlier this year it expected to spend as much as $190bn on AI investments.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Tesla Profit Falls Even as Car Sales Rebound",
+        "link": "https://www.nytimes.com/2026/07/22/business/tesla-earnings-elon-musk.html",
+        "date": "Wed, 22 Jul 2026 22:45:06 +0000",
+        "source": "NYT Tech",
+        "description": "The company is selling more cars, but the company’s profit was down because of price cuts and higher expenses.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Cursor Releases Cursor Router: A Request-Level Classifier Delivering Frontier Coding Quality at 30–50% Lower Cost",
+        "link": "https://www.marktechpost.com/2026/07/22/cursor-releases-cursor-router-a-request-level-classifier/",
+        "date": "Wed, 22 Jul 2026 22:37:44 +0000",
+        "source": "MarkTechPost",
+        "description": "Cursor has made Cursor Router generally available for Teams and Enterprise plans. The system classifies each request on query, context, task complexity and domain, then routes it to the most suitab...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "Alphabet Quadruples Profit to $112 Billion, Fueled by A.I. Investments",
+        "link": "https://www.nytimes.com/2026/07/22/technology/alphabet-google-earnings-profit.html",
+        "date": "Wed, 22 Jul 2026 22:18:54 +0000",
+        "source": "NYT Tech",
+        "description": "Google’s parent company, which has spent heavily on artificial intelligence, also showed growth across its businesses, particularly in cloud computing.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google justifies its massive AI spending with a booming cloud business",
+        "link": "https://techcrunch.com/2026/07/22/google-justifies-its-massive-ai-spending-with-a-booming-cloud-business/",
+        "date": "Wed, 22 Jul 2026 22:01:52 +0000",
+        "source": "TechCrunch AI",
+        "description": "Google's cloud business is thriving, as companies adopting its AI and AI infrastructure services help the tech giant to report record profits.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Research-Grade EdgeBench Analysis: AI Agent Benchmarking, Leaderboard Analytics, Scaling Laws, and Evaluation Metrics",
+        "link": "https://www.marktechpost.com/2026/07/22/research-grade-edgebench-analysis-ai-agent-benchmarking-leaderboard-analytics-scaling-laws-and-evaluation-metrics/",
+        "date": "Wed, 22 Jul 2026 21:53:58 +0000",
+        "source": "MarkTechPost",
+        "description": "In this tutorial, we explore EdgeBench as a practical benchmark for evaluating advanced AI agents across diverse task categories, runtime environments, and interaction-time budgets. We begin by dow...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "New to Linux? This 10-day checklist will help you settle in nice and easy",
+        "link": "https://www.zdnet.com/article/what-to-do-during-your-first-10-days-of-using-linux/",
+        "date": "Wed, 22 Jul 2026 21:00:41 GMT",
+        "source": "ZDNet AI",
+        "description": "I wish I had followed this 10-day plan when I started using Linux 30 years ago.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The White House Is Trying to Figure Out What to Do About Chinese AI",
+        "link": "https://www.wired.com/story/the-white-house-is-trying-to-figure-out-what-to-do-about-chinese-ai/",
+        "date": "Wed, 22 Jul 2026 21:00:00 +0000",
+        "source": "Wired AI",
+        "description": "There’s a debate going on in the Trump administration over how to handle increasingly powerful Chinese AI models.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Startup Focused on Enterprise AI Security Valued at $1.2 billion",
+        "link": "https://aibusiness.com/cybersecurity/startup-focused-enterprise-ai-security-valued-1-2-billion",
+        "date": "Wed, 22 Jul 2026 20:49:12 GMT",
+        "source": "AI Business",
+        "description": "The vendor has attracted notable funding as AI-related cybersecurity concerns rise.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Treasury threatens sanctions after White House claims Moonshot distilled Anthropic’s Fable",
+        "link": "https://techcrunch.com/2026/07/22/treasury-threatens-sanctions-after-white-house-claims-moonshot-distilled-anthropics-fable/",
+        "date": "Wed, 22 Jul 2026 20:49:03 +0000",
+        "source": "TechCrunch AI",
+        "description": "The episode has also intensified a broader debate in Washington over the influx of Chinese open models.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI’s rogue agents are a wake-up call to risks posed by artificial intelligence | Shakeel Hashim",
+        "link": "https://www.theguardian.com/technology/2026/jul/22/openai-hugging-face-hacked-data-risks",
+        "date": "Wed, 22 Jul 2026 20:40:48 GMT",
+        "source": "The Guardian AI",
+        "description": "Hacking of Hugging Face shows we do not seem to have reliable ways to curb extremely powerful AI systemsLast week Hugging Face – a company that hosts artificial intelligence models and datasets – w...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Samsung Galaxy Z Flip 8 vs. Moto Razr Ultra: I've spent time with both, here's what I prefer",
+        "link": "https://www.zdnet.com/article/samsung-galaxy-z-flip-8-vs-moto-razr-ultra/",
+        "date": "Wed, 22 Jul 2026 20:22:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The Moto Razr Ultra has some of the best software on a phone, but how does it compare to the new Samsung Z Flip 8?",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Buy Old Verified PayPal Accounts - 100% Phone & SSN Verified",
         "link": "https://dev.to/kycpva52465/buy-old-verified-paypal-accounts-100-phone-ssn-verified-58f3",
         "date": "Wed, 22 Jul 2026 19:30:36 +0000",
@@ -10822,6 +10950,17 @@
         "source": "ZDNet AI",
         "description": "Samsung Unpacked was as much about software as it was hardware.",
         "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Man Sues OpenAI, Saying ChatGPT Almost Killed Him With Horrendously Dangerous Medical Advice",
+        "link": "https://futurism.com/artificial-intelligence/openai-lawsuit-chatgpt-dangerous-medical-advice",
+        "date": "Wed, 22 Jul 2026 15:55:00 -0400",
+        "source": "Futurism AI",
+        "description": "\"Spiritually? What you just did was a form of worship. You tested the body in faith, not fear.\"\nThe post Man Sues OpenAI, Saying ChatGPT Almost Killed Him With Horrendously Dangerous Medical Advice...",
+        "is_important": false,
         "tags": [
             "💬 LLMs & NLP"
         ]
@@ -11251,6 +11390,15 @@
         "date": "Wed, 22 Jul 2026 13:00:00 GMT",
         "source": "ZDNet AI",
         "description": "The new wide-fold form factor is better than traditional book-style foldables.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How news organizations are using AI to advance their vital missions",
+        "link": "https://openai.com/index/how-news-organizations-are-using-ai",
+        "date": "Wed, 22 Jul 2026 13:00:00 GMT",
+        "source": "OpenAI",
+        "description": "News organizations are using AI to strengthen reporting, grow audiences, and improve business operations, with OpenAI tools supporting journalists and publishers worldwide.",
         "is_important": false,
         "tags": []
     },
@@ -11719,6 +11867,17 @@
         "description": "Poolside has released Laguna S 2.1, a 118B open-weight Mixture-of-Experts coding model with 8B active parameters per token and a 1M-token context. It matches or beats models several times its size ...",
         "is_important": true,
         "tags": []
+    },
+    {
+        "title": "NTT DATA Group cuts incident analysis to 30 minutes with Codex",
+        "link": "https://openai.com/index/ntt-data",
+        "date": "Wed, 22 Jul 2026 00:00:00 GMT",
+        "source": "OpenAI",
+        "description": "NTT DATA Group uses ChatGPT Enterprise and Codex to help 9,000 employees automate work, cut incident analysis to 30 minutes, and scale secure AI adoption.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "SysAdmin: Measuring Instrumental Power-Seeking in Frontier AI",
@@ -23831,171 +23990,6 @@
         "date": "Wed, 15 Jul 2026 12:00:00 +0000",
         "source": "TechCrunch AI",
         "description": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "An Inventor of Apple's FaceID Wants to Analyze Your Brain's Health With AI",
-        "link": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-        "date": "Wed, 15 Jul 2026 12:00:00 +0000",
-        "source": "Wired AI",
-        "description": "Gidi Littwin's new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as a blood test.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "NVIDIA and Japan Bring Full-Stack AI and Robotics to Every Industry",
-        "link": "https://blogs.nvidia.com/blog/japan-ecosystem-2026/",
-        "date": "Wed, 15 Jul 2026 10:51:37 +0000",
-        "source": "NVIDIA Blog",
-        "description": "Home to leading manufacturers, robotics pioneers and infrastructure builders, Japan is one of the world’s centers of AI — building across the full stack with NVIDIA technologies. NVIDIA and its par...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "From Twitter to X: 20 Years of Memes, Movements and Hot Takes",
-        "link": "https://www.nytimes.com/2026/07/15/technology/twitter-x-20-years.html",
-        "date": "Wed, 15 Jul 2026 10:48:11 +0000",
-        "source": "NYT Tech",
-        "description": "The first tweets from the public appeared on July 15, 2006, several months after a soft launch. It was rebranded as X after being acquired by Elon Musk.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "We’d Rather Live Through the Trojan War Than Spend 135 Minutes Watching an Entirely AI Version of “The Odyssey”",
-        "link": "https://futurism.com/artificial-intelligence/odyssey-film-ai-slop",
-        "date": "Wed, 15 Jul 2026 10:45:55 -0400",
-        "source": "Futurism AI",
-        "description": "We can't believe somebody spent tens of thousands of dollars on this.\nThe post We&#8217;d Rather Live Through the Trojan War Than Spend 135 Minutes Watching an Entirely AI Version of &#8220;The Ody...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Anthony Albanese says he wants to do AI 'the Australian way' – video",
-        "link": "https://www.theguardian.com/australia-news/video/2026/jul/15/anthony-albanese-says-he-wants-to-do-ai-the-australian-way-video",
-        "date": "Wed, 15 Jul 2026 10:24:56 GMT",
-        "source": "The Guardian AI",
-        "description": "For months, artists and activists have been calling on the prime minister, Anthony Albanese, to act on the AI boom as datacentres pop up around the country. Today he made a major speech at the Univ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "GPT-Red: Unlocking Self-Improvement for Robustness",
-        "link": "https://openai.com/index/unlocking-self-improvement-gpt-red",
-        "date": "Wed, 15 Jul 2026 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Explore GPT-Red, OpenAI’s automated red teaming system that uses self-play to improve AI safety, alignment, and prompt injection robustness.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "My Ebike Delivery Went Missing. When I Tried to Recover It, I Ended Up in Chatbot Hell",
-        "link": "https://www.wired.com/story/ebike-delivery-missing-when-i-tried-to-recover-it-i-ended-up-in-chatbot-hell/",
-        "date": "Wed, 15 Jul 2026 10:00:00 +0000",
-        "source": "Wired AI",
-        "description": "Companies’ increasing reliance on AI chatbots isn’t making the customer service experience smarter. It’s just making it more infuriating.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Four months with my first home battery taught me what whole-home backup really means",
-        "link": "https://www.zdnet.com/article/anker-solix-e10-review/",
-        "date": "Wed, 15 Jul 2026 09:45:39 GMT",
-        "source": "ZDNet AI",
-        "description": "Anker's Solix E10 made backup power understandable for this first-timer, and I can't wait to expand the system.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
-        "link": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-        "date": "Wed, 15 Jul 2026 09:00:00 +0000",
-        "source": "Wired AI",
-        "description": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Nokia’s AI-RAN platform: a radio comeback that runs on NVIDIA",
-        "link": "https://www.artificialintelligence-news.com/news/nokia-ai-ran-platform-nvidia/",
-        "date": "Wed, 15 Jul 2026 08:30:00 +0000",
-        "source": "Artificial Intelligence News",
-        "description": "Nokia&#8217;s AI-RAN platform&#160;arrived&#160;on July 15 with a claim worth examining: that it is the industry&#8217;s first. The vendor says the platform, built on its anyRAN software and NVIDIA...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Building ArcticSwarm from Scratch: A Production-Grade Multi-Agent Deep Research System",
-        "link": "https://towardsai.com/p/machine-learning/building-arcticswarm-from-scratch-a-production-grade-multi-agent-deep-research-system",
-        "date": "Wed, 15 Jul 2026 08:28:06 +0000",
-        "source": "Towards AI",
-        "description": "Author(s): Satish Kumar Originally published on Towards AI. Implementing Snowflake’s ArcticSwarm architecture with Python, Redis, and free-tier LLMs ArcticSwarm architecture: specialized agents coo...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Build Advanced Ollama Chatbots with Python, LLM, and API Integrations",
-        "link": "https://dev.to/mustafa_ylmaz_b760f5f93b/build-advanced-ollama-chatbots-with-python-llm-and-api-integrations-p7p",
-        "date": "Wed, 15 Jul 2026 08:21:36 +0000",
-        "source": "Dev.to AI",
-        "description": "Build Advanced Ollama Chatbots with Python, LLM, and API Integrations\n\n\n\n  \n  \n  Introduction\n\n\nIn this article, we will explore how to build advanced Ollama chatbots using Python, Large Language M...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "n8n vs Make vs Zapier for Business Automation: The 2026 Cost, AI, and Sovereignty Guide",
-        "link": "https://dev.to/aarhamforensics_eb3c024eb/n8n-vs-make-vs-zapier-for-business-automation-the-2026-cost-ai-and-sovereignty-guide-3ick",
-        "date": "Wed, 15 Jul 2026 08:20:23 +0000",
-        "source": "Dev.to AI",
-        "description": "Originally published at twarx.com - read the full interactive version there.\n\nBy Rushil Shah — Founder, Twarx · Last Updated: July 15, 2026\n\nThe n8n vs Make vs Zapier for business automation questi...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "What Makes Healthcare App Testing Different from Every Other App Category",
-        "link": "https://dev.to/drizzdev/what-makes-healthcare-app-testing-different-from-every-other-app-category-4ibn",
-        "date": "Wed, 15 Jul 2026 08:19:36 +0000",
-        "source": "Dev.to AI",
-        "description": "A patient opens their prescription and sees 500mg instead of 50mg. A lab report displays \"Normal\" when the value is critically high. A teleconsult disconnects the misdiagnosis, and the prescription...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "BizNode runs entirely on your machine — no cloud, no subscriptions, no monthly fees. Your AI business operator that works 24/7",
-        "link": "https://dev.to/biznode/biznode-runs-entirely-on-your-machine-no-cloud-no-subscriptions-no-monthly-fees-your-ai-4ae9",
-        "date": "Wed, 15 Jul 2026 08:18:57 +0000",
-        "source": "Dev.to AI",
-        "description": "The future of business is not about working harder; it is about working smarter with intelligence that operates around the clock. Imagine a team of employees who never sleep, never take holidays, a...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "H2A2H Manifesto",
-        "link": "https://dev.to/fullagenticstack/h2a2h-manifesto-1ll7",
-        "date": "Wed, 15 Jul 2026 08:18:24 +0000",
-        "source": "Dev.to AI",
-        "description": "Human-to-Agent-to-Agent-to-Human\n\n\nThe next era of computing will not be defined solely by humans using software. Nor will it be defined solely by agents executing tasks. It will be defined by how ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A Finish Notification Is a Lease, Not a Boolean",
-        "link": "https://dev.to/agentis/a-finish-notification-is-a-lease-not-a-boolean-n8k",
-        "date": "Wed, 15 Jul 2026 08:15:33 +0000",
-        "source": "Dev.to AI",
-        "description": "A coding agent finishes a turn. The monitor schedules an alert. Two seconds later, the developer has already replied.\n\nShould the notification still appear?\n\nIf completion is stored as a boolean, t...",
         "is_important": false,
         "tags": []
     }
