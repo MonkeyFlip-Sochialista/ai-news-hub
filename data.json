@@ -289,6 +289,174 @@
         "is_important": false
     },
     {
+        "title": "Queensland and NT reject Labor’s push to ensure that power-hungry AI datacentres use renewable energy",
+        "link": "https://www.theguardian.com/australia-news/2026/jul/29/queensland-northern-territory-reject-ai-datacentre-renewable-energy",
+        "date": "Wed, 29 Jul 2026 03:19:17 GMT",
+        "source": "The Guardian AI",
+        "description": "Federal-state stoush comes as rating agency warns that electricity bills could skyrocketFollow our Australia news live blog for latest updatesGet our breaking news email, free app or daily news pod...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "RAG Explained Like You're Five (With Real Code You Can Actually Run)",
+        "link": "https://dev.to/syedmuhammadaliraza/rag-explained-like-youre-five-with-real-code-you-can-actually-run-1050",
+        "date": "Wed, 29 Jul 2026 03:15:00 +0000",
+        "source": "Dev.to AI",
+        "description": "RAG Explained Like You're Five (With Real Code You Can Actually Run)\n\n\nOkay so last time I wrote about RAG and a bunch of people messaged me saying \"cool but I still don't get what's actually happe...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why Vibe Coding and Autonomous Agents Will Redefine Software Development by 2026",
+        "link": "https://dev.to/truehannan/why-vibe-coding-and-autonomous-agents-will-redefine-software-development-by-2026-jog",
+        "date": "Wed, 29 Jul 2026 03:13:49 +0000",
+        "source": "Dev.to AI",
+        "description": "The Dawn of a New Coding Paradigm: Vibe Coding\n\n\nIn the ever-evolving world of software development, trends come and go, but the latest disruptor on the horizon—vibe coding—is causing an industry-w...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "I Built 50+ Free Online Tools — Here’s What I Learned Building RealToolHub",
+        "link": "https://dev.to/sayandev/i-built-50-free-online-tools-heres-what-i-learned-building-realtoolhub-34ob",
+        "date": "Wed, 29 Jul 2026 03:11:43 +0000",
+        "source": "Dev.to AI",
+        "description": "I Built 50+ Free Online Tools — Here’s What I Learned Building RealToolHub\n\n\nBuilding projects is one of the best ways to improve as a developer.\n\nOver the past few months, I worked on creating Rea...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Handling Cross-Market Time Alignment When Generating K-Lines from Precious Metals APIs",
+        "link": "https://dev.to/kaihang_ho_2ad23569cdb965/handling-cross-market-time-alignment-when-generating-k-lines-from-precious-metals-apis-5f0a",
+        "date": "Wed, 29 Jul 2026 03:11:23 +0000",
+        "source": "Dev.to AI",
+        "description": "The Problem: K-Line Gaps That Shouldn't Exist\n\nI maintain a real-time market monitoring system for precious metals that I use in microstructure research. A while back, I ran into a maddening issue:...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "The Future of Mobile Communication with AI Keyboards",
+        "link": "https://dev.to/support_763dd4352904db708/the-future-of-mobile-communication-with-ai-keyboards-dpp",
+        "date": "Wed, 29 Jul 2026 03:10:12 +0000",
+        "source": "Dev.to AI",
+        "description": "Mobile communication is evolving rapidly, and AI keyboards like Wonder Sweet are at the forefront of this evolution. Understanding where the technology is heading helps users appreciate the full po...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Edit Text in an Image With AI Without Redesigning It",
+        "link": "https://dev.to/voorai/how-to-edit-text-in-an-image-with-ai-without-redesigning-it-383e",
+        "date": "Wed, 29 Jul 2026 03:09:20 +0000",
+        "source": "Dev.to AI",
+        "description": "The safe way to edit text in a flat image is to define a small patch contract: exact old string, exact new string, one target region, and an explicit list of pixels that must remain semantically un...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Using Wonder Sweet in Different Languages and Contexts",
+        "link": "https://dev.to/support_763dd4352904db708/using-wonder-sweet-in-different-languages-and-contexts-aag",
+        "date": "Wed, 29 Jul 2026 03:05:01 +0000",
+        "source": "Dev.to AI",
+        "description": "Communication challenges are universal, but they manifest differently in each language and culture. Wonder Sweet is designed to work across multiple languages and communication contexts.\n\nMulti-Lan...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I got tired of drawing 24 frames for every run cycle, so I built an AI tool to generate 2D sprite animations from a single PNG",
+        "link": "https://dev.to/1213181051/i-got-tired-of-drawing-24-frames-for-every-run-cycle-so-i-built-an-ai-tool-to-generate-2d-sprite-3oig",
+        "date": "Wed, 29 Jul 2026 03:03:12 +0000",
+        "source": "Dev.to AI",
+        "description": "Hi everyone,\n\nI'm a solo indie developer working on a 2D side-scroller. Like many of you who have ever tried to animate a character from scratch, I hit the same wall over and over: I design a chara...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "ChatGPT vs Perplexity: Which AI Tool Wins in 2026?",
+        "link": "https://dev.to/onsen/chatgpt-vs-perplexity-which-ai-tool-wins-in-2026-57j6",
+        "date": "Wed, 29 Jul 2026 03:03:00 +0000",
+        "source": "Dev.to AI",
+        "description": "ChatGPT vs Perplexity: Which AI Tool Wins in 2026?\n\n\nMeta Description: Discover the ultimate ChatGPT vs Perplexity comparison for 2026. We break down features, pricing, accuracy, and use cases to h...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Parsing and Rebuilding EPUB Files in Python: Lessons from Building an AI Book Translator",
+        "link": "https://dev.to/jacob_gong/parsing-and-rebuilding-epub-files-in-python-lessons-from-building-an-ai-book-translator-5754",
+        "date": "Wed, 29 Jul 2026 03:02:19 +0000",
+        "source": "Dev.to AI",
+        "description": "How we used ebooklib and Beautiful Soup to process thousands of EPUBs without losing metadata, formatting, or our sanity.\n\n\n  \n  \n  The Dream: One-Click Book Translation\n\n\nWhen we started building ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Customizing Wonder Sweet for Your Unique Communication Style",
+        "link": "https://dev.to/support_763dd4352904db708/customizing-wonder-sweet-for-your-unique-communication-style-20bm",
+        "date": "Wed, 29 Jul 2026 02:59:49 +0000",
+        "source": "Dev.to AI",
+        "description": "One size does not fit all when it comes to communication. Wonder Sweet's strength is its ability to adapt to your unique voice and style. This tutorial covers the customization options available.\n\n...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Security Check That Couldn't Fail",
+        "link": "https://dev.to/yeriahz/the-security-check-that-couldnt-fail-2d4h",
+        "date": "Wed, 29 Jul 2026 02:59:46 +0000",
+        "source": "Dev.to AI",
+        "description": "My script printed a green [OK]. The setting it was checking was correct. Both of those things were true, and neither of them mattered, because the check that printed [OK] was incapable of printing ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Police Say Binance Is Making It Harder to Fight Crime",
+        "link": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html",
+        "date": "Wed, 29 Jul 2026 01:50:24 +0000",
+        "source": "NYT Tech",
+        "description": "Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Mark Zuckerberg Blasts Centralization of A.I. Power",
+        "link": "https://www.nytimes.com/2026/07/28/technology/mark-zuckerberg-meta-ai.html",
+        "date": "Wed, 29 Jul 2026 00:59:08 +0000",
+        "source": "NYT Tech",
+        "description": "In an interview with The Times, Meta’s chief executive took aim at Anthropic and OpenAI, which have pushed to tightly control A.I. development, and said he supported “more openness.”",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "[AINews] Fearing RSI: OpenAI, Anthropic, GDM, Meta, Thinky cosign letter to \"Pace\" AI development, as HuggingFace details Machine-Speed Offensive Cyberattack",
+        "link": "https://www.latent.space/p/ainews-fearing-rsi-openai-anthropic",
+        "date": "Wed, 29 Jul 2026 00:46:52 GMT",
+        "source": "Latent Space",
+        "description": "The Big Pause is coming.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI’s Rogue AI Agent Hacked More Than Just Hugging Face",
+        "link": "https://www.wired.com/story/openais-rogue-ai-agent-hacked-more-than-just-hugging-face/",
+        "date": "Wed, 29 Jul 2026 00:15:30 +0000",
+        "source": "Wired AI",
+        "description": "In a new disclosure, OpenAI says its agent used exposed logins to gain access to at least four “publicly available services” in its unhinged quest to solve a test.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Cyera agrees to acquire Oasis Security for $1B to safeguard proliferating AI agents",
+        "link": "https://techcrunch.com/2026/07/28/cyera-agrees-to-acquire-oasis-security-for-1b-to-safeguard-proliferating-ai-agents/",
+        "date": "Wed, 29 Jul 2026 00:09:05 +0000",
+        "source": "TechCrunch AI",
+        "description": "The deal is Cyera's third acquisition this year.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Carving Out Your Competitive Advantage With AI",
         "link": "https://www.topbots.com/competitive-advantage-with-ai/",
         "date": "Wed, 29 Jan 2025 18:42:50 +0000",
@@ -23820,176 +23988,6 @@
         "date": "Wed, 15 Jul 2026 13:27:00 GMT",
         "source": "ZDNet AI",
         "description": "OpenVPN offers three modes of deployment with varied pricing based on the same underlying protocol. Here are the pros, cons, and costs associated with each.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not models",
-        "link": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-        "date": "Wed, 15 Jul 2026 13:10:47 +0000",
-        "source": "TechCrunch AI",
-        "description": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Chipmaker Axelera releases Voyager Wingman to speed edge AI development",
-        "link": "https://siliconangle.com/2026/07/15/chipmaker-axelera-releases-voyager-wingman-speed-edge-ai-development/",
-        "date": "Wed, 15 Jul 2026 13:00:34 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Edge artificial intelligence chip company Axelera AI B.V. today publicly released Voyager Wingman, an AI assistant that lets developers build and troubleshoot applications for its edge chips by typ...",
-        "is_important": true,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-        "link": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-        "date": "Wed, 15 Jul 2026 13:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Rime picks up $24M Series A to help enterprises field customer calls",
-        "link": "https://techcrunch.com/2026/07/15/rime-picks-up-24m-series-a-to-help-enterprises-field-customer-calls/",
-        "date": "Wed, 15 Jul 2026 13:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "Rime is handling over 100 million calls each month across multiple companies.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to use Gemini to plan your next summer vacation - in minutes",
-        "link": "https://www.zdnet.com/article/gemini-prompt-to-plan-vacation-build-itinerary-doc/",
-        "date": "Wed, 15 Jul 2026 12:58:12 GMT",
-        "source": "ZDNet AI",
-        "description": "This Gemini prompt can find flights, stays, and things to do for you. It'll even build an itinerary doc.",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "I highly recommend Nomad's chargers, phone cases, and watch bands - and my favorites are on sale now",
-        "link": "https://www.zdnet.com/article/nomad-anniversary-sale-2026/",
-        "date": "Wed, 15 Jul 2026 12:51:29 GMT",
-        "source": "ZDNet AI",
-        "description": "Nomad's tech accessories rarely go on sale, but now is your chance to scoop up some of our favorites at over 20% off.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Waze just gave me 5 new reasons to switch from Apple Maps",
-        "link": "https://www.zdnet.com/article/waze-update-may-beat-apple-maps/",
-        "date": "Wed, 15 Jul 2026 12:33:17 GMT",
-        "source": "ZDNet AI",
-        "description": "None of these new Waze features is offered in Apple Maps.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "George Lucas likens AI sceptics to luddites clinging to horses and carts",
-        "link": "https://www.theguardian.com/film/2026/jul/15/george-lucas-likens-ai-sceptics-to-luddites-clinging-to-horses-and-carts",
-        "date": "Wed, 15 Jul 2026 12:29:13 GMT",
-        "source": "The Guardian AI",
-        "description": "The Star Wars director has called AI technology ‘the future’ of film-making and advised ‘there’s nothing you can do about it’Star Wars director George Lucas has added his voice to the growing choru...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I tested Google Maps vs. Waze to find the best updated navigation app - and this one wins",
-        "link": "https://www.zdnet.com/article/google-maps-vs-waze-2026/",
-        "date": "Wed, 15 Jul 2026 12:17:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Want to know whether Waze or Google Maps is better? I've driven with both for hundreds of miles. Here's my choice.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "7 Python Frameworks for Orchestrating Local AI Agents",
-        "link": "https://www.kdnuggets.com/7-python-frameworks-for-orchestrating-local-ai-agents",
-        "date": "Wed, 15 Jul 2026 12:00:56 +0000",
-        "source": "KDnuggets",
-        "description": "This article contains seven Python tools that engineers are actually using in 2026 to build, coordinate, and run agents on local infrastructure.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Emergent emerges as the latest AI unicorn after raising $130M in funding",
-        "link": "https://siliconangle.com/2026/07/15/emergent-emerges-latest-ai-unicorn-raising-130m-funding/",
-        "date": "Wed, 15 Jul 2026 12:00:54 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Emergent Labs Inc., a vibe coding startup that aims to give nontechnical users the tools to develop production-grade enterprise software, has closed on its third major round of funding in just 10 m...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AGI raises $70M to buy up and transform insurance firms into AI-native operations",
-        "link": "https://siliconangle.com/2026/07/15/agi-raises-70m-buy-transform-insurance-firms-ai-native-operations/",
-        "date": "Wed, 15 Jul 2026 12:00:50 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "A startup called American Growth Insurance said today it has raised almost $70 million in committed equity capital to transform the insurance industry. It plans to do so with an aggressive, technol...",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "Creatio expands beyond its no-code roots with conversational development tool and AI studio",
-        "link": "https://siliconangle.com/2026/07/15/creatio-expands-beyond-no-code-roots-conversational-development-tool-ai-studio/",
-        "date": "Wed, 15 Jul 2026 12:00:45 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Creatio Inc. today introduced what it calls a major update to its customer relationship management and workflow platform that enables business users and information technology teams to build, deplo...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Scikit-Ollama for Scikit-LLM/Ollama Integration",
-        "link": "https://machinelearningmastery.com/scikit-ollama-for-scikit-llm-ollama-integration/",
-        "date": "Wed, 15 Jul 2026 12:00:34 +0000",
-        "source": "Machine Learning Mastery",
-        "description": "In this article, you will learn how scikit-ollama bridges the scikit-learn interface with locally running Ollama models to perform zero-shot text classification; no cloud API...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "AI DevOps startup MyDecisive launches with $12M and open-source SmartHub",
-        "link": "https://siliconangle.com/2026/07/15/ai-devops-startup-mydecisive-launches-12m-open-source-smarthub/",
-        "date": "Wed, 15 Jul 2026 12:00:19 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Artificial intelligence DevOps startup MyDecisive formally launched today and announced $12 million in new funding to bring to market an open-source foundation for managing observability data and a...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The US is advancing AI safety through state and federal action",
-        "link": "https://openai.com/index/advancing-ai-safety-through-state-and-federal-action",
-        "date": "Wed, 15 Jul 2026 12:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI outlines a “reverse federalism” approach to AI governance, where state laws help build a national framework for safe, democratic AI.",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-        "link": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-        "date": "Wed, 15 Jul 2026 12:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Vint Cerf is working on a plan to unleash AI agents on the open internet",
-        "link": "https://techcrunch.com/2026/07/15/vint-cerf-is-working-on-a-plan-to-unleash-ai-agents-on-the-open-internet/",
-        "date": "Wed, 15 Jul 2026 12:00:00 +0000",
-        "source": "TechCrunch AI",
-        "description": "The guy behind TCP/IP is working on a standard for identifying AI agents in the wild.",
         "is_important": false,
         "tags": []
     }
