@@ -298,6 +298,28 @@
         "tags": []
     },
     {
+        "title": "OpenAI’s ‘Rogue AI’ Was a Bad Firewall",
+        "link": "https://towardsai.com/p/machine-learning/openais-rogue-ai-was-a-bad-firewall",
+        "date": "Wed, 29 Jul 2026 23:31:01 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on July 30, 2026 by Editorial Team Author(s): MohamedAbdelmenem Originally published on Towards AI. The Hugging Face breach wasn’t sentience. It was a misconfigured proxy and disabled ...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "OpenAI opens new ChatGPT for Academic Researchers program to 100,000 scientists",
+        "link": "https://siliconangle.com/2026/07/29/openai-opens-new-chatgpt-academic-researchers-program-100000-scientists/",
+        "date": "Wed, 29 Jul 2026 23:20:49 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "OpenAI Group PBC today launched a program that will give 100,000 researchers free access to ChatGPT’s advanced features. ChatGPT for Academic Researchers is part of a $250 million OpenAI initiative...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Meta’s Profit Falls 14 Percent as A.I. Spending Continues",
         "link": "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html",
         "date": "Wed, 29 Jul 2026 23:17:34 +0000",
@@ -316,6 +338,17 @@
         "description": "Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "I Cut 3 Hours of Weekly SRE Toil to 20 Minutes With Claude Code",
+        "link": "https://towardsai.com/p/machine-learning/i-cut-3-hours-of-weekly-sre-toil-to-20-minutes-with-claude-code",
+        "date": "Wed, 29 Jul 2026 23:01:01 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on July 30, 2026 by Editorial Team Author(s): Moiz Ezzy Originally published on Towards AI. I Cut 3 Hours of Weekly SRE Toil to 20 Minutes With Claude Code Created by Author On a Thurs...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
@@ -363,6 +396,44 @@
         "tags": []
     },
     {
+        "title": "Cerebras and AMD partner to build the world’s fastest disaggregated AI inference solution",
+        "link": "https://siliconangle.com/2026/07/29/disaggregated-ai-inference-cerebras-amd-amdadvancingai/",
+        "date": "Wed, 29 Jul 2026 22:09:51 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Disaggregated AI inference is proving to be more than a complementary answer to the prefill and decode bottleneck slowing enterprise AI at scale, and Cerebras and AMD just announced a partnership t...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Knowledge graph architecture gives enterprises ownership of the AI intelligence they create",
+        "link": "https://siliconangle.com/2026/07/29/knowledge-graph-architecture-enterprise-ai-neo4jdataplusai/",
+        "date": "Wed, 29 Jul 2026 22:02:46 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Knowledge graph architecture has emerged from the concept stage, consigned to the realm of academia, to the production infrastructure stage, and the enterprises that shape it the right way will own...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Opus 5 Just Made Fable 5 a Hard Sell for Most Engineering Teams, But Not All of Them",
+        "link": "https://towardsai.com/p/machine-learning/opus-5-just-made-fable-5-a-hard-sell-for-most-engineering-teams-but-not-all-of-them",
+        "date": "Wed, 29 Jul 2026 22:01:01 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on July 30, 2026 by Editorial Team Author(s): Sarath Krishna Prasad Originally published on Towards AI. Opus 5 vs Fable 5: Near-frontier performance at half the cost Opus 5 Just Made F...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "12 Months of Trendvesting: The Real Unit Economics of a Production AI Side Project",
+        "link": "https://towardsai.com/p/machine-learning/12-months-of-trendvesting-the-real-unit-economics-of-a-production-ai-side-project",
+        "date": "Wed, 29 Jul 2026 21:31:01 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on July 30, 2026 by Editorial Team Author(s): Tim Urista &#124; Senior Cloud Engineer Originally published on Towards AI. Everyone shipping AI side projects publishes the demo. Almost ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Meta misses earnings forecasts after Zuckerberg media push to promote AI",
         "link": "https://www.theguardian.com/technology/2026/jul/29/meta-earnings-mark-zuckerberg",
         "date": "Wed, 29 Jul 2026 21:26:49 GMT",
@@ -372,11 +443,29 @@
         "tags": []
     },
     {
+        "title": "How a scalable intelligence layer turns enterprise data into production A",
+        "link": "https://siliconangle.com/2026/07/29/scalable-intelligence-layer-powers-microsoft-ai-agents-neo4jdataplusai/",
+        "date": "Wed, 29 Jul 2026 21:19:15 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Enterprises are discovering that a scalable intelligence layer built on knowledge graphs delivers the institutional context that turns generic AI models into reliable production systems. As compani...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
         "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
         "date": "Wed, 29 Jul 2026 21:16:39 +0000",
         "source": "TechCrunch AI",
         "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "CommonThread AI targets connected, trusted data as the foundation for enterprise AI",
+        "link": "https://siliconangle.com/2026/07/29/graph-technologies-neo4jdataplusai/",
+        "date": "Wed, 29 Jul 2026 21:08:18 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "As enterprise AI matures, connected and trusted data is becoming the foundation for real business value. Graph technologies are helping organizations turn fragmented information into actionable int...",
         "is_important": false,
         "tags": []
     },
@@ -595,6 +684,26 @@
         "is_important": false,
         "tags": [
             "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Pangram Labs raises $9M to launch more accurate AI detection for text and images",
+        "link": "https://siliconangle.com/2026/07/29/pangram-labs-raises-9m-launch-accurate-ai-detection-text-images/",
+        "date": "Wed, 29 Jul 2026 17:20:43 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Pangram Labs Inc., an artificial intelligence research lab that develops AI detection software, today announced it raised $9 million, led by Menlo Ventures, to improve the accuracy of its core text...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "HPE advances its self-driving networking strategy for the AI era",
+        "link": "https://siliconangle.com/2026/07/29/hpe-ai-networking-self-driving-cubeconversations/",
+        "date": "Wed, 29 Jul 2026 16:53:17 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Hewlett Packard Enterprise is making networking central to its AI infrastructure strategy, with a vision for self-driving networks that can anticipate problems, automate operations and reduce the c...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
         ]
     },
     {
@@ -1005,6 +1114,37 @@
         "description": "Pressing the Copilot key on your laptop keyboard launches Copilot. But whether or not you use Microsoft's AI, you can remap the key to trigger a different feature.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Nimble launches Web Search Agents to cut AI research token costs",
+        "link": "https://siliconangle.com/2026/07/29/nimble-launches-web-search-agents-cut-ai-research-token-costs/",
+        "date": "Wed, 29 Jul 2026 13:00:19 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Web search platform company Nimble today launched Web Search Agents, a product that learns a customer&#8217;s domain and then runs complex web research tasks on its own. The company is aiming the r...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "SnapLogic transforms SnapGPT into a high-powered agentic assistant for the entire integration lifecycle",
+        "link": "https://siliconangle.com/2026/07/29/snaplogic-transforms-snapgpt-high-powered-agentic-assistant-entire-integration-lifecycle/",
+        "date": "Wed, 29 Jul 2026 13:00:14 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Enterprise data integration and automation firm SnapLogic Inc. today announced a significant update to SnapGPT, the company’s artificial intelligence copilot for enterprise data automation, transfo...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Graphs move from niche database to enterprise knowledge layer for AI systems",
+        "link": "https://siliconangle.com/2026/07/29/enterprise-knowledge-layer-powers-modern-gen-ai-neo4jgraphtalk/",
+        "date": "Wed, 29 Jul 2026 12:52:24 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "As generative AI matures beyond its early experimentation phase, enterprises are converging on a shared architecture for grounding large language models in trustworthy data: the enterprise knowledg...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "Vendor Developing Self-Improving AI Signs $410M AWS Deal",
@@ -1591,6 +1731,15 @@
         "date": "Wed, 29 Jul 2026 01:50:24 +0000",
         "source": "NYT Tech",
         "description": "Investigators in Europe said that the cryptocurrency giant Binance had made it more difficult to track down scammers and solve other crimes.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta to build $14B El Paso data center campus with BlackRock",
+        "link": "https://siliconangle.com/2026/07/28/meta-build-14b-el-paso-data-center-campus-blackrock/",
+        "date": "Wed, 29 Jul 2026 01:26:45 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Meta Platforms Inc. today announced plans to build an artificial intelligence data center campus in El Paso, Texas. The project is a collaboration with BlackRock Inc., the world’s largest asset man...",
         "is_important": false,
         "tags": []
     },
@@ -23922,148 +24071,5 @@
         "description": "AI assistants are getting good at doing things, not just talking — largely thanks to MCP (Model Context Protocol), the open standard that lets an AI client call external tools. Oracle recently ship...",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "I shipped 921 items across 30 sprints alone with AI. The surprise: speed stopped being the bottleneck.",
-        "link": "https://dev.to/nirajkvinit1/i-shipped-921-items-across-30-sprints-alone-with-ai-the-surprise-speed-stopped-being-the-1c5",
-        "date": "Wed, 17 Jun 2026 04:48:06 +0000",
-        "source": "Dev.to AI",
-        "description": "After 30 sprints and roughly 921 shipped items, building a platform alone with AI, the constraint was not talent or speed. It was a decision of quality.\n\n\n\n\nAcross 30 sprints, I shipped roughly 921...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Building PR Sentinel- A Multi-Agent AI Code Reviewer",
-        "link": "https://dev.to/harsh06/building-pr-sentinel-a-multi-agent-ai-code-reviewer-nh8",
-        "date": "Wed, 17 Jun 2026 04:42:03 +0000",
-        "source": "Dev.to AI",
-        "description": "When I started my MS, I realized pretty quickly that I missed having real code reviews. The kind where someone actually catches the stuff you didn't think to check.\n\nAt my previous company, there w...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Polymarket June 17, 2026: The AI Model War Just Hit a Plateau — What Smart Money Is Betting On Now",
-        "link": "https://dev.to/storm_son_b44db572b250b68/polymarket-june-17-2026-the-ai-model-war-just-hit-a-plateau-what-smart-money-is-betting-on-now-9jf",
-        "date": "Wed, 17 Jun 2026 04:41:19 +0000",
-        "source": "Dev.to AI",
-        "description": "Polymarket June 17, 2026: The AI Model War Just Hit a Plateau — What Smart Money Is Betting On Now\n\n\nThe AI model race has settled.\n\nAnthropic's Claude Opus 4.8 and OpenAI's GPT-5 are essentially l...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "AI Infrastructure Monitoring in 2026: DataDog vs New Relic vs Prometheus AI vs Grafana Cloud — Which Catches Bugs Before Your Users Do?",
-        "link": "https://dev.to/storm_son_b44db572b250b68/ai-infrastructure-monitoring-in-2026-datadog-vs-new-relic-vs-prometheus-ai-vs-grafana-cloud--f7g",
-        "date": "Wed, 17 Jun 2026 04:41:15 +0000",
-        "source": "Dev.to AI",
-        "description": "AI Infrastructure Monitoring in 2026: DataDog vs New Relic vs Prometheus AI vs Grafana Cloud — Which Catches Bugs Before Your Users Do?\n\n\nIn 2025, I watched a startup lose $47,000 in revenue becaus...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI Automation for Ai For Niche Collectibles Dealers Trading Cardscomics How To Automate Grading Estimate Analysis And Auction...",
-        "link": "https://dev.to/ken_deng_ai/ai-automation-for-ai-for-niche-collectibles-dealers-trading-cardscomics-how-to-automate-grading-2mjm",
-        "date": "Wed, 17 Jun 2026 04:40:33 +0000",
-        "source": "Dev.to AI",
-        "description": "AI Automation for Ai For Niche Collectibles Dealers Trading Cardscomics How To Automate Grading Estimate Analysis And Auction Price Forecasting: Quick Guide (2026-06-17)\n\n\nIf you're a professionals...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "KDE Plasma 6.7 has way more useful features than I expected - and you'll likely get it soon",
-        "link": "https://www.zdnet.com/article/kde-plasma-6-7/",
-        "date": "Wed, 17 Jun 2026 01:00:49 GMT",
-        "source": "ZDNet AI",
-        "description": "The latest release of one of the finest desktop environments on the market is here, and there's plenty to be excited about.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I've spent years with immutable Linux - RakuOS fixed my biggest annoyance",
-        "link": "https://www.zdnet.com/article/rakuos-fixes-my-biggest-problem-with-immutable-linux-distros/",
-        "date": "Wed, 17 Jun 2026 00:20:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Immutable Linux is the future of OS security, but the current distributions do have one particular limitation that RakuOS has overcome.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "This 55-inch Fire TV on Amazon costs just $280 - and I can actually recommend it",
-        "link": "https://www.zdnet.com/article/amazon-fire-tv-omni-qled-4k-amazon-prime-day-deal-2026/",
-        "date": "Wed, 17 Jun 2026 00:14:00 GMT",
-        "source": "ZDNet AI",
-        "description": "You can snag a 55-inch Amazon Fire TV Omni QLED Series with this early Prime Day deal.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Your Android phone keyboard may be tracking your inputs - how to check (and 2 ways to stop it)",
-        "link": "https://www.zdnet.com/article/how-to-prevent-your-android-phone-keyboard-from-tracking-you/",
-        "date": "Wed, 17 Jun 2026 00:10:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Your Android keyboard may be collecting more than you realize. Here are two ways to take back your privacy, but I only trust one.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to Build Memory-Efficient Transformers with xFormers Using Packed Sequences, GQA, ALiBi, SwiGLU, and Causal Attention",
-        "link": "https://www.marktechpost.com/2026/06/16/how-to-build-memory-efficient-transformers-with-xformers-using-packed-sequences-gqa-alibi-swiglu-and-causal-attention/",
-        "date": "Wed, 17 Jun 2026 00:02:25 +0000",
-        "source": "MarkTechPost",
-        "description": "We implement xFormers, a practical toolkit for fast, memory-efficient Transformer models on GPUs. We validate memory-efficient attention against a standard implementation, then compare speed and me...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Agentic Resource Discovery: Let agents search",
-        "link": "https://huggingface.co/blog/agentic-resource-discovery-launch",
-        "date": "Wed, 17 Jun 2026 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Introducing LifeSciBench",
-        "link": "https://openai.com/index/introducing-life-sci-bench",
-        "date": "Wed, 17 Jun 2026 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Introducing LifeSciBench, an expert-authored, expert-reviewed benchmark for evaluating how AI systems handle real-world life science research tasks and decisions.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Could AI tell you where you left your keys?",
-        "link": "https://news.mit.edu/2026/could-ai-tell-you-where-you-left-your-keys-0617",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "MIT News AI",
-        "description": "A new spatial memory system for robots efficiently captures details about the objects they see while exploring their environment.",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Beyond Parallel Sampling: Diverse Query Initialization for Agentic Search",
-        "link": "https://arxiv.org/abs/2606.17209",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17209v1 Announce Type: new \nAbstract: Test-time scaling for agentic search typically increases depth (i.e., more turns and tokens per trajectory) or breadth (i.e., more parallel rollouts...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "When Rules Learn: A Self-Evolving Agent for Legal Case Retrieval",
-        "link": "https://arxiv.org/abs/2606.17220",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17220v1 Announce Type: new \nAbstract: Legal case retrieval remains challenging due to the complexity of legal language and the need for precise lexical alignment between queries and rele...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
     }
 ]
