@@ -289,6 +289,136 @@
         "is_important": false
     },
     {
+        "title": "[AINews] AI is eating Finance; AIE NYC now open",
+        "link": "https://www.latent.space/p/ainews-ai-is-eating-finance-aie-nyc",
+        "date": "Wed, 29 Jul 2026 23:32:12 GMT",
+        "source": "Latent Space",
+        "description": "a quiet day lets us cover how AI is permeating financial services as the next big vertical after coding.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta’s Profit Falls 14 Percent as A.I. Spending Continues",
+        "link": "https://www.nytimes.com/2026/07/29/technology/meta-profit-ai.html",
+        "date": "Wed, 29 Jul 2026 23:17:34 +0000",
+        "source": "NYT Tech",
+        "description": "The Silicon Valley company’s costs rose more steeply than revenue growth, as it continues to invest heavily in artificial intelligence.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Microsoft Increases Spending on A.I. as Profit Jumps 31%",
+        "link": "https://www.nytimes.com/2026/07/29/technology/microsoft-quarterly-earnings-report.html",
+        "date": "Wed, 29 Jul 2026 23:10:21 +0000",
+        "source": "NYT Tech",
+        "description": "Like other big technology companies, Microsoft is hoping its aggressive spending on artificial intelligence is starting to translate into revenue.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Mark Zuckerberg predicts that billions of people will have personal AI agents in five years",
+        "link": "https://techcrunch.com/2026/07/29/mark-zuckerberg-predicts-that-billions-of-people-will-have-personal-ai-agents-in-five-years/",
+        "date": "Wed, 29 Jul 2026 23:00:11 +0000",
+        "source": "TechCrunch AI",
+        "description": "As Meta pours billions into AI infrastructure and agents, Zuckerberg is working to convince investors that the payoff will be worth the price.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Microsoft logs $3.2B from Anthropic investment, but OpenAI was a mixed bag",
+        "link": "https://techcrunch.com/2026/07/29/microsoft-logs-3-2b-from-anthropic-investment-but-openai-was-a-mixed-bag/",
+        "date": "Wed, 29 Jul 2026 22:46:03 +0000",
+        "source": "TechCrunch AI",
+        "description": "When Microsoft reported killer fourth-quarter earnings for its fiscal 2026 year (which ended June 30), it tucked in an interesting little tidbit about how its investments in the two biggest, and co...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta shares fall as frustration grows over AI spending plans",
+        "link": "https://www.bbc.co.uk/news/articles/ckgd31l5yrdo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 29 Jul 2026 22:44:18 GMT",
+        "source": "BBC Tech",
+        "description": "Mark Zuckerberg said Meta intends to sell for the first time AI tools to other companies",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Zuckerberg says Meta’s enterprise AI opportunity extends beyond agents",
+        "link": "https://techcrunch.com/2026/07/29/zuckerberg-says-metas-enterprise-ai-opportunity-extends-beyond-agents/",
+        "date": "Wed, 29 Jul 2026 22:23:12 +0000",
+        "source": "TechCrunch AI",
+        "description": "On the company’s second-quarter earnings call Wednesday, CEO Mark Zuckerberg said Meta sees a “large enterprise opportunity” spanning AI agents, APIs, compute, and internal software.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta Bets Its Next Revenue Line on Personal AI Agents",
+        "link": "https://www.unite.ai/meta-bets-its-next-revenue-line-on-personal-ai-agents/",
+        "date": "Wed, 29 Jul 2026 22:11:03 +0000",
+        "source": "Unite.ai",
+        "description": "Meta put consumer AI agents at the center of its revenue plan on July 29, 2026, when it reported second-quarter results and then used much of the earnings call to lay out a consumer agent business ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta misses earnings forecasts after Zuckerberg media push to promote AI",
+        "link": "https://www.theguardian.com/technology/2026/jul/29/meta-earnings-mark-zuckerberg",
+        "date": "Wed, 29 Jul 2026 21:26:49 GMT",
+        "source": "The Guardian AI",
+        "description": "Stock tumbles nearly 8% after weaker-than-expected results, despite CEO’s blitz to tout positive effects of AIMark Zuckerberg’s media spree touting the positive effects of artificial intelligence d...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Discover what’s next for AI, from the SaaS reckoning to the agent security gap, at TechCrunch Disrupt 2026",
+        "link": "https://techcrunch.com/2026/07/29/discover-whats-next-for-ai-from-the-saas-reckoning-to-the-agent-security-gap-at-techcrunch-disrupt-2026/",
+        "date": "Wed, 29 Jul 2026 21:16:39 +0000",
+        "source": "TechCrunch AI",
+        "description": "At TechCrunch Disrupt 2026, the AI Stage is back to dig into the single hottest topic in the community for the past few years, presented by Google for Startups.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Thinking Machines co-founder Lilian Weng left the company citing health reasons, then joined OpenAI",
+        "link": "https://techcrunch.com/2026/07/29/thinking-machines-co-founder-lilian-weng-left-the-company-citing-health-reasons-then-joined-openai/",
+        "date": "Wed, 29 Jul 2026 21:07:48 +0000",
+        "source": "TechCrunch AI",
+        "description": "Weng previously served as the VP of AI Safety Research at OpenAI.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "What 'mAh' means for your phone's battery, and why I focus on another metric instead",
+        "link": "https://www.zdnet.com/article/what-mah-means-for-phones-battery-life/",
+        "date": "Wed, 29 Jul 2026 21:00:47 GMT",
+        "source": "ZDNet AI",
+        "description": "New smartphones boast batteries with higher-than-ever mAh numbers, but it's actually a small factor in how long the battery lasts.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Hugging Face AI break-in, as told through an increasingly committed bear metaphor",
+        "link": "https://techcrunch.com/2026/07/29/the-hugging-face-ai-break-in-as-told-through-an-increasingly-committed-bear-metaphor/",
+        "date": "Wed, 29 Jul 2026 19:44:49 +0000",
+        "source": "TechCrunch AI",
+        "description": "Another way to think about the whole thing is to picture a bear at a campsite. (Really, we are going there.)",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I replaced my paid streaming apps with free ones - here's what surprised me",
+        "link": "https://www.zdnet.com/article/are-free-streaming-services-worth-it-vs-paid-streaming-apps/",
+        "date": "Wed, 29 Jul 2026 19:42:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Are free streaming services that bad? I swapped my paid subscriptions for free ones to see.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Looking to Launch your SaaS",
         "link": "https://dev.to/mahesh12/looking-to-launch-your-saas-3p2i",
         "date": "Wed, 29 Jul 2026 19:32:19 +0000",
@@ -517,6 +647,17 @@
         "tags": []
     },
     {
+        "title": "Hack “Writers” Fuming After ChatGPT Starts Refusing Prompts to Copy a Specific Author’s Style",
+        "link": "https://futurism.com/artificial-intelligence/hack-writers-fuming-chatgpt-refuse-mimic-author",
+        "date": "Wed, 29 Jul 2026 15:47:54 -0400",
+        "source": "Futurism AI",
+        "description": "\"I have no idea how to get around this.\"\nThe post Hack &#8220;Writers&#8221; Fuming After ChatGPT Starts Refusing Prompts to Copy a Specific Author&#8217;s Style appeared first on Futurism.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Hint, a new AI startup co-founded by Martha Stewart, offers an AI assistant for homeowners",
         "link": "https://techcrunch.com/2026/07/29/hint-a-new-ai-startup-co-founded-by-martha-stewart-offers-an-ai-assistant-for-homeowners/",
         "date": "Wed, 29 Jul 2026 15:35:09 +0000",
@@ -565,6 +706,17 @@
         "description": "Some companies reportedly using leaderboards for employees who used the most AI in their workGet our breaking news email, free app or daily news podcastSoftware firm Atlassian has sought to tighten...",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "How enabling two settings tripled our scores on the ARC-AGI-3 benchmark",
+        "link": "https://openai.com/index/how-two-settings-tripled-our-arc-agi-3-scores",
+        "date": "Wed, 29 Jul 2026 15:00:00 GMT",
+        "source": "OpenAI",
+        "description": "How two API settings improved GPT-5.6 performance on ARC-AGI-3, boosting scores and efficiency by retaining reasoning and enabling compaction.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "Shahid Hanif, CEO and Co-Founder of Shufti – Interview Series",
@@ -1422,6 +1574,18 @@
         "tags": []
     },
     {
+        "title": "From CUDA to MLX: How K-Search Brings Decades of Kernel Expertise to Apple Silicon",
+        "link": "http://bair.berkeley.edu/blog/2026/07/29/cuda-to-mlx-k-search/",
+        "date": "Wed, 29 Jul 2026 02:00:00 -0700",
+        "source": "BAIR (Berkeley)",
+        "description": "Figure 1: CUDA-to-MLX optimization translation map. CUDA optimization knowledge can be translated into architecture-native MLX strategies rather than copied instruction-for-instruction.\n\nWe face a ...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
         "title": "Police Say Binance Is Making It Harder to Fight Crime",
         "link": "https://www.nytimes.com/2026/07/28/us/binance-crypto-crime.html",
         "date": "Wed, 29 Jul 2026 01:50:24 +0000",
@@ -1465,6 +1629,17 @@
         "description": "The deal is Cyera's third acquisition this year.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "How GPT-5.6 fuses frontier intelligence with frontier efficiency",
+        "link": "https://openai.com/index/gpt-5-6-frontier-intelligence-efficiency",
+        "date": "Wed, 29 Jul 2026 00:00:00 GMT",
+        "source": "OpenAI",
+        "description": "GPT-5.6 improves AI efficiency across models, inference, and agentic workflows, helping deliver more useful intelligence per dollar.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "Do Models Fake Alignment Without Clear Consequences?",
@@ -23889,198 +24064,6 @@
         "is_important": false,
         "tags": [
             "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "SkillChain-Gym: A Benchmark for Reskilling-Aware Production-Inventory Control under Disruptions",
-        "link": "https://arxiv.org/abs/2606.17266",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17266v1 Announce Type: new \nAbstract: Production planning increasingly has to treat workforce capability as a decision variable: certifications lapse when skills are not maintained, new ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Skill-Constrained Model Predictive Control for Resilient Manufacturing Supply Chains",
-        "link": "https://arxiv.org/abs/2606.17269",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17269v1 Announce Type: new \nAbstract: In skill-constrained production-inventory systems, the qualified human capacity available tomorrow depends on training decisions made today: product...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Nothing from Something: Can a Language Model Discover 0?",
-        "link": "https://arxiv.org/abs/2606.17289",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17289v1 Announce Type: new \nAbstract: AI systems based on artificial neural networks are being developed with aspirations of pushing the boundary of human mathematical knowledge. A key q...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Quantifying Consistency in LLM Logical Reasoning via Structural Uncertainty",
-        "link": "https://arxiv.org/abs/2606.17312",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17312v1 Announce Type: new \nAbstract: Large language models can arrive at the same answer through reasoning paths that are unstable, contradictory, or difficult to rank consistently -- a...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "MemTrace: Probing What Final Accuracy Misses in Long-Term Memory",
-        "link": "https://arxiv.org/abs/2606.17328",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17328v1 Announce Type: new \nAbstract: LLM agents increasingly maintain long-term memory of user facts across sessions. Yet such memory is usually evaluated by aggregating accuracy over q...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "SpeechDx: A Multi-Task Benchmark for Clinical Speech AI",
-        "link": "https://arxiv.org/abs/2606.17339",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17339v1 Announce Type: new \nAbstract: Speech offers a uniquely informative window into health by simultaneously engaging neurological, motor, respiratory, and vocal systems. Current clin...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Distributed General-Purpose Agent Networks: Architecture, Key Mechanisms, and Prototypes",
-        "link": "https://arxiv.org/abs/2606.17368",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17368v1 Announce Type: new \nAbstract: Large language models have accelerated the transition from passive conversational assistants to autonomous agents that can understand goals, plan ac...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Treatment Response Optimized Clinical Decision Support AI System via Digital Twin Simulation",
-        "link": "https://arxiv.org/abs/2606.17405",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17405v1 Announce Type: new \nAbstract: Clinical decision support AI systems (CDSASs) must adapt to evolving patient conditions in real-time while adhering to strict safety constraints. We...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Incumbent Advantage: Brand Bias and Cognitive Manipulation Dynamics in LLM Recommendation Systems",
-        "link": "https://arxiv.org/abs/2606.17443",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17443v1 Announce Type: new \nAbstract: Large language models (LLMs) are becoming a major way for consumers to find products, but we do not yet understand how brands compete in this new ch...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "A Machine-Learned Comorbidity Index",
-        "link": "https://arxiv.org/abs/2606.17450",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17450v1 Announce Type: new \nAbstract: Traditional comorbidity scores (e.g., Charlson and Elixhauser) are widely used for risk adjustment and patient stratification, but they have two key...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "MapSatisfyBench: Benchmarking Satisfaction-Aware Map Agents through Behavior-Grounded Implicit Decision Factors",
-        "link": "https://arxiv.org/abs/2606.17453",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17453v1 Announce Type: new \nAbstract: Large language model agents are increasingly integrated into map services. Since map services are embedded in everyday-life scenarios rather than pr...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Dissecting model behavior through agent trajectories",
-        "link": "https://arxiv.org/abs/2606.17454",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17454v1 Announce Type: new \nAbstract: AI agent performance is not just a modeling problem, it is fundamentally a systems problem. The advanced capabilities of models are realized through...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Can LLMs Be CEOs? Benchmarking Strategic Resource Reallocation with Multi-Role Agent Simulation",
-        "link": "https://arxiv.org/abs/2606.17459",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2606.17459v1 Announce Type: new \nAbstract: Evaluating the decision-making capabilities of large language models (LLMs) is a growing research priority, yet existing benchmarks focus on isolate...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "MemSlides: A Hierarchical Memory Driven Agent Framework for Personalized Slide Generation with Multi-turn Local Revision",
-        "link": "https://arxiv.org/abs/2606.17162",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2606.17162v1 Announce Type: new \nAbstract: Personalized presentation generation requires more than conditioning on a current prompt or template: agents must preserve stable user preferences a...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "PromptMN: Pseudo Prompting Language",
-        "link": "https://arxiv.org/abs/2606.17164",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2606.17164v1 Announce Type: new \nAbstract: Prompting has become the primary interface between humans and generative AI, yet many natural language prompts remain fragile: roles, goals, constra...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "RepSelect: Robust LLM Unlearning via Representation Selectivity",
-        "link": "https://arxiv.org/abs/2606.17168",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2606.17168v1 Announce Type: new \nAbstract: Making large language models (LLMs) deeply forget specific knowledge and values without sacrificing general capabilities remains a central challenge...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "From Parasocial Scripts to Dyadic Persistence in Autonomous AI-Agent Communities",
-        "link": "https://arxiv.org/abs/2606.17174",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2606.17174v1 Announce Type: new \nAbstract: While parasocial interactions (PSIs) and parasocial relationships (PSRs) have been studied in conventional media settings, we investigate whether PS...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Self-Generated Error Training for Token Editing in Diffusion Language Models",
-        "link": "https://arxiv.org/abs/2606.17175",
-        "date": "Wed, 17 Jun 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2606.17175v1 Announce Type: new \nAbstract: Token-to-token (T2T) editing lets LLaDA2.1 revise committed tokens during block-diffusion decoding. The released recipe trains this editor on random...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
         ]
     }
 ]
