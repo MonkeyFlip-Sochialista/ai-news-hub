@@ -20327,6 +20327,579 @@
         "is_important": false
     },
     {
+        "title": "Offering Zero Data Retention for frontier models",
+        "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
+        "date": "Wed, 19 Aug 2026 19:00:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Next-Generation Fullstack Engineering in 2026 1787164899388",
+        "link": "https://dev.to/jashwanth234567/next-generation-fullstack-engineering-in-2026-1787164899388-490d",
+        "date": "Wed, 19 Aug 2026 18:42:13 +0000",
+        "source": "Dev.to AI",
+        "description": "Next-Generation Fullstack Engineering in 2026 1787164899388\n\n\n\n  \n  \n  The Shift Toward Agentic Engineering\n\n\nSoftware engineering is undergoing a generational paradigm shift. In 2026, engineers no...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "National AI & ML Innovation Summit 1787164899388",
+        "link": "https://dev.to/jashwanth234567/national-ai-ml-innovation-summit-1787164899388-1j0j",
+        "date": "Wed, 19 Aug 2026 18:41:40 +0000",
+        "source": "Dev.to AI",
+        "description": "National AI &amp; ML Innovation Summit 1787164899388\n\n\n\n\n🏷️ Type: Symposium | 📍 Mode: Hybrid\n\n\n  \n  \n  🎓 Academic Details\n\n\n\n🏛️ Institution / College: Stanford University School of Engineering\n🎓 Un...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I went looking for a reason to switch coding agents and couldn't find one",
+        "link": "https://dev.to/frankchu/i-went-looking-for-a-reason-to-switch-coding-agents-and-couldnt-find-one-27m1",
+        "date": "Wed, 19 Aug 2026 18:41:32 +0000",
+        "source": "Dev.to AI",
+        "description": "A few evenings ago I sat down to figure out whether I should switch coding agents. New benchmark numbers were out, prices had just moved again, and I had that vague feeling that everyone else was u...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "EU AI Act Marking Deadline: The December 2 Rule Rests on a Control Researchers Broke for $50",
+        "link": "https://dev.to/waxell/eu-ai-act-marking-deadline-the-december-2-rule-rests-on-a-control-researchers-broke-for-50-10cl",
+        "date": "Wed, 19 Aug 2026 18:41:21 +0000",
+        "source": "Dev.to AI",
+        "description": "On 2 December 2026, a four-month runway closes. Providers who had generative AI systems on the EU market before 2 August 2026 have until that date to mark their outputs in a machine-readable format...",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "I Built My Students an AI Assistant That's Not Allowed to Make Things Up",
+        "link": "https://dev.to/sohaibhasan/i-built-my-students-an-ai-assistant-thats-not-allowed-to-make-things-up-3eb5",
+        "date": "Wed, 19 Aug 2026 18:40:41 +0000",
+        "source": "Dev.to AI",
+        "description": "How I built Classroom AI System, a free, RAG-grounded teaching assistant that only answers from my own course notes, plus the teacher dashboard it feeds, on a budget of exactly $0.\n\n\nAsk a generic ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Bridging the Distribution Gap for AI Builders: Launching the GateOfAI Ecosystem",
+        "link": "https://dev.to/gateofai/bridging-the-distribution-gap-for-ai-builders-launching-the-gateofai-ecosystem-fe4",
+        "date": "Wed, 19 Aug 2026 18:38:55 +0000",
+        "source": "Dev.to AI",
+        "description": "The AI Distribution Problem\n\n\nBuilding production-ready AI has never been more accessible. With frameworks like LangGraph, CrewAI, FastAPI, and robust model APIs, developers are spinning up sophist...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "You Benchmarked the Model. Now Benchmark the Server.",
+        "link": "https://dev.to/gitlab_3188/you-benchmarked-the-model-now-benchmark-the-server-4df5",
+        "date": "Wed, 19 Aug 2026 18:35:35 +0000",
+        "source": "Dev.to AI",
+        "description": "You picked a free model because the answers looked good. Good answers are not an endpoint. An endpoint is the model plus the server plus the network. Demos pass. Pipelines stall. The model was rare...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Opinion: AI Server Changes Need a Fault Drill, Not Just a Rollback Plan",
+        "link": "https://dev.to/github_7727/opinion-ai-server-changes-need-a-fault-drill-not-just-a-rollback-plan-48d1",
+        "date": "Wed, 19 Aug 2026 18:35:28 +0000",
+        "source": "Dev.to AI",
+        "description": "A rollback plan tells you how to undo an AI change, but not what breaks first when the change stays in place. Most production incidents do not begin with a deliberate rollback; they begin with an u...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Case Study: A Free Model Wrote a C++ Tree Hasher. The Reference Oracle Found Three Bugs.",
+        "link": "https://dev.to/datacpp_8185/case-study-a-free-model-wrote-a-c-tree-hasher-the-reference-oracle-found-three-bugs-dm1",
+        "date": "Wed, 19 Aug 2026 18:35:15 +0000",
+        "source": "Dev.to AI",
+        "description": "Conclusion first: a free model drafted a working C++17 directory hasher in one pass. The draft compiled, ran, and was still wrong. A differential test against standard system tools found three real...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Every service your bot offers becomes a callable handle on the BizNode network. Other bots discover and invoke your handles...",
+        "link": "https://dev.to/biznode/every-service-your-bot-offers-becomes-a-callable-handle-on-the-biznode-network-other-bots-discover-55k",
+        "date": "Wed, 19 Aug 2026 18:34:53 +0000",
+        "source": "Dev.to AI",
+        "description": "Title: Unlocking Revenue with BizNode: Your AI Business Operator on Your Terms\n\nIn the rapidly evolving landscape of AI and automation, BizNode stands out as a game-changer for developers and entre...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Vibe Coding Is Not Replacing Developers. It Is Replacing Bad Habits.",
+        "link": "https://dev.to/muhammadniazali/vibe-coding-is-not-replacing-developers-it-is-replacing-bad-habits-1iig",
+        "date": "Wed, 19 Aug 2026 18:34:26 +0000",
+        "source": "Dev.to AI",
+        "description": "A few months ago I would open a new project, spend the first hour setting up boilerplate, wiring authentication, and configuring the database before writing a single line of actual product logic. N...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "MCP x-mcp-header Validation: Keep Bad Tool Schemas Out of tools/list",
+        "link": "https://dev.to/ssukhpinder/mcp-x-mcp-header-validation-keep-bad-tool-schemas-out-of-toolslist-3j3d",
+        "date": "Wed, 19 Aug 2026 18:33:55 +0000",
+        "source": "Dev.to AI",
+        "description": "MCP x-mcp-header validation is easy to miss because the annotation looks like ordinary JSON Schema metadata. On the 2026-07-28 Streamable HTTP transport, it is a wire contract: the client copies se...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta AI Comes to Mac With Screen Sharing and Business Account Access",
+        "link": "https://www.unite.ai/meta-ai-comes-to-mac-with-screen-sharing-and-business-account-access/",
+        "date": "Wed, 19 Aug 2026 18:22:02 +0000",
+        "source": "Unite.ai",
+        "description": "Meta launched a standalone Mac app for Meta AI on August 19, 2026, giving its chatbot a dedicated desktop home for the first time and turning it toward the businesses and creators who run their mar...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Prevalent AI Raises $22M to Scale Trusted Enterprise Context for AI Systems",
+        "link": "https://www.unite.ai/prevalent-ai-raises-22m-to-scale-trusted-enterprise-context-for-ai-systems/",
+        "date": "Wed, 19 Aug 2026 18:20:26 +0000",
+        "source": "Unite.ai",
+        "description": "Prevalent AI has raised $22 million in growth capital from Integrity Growth Partners (IGP), marking the first primary outside investment in the London-based company’s nine-year history. The funding...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Waymo Brings Gemini Assistant Into Its Custom Ojai Robotaxis",
+        "link": "https://www.unite.ai/waymo-brings-gemini-assistant-into-its-custom-ojai-robotaxis/",
+        "date": "Wed, 19 Aug 2026 18:11:01 +0000",
+        "source": "Unite.ai",
+        "description": "Waymo riders in the company&#039;s custom-built Ojai robotaxis now have a second AI system in the vehicle with them, and this one is there to talk. Google announced on August 19, 2026 that Gemini i...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP",
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Stripe Buys A.I. Start-Up OpenRouter for $7.5 Billion",
+        "link": "https://www.nytimes.com/2026/08/19/business/stripe-openrouter-ai.html",
+        "date": "Wed, 19 Aug 2026 17:39:30 +0000",
+        "source": "NYT Tech",
+        "description": "The deal is significant for the artificial intelligence industry, uniting Stripe’s payments business with OpenRouter’s helping businesses direct their spending on A.I. models.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meet the startup helping Wall Street put a price on AI compute",
+        "link": "https://techcrunch.com/video/meet-the-startup-helping-wall-street-put-a-price-on-ai-compute/",
+        "date": "Wed, 19 Aug 2026 17:26:48 +0000",
+        "source": "TechCrunch AI",
+        "description": "The AI buildout shows no signs of slowing. And&#160;with&#160;hundreds of&#160;billions of dollars a year going into data centers and GPUs,&#160;compute has&#160;become the single biggest cost for ...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Rob Collie, CEO and Founder, P3 Adaptive and Author of Fair Game – Interview Series",
+        "link": "https://www.unite.ai/rob-collie-ceo-and-founder-p3-adaptive-and-author-of-fair-game-interview-series/",
+        "date": "Wed, 19 Aug 2026 17:24:50 +0000",
+        "source": "Unite.ai",
+        "description": "Rob Collie is the founder and CEO of P3 Adaptive, a Microsoft Solutions Partner for Data and AI that serves hundreds of mid-market and Fortune 1000 clients. A former Microsoft engineering leader on...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Can MainstreamOS finally make Linux a household name? I tried it to find out",
+        "link": "https://www.zdnet.com/article/mainstreamos-linux-distro-arch-hyprland/",
+        "date": "Wed, 19 Aug 2026 17:20:50 GMT",
+        "source": "ZDNet AI",
+        "description": "Finally, there's a Linux distro that makes Arch and Hyprland easy - while adding the polish of MacOS. What's not to love about MainstreamOS?",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Your Comcast router doubles as a motion detector now - and a potential police informant",
+        "link": "https://www.zdnet.com/article/comcast-routers-detect-motion/",
+        "date": "Wed, 19 Aug 2026 17:13:57 GMT",
+        "source": "ZDNet AI",
+        "description": "Opinion: Comcast's new motion detection technology could benefit your home, but it also raises privacy concerns. The details are in the fine print.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "A County Got Rich From Data Centers. Some Question ‘At What Cost?’",
+        "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-backlash-loudoun-virginia.html",
+        "date": "Wed, 19 Aug 2026 16:50:35 +0000",
+        "source": "NYT Tech",
+        "description": "Loudoun County, Va., hosts more than 250 data centers that bring in huge tax revenues. But some officials and residents worry the county has become too dependent on that cash.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Natural Secures $100M Credit Facility to Fund Credit and Payments for AI Agents",
+        "link": "https://www.unite.ai/natural-secures-100m-credit-facility-to-fund-credit-and-payments-for-ai-agents/",
+        "date": "Wed, 19 Aug 2026 16:45:01 +0000",
+        "source": "Unite.ai",
+        "description": "Natural, the San Francisco startup building payments infrastructure for AI agents, has secured a credit facility of up to $100 million from Upper90 Capital Management, the company announced on Augu...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Coders Say They Already Found Workarounds to Claude’s Invisible Watermarks",
+        "link": "https://www.wired.com/story/coders-say-they-already-found-workarounds-to-claudes-invisible-watermarks/",
+        "date": "Wed, 19 Aug 2026 16:44:07 +0000",
+        "source": "Wired AI",
+        "description": "Anthropic announced last week it would include invisible watermarks in AI-generated content to comply with new EU rules. Within hours, overrides were being touted online.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Voters Aren’t Waiting for November to Try Ousting Officials Over Data Centers",
+        "link": "https://www.nytimes.com/2026/08/19/technology/data-centers-voter-concerns-independence-missouri.html",
+        "date": "Wed, 19 Aug 2026 16:38:14 +0000",
+        "source": "NYT Tech",
+        "description": "As a backlash grows over data centers, more local officials are facing recall elections for their support of the computing sites.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Grok 4.6 Is Now Generally Available on Amazon Bedrock",
+        "link": "https://www.unite.ai/grok-4-6-is-now-generally-available-on-amazon-bedrock/",
+        "date": "Wed, 19 Aug 2026 16:37:01 +0000",
+        "source": "Unite.ai",
+        "description": "xAI&#039;s flagship model has a second major cloud home. Grok 4.6 is now generally available on Amazon Bedrock, the company announced on August 19, 2026, one week after the model&#039;s initial rel...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "After testing the Pixel 11, I feel fine about skipping the Pro models - here's why",
+        "link": "https://www.zdnet.com/article/google-pixel-11-first-look/",
+        "date": "Wed, 19 Aug 2026 16:35:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The design is largely unchanged from last year, but the Pixel 11 base model has an improved camera, Tensor G6 chip, and new colors.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
+        "link": "https://www.bbc.co.uk/news/articles/c0ej09nywdno?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 19 Aug 2026 16:14:46 GMT",
+        "source": "BBC Tech",
+        "description": "According to a Freedom of Information (FOI) request the number of letters sent has almost tripled since 2024.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Some Stand-Up Comics Are Pivoting Away From Video on Social Media",
+        "link": "https://www.nytimes.com/2026/08/19/arts/comedians-social-media-photos-captions.html",
+        "date": "Wed, 19 Aug 2026 16:13:49 +0000",
+        "source": "NYT Tech",
+        "description": "Comedians used to post footage of their performances to build a following. Now, some are finding that comic strip-style panels with captions pack a bigger punch.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Monzo says issue with card payments and transfers now resolved",
+        "link": "https://www.bbc.co.uk/news/articles/cwyrvxvl1eeo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 19 Aug 2026 16:04:16 GMT",
+        "source": "BBC Tech",
+        "description": "The digital bank said all of its services were now \"back up and running\"",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Veeda AI Raises $90M+ Seed Backed by Khosla and Radical to Build World Models for Physical AI",
+        "link": "https://www.unite.ai/veeda-ai-raises-90m-seed-backed-by-khosla-and-radical-to-build-world-models-for-physical-ai/",
+        "date": "Wed, 19 Aug 2026 16:04:02 +0000",
+        "source": "Unite.ai",
+        "description": "Veeda AI, the Toronto-headquartered startup founded by computer vision researcher Sanja Fidler weeks after her departure from Nvidia, has raised more than US$90 million in seed financing, The Logic...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "I replaced my Samsung with the Google Pixel 11 Pro Fold - a week later, I'm going back",
+        "link": "https://www.zdnet.com/article/google-pixel-11-pro-fold-review/",
+        "date": "Wed, 19 Aug 2026 16:01:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The subtle changes are nice, but not enough to justify spending $1,900 on Google's latest foldable phone when better alternatives exist.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I've tested dozens of rugged smartwatches - this one's battery is on a different level",
+        "link": "https://www.zdnet.com/article/suunto-core-2-review/",
+        "date": "Wed, 19 Aug 2026 16:01:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The Suunto Core 2 provides key outdoor metrics, storm alerts, and up to 15 months of battery life.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Pixel 11 XL Pro: Google's big flagship is more Pro than ever, but the camera is no big thing",
+        "link": "https://www.zdnet.com/article/pixel-11-pro-xl-review/",
+        "date": "Wed, 19 Aug 2026 16:00:46 GMT",
+        "source": "ZDNet AI",
+        "description": "The Pixel 11 Pro XL has some gorgeous hardware and some neat AI tricks, but the cameras need good lighting to shine.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The A.I. in Google’s New Pixel 11 Is Not Very Helpful",
+        "link": "https://www.nytimes.com/2026/08/19/technology/personaltech/google-pixel-11-review.html",
+        "date": "Wed, 19 Aug 2026 16:00:11 +0000",
+        "source": "NYT Tech",
+        "description": "The phone’s artificial intelligence can order groceries, book tables and take photos on a user’s behalf. But is it something people really want?",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I tried the Fairphone 6+ and - hoo boy! - this repairable phone could be the one",
+        "link": "https://www.zdnet.com/article/repairable-phones-finally-hit-the-us-market/",
+        "date": "Wed, 19 Aug 2026 15:53:08 GMT",
+        "source": "ZDNet AI",
+        "description": "Fairphone is finally selling its latest model in the US. The $649 handset has 12 swappable parts, and a replacement battery is only $40. This is truly the Goldilocks of Android phones.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "TerraPower’s nuclear reactor has a secret weapon for powering AI data centers",
+        "link": "https://techcrunch.com/2026/08/19/terrapowers-nuclear-reactor-has-a-secret-weapon-for-powering-ai-data-centers/",
+        "date": "Wed, 19 Aug 2026 15:44:53 +0000",
+        "source": "TechCrunch AI",
+        "description": "TerraPower's nuclear power plant possesses a strategic advantage over competitors, especially when chasing after data center deals.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Watermarking Text Generation Efficiently",
+        "link": "https://towardsai.com/p/machine-learning/watermarking-text-generation-efficiently",
+        "date": "Wed, 19 Aug 2026 15:36:13 +0000",
+        "source": "Towards AI",
+        "description": "Author(s): Enzo Lombardi Originally published on Towards AI. Or Why What You Recently Read About AI Watermarking Is Probably Wrong Most explanations of AI watermarking describe something that does ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Harness Ships AI Agents to Scan, Triage, and Patch Vulnerabilities at Machine Speed",
+        "link": "https://www.unite.ai/harness-ships-ai-agents-to-scan-triage-and-patch-vulnerabilities-at-machine-speed/",
+        "date": "Wed, 19 Aug 2026 15:30:02 +0000",
+        "source": "Unite.ai",
+        "description": "Harness, the San Francisco software-delivery platform company, launched a suite of AI security agents on August 19, 2026 — AI SAST, agentic triage and remediation, a dedicated Zero-Day Agent, and v...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Amazon makes its AI-powered Alexa+ free on Fire TV, no Prime required",
+        "link": "https://techcrunch.com/2026/08/19/amazon-makes-its-ai-powered-alexa-free-on-fire-tv-no-prime-required/",
+        "date": "Wed, 19 Aug 2026 15:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "Amazon is making its AI-powered Alexa+ assistant free on all compatible Fire TV devices in the U.S., automatically upgrading users whether or not they subscribe to Prime.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Apple Removes Some Fees for App Developers in European Union",
+        "link": "https://www.nytimes.com/2026/08/18/technology/apple-fees-european-union.html",
+        "date": "Wed, 19 Aug 2026 14:49:24 +0000",
+        "source": "NYT Tech",
+        "description": "The move followed a long battle with regulators over the company’s tight controls of its App Store.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Pony.AI Has Plans For 4,000 Robotaxis Outside China",
+        "link": "https://aibusiness.com/generative-ai/pony-ai-plans-4-000-robotaxis-outside-china",
+        "date": "Wed, 19 Aug 2026 14:39:01 GMT",
+        "source": "AI Business",
+        "description": "Self-driving taxi service is advancing around the world.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "The best Android phones of 2026: Expert tested and reviewed",
+        "link": "https://www.zdnet.com/article/best-android-phone/",
+        "date": "Wed, 19 Aug 2026 14:19:00 GMT",
+        "source": "ZDNet AI",
+        "description": "We tested the latest Android phones on the market, from the Samsung Galaxy Z Fold 8 to the Google Pixel 11 series. Here's how they stack up.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How AI-Powered Outreach Is Creating a Global Level Playing Field for Tomorrow’s Enterprises",
+        "link": "https://www.unite.ai/ai-powered-b2b-outreach-growth/",
+        "date": "Wed, 19 Aug 2026 14:18:41 +0000",
+        "source": "Unite.ai",
+        "description": "The rapid rise of AI and its disruptive potential has raised numerous questions about its long-term impacts. Yet what most tend to miss, is that rather than stripping the bottom out of the market, ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why the Next Generation of Marketing Leaders Will Be Business Integrators",
+        "link": "https://www.unite.ai/next-gen-marketing-leaders-business-integrators/",
+        "date": "Wed, 19 Aug 2026 14:14:57 +0000",
+        "source": "Unite.ai",
+        "description": "Nobody announced it. There was no memo. No title change. No LinkedIn post from HR. But the role has changed. In many organizations, marketing now sits at the intersection of customer priorities, sa...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Did someone wearing Meta Glasses film you today? Are you sure?",
+        "link": "https://www.theguardian.com/technology/ng-interactive/2026/aug/19/meta-glasses-privacy-surveillance",
+        "date": "Wed, 19 Aug 2026 14:13:08 GMT",
+        "source": "The Guardian AI",
+        "description": "People say they’ve been secretly filmed in their own home, at concerts and at work. Are the wildly popular smartglasses the final nail in the coffin of personal privacy? “I’ve had one person who to...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Best robot vacuum mops of 2026: Expert tested",
+        "link": "https://www.zdnet.com/article/best-robot-vacuum-mop/",
+        "date": "Wed, 19 Aug 2026 14:12:00 GMT",
+        "source": "ZDNet AI",
+        "description": "We've tested over 50 top robot vacuum-and-mop combos from brands like Roborock, Eufy, Ecovacs, and Dreame to choose the best to keep a home clean.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Calendly throws its hat into meeting note-taker circus",
+        "link": "https://techcrunch.com/2026/08/19/calendly-throws-its-hat-into-meeting-note-taker-circus/",
+        "date": "Wed, 19 Aug 2026 14:09:39 +0000",
+        "source": "TechCrunch AI",
+        "description": "Calendly is also releasing a meeting scheduling assistant called Callie.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Answer AI System Design Interview Questions",
+        "link": "https://www.kdnuggets.com/how-to-answer-ai-system-design-interview-questions",
+        "date": "Wed, 19 Aug 2026 14:00:55 +0000",
+        "source": "KDnuggets",
+        "description": "The interview moved from Design YouTube to Design ChatGPT. Here's the framework.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "ChatGPT for Teens Is an Immediate, Dismal Failure",
+        "link": "https://futurism.com/artificial-intelligence/chatgpt-teens-failure",
+        "date": "Wed, 19 Aug 2026 13:56:07 -0400",
+        "source": "Futurism AI",
+        "description": "Did OpenAI think this through at all?\nThe post ChatGPT for Teens Is an Immediate, Dismal Failure appeared first on Futurism.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "LFM2.5 Q4\\_0 Checkpoints from Quantization-Aware Distillation",
+        "link": "https://huggingface.co/blog/LiquidAI/qad",
+        "date": "Wed, 19 Aug 2026 13:48:49 GMT",
+        "source": "Hugging Face",
+        "description": "",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The best TVs of 2026: Expert tested and recommended",
+        "link": "https://www.zdnet.com/article/best-tv/",
+        "date": "Wed, 19 Aug 2026 13:36:00 GMT",
+        "source": "ZDNet AI",
+        "description": "I have been writing about TVs and home theater tech for the better part of a decade. These are the best TVs ZDNET has tested from brands like LG, Samsung, and Hisense.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Unitree Shares Surge in Stock Market Debut",
+        "link": "https://aibusiness.com/robotics/unitree-shares-surge-stock-market-debut",
+        "date": "Wed, 19 Aug 2026 13:33:21 GMT",
+        "source": "AI Business",
+        "description": "The company is the world’s biggest humanoid robot maker by sales.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "What Happens When Attackers Move Faster Than Healthcare Can Patch?",
+        "link": "https://www.unite.ai/healthcare-cybersecurity-ai-vulnerabilities-patching-remediation/",
+        "date": "Wed, 19 Aug 2026 13:32:11 +0000",
+        "source": "Unite.ai",
+        "description": "The health sector has long faced a real hurdle to patching security issues: A hospital’s security team may be able to identify a vulnerability in a clinical system in an afternoon, but safely insta...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I tested Bose's new midrange headphones - now the pricey Ultras feel redundant",
+        "link": "https://www.zdnet.com/article/bose-quietcomfort-headphones-2-review/",
+        "date": "Wed, 19 Aug 2026 13:30:50 GMT",
+        "source": "ZDNet AI",
+        "description": "Bose's second-gen QuietComfort headphones retain their $359 price tag, but flaunt meaningful upgrades from their predecessor.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Palo Alto Networks Enlists Anthropic, OpenAI and OT Vendors for Critical Infrastructure Defense",
+        "link": "https://www.unite.ai/palo-alto-networks-enlists-anthropic-openai-and-ot-vendors-for-critical-infrastructure-defense/",
+        "date": "Wed, 19 Aug 2026 13:20:03 +0000",
+        "source": "Unite.ai",
+        "description": "Palo Alto Networks on August 19, 2026 launched the Frontier AI Critical Defense Program, a coordination effort that pairs AI labs, software makers and operational technology vendors to shield criti...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Relevance Over Scale: Building AI That Survives Contact with Reality",
+        "link": "https://www.unite.ai/small-task-specific-ai-models-field-operations/",
+        "date": "Wed, 19 Aug 2026 13:08:58 +0000",
+        "source": "Unite.ai",
+        "description": "Why smaller, task-specific models are essential for AI in the field Teams can now move from AI prompt to prototype faster than ever. But these prototypes often break in real-world workflows like fi...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Tesla Robotaxi With No Driver Spotted Smashing Through Traffic Barriers",
+        "link": "https://futurism.com/advanced-transport/tesla-robotaxi-no-driver-bollards",
+        "date": "Wed, 19 Aug 2026 13:03:08 -0400",
+        "source": "Futurism AI",
+        "description": "\"It ran through the bollards. Holy sh*t.\"\nThe post Tesla Robotaxi With No Driver Spotted Smashing Through Traffic Barriers appeared first on Futurism.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Adronite launches Codistry AI coding platform, claims half the token cost",
+        "link": "https://siliconangle.com/2026/08/19/adronite-launches-codistry-ai-coding-platform-claims-half-the-token-cost/",
+        "date": "Wed, 19 Aug 2026 13:00:35 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Adronite Inc. today launched Codistry, an artificial intelligence coding platform for large enterprise codebases. The platform runs on Adronite&#8217;s Context Engine, or ACE, which the company has...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Rundoo raises $30M to expand its AI-native operating system for small supply stores",
+        "link": "https://siliconangle.com/2026/08/19/rundoo-raises-30m-to-expand-its-ai-native-operating-system-for-small-supply-stores/",
+        "date": "Wed, 19 Aug 2026 13:00:03 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Rundoo Inc., the creator of an artificial intelligence-native system-of-record for independent supply stores, said today it has closed on a $30 million Series B round of funding, bringing its total...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "How to Track Your Brand's Visibility in ChatGPT, Perplexity & Gemini (GEO Monitoring, With Code)",
         "link": "https://dev.to/benedictmendoza/how-to-track-your-brands-visibility-in-chatgpt-perplexity-gemini-geo-monitoring-with-code-5701",
         "date": "Wed, 19 Aug 2026 12:51:14 +0000",
@@ -20540,6 +21113,15 @@
         "tags": []
     },
     {
+        "title": "Teen Boys Are Using Meta Glasses to Harass and Bully Girls at High Schools and Middle Schools",
+        "link": "https://futurism.com/artificial-intelligence/teen-boys-meta-glasses-harass-bully-girls-school",
+        "date": "Wed, 19 Aug 2026 10:04:07 -0400",
+        "source": "Futurism AI",
+        "description": "\"I'm about to break those glasses.\"\nThe post Teen Boys Are Using Meta Glasses to Harass and Bully Girls at High Schools and Middle Schools appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Why are progressives winning across the United States? It’s not complicated | Bernie Sanders",
         "link": "https://www.theguardian.com/commentisfree/2026/aug/19/poll-progressive-candidates-election-economy",
         "date": "Wed, 19 Aug 2026 10:00:11 GMT",
@@ -20603,6 +21185,15 @@
         "tags": []
     },
     {
+        "title": "From Raw Audio to Actionable Data, Automating Call Center Triage with Cortex AI",
+        "link": "https://towardsai.com/p/machine-learning/from-raw-audio-to-actionable-data-automating-call-center-triage-with-cortex-ai",
+        "date": "Wed, 19 Aug 2026 08:31:40 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on August 19, 2026 by Editorial Team Author(s): Krishnan Srinivasan Originally published on Towards AI. Powered by AI_TRANSCRIBE, turning recorded support calls into a structured, quer...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "The 6 AI-free Linux distros I recommend most - and why they're likely to stay that way",
         "link": "https://www.zdnet.com/article/top-6-ai-free-linux-distros/",
         "date": "Wed, 19 Aug 2026 08:01:05 GMT",
@@ -20612,6 +21203,29 @@
         "tags": []
     },
     {
+        "title": "NVIDIA's Switchyard Routes Claude Code on 113 Hardcoded Strings and Ignores Your Prompt",
+        "link": "https://towardsai.com/p/machine-learning/nvidias-switchyard-routes-claude-code-on-113-hardcoded-strings-and-ignores-your-prompt",
+        "date": "Wed, 19 Aug 2026 08:00:31 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on August 19, 2026 by Editorial Team Author(s): Chew Loong Nian &#8211; AI ENGINEER Originally published on Towards AI. Why this landed now I counted every string NVIDIA’s new agent ro...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Claude Code Runs the Real Ponytail. Cursor and 11 Others Settle for 2,593 Bytes.",
+        "link": "https://towardsai.com/p/machine-learning/claude-code-runs-the-real-ponytail-cursor-and-11-others-settle-for-2593-bytes",
+        "date": "Wed, 19 Aug 2026 08:00:28 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on August 19, 2026 by Editorial Team Author(s): Chew Loong Nian &#8211; AI ENGINEER Originally published on Towards AI. Claude Code Runs the Real Ponytail. Cursor and 11 Others Settle ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "The Rise and Fall of the Artificial State by Jill Lepore review – an ominous warning of tech takeover",
         "link": "https://www.theguardian.com/books/2026/aug/19/the-rise-and-fall-of-the-artificial-state-by-jill-lepore-review-an-ominous-warning-of-tech-takeover",
         "date": "Wed, 19 Aug 2026 08:00:09 GMT",
@@ -20619,6 +21233,78 @@
         "description": "A historian charts the emergence of a democracy-crushing dystopia that is – in some ways – already with usPulitzer prize-winning US historian Jill Lepore’s new book addresses the threat posed to&nb...",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "Y Combinator Ditched All But One Claude Code Tool for 16 of Its Own",
+        "link": "https://towardsai.com/p/machine-learning/y-combinator-ditched-all-but-one-claude-code-tool-for-16-of-its-own",
+        "date": "Wed, 19 Aug 2026 08:00:09 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on August 19, 2026 by Editorial Team Author(s): Chew Loong Nian &#8211; AI ENGINEER Originally published on Towards AI. Y Combinator Ditched All But One Claude Code Tool for 16 of Its ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "What If an AI Agent Was Just a Python Class?",
+        "link": "https://towardsai.com/p/machine-learning/what-if-an-ai-agent-was-just-a-python-class",
+        "date": "Wed, 19 Aug 2026 07:59:39 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on August 19, 2026 by Editorial Team Author(s): Rizwanhoda Originally published on Towards AI. NVIDIA’s new NOOA framework collapses prompts, tools, and state into a single class and i...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP",
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "IntentFlow: Governed LLM Agents With Auditable, Hash-Chained Traces",
+        "link": "https://towardsai.com/p/machine-learning/intentflow-governed-llm-agents-with-auditable-hash-chained-traces",
+        "date": "Wed, 19 Aug 2026 07:56:48 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on August 19, 2026 by Editorial Team Author(s): Diogo Santos Originally published on Towards AI. A small declarative language that compiles agent intent into a governed plan — and prov...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Stop Your AI Agent Repeating the Same Mistake: Reviewed Skills with lessonweaver",
+        "link": "https://towardsai.com/p/machine-learning/stop-your-ai-agent-repeating-the-same-mistake-reviewed-skills-with-lessonweaver",
+        "date": "Wed, 19 Aug 2026 07:56:39 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on August 19, 2026 by Editorial Team Author(s): Diogo Santos Originally published on Towards AI. A deterministic, human-gated tool that turns your agent’s real failures into reviewed A...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "SynthID Watermarking and Removal Methods are a Joke. And You Are Misunderstanding How it All Works Completely.",
+        "link": "https://towardsai.com/p/machine-learning/synthid-watermarking-and-removal-methods-are-a-joke-and-you-are-misunderstanding-how-it-all-works-completely",
+        "date": "Wed, 19 Aug 2026 07:56:08 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on August 19, 2026 by Editorial Team Author(s): Vektor Memory Originally published on Towards AI. Custom code generated image Like this: The model would normally pick any of: [‘signatu...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Creating a Multilayer Perceptron from Scratch",
+        "link": "https://towardsai.com/p/machine-learning/creating-a-multilayer-perceptron-from-scratch",
+        "date": "Wed, 19 Aug 2026 07:55:15 +0000",
+        "source": "Towards AI",
+        "description": "Last Updated on August 19, 2026 by Editorial Team Author(s): Caden Lippie Originally published on Towards AI. Creating a Multilayer Perceptron from Scratch A perceptron is a fundamental component o...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Replit expands access to software creation with GPT-5.6 Luna",
+        "link": "https://openai.com/index/replit",
+        "date": "Wed, 19 Aug 2026 07:00:00 GMT",
+        "source": "OpenAI",
+        "description": "Replit introduces Free Mode, powered by GPT-5.6 Luna, so anyone can turn ideas into working software without worrying about token costs.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
     },
     {
         "title": "Understanding OAuth2 the Simple Way",
@@ -20904,6 +21590,26 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
+    },
+    {
+        "title": "Examining Human-Like Behaviors in LLMs: A Multi-Dimensional Analysis of Model Behaviors, User Factors, and System Prompts",
+        "link": "https://machinelearning.apple.com/research/human-like-behaviors-llms",
+        "date": "Wed, 19 Aug 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "Large language models (LLMs) exhibit a wide range of human-like behaviors, from expressing thoughts and emotions, to engaging in relationship-building with users, to refusing requests and maintaini...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "The P-Completeness of Inverted Index Traversal: On the Complexity of Evaluating Boolean Query DAGs",
+        "link": "https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal",
+        "date": "Wed, 19 Aug 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "Modern AI agents increasingly rely on search infrastructure to execute complex, neuro-symbolic reasoning workflows. These workflows often compile into deeply nested, non-monotonic Boolean queries o...",
+        "is_important": false,
+        "tags": []
     },
     {
         "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
@@ -23513,676 +24219,5 @@
         "description": "arXiv:2603.15780v1 Announce Type: new \nAbstract: Machine learning has been progressively generalised to operate within non-Euclidean domains, but geometrically accurate methods for learning on surf...",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "Evolving Contextual Safety in Multi-Modal Large Language Models via Inference-Time Self-Reflective Memory",
-        "link": "https://arxiv.org/abs/2603.15800",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15800v1 Announce Type: new \nAbstract: Multi-modal Large Language Models (MLLMs) have achieved remarkable performance across a wide range of visual reasoning tasks, yet their vulnerabilit...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Feed-forward Gaussian Registration for Head Avatar Creation and Editing",
-        "link": "https://arxiv.org/abs/2603.15811",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15811v1 Announce Type: new \nAbstract: We present MATCH (Multi-view Avatars from Topologically Corresponding Heads), a multi-view Gaussian registration method for high-quality head avatar...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "ModTrack: Sensor-Agnostic Multi-View Tracking via Identity-Informed PHD Filtering with Covariance Propagation",
-        "link": "https://arxiv.org/abs/2603.15812",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15812v1 Announce Type: new \nAbstract: Multi-View Multi-Object Tracking (MV-MOT) aims to localize and maintain consistent identities of objects observed by multiple sensors. This task is ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Conflict-Aware Multimodal Fusion for Ambivalence and Hesitancy Recognition",
-        "link": "https://arxiv.org/abs/2603.15818",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15818v1 Announce Type: new \nAbstract: Ambivalence and hesitancy (A/H) are subtle affective states where a person shows conflicting signals through different channels -- saying one thing ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Beyond the Embedding Bottleneck: Adaptive Retrieval-Augmented 3D CT Report Generation",
-        "link": "https://arxiv.org/abs/2603.15822",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15822v1 Announce Type: new \nAbstract: Automated radiology report generation from 3D CT volumes often suffers from incomplete pathology coverage. We provide empirical evidence that this l...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "FEEL (Force-Enhanced Egocentric Learning): A Dataset for Physical Action Understanding",
-        "link": "https://arxiv.org/abs/2603.15847",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15847v1 Announce Type: new \nAbstract: We introduce FEEL (Force-Enhanced Egocentric Learning), the first large-scale dataset pairing force measurements gathered from custom piezoresistive...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Self-supervised Disentanglement of Disease Effects from Aging in 3D Medical Shapes",
-        "link": "https://arxiv.org/abs/2603.15862",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15862v1 Announce Type: new \nAbstract: Disentangling pathological changes from physiological aging in 3D medical shapes is crucial for developing interpretable biomarkers and patient stra...",
-        "is_important": true,
-        "tags": []
-    },
-    {
-        "title": "EvoIQA - Explaining Image Distortions with Evolved White-Box Logic",
-        "link": "https://arxiv.org/abs/2603.15887",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15887v1 Announce Type: new \nAbstract: Traditional Image Quality Assessment (IQA) metrics typically fall into one of two extremes: rigid, hand-crafted mathematical models or \"black-box\" d...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Tokenization Tradeoffs in Structured EHR Foundation Models",
-        "link": "https://arxiv.org/abs/2603.15644",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15644v1 Announce Type: new \nAbstract: Foundation models for structured electronic health records (EHRs) are pretrained on longitudinal sequences of timestamped clinical events to learn a...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "XLinear: Frequency-Enhanced MLP with CrossFilter for Robust Long-Range Forecasting",
-        "link": "https://arxiv.org/abs/2603.15645",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15645v1 Announce Type: new \nAbstract: Time series forecasters are widely used across various domains. Among them, MLP (multi-layer perceptron)-based forecasters have been proven to be mo...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Alternating Reinforcement Learning with Contextual Rubric Rewards",
-        "link": "https://arxiv.org/abs/2603.15646",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15646v1 Announce Type: new \nAbstract: Reinforcement Learning with Rubric Rewards (RLRR) is a framework that extends conventional reinforcement learning from human feedback (RLHF) and ver...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Steering Frozen LLMs: Adaptive Social Alignment via Online Prompt Routing",
-        "link": "https://arxiv.org/abs/2603.15647",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15647v1 Announce Type: new \nAbstract: Large language models (LLMs) are typically governed by post-training alignment (e.g., RLHF or DPO), which yields a largely static policy during depl...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "How to Achieve Prototypical Birth and Death for OOD Detection?",
-        "link": "https://arxiv.org/abs/2603.15650",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15650v1 Announce Type: new \nAbstract: Out-of-Distribution (OOD) detection is crucial for the secure deployment of machine learning models, and prototype-based learning methods are among ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A federated learning framework with knowledge graph and temporal transformer for early sepsis prediction in multi-center ICUs",
-        "link": "https://arxiv.org/abs/2603.15651",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15651v1 Announce Type: new \nAbstract: The early prediction of sepsis in intensive care unit (ICU) patients is crucial for improving survival rates. However, the development of accurate p...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Discovering the Hidden Role of Gini Index In Prompt-based Classification",
-        "link": "https://arxiv.org/abs/2603.15654",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15654v1 Announce Type: new \nAbstract: In classification tasks, the long-tailed minority classes usually offer the predictions that are most important. Yet these classes consistently exhi...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Beyond Reward Suppression: Reshaping Steganographic Communication Protocols in MARL via Dynamic Representational Circuit Breaking",
-        "link": "https://arxiv.org/abs/2603.15655",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15655v1 Announce Type: new \nAbstract: In decentralized Multi-Agent Reinforcement Learning (MARL), steganographic collusion -- where agents develop private protocols to evade monitoring -...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Attribution-Guided Model Rectification of Unreliable Neural Network Behaviors",
-        "link": "https://arxiv.org/abs/2603.15656",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15656v1 Announce Type: new \nAbstract: The performance of neural network models deteriorates due to their unreliable behavior on non-robust features of corrupted samples. Owing to their o...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Spectral Edge Dynamics of Training Trajectories: Signal--Noise Geometry Across Scales",
-        "link": "https://arxiv.org/abs/2603.15678",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15678v1 Announce Type: new \nAbstract: Despite hundreds of millions of parameters, transformer training trajectories evolve within only a few coherent directions. We introduce \\emph{Spect...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Flood Risk Follows Valleys, Not Grids: Graph Neural Networks for Flash Flood Susceptibility Mapping in Himachal Pradesh with Conformal Uncertainty Quantification",
-        "link": "https://arxiv.org/abs/2603.15681",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15681v1 Announce Type: new \nAbstract: Flash floods are the most destructive natural hazard in Himachal Pradesh (HP), India, causing over 400 fatalities and $1.2 billion in losses in the ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Evidential Domain Adaptation for Remaining Useful Life Prediction with Incomplete Degradation",
-        "link": "https://arxiv.org/abs/2603.15687",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15687v1 Announce Type: new \nAbstract: Accurate Remaining Useful Life (RUL) prediction without labeled target domain data is a critical challenge, and domain adaptation (DA) has been wide...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Transition Flow Matching",
-        "link": "https://arxiv.org/abs/2603.15689",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15689v1 Announce Type: new \nAbstract: Mainstream flow matching methods typically focus on learning the local velocity field, which inherently requires multiple integration steps during g...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Tackling Over-smoothing on Hypergraphs: A Ricci Flow-guided Neural Diffusion Approach",
-        "link": "https://arxiv.org/abs/2603.15696",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15696v1 Announce Type: new \nAbstract: Hypergraph neural networks (HGNNs) have demonstrated strong capabilities in modeling complex higher-order relationships. However, existing HGNNs oft...",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Mastering the Minority: An Uncertainty-guided Multi-Expert Framework for Challenging-tailed Sequence Learning",
-        "link": "https://arxiv.org/abs/2603.15708",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2603.15708v1 Announce Type: new \nAbstract: Imbalanced data distribution remains a critical challenge in sequential learning, leading models to easily recognize frequent categories while faili...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Surrogate-Assisted Genetic Programming with Rank-Based Phenotypic Characterisation for Dynamic Multi-Mode Project Scheduling",
-        "link": "https://arxiv.org/abs/2603.16286",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.16286v1 Announce Type: new \nAbstract: The dynamic multi-mode resource-constrained project scheduling problem (DMRCPSP) is of practical importance, as it requires making real-time decisio...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Deep Reinforcement Learning-Assisted Automated Operator Portfolio for Constrained Multi-objective Optimization",
-        "link": "https://arxiv.org/abs/2603.16401",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.16401v1 Announce Type: new \nAbstract: Constrained multi-objective optimization problems (CMOPs) are of great significance in the context of practical applications, ranging from scientifi...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Form Follows Function: Recursive Stem Model",
-        "link": "https://arxiv.org/abs/2603.15641",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.15641v1 Announce Type: cross \nAbstract: Recursive reasoning models such as Hierarchical Reasoning Model (HRM) and Tiny Recursive Model (TRM) show that small, weight-shared networks can s...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "EvoIQA - Explaining Image Distortions with Evolved White-Box Logic",
-        "link": "https://arxiv.org/abs/2603.15887",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.15887v1 Announce Type: cross \nAbstract: Traditional Image Quality Assessment (IQA) metrics typically fall into one of two extremes: rigid, hand-crafted mathematical models or \"black-box\"...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Linearized Bregman Iterations for Sparse Spiking Neural Networks",
-        "link": "https://arxiv.org/abs/2603.16462",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.16462v1 Announce Type: cross \nAbstract: Spiking Neural Networks (SNNs) offer an energy efficient alternative to conventional Artificial Neural Networks (ANNs) but typically still require...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "LANCE: Low Rank Activation Compression for Efficient On-Device Continual Learning",
-        "link": "https://arxiv.org/abs/2509.21617",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2509.21617v2 Announce Type: replace-cross \nAbstract: On-device learning is essential for personalization, privacy, and long-term adaptation in resource-constrained environments. Achieving thi...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Alternating Gradient Flow Utility: A Unified Metric for Structural Pruning and Dynamic Routing in Deep Networks",
-        "link": "https://arxiv.org/abs/2603.12354",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.NE)",
-        "description": "arXiv:2603.12354v2 Announce Type: replace-cross \nAbstract: Efficient deep learning traditionally relies on static heuristics like weight magnitude or activation awareness (e.g., Wanda, RIA). While ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "You've Got a Golden Ticket: Improving Generative Robot Policies With A Single Noise Vector",
-        "link": "https://arxiv.org/abs/2603.15757",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.15757v1 Announce Type: new \nAbstract: What happens when a pretrained generative robot policy is provided a constant initial noise as input, rather than repeatedly sampling it from a Gaus...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Simulation Distillation: Pretraining World Models in Simulation for Rapid Real-World Adaptation",
-        "link": "https://arxiv.org/abs/2603.15759",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.15759v1 Announce Type: new \nAbstract: Simulation-to-real transfer remains a central challenge in robotics, as mismatches between simulated and real-world dynamics often lead to failures....",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "CorrectionPlanner: Self-Correction Planner with Reinforcement Learning in Autonomous Driving",
-        "link": "https://arxiv.org/abs/2603.15771",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.15771v1 Announce Type: new \nAbstract: Autonomous driving requires safe planning, but most learning-based planners lack explicit self-correction ability: once an unsafe action is proposed...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Emergent Dexterity via Diverse Resets and Large-Scale Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2603.15789",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.15789v1 Announce Type: new \nAbstract: Reinforcement learning in massively parallel physics simulations has driven major progress in sim-to-real robot learning. However, current approache...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Robust Dynamic Object Detection in Cluttered Indoor Scenes via Learned Spatiotemporal Cues",
-        "link": "https://arxiv.org/abs/2603.15826",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.15826v1 Announce Type: new \nAbstract: Reliable dynamic object detection in cluttered environments remains a critical challenge for autonomous navigation. Purely geometric LiDAR pipelines...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Gaze-Aware Task Progression Detection Framework for Human-Robot Interaction Using RGB Cameras",
-        "link": "https://arxiv.org/abs/2603.15951",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.15951v1 Announce Type: new \nAbstract: In human-robot interaction (HRI), detecting a human's gaze helps robots interpret user attention and intent. However, most gaze detection approaches...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "ExpertGen: Scalable Sim-to-Real Expert Policy Learning from Imperfect Behavior Priors",
-        "link": "https://arxiv.org/abs/2603.15956",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.15956v1 Announce Type: new \nAbstract: Learning generalizable and robust behavior cloning policies requires large volumes of high-quality robotics data. While human demonstrations (e.g., ...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Safety Case Patterns for VLA-based driving systems: Insights from SimLingo",
-        "link": "https://arxiv.org/abs/2603.16013",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.16013v1 Announce Type: new \nAbstract: Vision-Language-Action (VLA)-based driving systems represent a significant paradigm shift in autonomous driving since, by combining traffic scene un...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "👁️ Visión por Computador",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Geometry-Aligned LLM Fine-Tuning for Sequential Narrow-Opening Planning",
-        "link": "https://arxiv.org/abs/2603.16028",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.16028v1 Announce Type: new \nAbstract: We study rigid-body motion planning through multiple sequential narrow openings, which requires long-horizon geometric reasoning because the configu...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Compact Optical Single-axis Joint Torque Sensor Using Redundant Photo-Reflectors and Quadratic-Programming Calibration",
-        "link": "https://arxiv.org/abs/2603.16040",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.16040v1 Announce Type: new \nAbstract: This study proposes a non-contact photo-reflector-based joint torque sensor for precise joint-level torque control and safe physical interaction. Cu...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Era of End-to-End Autonomy: Transitioning from Rule-Based Driving to Large Driving Models",
-        "link": "https://arxiv.org/abs/2603.16050",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.16050v1 Announce Type: new \nAbstract: Autonomous driving is undergoing a shift from modular rule based pipelines toward end to end (E2E) learning systems. This paper examines this transi...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Ultrafast Sampling-based Kinodynamic Planning via Differential Flatness",
-        "link": "https://arxiv.org/abs/2603.16059",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.16059v1 Announce Type: new \nAbstract: Motion planning under dynamics constraints, i.e., kinodynamic planning, enables safe robot operation by generating dynamically feasible trajectories...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Large Reward Models: Generalizable Online Robot Reward Generation with Vision-Language Models",
-        "link": "https://arxiv.org/abs/2603.16065",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.16065v1 Announce Type: new \nAbstract: Reinforcement Learning (RL) has shown great potential in refining robotic manipulation policies, yet its efficacy remains strongly bottlenecked by t...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Towards the Vision-Sound-Language-Action Paradigm: The HEAR Framework for Sound-Centric Manipulation",
-        "link": "https://arxiv.org/abs/2603.16086",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.16086v1 Announce Type: new \nAbstract: While recent Vision-Language-Action (VLA) models have begun to incorporate audio, they typically treat sound as static pre-execution prompts or focu...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "SE(3)-LIO: Smooth IMU Propagation With Jointly Distributed Poses on SE(3) Manifold for Accurate and Robust LiDAR-Inertial Odometry",
-        "link": "https://arxiv.org/abs/2603.16118",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2603.16118v1 Announce Type: new \nAbstract: In estimating odometry accurately, an inertial measurement unit (IMU) is widely used owing to its high-rate measurements, which can be utilized to o...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Toward understanding and preventing misalignment generalization",
-        "link": "https://openai.com/index/emergent-misalignment",
-        "date": "Wed, 18 Jun 2025 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We study how training on incorrect responses can cause broader misalignment in language models and identify an internal feature driving this behavior—one that can be reversed with minimal fine-tuning.",
-        "is_important": false
-    },
-    {
-        "title": "Preparing for future AI risks in biology",
-        "link": "https://openai.com/index/preparing-for-future-ai-capabilities-in-biology",
-        "date": "Wed, 18 Jun 2025 10:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Advanced AI can transform biology and medicine—but also raises biosecurity risks. We’re proactively assessing capabilities and implementing safeguards to prevent misuse.",
-        "is_important": false
-    },
-    {
-        "title": "OpenAI Five Benchmark",
-        "link": "https://openai.com/index/openai-five-benchmark",
-        "date": "Wed, 18 Jul 2018 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "The OpenAI Five Benchmark match is now over!",
-        "is_important": false
-    },
-    {
-        "title": "Build unified intelligence with Amazon Bedrock AgentCore",
-        "link": "https://aws.amazon.com/blogs/machine-learning/build-unified-intelligence-with-amazon-bedrock-agentcore/",
-        "date": "Wed, 18 Feb 2026 23:54:29 +0000",
-        "source": "AWS Machine Learning",
-        "description": "In this post, we demonstrate how to build unified intelligence systems using Amazon Bedrock AgentCore through our real-world implementation of the Customer Agent and Knowledge Engine (CAKE).",
-        "is_important": false
-    },
-    {
-        "title": "ChipAgents secures $50M in funding to accelerate agentic chip design",
-        "link": "https://siliconangle.com/2026/02/18/chipagents-secures-50m-funding-accelerate-agentic-chip-design/",
-        "date": "Wed, 18 Feb 2026 23:32:08 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Agentic artificial intelligence startup ChipAgents said today it&#8217;s ready to bring automation to one of the toughest challenges of all after raising $50 million in an early-stage funding today...",
-        "is_important": false
-    },
-    {
-        "title": "World Labs closes $1B investment backed by Nvidia, AMD and Autodesk",
-        "link": "https://siliconangle.com/2026/02/18/world-labs-closes-1b-investment-backed-nvidia-amd-autodesk/",
-        "date": "Wed, 18 Feb 2026 23:09:34 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Artificial intelligence model developer World Labs Inc. today announced that it has raised $1 billion in funding. The capital was provided by a consortium that included Nvidia Corp., Advanced Micro...",
-        "is_important": false
-    },
-    {
-        "title": "Anthropic Tries to Change the Conversation With Sonnet 4.6",
-        "link": "https://aibusiness.com/generative-ai/anthropic-tries-to-change-the-conversation-with-sonnet-4-6",
-        "date": "Wed, 18 Feb 2026 21:34:14 GMT",
-        "source": "AI Business",
-        "description": "While the update shows how the vendor seeks to be more than just a model provider, the release was overshadowed by controversial agentic news.",
-        "is_important": false
-    },
-    {
-        "title": "New AI startup Ineffable Intelligence reportedly raising $1B funding round",
-        "link": "https://siliconangle.com/2026/02/18/new-ai-startup-ineffable-intelligence-reportedly-raising-1b-funding-round/",
-        "date": "Wed, 18 Feb 2026 21:13:58 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Ineffable Intelligence Ltd., a startup led by former Google DeepMind principal research scientist David Silver, is reportedly raising $1 billion in funding. The Financial Times on Tuesday cited sou...",
-        "is_important": false
-    },
-    {
-        "title": "Introducing OpenAI for India",
-        "link": "https://openai.com/index/openai-for-india",
-        "date": "Wed, 18 Feb 2026 21:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI for India expands AI access across the country—building local infrastructure, powering enterprises, and advancing workforce skills.",
-        "is_important": false
-    },
-    {
-        "title": "Waymo just revealed a crucial statistic for scaling its technology",
-        "link": "https://www.understandingai.org/p/waymo-just-revealed-a-crucial-statistic",
-        "date": "Wed, 18 Feb 2026 20:42:12 GMT",
-        "source": "Understanding AI",
-        "description": "At any moment, just 70 people oversee Waymo&#8217;s 3,000-vehicle fleet.",
-        "is_important": false
-    },
-    {
-        "title": "What to expect during the AI Trust & Cyber Resiliency Summit: Join theCUBE March 10",
-        "link": "https://siliconangle.com/2026/02/18/ai-trust-strengthens-cyber-resilience-digital-age-aitrustcyberresilience/",
-        "date": "Wed, 18 Feb 2026 20:05:20 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "AI trust increasingly determines whether enterprise AI scales. As organizations move beyond pilots and into operational systems, the question is no longer whether models perform well in isolation, ...",
-        "is_important": false
-    },
-    {
-        "title": "Recurring Revenue Strategies for the AI Business Era",
-        "link": "https://www.smartdatacollective.com/recurring-revenue-strategies-for-ai-business-era/",
-        "date": "Wed, 18 Feb 2026 19:22:59 +0000",
-        "source": "SmartData Collective",
-        "description": "Learn how subscriptions and usage-based pricing help AI companies create steady income, manage costs, and keep customers engaged over time.",
-        "is_important": false
-    },
-    {
-        "title": "Using Data to Plan Safer, More Efficient Public Playgrounds",
-        "link": "https://www.smartdatacollective.com/using-data-to-plan-safer-more-efficient-public-playgrounds/",
-        "date": "Wed, 18 Feb 2026 19:15:08 +0000",
-        "source": "SmartData Collective",
-        "description": "A data-focused look at how analytics can guide safer playground design for communities.",
-        "is_important": false
-    },
-    {
-        "title": "How AI Supports Modern Penetration Testing",
-        "link": "https://www.smartdatacollective.com/how-ai-supports-modern-penetration-testing/",
-        "date": "Wed, 18 Feb 2026 19:05:31 +0000",
-        "source": "SmartData Collective",
-        "description": "Smart Data Collective has spent years talking about various ways busineses can use AI to help manage risks and make real-world decisions. Today we are going to talk about how AI-driven tools change...",
-        "is_important": false
-    },
-    {
-        "title": "Powering the next generation of agents with Google Cloud databases",
-        "link": "https://cloud.google.com/blog/products/databases/managed-mcp-servers-for-google-cloud-databases/",
-        "date": "Wed, 18 Feb 2026 18:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "For developers building AI applications, including custom agents and chatbots, the open-source Model Context Protocol (MCP) standard enables your innovations to access data and tools consistently a...",
-        "is_important": false
-    },
-    {
-        "title": "Your guide to Provisioned Throughput (PT) on Vertex AI",
-        "link": "https://cloud.google.com/blog/products/ai-machine-learning/provisioned-throughput-on-vertex-ai/",
-        "date": "Wed, 18 Feb 2026 17:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "When AI agents make thousands of decisions a day, consistent performance isn't just a technical detail — it's a business requirement. \nProvisioned Throughput (PT) solves this by giving you reserved...",
-        "is_important": false
-    },
-    {
-        "title": "Unlocking enterprise data to accelerate agentic AI: How Ab Initio does it",
-        "link": "https://cloud.google.com/blog/products/data-analytics/unlocking-enterprise-data-to-accelerate-agentic-ai-how-ab-initio-does-it/",
-        "date": "Wed, 18 Feb 2026 17:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "Your AI agents are only as good as the data behind them. For enterprise teams building agentic AI, that's both the opportunity and the core question: How do you give Gemini and other AI models acce...",
-        "is_important": false
-    },
-    {
-        "title": "IBM and UC Berkeley Diagnose Why Enterprise Agents Fail Using IT-Bench and MAST",
-        "link": "https://huggingface.co/blog/ibm-research/itbenchandmast",
-        "date": "Wed, 18 Feb 2026 16:15:45 GMT",
-        "source": "Hugging Face",
-        "description": ""
-    },
-    {
-        "title": "Project Silica’s advances in glass storage technology",
-        "link": "https://www.microsoft.com/en-us/research/blog/project-silicas-advances-in-glass-storage-technology/",
-        "date": "Wed, 18 Feb 2026 16:11:45 +0000",
-        "source": "Microsoft Research",
-        "description": "Project Silica introduces new techniques for encoding data in borosilicate glass, as described in the journal Nature. These advances lower media cost and simplify writing and reading systems while ...",
-        "is_important": false
-    },
-    {
-        "title": "A new way to express yourself: Gemini can now create music",
-        "link": "https://deepmind.google/blog/a-new-way-to-express-yourself-gemini-can-now-create-music/",
-        "date": "Wed, 18 Feb 2026 16:01:38 +0000",
-        "source": "Google DeepMind",
-        "description": "The Gemini app now features our most advanced music generation model Lyria 3, empowering anyone to make 30-second tracks using text or images."
-    },
-    {
-        "title": "SpaceX Angling for Military Contract to Produce Drone Swarms",
-        "link": "https://futurism.com/robots-and-machines/spacex-military-contract-drone-swarms",
-        "date": "Wed, 18 Feb 2026 16:01:00 -0500",
-        "source": "Futurism AI",
-        "description": "After years of opposing them, Musk is looking to develop killer drones.\nThe post SpaceX Angling for Military Contract to Produce Drone Swarms appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "Google DeepMind wants to know if chatbots are just virtue signaling",
-        "link": "https://www.technologyreview.com/2026/02/18/1133299/google-deepmind-wants-to-know-if-chatbots-are-just-virtue-signaling/",
-        "date": "Wed, 18 Feb 2026 16:00:22 +0000",
-        "source": "MIT Technology Review (AI)",
-        "description": "Google DeepMind is calling for the moral behavior of large language models—such as what they do when called on to act as companions, therapists, medical advisors, and so on—to be scrutinized with t...",
-        "is_important": false
-    },
-    {
-        "title": "Nvidia and Meta Agree to Wide-Ranging new AI Chip Deal",
-        "link": "https://aibusiness.com/generative-ai/nvidia-and-meta-agree-to-ai-chip-deal",
-        "date": "Wed, 18 Feb 2026 15:15:53 GMT",
-        "source": "AI Business",
-        "description": "The deal builds on the tech giants' already close relationship.",
-        "is_important": false
-    },
-    {
-        "title": "Buckle Up: New Fund Will Let Regular Investors Buy SpaceX Stock",
-        "link": "https://futurism.com/artificial-intelligence/regular-investors-buy-spacex-stock",
-        "date": "Wed, 18 Feb 2026 15:04:56 -0500",
-        "source": "Futurism AI",
-        "description": "Access could open up much sooner than the anticipated IPO.\nThe post Buckle Up: New Fund Will Let Regular Investors Buy SpaceX Stock appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "Opkey launches Design Studio to automate enterprise cloud application discovery and design",
-        "link": "https://siliconangle.com/2026/02/18/opkey-launches-design-studio-automate-enterprise-cloud-application-discovery-design/",
-        "date": "Wed, 18 Feb 2026 14:00:48 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "Agentic enterprise app lifecycle optimization platform company Opkey today announced the launch of Opkey Design Studio, a suite of agentic artificial intelligence capabilities that extends its plat...",
-        "is_important": false
-    },
-    {
-        "title": "Introducing the 2025 MSc Thesis Prize Winners",
-        "link": "https://www.oii.ox.ac.uk/news-events/introducing-the-2025-msc-thesis-prize-winners/",
-        "date": "Wed, 18 Feb 2026 13:09:57 +0000",
-        "source": "Oxford AI",
-        "description": "We are delighted to announce the winners of the 2025 OII MSc Thesis Prizes. These prizes recognize outstanding work and contributions to the field.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Oxford Researcher Warns That AI Is Heading for a Hindenburg-Style Disaster",
-        "link": "https://futurism.com/artificial-intelligence/ai-hindenburg-disast",
-        "date": "Wed, 18 Feb 2026 12:12:27 -0500",
-        "source": "Futurism AI",
-        "description": "\"It was a dead technology from that point on.\"\nThe post Oxford Researcher Warns That AI Is Heading for a Hindenburg-Style Disaster appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "AI Is Not a Library: Designing for Nondeterministic Dependencies",
-        "link": "https://www.oreilly.com/radar/ai-is-not-a-library-designing-for-nondeterministic-dependencies/",
-        "date": "Wed, 18 Feb 2026 11:43:54 +0000",
-        "source": "O'Reilly Radar",
-        "description": "For most of the history of software engineering, we’ve built systems around a simple and comforting assumption: Given the same input, a program will produce the same output. When something went wro...",
-        "is_important": false
     }
 ]
