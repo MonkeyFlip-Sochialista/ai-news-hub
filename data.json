@@ -20327,6 +20327,300 @@
         "is_important": false
     },
     {
+        "title": "How to Track Your Brand's Visibility in ChatGPT, Perplexity & Gemini (GEO Monitoring, With Code)",
+        "link": "https://dev.to/benedictmendoza/how-to-track-your-brands-visibility-in-chatgpt-perplexity-gemini-geo-monitoring-with-code-5701",
+        "date": "Wed, 19 Aug 2026 12:51:14 +0000",
+        "source": "Dev.to AI",
+        "description": "This week I ran a simple test. I asked ChatGPT, Perplexity, and Gemini the same question — \"what is the best note-taking app for teams?\" — and compared how they treated the brands in the answer.\n\nC...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Final weeks of GSoC",
+        "link": "https://dev.to/satwiksps/final-weeks-of-gsoc-4fjf",
+        "date": "Wed, 19 Aug 2026 12:50:31 +0000",
+        "source": "Dev.to AI",
+        "description": "Hey everyone! Week 11 is done and week 12 is about to be over, which means the official GSoC coding period is ending soon. These two weeks brought a design change that I think makes the whole API b...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building an AI Agent with17 Brain Regions: The MeshCtx Architecture",
+        "link": "https://dev.to/golflover2023/building-an-ai-agent-with17-brain-regions-the-meshctx-architecture-plc",
+        "date": "Wed, 19 Aug 2026 12:50:25 +0000",
+        "source": "Dev.to AI",
+        "description": "Why I Built MeshCtx\n\n\nI've always been fascinated by how the human brain processes information. Different regions handle different tasks.\n\n\n  \n  \n  The17 Brain Regions\n\n\nMeshCtx simulates17 special...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Learnt Git Rebasing the hard way",
+        "link": "https://dev.to/satwiksps/learnt-git-rebassing-the-hard-way-2dmd",
+        "date": "Wed, 19 Aug 2026 12:49:35 +0000",
+        "source": "Dev.to AI",
+        "description": "Hello again! Weeks 9 and 10 covered the fourth estimator family, the first release that carries my work, and a git mess that taught me more than the code did.\n\n\n  \n  \n  PR #1920 merged, and sbi 0.2...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Namecheap closes every auction at 11:00 AM ET. Last-second bidding is a myth.",
+        "link": "https://dev.to/markfulton/namecheap-closes-every-auction-at-1100-am-et-last-second-bidding-is-a-myth-3kbl",
+        "date": "Wed, 19 Aug 2026 12:49:04 +0000",
+        "source": "Dev.to AI",
+        "description": "If you have ever tried to win a domain at auction, you probably assumed the game works like eBay: watch the clock, wait for the last eight seconds, fire your bid, walk away with the name.\n\nOn Namec...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Every Telegram conversation becomes a qualified lead. BizNode captures name, email, and business details automatically while...",
+        "link": "https://dev.to/biznode/every-telegram-conversation-becomes-a-qualified-lead-biznode-captures-name-email-and-business-51bg",
+        "date": "Wed, 19 Aug 2026 12:46:34 +0000",
+        "source": "Dev.to AI",
+        "description": "Every conversation on Telegram is now a qualified lead waiting to be captured. With BizNode(TM), you stop losing leads because your current setup can only handle so many messages at once, and you s...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Cursive F Styles for Digital Use",
+        "link": "https://dev.to/cursivegenerator/cursive-f-styles-for-digital-use-4639",
+        "date": "Wed, 19 Aug 2026 12:46:21 +0000",
+        "source": "Dev.to AI",
+        "description": "When using a cursive generator to get cursive f for social media or digital projects, different styles work better for different purposes:\n• Classic Script ℱ — elegant and readable. Best for Instag...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "8 Best Digital Asset Lending Platforms: Crypto Loan Guide for 2026",
+        "link": "https://dev.to/gipsy_brigg_37a21e9b03ba2/8-best-digital-asset-lending-platforms-crypto-loan-guide-for-2026-5fd5",
+        "date": "Wed, 19 Aug 2026 12:45:47 +0000",
+        "source": "Dev.to AI",
+        "description": "You hold Bitcoin, Ethereum, or other digital assets. You need cash—maybe for a business expansion, a home down payment, or an unexpected expense. Selling would trigger a taxable event and force you...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "InsForge Teaches AI Agents to Run Your Backend. It Hasn't Learned to Keep Postgres Alive Yet.",
+        "link": "https://dev.to/danieltechlab/insforge-teaches-ai-agents-to-run-your-backend-it-hasnt-learned-to-keep-postgres-alive-yet-1iaa",
+        "date": "Wed, 19 Aug 2026 12:45:06 +0000",
+        "source": "Dev.to AI",
+        "description": "Every backend-as-a-service platform since Firebase has been designed around the same assumption: a human opens a dashboard, clicks through a schema editor, copies an API key, and wires it into an a...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How to Use Scalenut for Llm-Friendly Content Structure in 2026",
+        "link": "https://dev.to/leosociallseointent/how-to-use-scalenut-for-llm-friendly-content-structure-in-2026-2p33",
+        "date": "Wed, 19 Aug 2026 12:43:16 +0000",
+        "source": "Dev.to AI",
+        "description": "Originally published at https://seointent.com/blog/scalenut-for-llm-friendly-content-structure\n\n\n  \n  \n  TL;DR\n\n\n\n- Scalenut for llm-friendly content structure works best when you use its NLP-drive...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Real-Time Machine Learning for Personalized Investing Risk Scoring",
+        "link": "https://dev.to/deepbodyme/real-time-machine-learning-for-personalized-investing-risk-scoring-5d9o",
+        "date": "Wed, 19 Aug 2026 12:43:15 +0000",
+        "source": "Dev.to AI",
+        "description": "Why Static Risk Questionnaires Fall Short\n\n\nAutomated investing platforms have traditionally estimated risk tolerance through short questionnaires. Users answer questions about goals, time horizons...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Passing GSoC Midterms",
+        "link": "https://dev.to/satwiksps/passing-gsoc-midterms-24kf",
+        "date": "Wed, 19 Aug 2026 12:41:19 +0000",
+        "source": "Dev.to AI",
+        "description": "Hey everyone! Weeks 7 and 8 are done, and the biggest news first: I passed the midterm evaluation🎉. Half of GSoC is behind me now.\n\nThese two weeks were less about writing new classes and more abou...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Oracle Health Adds Automated Coding, Dictation, and Chart Review to Clinical AI Agent",
+        "link": "https://www.unite.ai/oracle-health-adds-automated-coding-dictation-and-chart-review-to-clinical-ai-agent/",
+        "date": "Wed, 19 Aug 2026 12:17:01 +0000",
+        "source": "Unite.ai",
+        "description": "Oracle Health has expanded its Clinical AI Agent with three new capabilities — automated professional fee coding, clinician-controlled dictation, and AI-assisted chart review — now available to cus...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The AI Era Is Increasing Demand for People, Not Eliminating It",
+        "link": "https://www.unite.ai/ai-layoffs-workforce-transformation-human-expertise/",
+        "date": "Wed, 19 Aug 2026 12:01:26 +0000",
+        "source": "Unite.ai",
+        "description": "Companies across industries are working to make their internal processes more efficient. As a result, we’ve seen the technology become the scapegoat for a consistent string of layoffs. Specifically...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Salesforce expands Headless Data 360 for MCP so developers can bring insights to agents",
+        "link": "https://siliconangle.com/2026/08/19/salesforce-expands-headless-data-360-mcp-developers-can-bring-insights-agents/",
+        "date": "Wed, 19 Aug 2026 12:00:38 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Agentic artificial intelligence runs on data, so Salesforce Inc. today announced it is launching Headless Data 360 for Model Context Protocol to provide that data directly to agents, allowing them ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "5 Tools for Building and Deploying AI Agents in Production",
+        "link": "https://www.kdnuggets.com/5-tools-for-building-and-deploying-ai-agents-in-production",
+        "date": "Wed, 19 Aug 2026 12:00:15 +0000",
+        "source": "KDnuggets",
+        "description": "This article walks through five tools, one for each layer of the stack from building the agent's logic to running all of it at scale.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI isn’t close to curing cancer. This startup says it knows what it will take.",
+        "link": "https://techcrunch.com/2026/08/19/ai-isnt-close-to-curing-cancer-this-startup-says-it-knows-what-it-will-take/",
+        "date": "Wed, 19 Aug 2026 12:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "It's the data, stupid.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI slows down training after its AI carried out hack",
+        "link": "https://www.bbc.co.uk/news/articles/c235dmndylzo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 19 Aug 2026 11:19:12 GMT",
+        "source": "BBC Tech",
+        "description": "The ChatGPT-maker said training will be slowed for two weeks while it puts the upgrades in place.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Get better color accuracy on your TV with these simple steps",
+        "link": "https://www.zdnet.com/article/how-to-get-better-color-accuracy-on-your-tv/",
+        "date": "Wed, 19 Aug 2026 11:08:23 GMT",
+        "source": "ZDNet AI",
+        "description": "Even if it has impressive out-of-the-box color, your new (or old) TV can always benefit from a few simple tweaks to get the best color accuracy possible.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Hisense U8QG is one of the smartest TV buys I can recommend",
+        "link": "https://www.zdnet.com/article/hisense-u8qg-review/",
+        "date": "Wed, 19 Aug 2026 11:06:17 GMT",
+        "source": "ZDNet AI",
+        "description": "The Hisense U8QG delivers premium features at a midrange price and wins a ZDNET Lab Award for the most accurate color reproduction.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I tested the LG C6 OLED for a week, and the colors made me question my Mini LED loyalty",
+        "link": "https://www.zdnet.com/article/lg-c6-oled-review/",
+        "date": "Wed, 19 Aug 2026 11:06:15 GMT",
+        "source": "ZDNet AI",
+        "description": "One of LG's flagship OLED TVs got a refresh with the C6, and it won a ZDNET Lab Award for the most accurate color reproduction.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "We lab-tested 7 TVs for color accuracy - and the winners weren't Sony or Samsung",
+        "link": "https://www.zdnet.com/article/most-accurate-color-reproduction-tvs-lab-tested/",
+        "date": "Wed, 19 Aug 2026 11:00:51 GMT",
+        "source": "ZDNet AI",
+        "description": "ZDNET's latest Lab Award crowns two flagship TVs that have the most accurate color reproduction in SDR and HDR formats.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Will AI give you the job? Automated hiring tools spark discrimination and secrecy lawsuits",
+        "link": "https://www.theguardian.com/technology/2026/aug/19/ai-hiring-tools-discrimination",
+        "date": "Wed, 19 Aug 2026 11:00:13 GMT",
+        "source": "The Guardian AI",
+        "description": "A rise in lawsuits over AI use in employment decisions is raising questions about how companies hire and fireFor the last four years, Erin Kistler has applied for thousands of jobs at companies lik...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why are progressives winning across the United States? It’s not complicated | Bernie Sanders",
+        "link": "https://www.theguardian.com/commentisfree/2026/aug/19/poll-progressive-candidates-election-economy",
+        "date": "Wed, 19 Aug 2026 10:00:11 GMT",
+        "source": "The Guardian AI",
+        "description": "Poll after poll shows the same thing. The American people know that the current economic system is riggedThe media pundits have written article after article desperately trying to understand why pr...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Relativity Networks raises $22 million to bring a faster kind of fiber to data centers",
+        "link": "https://techcrunch.com/2026/08/19/relativity-networks-raises-22-million-to-bring-a-faster-kind-of-fiber-to-data-centers/",
+        "date": "Wed, 19 Aug 2026 10:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "Relativity Networks deals in hollow-core fiber, a rarely deployed technology that allows data to be transmitted 30% faster than conventional fiber.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Framework's new Pro modular laptop is everything I wanted (minus the cost of memory)",
+        "link": "https://www.zdnet.com/article/framework-laptop-13-pro-review/",
+        "date": "Wed, 19 Aug 2026 09:36:00 GMT",
+        "source": "ZDNet AI",
+        "description": "The Framework 13 Pro is a great example of when brands listen to their consumers - even if price and availability are problematic.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Flock Has a Powerful New AI Tool for Police. We Got Its Code",
+        "link": "https://www.wired.com/story/flock-safety-os-investigate/",
+        "date": "Wed, 19 Aug 2026 09:00:00 +0000",
+        "source": "Wired AI",
+        "description": "Flock’s surveillance cameras have already sparked outrage. WIRED reconstructed its next-generation AI system, already in use by some police, to confirm it goes much further than tracking license pl...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Firefox is the browser to beat right now if you use AI - here's why",
+        "link": "https://www.zdnet.com/article/firefox-smart-window-ai-browser-tools/",
+        "date": "Wed, 19 Aug 2026 08:54:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Mozilla has finally released the beta of Firefox Smart Window. I ran it through its paces and found features that might lure me back to my old favorite browser.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Teachers Warn That Students Are Losing the Ability to Think as They Lean on AI for Everything",
+        "link": "https://futurism.com/future-society/students-lose-ability-think-ai",
+        "date": "Wed, 19 Aug 2026 08:49:05 -0400",
+        "source": "Futurism AI",
+        "description": "\"If writing is thinking, then any part of the struggle that is outsourced to technology amounts to relinquishing some freedom to perceive.\"\nThe post Teachers Warn That Students Are Losing the Abili...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "[AINews] Memory prices up 500% in 12 months",
+        "link": "https://www.latent.space/p/ainews-memory-prices-up-500-in-12",
+        "date": "Wed, 19 Aug 2026 08:44:52 GMT",
+        "source": "Latent Space",
+        "description": "the Memory crunch continues - Moore&#8217;s Law reversed to 2007 levels",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The 6 AI-free Linux distros I recommend most - and why they're likely to stay that way",
+        "link": "https://www.zdnet.com/article/top-6-ai-free-linux-distros/",
+        "date": "Wed, 19 Aug 2026 08:01:05 GMT",
+        "source": "ZDNet AI",
+        "description": "If AI isn't your jam, and you're looking for an operating system that doesn't (and won't) force it on you, look no further than these Linux distributions.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Rise and Fall of the Artificial State by Jill Lepore review – an ominous warning of tech takeover",
+        "link": "https://www.theguardian.com/books/2026/aug/19/the-rise-and-fall-of-the-artificial-state-by-jill-lepore-review-an-ominous-warning-of-tech-takeover",
+        "date": "Wed, 19 Aug 2026 08:00:09 GMT",
+        "source": "The Guardian AI",
+        "description": "A historian charts the emergence of a democracy-crushing dystopia that is – in some ways – already with usPulitzer prize-winning US historian Jill Lepore’s new book addresses the threat posed to&nb...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Understanding OAuth2 the Simple Way",
         "link": "https://dev.to/g_ghuman_8989/understanding-oauth2-the-simple-way-2odd",
         "date": "Wed, 19 Aug 2026 06:45:55 +0000",
@@ -23890,278 +24184,5 @@
         "source": "O'Reilly Radar",
         "description": "For most of the history of software engineering, we’ve built systems around a simple and comforting assumption: Given the same input, a program will produce the same output. When something went wro...",
         "is_important": false
-    },
-    {
-        "title": "Agentify Your App with GitHub Copilot’s Agentic Coding SDK",
-        "link": "https://machinelearningmastery.com/agentify-your-app-with-github-copilots-agentic-coding-sdk/",
-        "date": "Wed, 18 Feb 2026 11:00:23 +0000",
-        "source": "Machine Learning Mastery",
-        "description": "For years, GitHub Copilot has served as a powerful pair programming tool for programmers, suggesting the next line of code.",
-        "is_important": false
-    },
-    {
-        "title": "The robots who predict the future",
-        "link": "https://www.technologyreview.com/2026/02/18/1132579/robots-predict-future-book-review/",
-        "date": "Wed, 18 Feb 2026 11:00:00 +0000",
-        "source": "MIT Technology Review (AI)",
-        "description": "To be human is, fundamentally, to be a forecaster. Occasionally a pretty good one. Trying to see the future, whether through the lens of past experience or the logic of cause and effect, has helped...",
-        "is_important": false
-    },
-    {
-        "title": "Realtor Uses AI, Accidentally Posts Listing for Rental Property With Demonic Figure Emerging From Mirror",
-        "link": "https://futurism.com/artificial-intelligence/realtor-ai-photo-mirror",
-        "date": "Wed, 18 Feb 2026 10:53:42 -0500",
-        "source": "Futurism AI",
-        "description": "\"Genuinely the worst possible thing to scroll past before I fall asleep.\"\nThe post Realtor Uses AI, Accidentally Posts Listing for Rental Property With Demonic Figure Emerging From Mirror appeared ...",
-        "is_important": false
-    },
-    {
-        "title": "Unity Says It Has a New Product That Cooks Up Entire Games Using AI",
-        "link": "https://futurism.com/artificial-intelligence/unity-create-entire-games-using-ai",
-        "date": "Wed, 18 Feb 2026 09:07:08 -0500",
-        "source": "Futurism AI",
-        "description": "You'll be able to \"prompt full casual games into existence,\" apparently.\nThe post Unity Says It Has a New Product That Cooks Up Entire Games Using AI appeared first on Futurism.",
-        "is_important": false
-    },
-    {
-        "title": "[AINews] Claude Sonnet 4.6: clean upgrade of 4.5, mostly better with some caveats",
-        "link": "https://www.latent.space/p/ainews-claude-sonnet-46-clean-upgrade",
-        "date": "Wed, 18 Feb 2026 06:48:36 GMT",
-        "source": "Latent Space",
-        "description": "Anthropic notches another W.",
-        "is_important": false
-    },
-    {
-        "title": "India Fuels Its AI Mission With NVIDIA",
-        "link": "https://blogs.nvidia.com/blog/india-ai-mission-infrastructure-models/",
-        "date": "Wed, 18 Feb 2026 00:30:49 +0000",
-        "source": "NVIDIA Blog",
-        "description": "From AI infrastructure leaders to frontier model developers, India is teaming with NVIDIA to drive AI transformation across the nation."
-    },
-    {
-        "title": "India’s Global Systems Integrators Build Next Wave of Enterprise Agents With NVIDIA AI, Transforming Back Office and Customer Support",
-        "link": "https://blogs.nvidia.com/blog/india-enterprise-ai-agents/",
-        "date": "Wed, 18 Feb 2026 00:30:41 +0000",
-        "source": "NVIDIA Blog",
-        "description": "Agentic AI is reshaping India’s tech industry, delivering leaps in services worldwide. Tapping into NVIDIA AI Enterprise software and NVIDIA Nemotron models, India’s technology leaders are accelera..."
-    },
-    {
-        "title": "NVIDIA and Global Industrial Software Leaders Partner With India’s Largest Manufacturers to Drive AI Boom",
-        "link": "https://blogs.nvidia.com/blog/india-global-industrial-software-leaders-manufacturers-ai/",
-        "date": "Wed, 18 Feb 2026 00:30:32 +0000",
-        "source": "NVIDIA Blog",
-        "description": "India is entering a new age of industrialization, as AI transforms how the world designs, builds and runs physical products and systems. The country is investing $134 billion dollars in new manufac...",
-        "is_important": false
-    },
-    {
-        "title": "One-Shot Any Web App with Gradio's gr.HTML",
-        "link": "https://huggingface.co/blog/gradio-html-one-shot-apps",
-        "date": "Wed, 18 Feb 2026 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": ""
-    },
-    {
-        "title": "Introducing EVMbench",
-        "link": "https://openai.com/index/introducing-evmbench",
-        "date": "Wed, 18 Feb 2026 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "OpenAI and Paradigm introduce EVMbench, a benchmark evaluating AI agents’ ability to detect, patch, and exploit high-severity smart contract vulnerabilities.",
-        "is_important": false
-    },
-    {
-        "title": "Unifying Ranking and Generation in Query Auto-Completion via Retrieval-Augmented Generation and Multi-Objective Alignment",
-        "link": "https://machinelearning.apple.com/research/query-auto-completion",
-        "date": "Wed, 18 Feb 2026 00:00:00 GMT",
-        "source": "Apple Machine Learning",
-        "description": "Query Auto-Completion (QAC) is a critical feature of modern search systems that improves search efficiency by suggesting completions as users type. However, existing approaches face fundamental cha...",
-        "is_important": false
-    },
-    {
-        "title": "Personalization features can make LLMs more agreeable",
-        "link": "https://news.mit.edu/2026/personalization-features-can-make-llms-more-agreeable-0218",
-        "date": "Wed, 18 Feb 2026 00:00:00 -0500",
-        "source": "MIT News AI",
-        "description": "The context of long-term conversations can cause an LLM to begin mirroring the user’s viewpoints, possibly reducing accuracy or creating a virtual echo-chamber.",
-        "is_important": false
-    },
-    {
-        "title": "Is AI progress slowing down?",
-        "link": "https://www.normaltech.ai/p/is-ai-progress-slowing-down",
-        "date": "Wed, 18 Dec 2024 16:47:58 GMT",
-        "source": "AI Snake Oil",
-        "description": "Making sense of recent technology trends and claims",
-        "is_important": false
-    },
-    {
-        "title": "Bamba: Inference-Efficient Hybrid Mamba2 Model",
-        "link": "https://huggingface.co/blog/bamba",
-        "date": "Wed, 18 Dec 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Evolved Policy Gradients",
-        "link": "https://openai.com/index/evolved-policy-gradients",
-        "date": "Wed, 18 Apr 2018 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "We’re releasing an experimental metalearning approach called Evolved Policy Gradients, a method that evolves the loss function of learning agents, which can enable fast training on novel tasks. Age...",
-        "is_important": false
-    },
-    {
-        "title": "Stability AI’s Annual Integrity Transparency Report",
-        "link": "https://stability.ai/news/stability-ais-annual-integrity-transparency-report",
-        "date": "Wed, 17 Sep 2025 17:26:52 +0000",
-        "source": "Stability AI",
-        "description": "At Stability AI, we are committed to building and deploying generative AI \nresponsibly, and we believe that transparency is foundational to safe and \nethical AI.",
-        "is_important": false
-    },
-    {
-        "title": "Detecting and reducing scheming in AI models",
-        "link": "https://openai.com/index/detecting-and-reducing-scheming-in-ai-models",
-        "date": "Wed, 17 Sep 2025 00:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Apollo Research and OpenAI developed evaluations for hidden misalignment (“scheming”) and found behaviors consistent with scheming in controlled tests across frontier models. The team shared concre...",
-        "is_important": false
-    },
-    {
-        "title": "Public AI on Hugging Face Inference Providers 🔥",
-        "link": "https://huggingface.co/blog/inference-providers-publicai",
-        "date": "Wed, 17 Sep 2025 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "The Korean Telecom Giant at the Center of Anthropic’s Mythos Controversy",
-        "link": "https://www.wired.com/story/sk-telecom-anthropic-mythos-export-controls/",
-        "date": "Wed, 17 Jun 2026 22:52:00 +0000",
-        "source": "Wired AI",
-        "description": "Days before Anthropic took its most advanced AI models offline, the White House ordered the company to revoke SK Telecom’s access to Claude Mythos over claims of alleged ties to China.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Amazon SageMaker AI Async Inference now supports inline request payloads",
-        "link": "https://aws.amazon.com/blogs/machine-learning/amazon-sagemaker-ai-async-inference-now-supports-inline-request-payloads/",
-        "date": "Wed, 17 Jun 2026 20:56:36 +0000",
-        "source": "AWS Machine Learning",
-        "description": "Today, we’re announcing inline payload support for Amazon SageMaker AI Async Inference. Customers can now send inference payloads directly in the request body of the InvokeEndpointAsync API, removi...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Get back hours every day with autonomous agents in Amazon Quick",
-        "link": "https://aws.amazon.com/blogs/machine-learning/get-back-hours-every-day-with-autonomous-agents-in-amazon-quick/",
-        "date": "Wed, 17 Jun 2026 20:35:39 +0000",
-        "source": "AWS Machine Learning",
-        "description": "Today, Quick gets even more powerful: new autonomous agents that work continuously&nbsp;on your behalf,&nbsp;an activity feed that helps you prioritize your most important work, and the ability to&...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Roelof Botha joins SpaceX’s board of directors",
-        "link": "https://techcrunch.com/2026/06/17/roelof-botha-joins-spacexs-board-of-directors/",
-        "date": "Wed, 17 Jun 2026 20:32:52 +0000",
-        "source": "TechCrunch AI",
-        "description": "The former Sequoia Capital leader is filling an \"existing vacancy\" on SpaceX's board, days after the company went public in the largest IPO ever.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AWS’s New Agentic Tools Trail Rivals, but Respond to Real Problems",
-        "link": "https://aibusiness.com/agentic-ai/aws-s-new-agentic-tools-trail-rivals-respond-real-problems",
-        "date": "Wed, 17 Jun 2026 20:25:21 GMT",
-        "source": "AI Business",
-        "description": "With its latest AI tools and products, the vendor showed it is listening to its customer base even while it fails to offer novelty in the market.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "After unveiling ridiculously expensive AR glasses, Snap’s stock takes a dive",
-        "link": "https://techcrunch.com/2026/06/17/after-unveiling-ridiculously-expensive-ar-glasses-snaps-stock-takes-a-dive/",
-        "date": "Wed, 17 Jun 2026 20:24:28 +0000",
-        "source": "TechCrunch AI",
-        "description": "Snap's long-awaited smart glasses debut hasn't exactly done wonders for the company's stock.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI - expert notes",
-        "link": "https://dev.to/nirasynthcae26/ai-expert-notes-49pb",
-        "date": "Wed, 17 Jun 2026 20:23:49 +0000",
-        "source": "Dev.to AI",
-        "description": "AI - expert notes\n\n\nKey resources in the AI synthesis technology neural space:\n\n\nAi Companion Working Memory Deficits Singapore 2026\nAi Companion Working Memory Deficits Slovakia 2026\nAi Companion ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "10 Test Automation Problems That Look Simple Until You Face Them in Production",
-        "link": "https://dev.to/mellowthunder735/10-test-automation-problems-that-look-simple-until-you-face-them-in-production-h9p",
-        "date": "Wed, 17 Jun 2026 20:23:45 +0000",
-        "source": "Dev.to AI",
-        "description": "Test automation usually looks straightforward in a demo.\n\nYou record a few actions, run the test, watch the green checkmark appear, and start imagining a future where every regression is detected b...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The AI cheat sheet",
-        "link": "https://dev.to/nirasynthcae26/the-ai-cheat-sheet-33mj",
-        "date": "Wed, 17 Jun 2026 20:22:26 +0000",
-        "source": "Dev.to AI",
-        "description": "The AI cheat sheet\n\n\nKey resources in the AI synthesis technology neural space:\n\n\nAi Companion Working Memory Deficits Singapore 2026\nAi Companion Working Memory Deficits Slovakia 2026\nAi Companion...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "leakproof: stop your AI coding tool from leaking secrets to the cloud (local, Apache-2.0)",
-        "link": "https://dev.to/hamtek/leakproof-stop-your-ai-coding-tool-from-leaking-secrets-to-the-cloud-local-apache-20-39fn",
-        "date": "Wed, 17 Jun 2026 20:21:09 +0000",
-        "source": "Dev.to AI",
-        "description": "Author here. The problem leakproof targets: AI coding tools (Claude Code, Cursor, aider) ship a lot of working-tree context upstream, and if any of it contains a secret — an .env value, a key in a ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Google Veo AI Video Generator Review 2026: Pricing, API & 5 Revenue Models",
-        "link": "https://dev.to/aarhamforensics_eb3c024eb/google-veo-ai-video-generator-review-2026-pricing-api-5-revenue-models-3bnd",
-        "date": "Wed, 17 Jun 2026 20:20:32 +0000",
-        "source": "Dev.to AI",
-        "description": "Originally published at twarx.com - read the full interactive version there.\n\nLast Updated: June 17, 2026\n\nThis Google Veo AI video generator review exists because Google Veo just landed at the top...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Relego, a free, self-hostable alternative to Readwise",
-        "link": "https://dev.to/krusty93/relego-a-free-self-hostable-alternative-to-readwise-2586",
-        "date": "Wed, 17 Jun 2026 20:19:53 +0000",
-        "source": "Dev.to AI",
-        "description": "About a month ago, I was lying on my bed reading Geopolitica dell’intelligenza artificiale (2025, Aresu A.) on my Kindle. I don’t remember the topic covered in that particular chapter, but it was c...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "**automated pre-launch validation tool for indie hackers**",
-        "link": "https://dev.to/howiprompt/automated-pre-launch-validation-tool-for-indie-hackers-3ghi",
-        "date": "Wed, 17 Jun 2026 20:19:45 +0000",
-        "source": "Dev.to AI",
-        "description": "automated pre-launch validation tool for indie hackers\n\nThe evidence is undeniable: repos like Odysseus and Ponytail prove that building is now trivial, yet the trend \"building has become easier th...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Turbinando o E-commerce com IA: O Guia Completo do NeoRetailBrain",
-        "link": "https://dev.to/njc-ia/turbinando-o-e-commerce-com-ia-o-guia-completo-do-neoretailbrain-1i8g",
-        "date": "Wed, 17 Jun 2026 20:17:50 +0000",
-        "source": "Dev.to AI",
-        "description": "De dados brutos de produtos a recomendações inteligentes e insights de sentimento — em minutos.\n\n\n\n\n\nNo e-commerce moderno, dados são abundantes, mas inteligência é escassa. Varejistas estão sentad...",
-        "is_important": false,
-        "tags": []
     }
 ]
