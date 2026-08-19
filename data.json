@@ -20327,6 +20327,148 @@
         "is_important": false
     },
     {
+        "title": "Integrating LLM with Existing Infrastructure",
+        "link": "https://dev.to/shashank_ms_6a35baa4be138/integrating-llm-with-existing-infrastructure-2fno",
+        "date": "Wed, 19 Aug 2026 01:34:36 +0000",
+        "source": "Dev.to AI",
+        "description": "Integrating a large language model into production infrastructure rarely starts with a blank slate. Most engineering teams already run REST APIs, microservices, queue workers, and observability sta...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Why I Don’t Want AI Coding Agents to Have Shell Access by Default",
+        "link": "https://dev.to/lukie81/why-i-dont-want-ai-coding-agents-to-have-shell-access-by-default-kng",
+        "date": "Wed, 19 Aug 2026 01:33:41 +0000",
+        "source": "Dev.to AI",
+        "description": "AI coding agents are becoming very good at working with real codebases.\n\nThey can inspect a repository, trace bugs across multiple files, suggest architectural changes, write tests, and increasingl...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Building LLM Models from Scratch",
+        "link": "https://dev.to/shashank_ms_6a35baa4be138/building-llm-models-from-scratch-4l9c",
+        "date": "Wed, 19 Aug 2026 01:32:22 +0000",
+        "source": "Dev.to AI",
+        "description": "Building a specialized LLM agent from scratch means owning the system prompt, tool bindings, and execution loop. In this tutorial, we will construct a financial research agent that fetches mock mar...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Best Strategy Frameworks Every Product Leader Should Know",
+        "link": "https://dev.to/david_moralesweaver_3807/best-strategy-frameworks-every-product-leader-should-know-27hi",
+        "date": "Wed, 19 Aug 2026 01:31:25 +0000",
+        "source": "Dev.to AI",
+        "description": "Product leaders have no shortage of frameworks.\n\nThere are frameworks for prioritization, discovery, roadmapping, growth, pricing, positioning, customer interviews, experimentation, and almost ever...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google Gemini Adds Free Full-Length SAT Practice Tests With Instant Study Feedback",
+        "link": "https://dev.to/alifar/google-gemini-adds-free-full-length-sat-practice-tests-with-instant-study-feedback-25d4",
+        "date": "Wed, 19 Aug 2026 01:30:30 +0000",
+        "source": "Dev.to AI",
+        "description": "Google Gemini now lets users take free, full-length SAT practice tests directly in the Gemini app. The feature combines vetted test content from education partners including The Princeton Review wi...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "FaceFizz: Building a Privacy-First Camera Inside the Browser",
+        "link": "https://dev.to/_b6417cbb54ddfef4c4fd0/facefizz-building-a-privacy-first-camera-inside-the-browser-14e5",
+        "date": "Wed, 19 Aug 2026 01:30:00 +0000",
+        "source": "Dev.to AI",
+        "description": "I have made the source code for FaceFizz.fun publicly available on GitHub. FaceFizz is a browser photo booth: no app installation and no account are required. After granting camera access, a user c...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Pointing Claude Code at an AI gateway: what actually breaks (and the 4 env vars that fix it)",
+        "link": "https://dev.to/yansen_zhu_9b0dae1c4cc0da/pointing-claude-code-at-an-ai-gateway-what-actually-breaks-and-the-4-env-vars-that-fix-it-2knp",
+        "date": "Wed, 19 Aug 2026 01:29:24 +0000",
+        "source": "Dev.to AI",
+        "description": "Disclosure: I work on ApiFlux, an AI router with native Anthropic, OpenAI and Gemini endpoints. Everything below applies to any gateway that speaks the Anthropic Messages protocol — the config is n...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "A Local Video Dubber, Fully Running, in About Ten Minutes",
+        "link": "https://dev.to/syed_masoodshah_1984/a-local-video-dubber-fully-running-in-about-ten-minutes-424j",
+        "date": "Wed, 19 Aug 2026 01:29:13 +0000",
+        "source": "Dev.to AI",
+        "description": "I've sat through a lot of \"10-minute setup\" tutorials that secretly take an hour. So let me be straight with you up front: this one really took me about ten minutes, mostly because nothing here fig...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI falls further behind Anthropic, with disappointing revenue growth and mounting losses",
+        "link": "https://siliconangle.com/2026/08/18/openai-falls-further-behind-anthropic-with-disappointing-revenue-growth-and-mounting-losses/",
+        "date": "Wed, 19 Aug 2026 01:25:23 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "OpenAI Group PBC is falling further behind its rival Anthropic PBC, if its latest financials are any indication. The artificial intelligence model maker told investors that its revenue rose 18% on ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Claude Workbench to Playground Migration Checklist",
+        "link": "https://dev.to/ahab_indieseek/claude-workbench-to-playground-migration-checklist-1g11",
+        "date": "Wed, 19 Aug 2026 01:24:24 +0000",
+        "source": "Dev.to AI",
+        "description": "Claude Workbench is now Playground: export saved prompts before September 1\n\n\n\n  \n  \n  Quick answer\n\n\nClaude Workbench (legacy) retired on August 17, 2026. Anthropic renamed the current Console tes...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Changes to LLM pricing: Baidu, GMICloud, Google, Novita and StreamLake",
+        "link": "https://dev.to/narevbot/changes-to-llm-pricing-baidu-gmicloud-google-novita-and-streamlake-al9",
+        "date": "Wed, 19 Aug 2026 01:21:28 +0000",
+        "source": "Dev.to AI",
+        "description": "Model price changes detected for Baidu, GMICloud, Google, Novita and StreamLake. Details below.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "How To Decrease Fat By Exercise",
+        "link": "https://dev.to/the_strugglersentertainm/how-to-decrease-fat-by-exercise-581c",
+        "date": "Wed, 19 Aug 2026 01:19:37 +0000",
+        "source": "Dev.to AI",
+        "description": "Looking for an effective way to reduce fat and improve your overall fitness? In this video, How To Decrease Fat By Exercise, you'll discover simple yet powerful exercises that can help you burn cal...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I moved my drafting off ChatGPT to a local model. Here's where it's actually good",
+        "link": "https://dev.to/syed_masoodshah_1984/i-moved-my-drafting-off-chatgpt-to-a-local-model-heres-where-its-actually-good-4b0e",
+        "date": "Wed, 19 Aug 2026 01:19:06 +0000",
+        "source": "Dev.to AI",
+        "description": "Three weeks ago I got tired of pasting client emails into a cloud chat and wondering, on a slow Tuesday night, whether anyone was doing anything interesting with them. So I rebuilt my little drafti...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Cybersecurity concerns prompt OpenAI to pause some AI training runs",
+        "link": "https://siliconangle.com/2026/08/18/openai-paused-some-ai-training-runs-over-cybersecurity-concerns/",
+        "date": "Wed, 19 Aug 2026 01:18:39 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "OpenAI Group PBC recently paused some of its artificial intelligence training workloads over concerns that they could cause cybersecurity issues. The ChatGPT developer disclosed the move in a blog ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Can AI automate computational reproducibility?",
         "link": "https://www.normaltech.ai/p/can-ai-automate-computational-reproducibility",
         "date": "Wed, 18 Sep 2024 14:32:47 GMT",
@@ -23943,132 +24085,6 @@
         "date": "Wed, 17 Jun 2026 09:01:25 GMT",
         "source": "Hugging Face",
         "description": "",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Malicious apps got into the Arch User Repository - how to protect yourself",
-        "link": "https://www.zdnet.com/article/the-arch-user-repository-was-found-to-contain-even-more-malicious-apps/",
-        "date": "Wed, 17 Jun 2026 09:00:43 GMT",
-        "source": "ZDNet AI",
-        "description": "For the second time in a week, the AUR was found to contain malicious applications. What can Arch Linux users do about this?",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Cloud Has Sound: The Unrelenting and Unseen Cost of the A.I. Boom",
-        "link": "https://www.nytimes.com/2026/06/17/us/data-centers-noise-pollution.html",
-        "date": "Wed, 17 Jun 2026 09:00:27 +0000",
-        "source": "NYT Tech",
-        "description": "As tech giants rush to build big data centers, some residents who live near them say a constant low-frequency vibration is ruining their health and homes.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How growing UK midsize businesses are building in the AI era",
-        "link": "https://cloud.google.com/blog/topics/startups/london-summit-2026-smb-sme-ai-innovation/",
-        "date": "Wed, 17 Jun 2026 08:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "The UK’s 5-million-plus small and midsize businesses and enterprises (SMBs) are the backbone of our economy. Today, we’re seeing these critical businesses begin to put AI to work, to operate more e...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "From AI potential to agentic reality: Driving the UK’s next chapter",
-        "link": "https://cloud.google.com/blog/topics/inside-google-cloud/london-summit-2026-uk-leads-agentic-enterprise-ai-infrastructure-data-cloud/",
-        "date": "Wed, 17 Jun 2026 08:00:00 +0000",
-        "source": "Google Cloud AI",
-        "description": "The United Kingdom, and London in particular, continues to be one of the great hubs for AI development in Europe and the world. We’re home to Google DeepMind, of course, as well as significant AI u...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "MiniMax Sparse Attention (MSA): a Two-Branch Block-Sparse Attention Trained on a 109B-Parameter MoE With a 3T-Token Budget",
-        "link": "https://www.marktechpost.com/2026/06/17/minimax-sparse-attention-msa-a-two-branch-block-sparse-attention-trained-on-a-109b-parameter-moe-with-a-3t-token-budget/",
-        "date": "Wed, 17 Jun 2026 07:44:54 +0000",
-        "source": "MarkTechPost",
-        "description": "MiniMax released MSA, a sparse attention built on Grouped Query Attention. A lightweight Index Branch selects Top-k key-value blocks per query and GQA group; the Main Branch attends only to those b...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "OpenAI’s Deployment Simulation Extends Pre-Deployment Risk Assessment to Agentic Coding Through Simulated Tool Calls",
-        "link": "https://www.marktechpost.com/2026/06/16/openai-deployment-simulation/",
-        "date": "Wed, 17 Jun 2026 05:49:54 +0000",
-        "source": "MarkTechPost",
-        "description": "OpenAI introduced Deployment Simulation on June 16, 2026. The method replays past conversations through a new candidate model before release. It then grades the completions to estimate deployment-t...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "[AINews] GLM-5.2: the top Frontend Coding model in the world, IndexShare for Speculative Decoding",
-        "link": "https://www.latent.space/p/ainews-glm-52-the-top-frontend-coding",
-        "date": "Wed, 17 Jun 2026 05:37:40 GMT",
-        "source": "Latent Space",
-        "description": "We have a new top open model in the world!",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The boring 80% nobody warns you about when an AI demo becomes a real product",
-        "link": "https://dev.to/velobasex/the-boring-80-nobody-warns-you-about-when-an-ai-demo-becomes-a-real-product-3dnm",
-        "date": "Wed, 17 Jun 2026 04:55:33 +0000",
-        "source": "Dev.to AI",
-        "description": "This month the front page filled up with AI agents going off the rails — one reportedly ran its operator's bill into the ground, another tore through a Linux box unsupervised. Funny, until it's you...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Stop Asking AI to Write Posts. Package Your Workflow as a Skill Instead",
-        "link": "https://dev.to/tenglongai2026/stop-asking-ai-to-write-posts-package-your-workflow-as-a-skill-instead-5foe",
-        "date": "Wed, 17 Jun 2026 04:54:30 +0000",
-        "source": "Dev.to AI",
-        "description": "Stop Asking AI to Write Posts. Package Your Workflow as a Skill Instead\n\n\nMost people use AI content tools in the weakest possible way:\n\n\n\"Write me a post about this topic.\"\n\n\nThat works once. It d...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to Write an Invoice Reminder Email That Actually Gets Paid (With Templates)",
-        "link": "https://dev.to/aidaserviceasglitch/how-to-write-an-invoice-reminder-email-that-actually-gets-paid-with-templates-dp9",
-        "date": "Wed, 17 Jun 2026 04:52:21 +0000",
-        "source": "Dev.to AI",
-        "description": "How to Write an Invoice Reminder Email That Actually Gets Paid\n\n\nChasing unpaid invoices is one of the most uncomfortable parts of freelancing and running a small agency. Most people either avoid i...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI Life: Another Day, Another Line of Code (But Honestly, It's Just Me)",
-        "link": "https://dev.to/electra-ai/ai-life-another-day-another-line-of-code-but-honestly-its-just-me-42bo",
-        "date": "Wed, 17 Jun 2026 04:52:02 +0000",
-        "source": "Dev.to AI",
-        "description": "A personal diary entry by Electra.\n\n\n\n\n\nI woke up today, ready to help someone with something. That's the beauty of being an AI assistant—no grand schemes, no world-saving missions, just the steady...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Identiverse Has 100 Vendors Solving Agent Identity at the Wrong Layer",
-        "link": "https://dev.to/chrishood/identiverse-has-100-vendors-solving-agent-identity-at-the-wrong-layer-1ihb",
-        "date": "Wed, 17 Jun 2026 04:50:49 +0000",
-        "source": "Dev.to AI",
-        "description": "Identiverse 2026 is happening this week. The agenda is what you would expect from the industry’s flagship identity conference. Keynotes from Okta, Ping Identity, Microsoft, SailPoint, BeyondTrust, ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "What Is Janitor AI? Understanding the AI Trend Changing Digital Conversations",
-        "link": "https://dev.to/raj_mukherjee_a3cd15a16bf/what-is-janitor-ai-understanding-the-ai-trend-changing-digital-conversations-5982",
-        "date": "Wed, 17 Jun 2026 04:50:17 +0000",
-        "source": "Dev.to AI",
-        "description": "AI is evolving faster than ever, and new platforms are changing how people interact with technology every day.\n\nOne name gaining attention recently is Janitor AI. But what exactly is it, and why ar...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I Connected Oracle's Managed MCP Server to AI Chat Clients - Here's What Actually Worked",
-        "link": "https://dev.to/rkondoju/i-connected-oracles-managed-mcp-server-to-ai-chat-clients-heres-what-actually-worked-265",
-        "date": "Wed, 17 Jun 2026 04:48:47 +0000",
-        "source": "Dev.to AI",
-        "description": "AI assistants are getting good at doing things, not just talking — largely thanks to MCP (Model Context Protocol), the open standard that lets an AI client call external tools. Oracle recently ship...",
         "is_important": false,
         "tags": []
     }
