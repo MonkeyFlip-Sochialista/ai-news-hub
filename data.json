@@ -20327,6 +20327,167 @@
         "is_important": false
     },
     {
+        "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+        "link": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+        "date": "Wed, 19 Aug 2026 23:32:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Stripe buys AI model router OpenRouter in reported $7.5B deal",
+        "link": "https://siliconangle.com/2026/08/19/stripe-buys-ai-model-router-openrouter-in-reported-7-5b-deal/",
+        "date": "Wed, 19 Aug 2026 22:49:06 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Stripe Inc. today said it has agreed to acquire artificial intelligence model routing startup OpenRouter Inc. in a deal reported at $7.5 billion or more. Neither company disclosed terms and the rep...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Hyve Solutions Picks Nevada for Two AI Server Manufacturing Campuses",
+        "link": "https://www.unite.ai/hyve-solutions-picks-nevada-for-two-ai-server-manufacturing-campuses/",
+        "date": "Wed, 19 Aug 2026 22:49:01 +0000",
+        "source": "Unite.ai",
+        "description": "Hyve Solutions, the server design and manufacturing arm of TD SYNNEX, announced on August 19, 2026 that it will build two advanced manufacturing campuses in Nevada (a 624,000-square-foot flagship s...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Domain and publish date filters for Web Search on AgentCore",
+        "link": "https://aws.amazon.com/blogs/machine-learning/domain-and-publish-date-filters-for-web-search-on-agentcore/",
+        "date": "Wed, 19 Aug 2026 22:13:20 +0000",
+        "source": "AWS Machine Learning",
+        "description": "Web Search on Amazon Bedrock AgentCore now supports runtime domain and published-date filtering. New per-request filters give developers per-call control over which web sources their agents consult...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI seeks to one-up Anthropic with new customer privacy protections",
+        "link": "https://techcrunch.com/2026/08/19/openai-seeks-to-one-up-anthropic-with-new-customer-privacy-protections/",
+        "date": "Wed, 19 Aug 2026 22:10:46 +0000",
+        "source": "TechCrunch AI",
+        "description": "A competition is developing between OpenAI and Anthropic over who can provide the best privacy protections for enterprise customer data.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Automate Document Processing with Quick Automate and the IDP Accelerator",
+        "link": "https://aws.amazon.com/blogs/machine-learning/automate-document-processing-with-quick-automate-and-the-idp-accelerator/",
+        "date": "Wed, 19 Aug 2026 22:09:56 +0000",
+        "source": "AWS Machine Learning",
+        "description": "Classifying, extracting, and validating high volumes of documents is a challenge across banking, insurance, healthcare, and the public sector. See how a mid-size mortgage lender automates its entir...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Asynchronous patterns for calling Amazon Bedrock AgentCore agents in serverless pipelines",
+        "link": "https://aws.amazon.com/blogs/machine-learning/asynchronous-patterns-for-calling-amazon-bedrock-agentcore-agents-in-serverless-pipelines/",
+        "date": "Wed, 19 Aug 2026 22:06:09 +0000",
+        "source": "AWS Machine Learning",
+        "description": "In this post, you learn three serverless patterns (task-token callback, direct service integration, and durable functions) for invoking Amazon Bedrock AgentCore agents asynchronously from AWS Step ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+        "link": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+        "date": "Wed, 19 Aug 2026 21:51:23 +0000",
+        "source": "TechCrunch AI",
+        "description": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Chinese Start-Up Lands Reusable Rocket for the First Time",
+        "link": "https://www.nytimes.com/2026/08/19/world/asia/china-rocket-first-stage-recovery-land.html",
+        "date": "Wed, 19 Aug 2026 21:49:10 +0000",
+        "source": "NYT Tech",
+        "description": "The milestone by the private company, LandSpace, could put China closer to challenging SpaceX’s rule in lower-cost spaceflight.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "OpenAI Scales Back AI Development, but it Could be Too Late",
+        "link": "https://aibusiness.com/generative-ai/openai-scales-down-ai-development-could-be-too-late",
+        "date": "Wed, 19 Aug 2026 21:39:33 GMT",
+        "source": "AI Business",
+        "description": "The move is a response to the Hugging Face hacking incident and other cybersecurity concerns about AI models. However, enterprises need to ramp up security protections regardless of the models they...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The AI inference race moves beyond GPUs to reshape data center infrastructure",
+        "link": "https://siliconangle.com/2026/08/19/ai-inference-infrastructure-requires-full-stack-coordination-supermicroopenstoragesummit/",
+        "date": "Wed, 19 Aug 2026 20:59:28 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "AI inference infrastructure is becoming a system-level challenge as organizations move generative and agentic applications into production. Graphics processing unit performance remains essential, b...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "How Fanatics Betting and Gaming built a multi-agent customer support system",
+        "link": "https://aws.amazon.com/blogs/machine-learning/how-fanatics-betting-and-gaming-built-a-multi-agent-customer-support-system/",
+        "date": "Wed, 19 Aug 2026 20:40:45 +0000",
+        "source": "AWS Machine Learning",
+        "description": "Fanatics Betting and Gaming built a multi-agent customer support system on AWS to handle the complexity of sports betting: state-specific rules, real-time responsible gaming, and traffic spikes dur...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "KnowledgeForge: mining gold from the ITSM ticket graveyard",
+        "link": "https://aws.amazon.com/blogs/machine-learning/knowledgeforge-mining-gold-from-the-itsm-ticket-graveyard/",
+        "date": "Wed, 19 Aug 2026 20:36:50 +0000",
+        "source": "AWS Machine Learning",
+        "description": "KnowledgeForge mines resolved ITSM incident tickets into new knowledge base articles and automatically curates the existing library by deduplicating, quality-scoring, and improving content, using A...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Layered data architecture turns enterprise data into a system of intelligence",
+        "link": "https://siliconangle.com/2026/08/19/layered-data-architecture-powers-salesforce-ai-neo4jgraphtalk/",
+        "date": "Wed, 19 Aug 2026 20:30:12 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "The knowledge graph is fast becoming a foundational layer for enterprise AI, as organizations race to turn scattered data into answers that leaders can trust. As IT stacks that went cloud-native no...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I Saw the Future of AI in a Robot That Can Learn on the Spot",
+        "link": "https://www.wired.com/story/generalist-ai-robots-learn-like-clever-toddlers/",
+        "date": "Wed, 19 Aug 2026 19:30:00 +0000",
+        "source": "Wired AI",
+        "description": "During a recent visit to Generalist AI, I watched a robotic arm improvise and use a banana as a tool.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Ramp Opens Router.com Model Gateway With Free Routing Through 2026",
+        "link": "https://www.unite.ai/ramp-opens-router-com-model-gateway-with-free-routing-through-2026/",
+        "date": "Wed, 19 Aug 2026 19:21:01 +0000",
+        "source": "Unite.ai",
+        "description": "Ramp, the corporate-spend platform that powers more than $200 billion in purchases annually, launched Router.com on August 19, 2026: a single API endpoint that sends each AI request to the lowest-c...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI was supposed to win people over by now — it hasn’t",
+        "link": "https://techcrunch.com/2026/08/19/ai-was-supposed-to-win-people-over-by-now-it-hasnt/",
+        "date": "Wed, 19 Aug 2026 19:11:40 +0000",
+        "source": "TechCrunch AI",
+        "description": "As AI becomes harder to avoid, consumers are growing more wary of the technology — and Silicon Valley is discovering that widespread adoption doesn’t necessarily lead to acceptance.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
         "title": "Offering Zero Data Retention for frontier models",
         "link": "https://openai.com/index/our-commitment-to-zero-data-retention",
         "date": "Wed, 19 Aug 2026 19:00:00 GMT",
@@ -20336,6 +20497,46 @@
         "tags": [
             "⚖️ Ética y Regulación"
         ]
+    },
+    {
+        "title": "Offering Zero Data Retention for frontier models",
+        "link": "https://openai.com/index/offering-zero-data-retention-for-frontier-models",
+        "date": "Wed, 19 Aug 2026 19:00:00 GMT",
+        "source": "OpenAI",
+        "description": "OpenAI reaffirms Zero Data Retention for eligible API customers and previews Private Safety Processing for advanced AI safety without compromising data privacy.",
+        "is_important": false,
+        "tags": [
+            "⚖️ Ética y Regulación"
+        ]
+    },
+    {
+        "title": "Google packs Search and Gemini with new AI study tools",
+        "link": "https://techcrunch.com/2026/08/19/google-launches-new-study-tools-for-students-across-search-and-gemini/",
+        "date": "Wed, 19 Aug 2026 19:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "The launch of the new study features marks Google's latest effort to make Gemini the AI assistant that students turn to when learning and studying, as it continues to compete with companies like Op...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Researchers say OpenAI revoked their access to limited cyber program",
+        "link": "https://techcrunch.com/2026/08/19/researchers-complain-that-openai-revoked-their-access-to-limited-cyber-program/",
+        "date": "Wed, 19 Aug 2026 18:46:14 +0000",
+        "source": "TechCrunch AI",
+        "description": "The idea behind OpenAI's Trusted Access for Cyber program is to give trusted defenders better models so they can report bugs and vulnerabilities to companies, with the aim of getting flaws patched ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Gautam Korlam, Principal Engineer at Sonar – Interview Series",
+        "link": "https://www.unite.ai/gautam-korlam-principal-engineer-at-sonar-interview-series/",
+        "date": "Wed, 19 Aug 2026 18:43:42 +0000",
+        "source": "Unite.ai",
+        "description": "Gautam Korlam, Principal Engineer at Sonar, is a veteran software engineer and technology leader whose career has focused on developer infrastructure, code quality, automation, and AI-assisted soft...",
+        "is_important": false,
+        "tags": []
     },
     {
         "title": "Next-Generation Fullstack Engineering in 2026 1787164899388",
@@ -20584,6 +20785,15 @@
         "tags": [
             "⚙️ Hardware de IA"
         ]
+    },
+    {
+        "title": "European Central Bank Warns That AI Crash Is Looming",
+        "link": "https://futurism.com/future-society/european-central-bank-economy-ai-investment-crash",
+        "date": "Wed, 19 Aug 2026 16:25:22 -0400",
+        "source": "Futurism AI",
+        "description": "\"A US AI fallout would not remain a US problem.\"\nThe post European Central Bank Warns That AI Crash Is Looming appeared first on Futurism.",
+        "is_important": false,
+        "tags": []
     },
     {
         "title": "81,000 warning letters sent to crypto holders in HMRC tax crackdown",
@@ -23995,228 +24205,6 @@
         "date": "Wed, 18 Mar 2026 00:00:00 -0400",
         "source": "ArXiv (cs.AI)",
         "description": "arXiv:2603.15674v1 Announce Type: new \nAbstract: We present a complete theoretical characterization of Latent Posterior Factors (LPF), a principled framework for aggregating multiple heterogeneous ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Recursive Language Models Meet Uncertainty: The Surprising Effectiveness of Self-Reflective Program Search for Long Context",
-        "link": "https://arxiv.org/abs/2603.15653",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15653v1 Announce Type: new \nAbstract: Long-context handling remains a core challenge for language models: even with extended context windows, models often fail to reliably extract, reaso...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "MedArena: Comparing LLMs for Medicine-in-the-Wild Clinician Preferences",
-        "link": "https://arxiv.org/abs/2603.15677",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15677v1 Announce Type: new \nAbstract: Large language models (LLMs) are increasingly central to clinician workflows, spanning clinical decision support, medical education, and patient com...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "MiroThinker-1.7 & H1: Towards Heavy-Duty Research Agents via Verification",
-        "link": "https://arxiv.org/abs/2603.15726",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15726v1 Announce Type: new \nAbstract: We present MiroThinker-1.7, a new research agent designed for complex long-horizon reasoning tasks. Building on this foundation, we further introduc...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Morphemes Without Borders: Evaluating Root-Pattern Morphology in Arabic Tokenizers and LLMs",
-        "link": "https://arxiv.org/abs/2603.15773",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15773v1 Announce Type: new \nAbstract: This work investigates how effectively large language models (LLMs) and their tokenization schemes represent and generate Arabic root-pattern morpho...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "COGNAC at SemEval-2026 Task 5: LLM Ensembles for Human-Level Word Sense Plausibility Rating in Challenging Narratives",
-        "link": "https://arxiv.org/abs/2603.15897",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15897v1 Announce Type: new \nAbstract: We describe our system for SemEval-2026 Task 5, which requires rating the plausibility of given word senses of homonyms in short stories on a 5-poin...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Agent-based imitation dynamics can yield efficiently compressed population-level vocabularies",
-        "link": "https://arxiv.org/abs/2603.15903",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15903v1 Announce Type: new \nAbstract: Natural languages have been argued to evolve under pressure to efficiently compress meanings into words by optimizing the Information Bottleneck (IB...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "CTG-DB: An Ontology-Based Transformation of ClinicalTrials.gov to Enable Cross-Trial Drug Safety Analyses",
-        "link": "https://arxiv.org/abs/2603.15936",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15936v1 Announce Type: new \nAbstract: ClinicalTrials.gov (CT.gov) is the largest publicly accessible registry of clinical studies, yet its registry-oriented architecture and heterogeneou...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "BANGLASOCIALBENCH: A Benchmark for Evaluating Sociopragmatic and Cultural Alignment of LLMs in Bangladeshi Social Interaction",
-        "link": "https://arxiv.org/abs/2603.15949",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15949v1 Announce Type: new \nAbstract: Large Language Models have demonstrated strong multilingual fluency, yet fluency alone does not guarantee socially appropriate language use. In high...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "POLAR:A Per-User Association Test in Embedding Space",
-        "link": "https://arxiv.org/abs/2603.15950",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15950v1 Announce Type: new \nAbstract: Most intrinsic association probes operate at the word, sentence, or corpus level, obscuring author-level variation. We present POLAR (Per-user On-ax...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A Family of LLMs Liberated from Static Vocabularies",
-        "link": "https://arxiv.org/abs/2603.15953",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15953v1 Announce Type: new \nAbstract: Tokenization is a central component of natural language processing in current large language models (LLMs), enabling models to convert raw text into...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "MoLoRA: Composable Specialization via Per-Token Adapter Routing",
-        "link": "https://arxiv.org/abs/2603.15965",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15965v1 Announce Type: new \nAbstract: Multi-adapter serving systems route entire sequences to a single adapter, forcing a choice when requests span multiple domains. This assumption fail...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Robust Language Identification for Romansh Varieties",
-        "link": "https://arxiv.org/abs/2603.15969",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15969v1 Announce Type: new \nAbstract: The Romansh language has several regional varieties, called idioms, which sometimes have limited mutual intelligibility. Despite this linguistic div...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Aligning Paralinguistic Understanding and Generation in Speech LLMs via Multi-Task Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2603.15981",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15981v1 Announce Type: new \nAbstract: Speech large language models (LLMs) observe paralinguistic cues such as prosody, emotion, and non-verbal sounds--crucial for intent understanding. H...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "NLP Occupational Emergence Analysis: How Occupations Form and Evolve in Real Time -- A Zero-Assumption Method Demonstrated on AI in the US Technology Workforce, 2022-2026",
-        "link": "https://arxiv.org/abs/2603.15998",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.15998v1 Announce Type: new \nAbstract: Occupations form and evolve faster than classification systems can track. We propose that a genuine occupation is a self-reinforcing structure (a bi...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "RadAnnotate: Large Language Models for Efficient and Reliable Radiology Report Annotation",
-        "link": "https://arxiv.org/abs/2603.16002",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2603.16002v1 Announce Type: new \nAbstract: Radiology report annotation is essential for clinical NLP, yet manual labeling is slow and costly. We present RadAnnotate, an LLM-based framework th...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "SAC-NeRF: Adaptive Ray Sampling for Neural Radiance Fields via Soft Actor-Critic Reinforcement Learning",
-        "link": "https://arxiv.org/abs/2603.15622",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15622v1 Announce Type: new \nAbstract: Neural Radiance Fields (NeRF) have achieved photorealistic novel view synthesis but suffer from computational inefficiency due to dense ray sampling...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Exploring the Use of VLMs for Navigation Assistance for People with Blindness and Low Vision",
-        "link": "https://arxiv.org/abs/2603.15624",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15624v1 Announce Type: new \nAbstract: This paper investigates the potential of vision-language models (VLMs) to assist people with blindness and low vision (pBLV) in navigation tasks. We...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Improving Generative Adversarial Network Generalization for Facial Expression Synthesis",
-        "link": "https://arxiv.org/abs/2603.15648",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15648v1 Announce Type: new \nAbstract: Facial expression synthesis aims to generate realistic facial expressions while preserving identity. Existing conditional generative adversarial net...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "OrthoAI v2: From Single-Agent Segmentation to Dual-Agent Treatment Planning for Clear Aligners",
-        "link": "https://arxiv.org/abs/2603.15663",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15663v1 Announce Type: new \nAbstract: We present OrthoAI v2, the second iteration of our open-source pipeline for AI-assisted orthodontic treatment planning with clear aligners, substant...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "CLRNet: Targetless Extrinsic Calibration for Camera, Lidar and 4D Radar Using Deep Learning",
-        "link": "https://arxiv.org/abs/2603.15767",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15767v1 Announce Type: new \nAbstract: In this paper, we address extrinsic calibration for camera, lidar, and 4D radar sensors. Accurate extrinsic calibration of radar remains a challenge...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Domain Adaptation Without the Compute Burden for Efficient Whole Slide Image Analysis",
-        "link": "https://arxiv.org/abs/2603.15774",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15774v1 Announce Type: new \nAbstract: Computational methods on analyzing Whole Slide Images (WSIs) enable early diagnosis and treatments by supporting pathologists in detection and class...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Parallelised Differentiable Straightest Geodesics for 3D Meshes",
-        "link": "https://arxiv.org/abs/2603.15780",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2603.15780v1 Announce Type: new \nAbstract: Machine learning has been progressively generalised to operate within non-Euclidean domains, but geometrically accurate methods for learning on surf...",
         "is_important": false,
         "tags": []
     }
