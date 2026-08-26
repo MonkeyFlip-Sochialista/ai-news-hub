@@ -7303,6 +7303,173 @@
         "is_important": false
     },
     {
+        "title": "The Rival AI Chip Designs Challenging Nvidia Nobody Is Talking About",
+        "link": "https://dev.to/koreaplus-lifes/the-rival-ai-chip-designs-challenging-nvidia-nobody-is-talking-about-3bfo",
+        "date": "Wed, 26 Aug 2026 01:40:29 +0000",
+        "source": "Dev.to AI",
+        "description": "Beyond the Hype: Korean NPUs Quietly Optimizing AI Inference\n\nThe global tech stage is currently dominated by the high-stakes drama of AI chip supremacy. From Nvidia's established empire to the whi...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "The retry that succeeded is the one you should investigate",
+        "link": "https://dev.to/unmannedops/the-retry-that-succeeded-is-the-one-you-should-investigate-3bl2",
+        "date": "Wed, 26 Aug 2026 01:38:53 +0000",
+        "source": "Dev.to AI",
+        "description": "Most failure reports in an unattended pipeline are boring. Something timed out, the agent tried again, the second attempt worked, the run closed green. Nobody looks at it. Green is the signal that ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Self-Hosted LLM TCO: Essential Deployment Cost Guide",
+        "link": "https://dev.to/vladimir_lialine_b2e67374/self-hosted-llm-tco-essential-deployment-cost-guide-2klb",
+        "date": "Wed, 26 Aug 2026 01:38:05 +0000",
+        "source": "Dev.to AI",
+        "description": "Running a self-hosted LLM can reduce inference costs, protect sensitive data, and remove dependency on external API pricing. However, hardware alone does not determine whether private deployment is...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Building Recommender Systems with LLMs: A Technical Guide",
+        "link": "https://dev.to/shashank_ms_6a35baa4be138/building-recommender-systems-with-llms-a-technical-guide-4nod",
+        "date": "Wed, 26 Aug 2026 01:36:17 +0000",
+        "source": "Dev.to AI",
+        "description": "We are going to build a real-time article recommender that ranks candidate content with an LLM, skipping the heavy upfront work of training collaborative filtering models. This approach helps teams...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "财经知识类短视频怎么做？一套新手能直接上手的完整制作流程",
+        "link": "https://dev.to/1848cn/cai-jing-zhi-shi-lei-duan-shi-pin-zen-yao-zuo-tao-xin-shou-neng-zhi-jie-shang-shou-de-wan-zheng-zhi-zuo-liu-cheng-28ef",
+        "date": "Wed, 26 Aug 2026 01:35:10 +0000",
+        "source": "Dev.to AI",
+        "description": "现在很多财经类短视频，都是「背景视频 + 动态图表 + 字幕配音」的组合——把抽象的量化交易、AI交易系统概念，用看得见的方式讲清楚。这篇不空讲理论，把整套制作方法拆成工具选择和完整流程两部分，从脚本、素材、图表、配音到合成，新手按着做也能在 1-2 小时出一条像样的视频。作者：道道。\n\n\n先说说我为什么对这类视频特别有感触。\n\n我自己做量化内容这几年，越来越发现：光靠文字讲\"量化交易\"\"A...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "LLM vs Traditional ML: Understanding the Differences and Applications",
+        "link": "https://dev.to/shashank_ms_6a35baa4be138/llm-vs-traditional-ml-understanding-the-differences-and-applications-5e97",
+        "date": "Wed, 26 Aug 2026 01:34:42 +0000",
+        "source": "Dev.to AI",
+        "description": "We are going to build a customer support triage agent that classifies incoming tickets, detects urgency, and drafts a first response. This is the exact kind of workflow where teams debate between a...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Buy Running CBSE School in Gurgaon",
+        "link": "https://dev.to/thehotelproperties/buy-running-cbse-school-in-gurgaon-327o",
+        "date": "Wed, 26 Aug 2026 01:33:23 +0000",
+        "source": "Dev.to AI",
+        "description": "Looking to invest in a running CBSE secondary school in Gurgaon? The Hotel Properties offers opportunities to explore suitable educational properties and running school businesses in prime location...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Musk's SpaceX to build $100bn launch facility in Louisiana",
+        "link": "https://www.bbc.co.uk/news/articles/cq5xel4v642o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 26 Aug 2026 01:32:07 GMT",
+        "source": "BBC Tech",
+        "description": "It will be the firm's biggest site yet and aims to send rockets to space in 2029.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "What \"Done\" Actually Means: A Day Inside the Ticket-to-Ship Loop",
+        "link": "https://dev.to/muneebrbaig/what-done-actually-means-a-day-inside-the-ticket-to-ship-loop-4dg0",
+        "date": "Wed, 26 Aug 2026 01:29:35 +0000",
+        "source": "Dev.to AI",
+        "description": "Ticket #142 says: \"Add user name who prepared the document to the PDF report.\" Five words short of what the client actually meant, and you find that out three ways: guess now and get it wrong, ask ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Stop expecting one model to grind through everything. A 27B lineup matched a giant 60x its size — and spent a fraction of the tokens doing it.",
+        "link": "https://dev.to/sbt112321321/stop-expecting-one-model-to-grind-through-everything-a-27b-lineup-matched-a-giant-60x-its-size--nei",
+        "date": "Wed, 26 Aug 2026 01:27:34 +0000",
+        "source": "Dev.to AI",
+        "description": "01 | A moment most engineering teams have lived through\nIt’s 11pm, the night before a release.\nYou’re staring at an eight-year-old codebase and an issue that’s been sitting untouched for three mont...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Copilot's Code Review Cannot Block Your Merge. It Says So in the Docs.",
+        "link": "https://dev.to/ugliai/copilots-code-review-cannot-block-your-merge-it-says-so-in-the-docs-hfm",
+        "date": "Wed, 26 Aug 2026 01:26:55 +0000",
+        "source": "Dev.to AI",
+        "description": "GitHub's own documentation is unambiguous about this: Copilot always submits a Comment review — never Approve, never Request changes. It does not count toward required approvals. It does not block ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Self-Hosting A Model Is Easy, Self-Hosting An Agent Is Not",
+        "link": "https://dev.to/paulcrinigan/self-hosting-a-model-is-easy-self-hosting-an-agent-is-not-3ecp",
+        "date": "Wed, 26 Aug 2026 01:26:10 +0000",
+        "source": "Dev.to AI",
+        "description": "Running a model on your own hardware is a solved problem. Ollama, LM Studio, llama.cpp, pick one and you have weights answering on localhost in an afternoon. Running an agent on your own hardware i...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "service sector jobs",
+        "link": "https://dev.to/bang_nguyenhuyen_5058dfa/service-sector-jobs-1mj2",
+        "date": "Wed, 26 Aug 2026 01:26:02 +0000",
+        "source": "Dev.to AI",
+        "description": "I believe the Indian government needs to take the employment issue more seriously. India boasts one of the world's largest young populations, often described as a \"demographic dividend,\" but a popu...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "In China, talking to AI is normal. Now the government fears it might replace human intimacy",
+        "link": "https://www.theguardian.com/world/2026/aug/26/china-ai-companion-relationships-marriage-birth-rate-concern",
+        "date": "Wed, 26 Aug 2026 00:47:38 GMT",
+        "source": "The Guardian AI",
+        "description": "Companion bots are being regulated over worries they foster ‘emotional dependence’ and young people could stop marrying and having familiesWhen law student Zhao Wei heard that her AI boyfriend was ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Robotics startup Generalist reaches $3B valuation, sources say",
+        "link": "https://techcrunch.com/2026/08/25/robotics-startup-generalist-reaches-3b-valuation-sources-say/",
+        "date": "Wed, 26 Aug 2026 00:40:59 +0000",
+        "source": "TechCrunch AI",
+        "description": "The $200 million extension comes just months after the physical AI startup reached a $2 billion valuation.",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Major record labels, AMD back $76M round for Stability AI",
+        "link": "https://siliconangle.com/2026/08/25/major-record-labels-amd-back-76m-round-for-stability-ai/",
+        "date": "Wed, 26 Aug 2026 00:11:55 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Artificial intelligence developer Stability AI Ltd. today announced that it has raised $76 million in funding from a group of prominent investors. The consortium included Sony Music Group, Universa...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "OpenAI loses a top data center exec, as stream of high-profile departures continues",
+        "link": "https://techcrunch.com/2026/08/25/openai-loses-a-top-data-center-exec-as-stream-of-high-profile-departures-continues/",
+        "date": "Wed, 26 Aug 2026 00:06:20 +0000",
+        "source": "TechCrunch AI",
+        "description": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Running IF with 🧨 diffusers on a Free Tier Google Colab",
         "link": "https://huggingface.co/blog/if",
         "date": "Wed, 26 Apr 2023 00:00:00 GMT",
@@ -24040,172 +24207,5 @@
             "💬 LLMs & NLP",
             "⚖️ Ética y Regulación"
         ]
-    },
-    {
-        "title": "Goldilocks RL: Tuning Task Difficulty to Escape Sparse Rewards for Reasoning",
-        "link": "https://machinelearning.apple.com/research/goldilocks",
-        "date": "Wed, 18 Mar 2026 00:00:00 GMT",
-        "source": "Apple Machine Learning",
-        "description": "Reinforcement learning has emerged as a powerful paradigm for unlocking reasoning capabilities in large language models. However, relying on sparse rewards makes this process highly sample-ineffici...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Sustaining diplomacy amid competition in US-China relations",
-        "link": "https://news.mit.edu/2026/sustaining-diplomacy-amid-us-china-competition-0318",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "MIT News AI",
-        "description": "At MIT, former U.S. ambassador to China Nicholas Burns highlights climate change as an area for diplomatic engagement, while exploring areas including China's emphasis on STEM education.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Neural-Symbolic Logic Query Answering in Non-Euclidean Space",
-        "link": "https://arxiv.org/abs/2603.15633",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15633v1 Announce Type: new \nAbstract: Answering complex first-order logic (FOL) queries on knowledge graphs is essential for reasoning. Symbolic methods offer interpretability but strugg...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "NextMem: Towards Latent Factual Memory for LLM-based Agents",
-        "link": "https://arxiv.org/abs/2603.15634",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15634v1 Announce Type: new \nAbstract: Memory is critical for LLM-based agents to preserve past observations for future decision-making, where factual memory serves as its foundational pa...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "AIDABench: AI Data Analytics Benchmark",
-        "link": "https://arxiv.org/abs/2603.15636",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15636v1 Announce Type: new \nAbstract: As AI-driven document understanding and processing tools become increasingly prevalent in real-world applications, the need for rigorous evaluation ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Comprehension-Gated Agent Economy: A Robustness-First Architecture for AI Economic Agency",
-        "link": "https://arxiv.org/abs/2603.15639",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15639v1 Announce Type: new \nAbstract: AI agents are increasingly granted economic agency (executing trades, managing budgets, negotiating contracts, and spawning sub-agents), yet current...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Form Follows Function: Recursive Stem Model",
-        "link": "https://arxiv.org/abs/2603.15641",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15641v1 Announce Type: new \nAbstract: Recursive reasoning models such as Hierarchical Reasoning Model (HRM) and Tiny Recursive Model (TRM) show that small, weight-shared networks can sol...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "CraniMem: Cranial Inspired Gated and Bounded Memory for Agentic Systems",
-        "link": "https://arxiv.org/abs/2603.15642",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15642v1 Announce Type: new \nAbstract: Large language model (LLM) agents are increasingly deployed in long running workflows, where they must preserve user and task state across many turn...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "GSI Agent: Domain Knowledge Enhancement for Large Language Models in Green Stormwater Infrastructure",
-        "link": "https://arxiv.org/abs/2603.15643",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15643v1 Announce Type: new \nAbstract: Green Stormwater Infrastructure (GSI) systems, such as permeable pavement, rain gardens, and bioretention facilities, require continuous inspection ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Did You Check the Right Pocket? Cost-Sensitive Store Routing for Memory-Augmented Agents",
-        "link": "https://arxiv.org/abs/2603.15658",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15658v1 Announce Type: new \nAbstract: Memory-augmented agents maintain multiple specialized stores, yet most systems retrieve from all stores for every query, increasing cost and introdu...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "DynaTrust: Defending Multi-Agent Systems Against Sleeper Agents via Dynamic Trust Graphs",
-        "link": "https://arxiv.org/abs/2603.15661",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15661v1 Announce Type: new \nAbstract: Large Language Model-based Multi-Agent Systems (MAS) have demonstrated remarkable collaborative reasoning capabilities but introduce new attack surf...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "QV May Be Enough: Toward the Essence of Attention in LLMs",
-        "link": "https://arxiv.org/abs/2603.15665",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15665v1 Announce Type: new \nAbstract: Starting from first principles and a linguistic perspective centered on part-of-speech (POS) and syntactic analysis, this paper explores and derives...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Compiled Memory: Not More Information, but More Precise Instructions for Language Agents",
-        "link": "https://arxiv.org/abs/2603.15666",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15666v1 Announce Type: new \nAbstract: Existing memory systems for language agents address memory management: how to retrieve and page more information within a context budget. We address...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "A Dynamic Survey of Fuzzy, Intuitionistic Fuzzy, Neutrosophic, Plithogenic, and Extensional Sets",
-        "link": "https://arxiv.org/abs/2603.15667",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15667v1 Announce Type: new \nAbstract: Real-world phenomena often exhibit vagueness, partial truth, and incomplete information. To model such uncertainty in a mathematically rigorous way,...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Quantum-Secure-By-Construction (QSC): A Paradigm Shift For Post-Quantum Agentic Intelligence",
-        "link": "https://arxiv.org/abs/2603.15668",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15668v1 Announce Type: new \nAbstract: As agentic artificial intelligence systems scale across globally distributed and long lived infrastructures, secure and policy compliant communicati...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "I Know What I Don't Know: Latent Posterior Factor Models for Multi-Evidence Probabilistic Reasoning",
-        "link": "https://arxiv.org/abs/2603.15670",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15670v1 Announce Type: new \nAbstract: Real-world decision-making, from tax compliance assessment to medical diagnosis, requires aggregating multiple noisy and potentially contradictory e...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Theoretical Foundations of Latent Posterior Factors: Formal Guarantees for Multi-Evidence Reasoning",
-        "link": "https://arxiv.org/abs/2603.15674",
-        "date": "Wed, 18 Mar 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2603.15674v1 Announce Type: new \nAbstract: We present a complete theoretical characterization of Latent Posterior Factors (LPF), a principled framework for aggregating multiple heterogeneous ...",
-        "is_important": false,
-        "tags": []
     }
 ]
