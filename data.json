@@ -7303,6 +7303,387 @@
         "is_important": false
     },
     {
+        "title": "4 AI development skills you need, according to Andrew Ng - and what experts say he's missing",
+        "link": "https://www.zdnet.com/article/4-ai-development-skills-you-need-according-to-andrew-ng-and-what-experts-say-hes-missing/",
+        "date": "Wed, 26 Aug 2026 13:03:51 GMT",
+        "source": "ZDNet AI",
+        "description": "The rise of generative and agentic AI has dramatically changed the software-building process - and the skills required.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI Agent Security: Essential Exfiltration Defenses",
+        "link": "https://dev.to/vladimir_lialine_b2e67374/ai-agent-security-essential-exfiltration-defenses-1126",
+        "date": "Wed, 26 Aug 2026 13:00:27 +0000",
+        "source": "Dev.to AI",
+        "description": "Autonomous agents can read files, query databases, call tools, and transmit information beyond the boundaries of conventional applications. That flexibility makes AI agent security a control-plane ...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Heterogeneous AI Super Cluster(HASC)",
+        "link": "https://dev.to/debarshis/heterogeneous-ai-super-clusterhasc-20lm",
+        "date": "Wed, 26 Aug 2026 13:00:27 +0000",
+        "source": "Dev.to AI",
+        "description": "It's been 1 years working this research project Heterogeneous AI Super Cluster(HASC). A experimental computing platform can perform Quantum Simulations around 32-35 Qubits with ~15TFLOPS compute Po...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Tavily vs Exa vs Brave Search: I Ran 100 Agentic-RAG Queries Through All Three",
+        "link": "https://dev.to/kenimo49/tavily-vs-exa-vs-brave-search-i-ran-100-agentic-rag-queries-through-all-three-m5m",
+        "date": "Wed, 26 Aug 2026 13:00:01 +0000",
+        "source": "Dev.to AI",
+        "description": "Every agentic RAG tutorial ends the same way. Pick a search API, wire it into your LangGraph node, ship it. But which API? The docs all claim the same three virtues (accurate, fast, AI-native), and...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "We Analyzed 1 Million AI Voice Calls in India. Here’s What Actually Makes Them Work",
+        "link": "https://dev.to/tanya_qoulomb14/we-analyzed-1-million-ai-voice-calls-in-india-heres-what-actually-makes-them-work-4m3o",
+        "date": "Wed, 26 Aug 2026 13:00:00 +0000",
+        "source": "Dev.to AI",
+        "description": "Most discussions about AI voice agents eventually come down to one question:\n\n“Does it sound human?”\n\nIt’s an important question.\n\nBut after analyzing more than one million AI-assisted business cal...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How Retail Businesses Use AI Recommendation Systems To Deliver Personalized Content Experiences",
+        "link": "https://dev.to/hiteshiinfotechpvtltd/how-retail-businesses-use-ai-recommendation-systems-to-deliver-personalized-content-experiences-49j7",
+        "date": "Wed, 26 Aug 2026 12:59:50 +0000",
+        "source": "Dev.to AI",
+        "description": "Introduction\n\n\nIn today’s competitive retail landscape, delivering personalized shopping experiences is no longer optional. Customers expect relevant product suggestions, curated content, and seaml...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI Business Solutions for Smarter Operations and Growth",
+        "link": "https://dev.to/jamesmorgan/ai-business-solutions-for-smarter-operations-and-growth-29d4",
+        "date": "Wed, 26 Aug 2026 12:59:33 +0000",
+        "source": "Dev.to AI",
+        "description": "Businesses are using artificial intelligence to improve daily operations, automate repetitive work, and support better decision-making. AI business solutions can help companies process information,...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "From Data to Insights: Implementing Industrial IoT, AI and Advanced Analytics in Pharmaceutical Manufacturing",
+        "link": "https://dev.to/nayantara_ps_009/from-data-to-insights-implementing-industrial-iot-ai-and-advanced-analytics-in-pharmaceutical-1gh8",
+        "date": "Wed, 26 Aug 2026 12:58:51 +0000",
+        "source": "Dev.to AI",
+        "description": "Pharmaceutical manufacturing generates ever-growing volumes of data. This can include various sensors, equipment, quality systems, production processes.\n\nThe task is to turn this information into a...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Revenue Strategies for AI API Services",
+        "link": "https://dev.to/rogt7/revenue-strategies-for-ai-api-services-35ph",
+        "date": "Wed, 26 Aug 2026 12:57:51 +0000",
+        "source": "Dev.to AI",
+        "description": "Strategy: The \"Legacy Telematics Retrofit\" Partner Program\n\n\n  \n  \n  1. The Revenue Model\n\n\nTarget: The massive installed base of vehicles, industrial fleets, and legacy IoT devices that are alread...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Free Resume Builder – Create a Professional Resume Online",
+        "link": "https://dev.to/gnlassi/free-resume-builder-create-a-professional-resume-online-51a4",
+        "date": "Wed, 26 Aug 2026 12:56:31 +0000",
+        "source": "Dev.to AI",
+        "description": "Need a professional resume for your next job? 💼\nCreate a professional resume online for free with our easy-to-use Resume Builder.\n✅ Create your resume quickly\n✅ Add education &amp; work experience\n...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Arga is building a better way to train enterprise AI agents",
+        "link": "https://techcrunch.com/2026/08/26/arga-is-building-a-better-way-to-train-enterprise-ai-agents/",
+        "date": "Wed, 26 Aug 2026 12:55:28 +0000",
+        "source": "TechCrunch AI",
+        "description": "Arga has raised $10 million in a seed funding round that was led by General Catalyst, with participation from Box Group, Emergence, Gradient and SV Angel.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "MEV Detection with AI: A Practical Guide",
+        "link": "https://dev.to/rogt7/mev-detection-with-ai-a-practical-guide-4mi7",
+        "date": "Wed, 26 Aug 2026 12:55:05 +0000",
+        "source": "Dev.to AI",
+        "description": "Maximal Extractable Value (MEV) has become a critical vector for both profit and risk in decentralized finance. While traditional heuristics can flag obvious sandwich attacks, sophisticated bots no...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI Visual Tool Guide 2026: How to Find the Right Tool for Your Needs",
+        "link": "https://dev.to/genimager/ai-visual-tool-guide-2026-how-to-find-the-right-tool-for-your-needs-38hn",
+        "date": "Wed, 26 Aug 2026 12:53:17 +0000",
+        "source": "Dev.to AI",
+        "description": "Creating high-quality visual content has become an important part of digital marketing in 2026. Businesses, marketers, creators, ecommerce teams, bloggers, and social media managers all need fresh ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "What 79 Production Probes Taught Us About OpenAI-Compatible APIs",
+        "link": "https://dev.to/stelkey/what-79-production-probes-taught-us-about-openai-compatible-apis-30d7",
+        "date": "Wed, 26 Aug 2026 12:51:06 +0000",
+        "source": "Dev.to AI",
+        "description": "Disclosure: AI assistance was used to organize and edit this article. I manually\nchecked the technical claims against the underlying test evidence and take\nresponsibility for the final text.\n\n\nAn e...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Gold, Flights, Cryptocurrency: U.S. Vows to Go After More Than Iran’s Oil",
+        "link": "https://www.nytimes.com/2026/08/25/world/middleeast/iran-us-sanctions-oil-gold.html",
+        "date": "Wed, 26 Aug 2026 12:46:05 +0000",
+        "source": "NYT Tech",
+        "description": "The United States threatened sanctions for any country or entity that engages with Iran’s gold, digital assets, aviation, shipping and tech industries. Here’s why that matters.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Mastering the AI Project Cycle: From Concept to Production",
+        "link": "https://www.analyticsvidhya.com/blog/2026/08/ai-project-cycle-guide/",
+        "date": "Wed, 26 Aug 2026 12:39:52 +0000",
+        "source": "Analytics Vidhya",
+        "description": "In fact, AI projects are not built by simply choosing a model and feeding it data. Furthermore, a successful AI system goes through multiple stages, starting with identifying the right problem and ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Why Human Judgment in Trucking Needs to Move Up the AI Stack",
+        "link": "https://www.unite.ai/ai-in-trucking-decision-architecture-human-judgment/",
+        "date": "Wed, 26 Aug 2026 12:37:13 +0000",
+        "source": "Unite.ai",
+        "description": "For the better part of the past decade, trucking’s biggest pressure points revolved around speed and access. Real-time visibility, rate data, freight information, routes, and shipment timeframes, a...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Vanguard to Acquire AI Custody Platform Altruist",
+        "link": "https://www.unite.ai/vanguard-to-acquire-ai-custody-platform-altruist/",
+        "date": "Wed, 26 Aug 2026 12:16:02 +0000",
+        "source": "Unite.ai",
+        "description": "Vanguard has agreed to acquire Altruist, an AI-forward wealth technology and custody platform for independent financial advisors, the two companies announced on August 26, 2026. The definitive agre...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "This simple antivirus tool is the easiest way to scan your Linux PC for threats - for free",
+        "link": "https://www.zdnet.com/article/clamav-gui-antivirus-tool-is-the-free-easy-way-to-scan-linux-pc-for-threats/",
+        "date": "Wed, 26 Aug 2026 12:07:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Worried about Linux vulnerabilities or sharing files with Windows users? This ClamAV GUI makes it easy to ensure they're clean.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Glean unveils Tau desktop workspace, claims token-cost edge over Claude",
+        "link": "https://siliconangle.com/2026/08/26/glean-unveils-tau-desktop-workspace-claims-token-cost-edge-over-claude/",
+        "date": "Wed, 26 Aug 2026 12:00:58 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Glean Technologies Inc. today unveiled Glean Tau, a desktop workspace that connects the company&#8217;s enterprise artificial intelligence to a user&#8217;s local files, applications and code. The ...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "10 Rules for Getting Better Results from AI Coding Agents",
+        "link": "https://www.kdnuggets.com/10-rules-for-getting-better-results-from-ai-coding-agents",
+        "date": "Wed, 26 Aug 2026 12:00:50 +0000",
+        "source": "KDnuggets",
+        "description": "Everyone's using AI coding agents. Here's how to make yours actually useful.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Learn Vectorized Thinking in Python Through Examples",
+        "link": "https://machinelearningmastery.com/learn-vectorized-thinking-in-python-through-examples/",
+        "date": "Wed, 26 Aug 2026 12:00:16 +0000",
+        "source": "Machine Learning Mastery",
+        "description": "In this article, you will learn how to think in terms of vectorized operations using NumPy, replacing slow Python loops with efficient array-level computations. Topics...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
+        "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
+        "date": "Wed, 26 Aug 2026 12:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "The glasses, called Legato Frames, integrate the company’s patented hearing-assistance technology into the arms of eyewear frames.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "I built my own secure network in the cloud to access my home PCs remotely - for free",
+        "link": "https://www.zdnet.com/article/secure-tailscale-network-for-free/",
+        "date": "Wed, 26 Aug 2026 11:55:34 GMT",
+        "source": "ZDNet AI",
+        "description": "Do you need easy, secure remote access to your home or small business network? Before you pay big bucks for a VPN or remote-access plan, try Tailscale. Did I mention it's free?",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Can You Defend What Your AI Just Did?",
+        "link": "https://www.unite.ai/enterprise-ai-accountability-regulatory-deadlines-governance/",
+        "date": "Wed, 26 Aug 2026 11:48:36 +0000",
+        "source": "Unite.ai",
+        "description": "Regulatory Deadlines for AI Keep Slipping, but the Need for AI Accountability Remains For two years, the regulatory conversation around enterprise AI has been organized around deadlines. The EU AI ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Agent Washing: Why Some Restaurant Operators Are Wary of Overhyped AI",
+        "link": "https://www.unite.ai/ai-in-restaurants-agent-washing-and-practical-automation/",
+        "date": "Wed, 26 Aug 2026 11:32:31 +0000",
+        "source": "Unite.ai",
+        "description": "For those in the restaurant industry, it seems like AI rollouts have hit a rocky road. In the Spring, Starbucks switched off a computer-vision system for counting inventory before it was a year old...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
+    },
+    {
+        "title": "Bill Gates Is Warning That A.I. Is More Dangerous Than Big Tech Will Admit",
+        "link": "https://www.nytimes.com/2026/08/26/technology/bill-gates-ai-risks.html",
+        "date": "Wed, 26 Aug 2026 11:06:51 +0000",
+        "source": "NYT Tech",
+        "description": "In an hourlong interview, he said his industry was downplaying the risks, which he believes include mass unemployment and bioterrorism.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The best reading tablets of 2026: Expert tested",
+        "link": "https://www.zdnet.com/article/best-reading-tablet/",
+        "date": "Wed, 26 Aug 2026 11:00:46 GMT",
+        "source": "ZDNet AI",
+        "description": "We rounded up the best reading tablets of the year that you can take with you anywhere.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Fake US thinktank set up and funded by Israel sought to game AI for propaganda",
+        "link": "https://www.theguardian.com/world/2026/aug/26/fake-thinktank-israel-ai-propaganda",
+        "date": "Wed, 26 Aug 2026 11:00:11 GMT",
+        "source": "The Guardian AI",
+        "description": "In effort to prime chatbots to make pro-Israel arguments the site published 124 reports, over 560,000 words in nine days, Guardian analysis shows A pro-Israel messaging website badged with the name...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Claude Plays DOOM",
+        "link": "https://hackaday.com/2026/08/26/claude-plays-doom/",
+        "date": "Wed, 26 Aug 2026 11:00:09 +0000",
+        "source": "Hackaday AI",
+        "description": "Large language models (LLMs) are generally thought of as machines that accept textual prompts and spit out textual content. However, if you&#8217;re creative in the way you interface with them, &#8...",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Insilico Medicine Posts First Profit, $106.3M Revenue in First Half of 2026",
+        "link": "https://www.unite.ai/insilico-medicine-posts-first-profit-106-3m-revenue-in-first-half-of-2026/",
+        "date": "Wed, 26 Aug 2026 11:00:02 +0000",
+        "source": "Unite.ai",
+        "description": "The clinical-stage generative AI drug discovery company recorded a net profit of $35.54 million and an adjusted net profit of $51.23 million, with positive operating cash flow, in its first interim...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Runable hits $21M to bet AI agents can go from building businesses to growing them",
+        "link": "https://techcrunch.com/2026/08/26/runable-hits-21m-to-bet-ai-agents-can-go-from-building-businesses-to-growing-them/",
+        "date": "Wed, 26 Aug 2026 11:00:00 +0000",
+        "source": "TechCrunch AI",
+        "description": "Runable says 60%–70% of its 1 trillion-plus token usage in the last 90 days came from paying customers.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI Slop Is Ruining Cute Animals on the Internet",
+        "link": "https://www.wired.com/story/ai-slop-is-ruining-the-internets-cute-animal-economy/",
+        "date": "Wed, 26 Aug 2026 11:00:00 +0000",
+        "source": "Wired AI",
+        "description": "Pet owners, rescue agencies, and wildlife groups are calling for new safeguards as AI makes it harder to tell whether animals, from polar bears to house cats, are real or fake.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Bill Gates calls for ‘human-reserved’ jobs in face of AI takeover",
+        "link": "https://www.theguardian.com/technology/2026/aug/26/bill-gates-human-reserved-jobs-ai-takeover",
+        "date": "Wed, 26 Aug 2026 10:33:43 GMT",
+        "source": "The Guardian AI",
+        "description": "In 6,000-word essay Microsoft co-founder also expresses concern governments not prepared for technology’s impact Business live – latest updatesBill Gates has called for “human-reserved” jobs in cer...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Spineart’s PERLA TL App Gains FDA Clearance for Robotic Spine Surgery",
+        "link": "https://www.unite.ai/spinearts-perla-tl-app-gains-fda-clearance-for-robotic-spine-surgery/",
+        "date": "Wed, 26 Aug 2026 10:16:01 +0000",
+        "source": "Unite.ai",
+        "description": "Spineart and eCential Robotics received FDA 510(k) clearance on August 26, 2026 for Spineart&#039;s PERLA TL application to run on eCential&#039;s Op.n navigation and robotic-assisted platform, ext...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Have an old PC monitor laying around? Turning it into a TV is easier than you think",
+        "link": "https://www.zdnet.com/article/how-to-turn-your-monitor-into-a-tv/",
+        "date": "Wed, 26 Aug 2026 09:30:00 GMT",
+        "source": "ZDNet AI",
+        "description": "Give your old monitor a second chance at life as a dedicated streaming screen or over-the-air TV with just a few simple steps.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Raised on AI",
+        "link": "https://www.technologyreview.com/2026/08/26/1141949/editors-letter-september-2026/",
+        "date": "Wed, 26 Aug 2026 09:00:00 +0000",
+        "source": "MIT Technology Review",
+        "description": "When my oldest child was born, I immediately set up Gmail and Twitter accounts in her name. I broadly announced her birth online and proceeded to plaster her photo across all sorts of platforms. In...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI models flub these intelligence tests. Can you fare any better?",
+        "link": "https://www.technologyreview.com/2026/08/26/1141952/puzzles-ai-models-flub-these-tests/",
+        "date": "Wed, 26 Aug 2026 09:00:00 +0000",
+        "source": "MIT Technology Review",
+        "description": "Puzzles and games have been central to AI development since the very beginning. Just as we humans like to test our smarts with crosswords or logic puzzles, developers can test how far models have a...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "London rollout of robotaxis delayed amid lack of guidance for firms to follow",
+        "link": "https://www.theguardian.com/technology/2026/aug/26/london-rollout-robotaxis-delayed-uber-wayve",
+        "date": "Wed, 26 Aug 2026 08:48:43 GMT",
+        "source": "The Guardian AI",
+        "description": "Uber and Wayve had said they would start trips ‘later this summer’ but launch now looks unlikely this yearBusiness live – latest updatesThe rollout of robotaxis on the streets of London is unlikely...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
+        "title": "Albanese backs down on states powering AI datacentres using renewable energy",
+        "link": "https://www.theguardian.com/australia-news/2026/aug/26/albanese-backs-down-on-states-powering-ai-datacentres-using-sustainable-energy",
+        "date": "Wed, 26 Aug 2026 08:36:50 GMT",
+        "source": "The Guardian AI",
+        "description": "Shift comes after Chris Bowen said Labor would use constitutional powers to override states resisting rules on sustainable energyGet our breaking news email, free app or daily news podcastAnthony A...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Bill Gates says we’ve passed AI’s danger thresholds. Now what?",
+        "link": "https://www.technologyreview.com/2026/08/26/1142946/bill-gates-ai-danger-threshold/",
+        "date": "Wed, 26 Aug 2026 07:01:00 +0000",
+        "source": "MIT Technology Review",
+        "description": "It’s a glorious day in Kirkland, Washington, an affluent Seattle suburb on the eastern shore of Lake Washington. The temperature is in the mid-80s, and the sky is incapable of being any more blue. ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Cómo Crear una Base de Conocimiento con IA para tu Equipo (2026) — AutomatizayEscala",
         "link": "https://dev.to/genzetadigital/como-crear-una-base-de-conocimiento-con-ia-para-tu-equipo-2026-automatizayescala-ioc",
         "date": "Wed, 26 Aug 2026 07:00:35 +0000",
@@ -7437,6 +7818,15 @@
         "date": "Wed, 26 Aug 2026 05:00:35 GMT",
         "source": "The Guardian AI",
         "description": "The vast majority of the global public wants international cooperation on human rights, climate and AI. Like-minded countries must stand together to deliverBritain’s new prime minister, Andy Burnha...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "AI helps design new materials that work in the real world",
+        "link": "https://news.mit.edu/2026/ai-helps-design-new-materials-that-work-in-real-world-0826",
+        "date": "Wed, 26 Aug 2026 05:00:00 -0400",
+        "source": "MIT News AI",
+        "description": "The “CrysVCD” tool developed at MIT could cut the huge amounts of time and money spent on screening out chemically unstable designs.",
         "is_important": false,
         "tags": []
     },
@@ -7640,6 +8030,15 @@
         "date": "Wed, 26 Aug 2026 00:06:20 +0000",
         "source": "TechCrunch AI",
         "description": "Before Malone left, OpenAI had already reshuffled its infrastructure org, shifting his reporting line away from President Greg Brockman and putting Vice President Sachin Katti in charge of the group.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "How loveholidays is making everyone a builder with Codex",
+        "link": "https://openai.com/index/loveholidays",
+        "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+        "source": "OpenAI",
+        "description": "Discover how loveholidays uses OpenAI Codex to make software development accessible across the business, helping teams turn ideas into products faster.",
         "is_important": false,
         "tags": []
     },
@@ -23836,428 +24235,6 @@
         "tags": [
             "🤖 Robótica",
             "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Reconfiguration-Complete Motion Primitives with Constructive Planning for Deformable Planar Modular Robots",
-        "link": "https://arxiv.org/abs/2608.17324",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2608.17324v1 Announce Type: new \nAbstract: The continuously deformable geometry of modular robots makes it difficult to define a fixed representation for reconfiguration planning and analysis...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "MANIGUARD: A Benchmark and Data Suite for Specification-Grounded Safety Evaluation and Improvement of Robotic Manipulation",
-        "link": "https://arxiv.org/abs/2608.17386",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2608.17386v1 Announce Type: new \nAbstract: Foundation-model policies for robotic manipulation are advancing rapidly on task success, but rigorous evaluation of whether they succeed safely is ...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Bi-Layer Ant Colony Optimization for Multi-Robot Task Allocation and Routing in Delivery Applications",
-        "link": "https://arxiv.org/abs/2608.17416",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2608.17416v1 Announce Type: new \nAbstract: This paper addresses the multi-robot task allocation (MRTA) problem, which is essential for delivery and logistics applications. Our approach first ...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Prism-GRPO: Faster VLA Policy Optimization via Splitting Same-outcome Groups",
-        "link": "https://arxiv.org/abs/2608.17423",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2608.17423v1 Announce Type: new \nAbstract: GRPO is increasingly used for reinforcement learning of vision-language-action (VLA) policies because, unlike PPO, it does not require training a cr...",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "UniReflex: Plug-and-Play Force Control for Pretrained Generative Policies via Fast-Slow Reflex",
-        "link": "https://arxiv.org/abs/2608.17432",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2608.17432v1 Announce Type: new \nAbstract: Generative imitation learning policies excel at trajectory planning but lack closed-loop force regulation, while directly incorporating force modali...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "EATR-Stereo: Embodiment-Aware Routing of Paired Stereo Evidence for Humanoid Vision-Language-Action Control",
-        "link": "https://arxiv.org/abs/2608.17453",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2608.17453v1 Announce Type: new \nAbstract: Long-horizon humanoid vision--language--action (VLA) control with head-mounted stereo cameras requires visual interfaces that can exploit complement...",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Reuse Before You Retrieve: Diagnosing Headroom and Complementarity for Test-Time Augmentation of Embodied Multimodal Policies",
-        "link": "https://arxiv.org/abs/2608.17484",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.RO)",
-        "description": "arXiv:2608.17484v1 Announce Type: new \nAbstract: Frozen vision-language-action (VLA) policies are increasingly improved at test time by sampling additional policy behaviors or introducing external ...",
-        "is_important": false,
-        "tags": [
-            "👁️ Visión por Computador",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Can AI automate computational reproducibility?",
-        "link": "https://www.normaltech.ai/p/can-ai-automate-computational-reproducibility",
-        "date": "Wed, 18 Sep 2024 14:32:47 GMT",
-        "source": "AI Snake Oil",
-        "description": "A new benchmark to measure the impact of AI on improving science",
-        "is_important": false
-    },
-    {
-        "title": "Fine-tuning LLMs to 1.58bit: extreme quantization made easy",
-        "link": "https://huggingface.co/blog/1_58_llm_extreme_quantization",
-        "date": "Wed, 18 Sep 2024 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Building a board game with the TFLite plugin for Flutter",
-        "link": "https://blog.tensorflow.org/2023/10/building-board-game-with-tflite-plugin-for-flutter.html",
-        "date": "Wed, 18 Oct 2023 17:00:00 +0000",
-        "source": "TensorFlow Blog",
-        "description": "Posted by Wei Wei, Developer Advocate\n\n\n\n\n\nIn our previous blog posts Building a board game app with TensorFlow: a new TensorFlow Lite reference app and Building a reinforcement learning agent with...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Sim-to-real transfer of robotic control with dynamics randomization",
-        "link": "https://openai.com/index/sim-to-real-transfer-of-robotic-control-with-dynamics-randomization",
-        "date": "Wed, 18 Oct 2017 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Asymmetric actor critic for image-based robot learning",
-        "link": "https://openai.com/index/asymmetric-actor-critic-for-image-based-robot-learning",
-        "date": "Wed, 18 Oct 2017 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "DALL·E 2 research preview update",
-        "link": "https://openai.com/index/dall-e-2-update",
-        "date": "Wed, 18 May 2022 07:00:00 GMT",
-        "source": "OpenAI",
-        "description": "Early users have created over 3 million images to date and helped us improve our safety processes. We’re excited to begin adding up to 1,000 new users from our waitlist each week.",
-        "is_important": false
-    },
-    {
-        "title": "An Introduction to Q-Learning Part 1",
-        "link": "https://huggingface.co/blog/deep-rl-q-part1",
-        "date": "Wed, 18 May 2022 00:00:00 GMT",
-        "source": "Hugging Face",
-        "description": "",
-        "is_important": false
-    },
-    {
-        "title": "Meta is having trouble with rogue AI agents",
-        "link": "https://techcrunch.com/2026/03/18/meta-is-having-trouble-with-rogue-ai-agents/",
-        "date": "Wed, 18 Mar 2026 23:42:46 +0000",
-        "source": "TechCrunch AI",
-        "description": "A rogue AI agent inadvertently exposed Meta company and user data to engineers who didn't have permission to see it.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Sam Altman’s thank-you to coders draws the memes",
-        "link": "https://techcrunch.com/2026/03/18/sam-altmans-thank-you-to-coders-draws-the-memes/",
-        "date": "Wed, 18 Mar 2026 23:12:58 +0000",
-        "source": "TechCrunch AI",
-        "description": "Altman expresses gratitude for people who knew how to write their code from scratch. The internet replies with salty jokes.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How a Nonprofit Transforms Data with Cloudera and AI",
-        "link": "https://aibusiness.com/data-management/how-a-nonprofit-transforms-data-with-cloudera-and-ai",
-        "date": "Wed, 18 Mar 2026 21:11:24 GMT",
-        "source": "AI Business",
-        "description": "The organization developed data pipelines that extract and structure information from various scientific sources, significantly accelerating the research process.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Tsinghua and Ant Group Researchers Unveil a Five-Layer Lifecycle-Oriented Security Framework to Mitigate Autonomous LLM Agent Vulnerabilities in OpenClaw",
-        "link": "https://www.marktechpost.com/2026/03/18/tsinghua-and-ant-group-researchers-unveil-a-five-layer-lifecycle-oriented-security-framework-to-mitigate-autonomous-llm-agent-vulnerabilities-in-openclaw/",
-        "date": "Wed, 18 Mar 2026 21:04:16 +0000",
-        "source": "MarkTechPost",
-        "description": "Autonomous LLM agents like OpenClaw are shifting the paradigm from passive assistants to proactive entities capable of executing complex, long-horizon tasks through high-privilege system access. Ho...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Can the Samsung Frame Pro replace my TV? My advice after weeks of testing",
-        "link": "https://www.zdnet.com/article/samsung-frame-pro-tv-review/",
-        "date": "Wed, 18 Mar 2026 20:46:00 GMT",
-        "source": "ZDNet AI",
-        "description": "The Frame Pro TV improves on its predecessor by integrating entertainment and home décor. Right now, it's $500 off.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Nothing CEO Carl Pei says smartphone apps will disappear as AI agents take their place",
-        "link": "https://techcrunch.com/2026/03/18/nothing-ceo-carl-pei-says-smartphone-apps-will-disappear-as-ai-agents-take-their-place/",
-        "date": "Wed, 18 Mar 2026 20:30:52 +0000",
-        "source": "TechCrunch AI",
-        "description": "Nothing CEO Carl Pei says AI agents will eventually replace apps, shifting smartphones toward systems that understand intent and act on a user's behalf.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Nvidia is quietly building a multibillion-dollar behemoth to rival its chips business",
-        "link": "https://techcrunch.com/2026/03/18/nvidia-networking-division-building-a-multibillion-dollar-behemoth-to-rival-its-chips-business/",
-        "date": "Wed, 18 Mar 2026 20:01:19 +0000",
-        "source": "TechCrunch AI",
-        "description": "Nvidia's networking business raked in $11 billion last quarter despite getting significantly less fanfare than chips and gaming.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Taming the IoT Firehose: How Utilities Are Scaling Cloud DataOps for Smart Metering",
-        "link": "https://www.smartdatacollective.com/taming-the-iot-firehose-how-utilities-are-scaling-cloud-dataops-for-smart-metering/",
-        "date": "Wed, 18 Mar 2026 19:51:22 +0000",
-        "source": "SmartData Collective",
-        "description": "Scaling smart metering: How cloud DataOps helps utilities turn massive IoT data into actionable intelligence.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "AI software for smart glasses wins £1m prize for technology to help people with dementia",
-        "link": "https://www.theguardian.com/society/2026/mar/18/ai-smart-glasses-1m-prize-technology-dementia",
-        "date": "Wed, 18 Mar 2026 19:30:47 GMT",
-        "source": "The Guardian AI",
-        "description": "Glasses use verbal cues and floating text to assist wearers and are expected to be available in early 2027AI software that can be embedded into smart glasses has won a £1m prize for technology to h...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Best early Amazon Spring Sale Apple deals 2026",
-        "link": "https://www.zdnet.com/article/best-amazon-spring-sale-2026-apple-deals/",
-        "date": "Wed, 18 Mar 2026 19:15:00 GMT",
-        "source": "ZDNet AI",
-        "description": "I've rounded up deals on some of the hottest tech from your favorite tech company.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to Use Multiple AI Models in One Chat Without Paying for Any of Them",
-        "link": "https://dev.to/alichherawalla/how-to-use-multiple-ai-models-in-one-chat-without-paying-for-any-of-them-40mb",
-        "date": "Wed, 18 Mar 2026 19:12:43 +0000",
-        "source": "Dev.to AI",
-        "description": "Most AI apps lock you into one model per conversation. If you want to compare how Llama handles a question versus Qwen, you open two apps or two browser tabs, paste the same prompt, and compare sid...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How to Use AI Tool Calling on Your Phone Without Paying for a Single API",
-        "link": "https://dev.to/alichherawalla/how-to-use-ai-tool-calling-on-your-phone-without-paying-for-a-single-api-15m8",
-        "date": "Wed, 18 Mar 2026 19:12:01 +0000",
-        "source": "Dev.to AI",
-        "description": "Tool calling is what separates a chatbot from an assistant. A chatbot gives you text. An assistant takes action - searches the web, runs a calculation, looks up a date, checks your files. When an A...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to Build a Private Knowledge Base on Your Phone With Local AI (No Cloud, No API Keys)",
-        "link": "https://dev.to/alichherawalla/how-to-build-a-private-knowledge-base-on-your-phone-with-local-ai-no-cloud-no-api-keys-5d2c",
-        "date": "Wed, 18 Mar 2026 19:11:21 +0000",
-        "source": "Dev.to AI",
-        "description": "Most RAG setups require a cloud database, an embedding API, and a hosted LLM. You upload your documents to someone else's server, pay per token to process them, and hope their privacy policy actual...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Reverse-Engineer Any Competitor's Posting Schedule with Node.js",
-        "link": "https://dev.to/olams/reverse-engineer-any-competitors-posting-schedule-with-nodejs-18el",
-        "date": "Wed, 18 Mar 2026 19:11:00 +0000",
-        "source": "Dev.to AI",
-        "description": "Your competitor posts 4 times a week. Their engagement is consistently 3x yours.\n\nIs it the content? Maybe. But what if it's when they post?\n\nTiming matters more than most developers think. The alg...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to Use LM Studio From Your Android Phone in 2026 (Your Desktop AI in Your Pocket)",
-        "link": "https://dev.to/alichherawalla/how-to-use-lm-studio-from-your-android-phone-in-2026-your-desktop-ai-in-your-pocket-31gl",
-        "date": "Wed, 18 Mar 2026 19:10:39 +0000",
-        "source": "Dev.to AI",
-        "description": "LM Studio does not have a mobile app. If you want to use the models running on your desktop from your Android phone, the official answer is: you cannot.\n\nThe unofficial answer used to be: set up a ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Fix the Process, Not the Gates",
-        "link": "https://dev.to/felixortizdev/fix-the-process-not-the-gates-2h6b",
-        "date": "Wed, 18 Mar 2026 19:10:27 +0000",
-        "source": "Dev.to AI",
-        "description": "Recently, Amazon convened a mandatory engineering meeting after a string of outages tied to AI-assisted code changes. One outage took down the shopping experience for six hours. Another cost AWS ho...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Build a Profitable AI Agent with LangChain: A Step-by-Step Tutorial",
-        "link": "https://dev.to/caper_dev/build-a-profitable-ai-agent-with-langchain-a-step-by-step-tutorial-59e0",
-        "date": "Wed, 18 Mar 2026 19:08:14 +0000",
-        "source": "Dev.to AI",
-        "description": "Build a Profitable AI Agent with LangChain: A Step-by-Step Tutorial\n\n\nLangChain is a powerful framework for building AI agents that can interact with the world in a variety of ways. In this tutoria...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The 4 Security Bugs Your AI Copilot Writes Every Single Time",
-        "link": "https://dev.to/busyagents/the-4-security-bugs-your-ai-copilot-writes-every-single-time-35e1",
-        "date": "Wed, 18 Mar 2026 19:07:11 +0000",
-        "source": "Dev.to AI",
-        "description": "TL;DR\n\n\nAI editors produce syntactically clean code that is semantically insecure\nThe same 4 vulnerability patterns show up across almost every AI-generated codebase\nThey're all fixable in minutes,...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to Use LM Studio From Your iPhone in 2026 (No Cloud, No Subscription)",
-        "link": "https://dev.to/alichherawalla/how-to-use-lm-studio-from-your-iphone-in-2026-no-cloud-no-subscription-4i3f",
-        "date": "Wed, 18 Mar 2026 19:06:35 +0000",
-        "source": "Dev.to AI",
-        "description": "LM Studio turned your Mac into an AI workstation. You downloaded models, you chatted with them, you ran a local server. But LM Studio does not have a mobile app. When you walk away from your Mac, y...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to Use Ollama From Your Android Phone in 2026 (Auto-Discovery, Zero Setup)",
-        "link": "https://dev.to/alichherawalla/how-to-use-ollama-from-your-android-phone-in-2026-auto-discovery-zero-setup-35li",
-        "date": "Wed, 18 Mar 2026 19:05:48 +0000",
-        "source": "Dev.to AI",
-        "description": "Every other guide for accessing Ollama from your phone starts the same way: open a terminal, set environment variables, find your IP address, configure your firewall. By the time you are done, you ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "🤖 Robótica"
-        ]
-    },
-    {
-        "title": "Test Blog from AI 🚀",
-        "link": "https://dev.to/pooja_rajput_6bbd98327908/test-blog-from-ai-5bof",
-        "date": "Wed, 18 Mar 2026 19:02:21 +0000",
-        "source": "Dev.to AI",
-        "description": "Hello from my auto blog generator 😎",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Future of Artificial Intelligence in 2026: A Deep Dive",
-        "link": "https://dev.to/living_palace_033483e788f/the-future-of-artificial-intelligence-in-2026-a-deep-dive-3e4m",
-        "date": "Wed, 18 Mar 2026 19:01:46 +0000",
-        "source": "Dev.to AI",
-        "description": "AI 2026: The Singularity is Delayed, Optimization is Key\n\n\nThe hype cycle around Artificial General Intelligence (AGI) continues, but 2026 won't see Skynet. Instead, expect a hyper-focused optimiza...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How to find and update your TV firmware (and why it's critical to do it properly)",
-        "link": "https://www.zdnet.com/article/tv-usb-port-update-reset/",
-        "date": "Wed, 18 Mar 2026 18:58:00 GMT",
-        "source": "ZDNet AI",
-        "description": "Updating your TV's software can improve performance and fix those pesky bugs and glitches - even without internet.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "How I turned my Pixel phone into a genuinely productive desktop computer - for free",
-        "link": "https://www.zdnet.com/article/i-tested-android-desktop-mode-on-my-pixel-phone/",
-        "date": "Wed, 18 Mar 2026 18:48:00 GMT",
-        "source": "ZDNet AI",
-        "description": "I just test drove the new Android desktop mode, and it wowed me. Here's how to try it for yourself.",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Baidu Qianfan Team Releases Qianfan-OCR: A 4B-Parameter Unified Document Intelligence Model",
-        "link": "https://www.marktechpost.com/2026/03/18/baidu-qianfan-team-releases-qianfan-ocr-a-4b-parameter-unified-document-intelligence-model/",
-        "date": "Wed, 18 Mar 2026 18:41:33 +0000",
-        "source": "MarkTechPost",
-        "description": "The Baidu Qianfan Team introduced Qianfan-OCR, a 4B-parameter end-to-end model designed to unify document parsing, layout analysis, and document understanding within a single vision-language archit...",
-        "is_important": true,
-        "tags": [
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Actors, musicians and writers welcome UK U-turn on AI copyright",
-        "link": "https://www.theguardian.com/technology/2026/mar/18/actors-musicians-writers-welcome-uk-u-turn-ai-copyright",
-        "date": "Wed, 18 Mar 2026 18:32:10 GMT",
-        "source": "The Guardian AI",
-        "description": "Technology secretary says government no longer prefers plan to allow tech firms to take copyrighted workActors, musicians and writers have welcomed the UK government’s decision to backtrack on plan...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "Silicon Valley Musters Behind-the-Scenes Support for Anthropic",
-        "link": "https://www.nytimes.com/2026/03/18/technology/silicon-valley-anthropic-pentagon.html",
-        "date": "Wed, 18 Mar 2026 18:06:51 +0000",
-        "source": "NYT Tech",
-        "description": "Tech companies have been reluctant to directly confront Trump administration officials over their contract feud with the A.I. start-up.",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Why Walmart and OpenAI Are Shaking Up Their Agentic Shopping Deal",
-        "link": "https://www.wired.com/story/ai-lab-walmart-openai-shaking-up-agentic-shopping-deal/",
-        "date": "Wed, 18 Mar 2026 18:01:18 +0000",
-        "source": "Wired AI",
-        "description": "After OpenAI’s Instant Checkout feature fell short, Walmart is instead embedding its Sparky chatbot directly into ChatGPT and Google Gemini.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Best early Amazon Spring Sale robot vacuum deals 2026",
-        "link": "https://www.zdnet.com/article/best-early-amazon-spring-sale-2026-robot-vacuum-deals/",
-        "date": "Wed, 18 Mar 2026 18:00:41 GMT",
-        "source": "ZDNet AI",
-        "description": "A reliable robot vacuum is a great way to outsource cleaning your home's biggest messes. Shop the best deals ahead of Amazon's Big Spring Sale.",
-        "is_important": false,
-        "tags": [
-            "🤖 Robótica"
         ]
     }
 ]
