@@ -7569,6 +7569,15 @@
         "tags": []
     },
     {
+        "title": "NASA just used satellites and debris to navigate without GPS",
+        "link": "https://www.sciencedaily.com/releases/2026/08/260826055450.htm",
+        "date": "Wed, 26 Aug 2026 19:27:35 EDT",
+        "source": "ScienceDaily AI",
+        "description": "NASA has successfully tested a system that allows satellites to navigate without GPS by using other spacecraft and debris as landmarks in orbit. In just three days, FALCON also improved the known o...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Greenberg Traurig Rolls Out Agentic CoCounsel Legal Across Global Offices",
         "link": "https://www.unite.ai/greenberg-traurig-rolls-out-agentic-cocounsel-legal-across-global-offices/",
         "date": "Wed, 26 Aug 2026 19:24:02 +0000",
@@ -24174,16 +24183,5 @@
         "description": "AI coding agents are becoming very good at working with real codebases.\n\nThey can inspect a repository, trace bugs across multiple files, suggest architectural changes, write tests, and increasingl...",
         "is_important": false,
         "tags": []
-    },
-    {
-        "title": "Building LLM Models from Scratch",
-        "link": "https://dev.to/shashank_ms_6a35baa4be138/building-llm-models-from-scratch-4l9c",
-        "date": "Wed, 19 Aug 2026 01:32:22 +0000",
-        "source": "Dev.to AI",
-        "description": "Building a specialized LLM agent from scratch means owning the system prompt, tool bindings, and execution loop. In this tutorial, we will construct a financial research agent that fetches mock mar...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
     }
 ]
