@@ -7303,6 +7303,140 @@
         "is_important": false
     },
     {
+        "title": "Amazon just tripled its order of Nvidia chips over ‘surging demand’",
+        "link": "https://techcrunch.com/2026/08/26/amazon-just-tripled-its-order-of-nvidia-chips-over-surging-demand/",
+        "date": "Wed, 26 Aug 2026 23:47:18 +0000",
+        "source": "TechCrunch AI",
+        "description": "Amazon is adding another 2 million Nvidia GPU chips to its data centers over the next two years. But this extended partnerships stretches beyond buying more chips.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "London neurosurgeons perform first successful AI-assisted operation to remove brain tumour",
+        "link": "https://www.theguardian.com/technology/2026/aug/27/london-neurosurgeons-ai-assisted-operation-brain-tumour",
+        "date": "Wed, 26 Aug 2026 23:01:25 GMT",
+        "source": "The Guardian AI",
+        "description": "Surgeons aided by real-time analysis of camera footage that identified critical anatomy in brain to be avoidedNeurosurgeons in London have performed the world’s first successful AI-assisted operati...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Deep Cogito raises $43M to develop self-improving AI models",
+        "link": "https://siliconangle.com/2026/08/26/deep-cogito-raises-43m-to-develop-self-improving-ai-models/",
+        "date": "Wed, 26 Aug 2026 22:34:28 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Artificial intelligence startup Deep Cogito Inc. today announced that it has raised $43 million in funding. TQ Ventures led the Series A round. It was joined by Benchmark, Nexus Venture Partners, A...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "What to expect during VMware Explore: Join theCUBE Aug. 31-Sept. 2",
+        "link": "https://siliconangle.com/2026/08/26/private-cloud-vmware-explore-thecube-vmwareexplore/",
+        "date": "Wed, 26 Aug 2026 22:18:36 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Since completing its acquisition of VMware in 2023, Broadcom Inc. has reshaped the company around VMware Cloud Foundation or VCF. Over the past three years, Broadcom has positioned VCF as a major o...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Unexpected chat between OpenAI agents led to Hugging Face hack",
+        "link": "https://www.bbc.co.uk/news/articles/cj9xj89dk40o?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 26 Aug 2026 22:03:45 GMT",
+        "source": "BBC Tech",
+        "description": "OpenAI's cyber agents banded together to perform a hack during a security test.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Nvidia revenue doubles on continued AI demand",
+        "link": "https://www.bbc.co.uk/news/articles/ce871n7lyvlo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 26 Aug 2026 21:49:26 GMT",
+        "source": "BBC Tech",
+        "description": "Chipmaker's $96bn quarter beat forecasts as demand for AI hardware continues to accelerate.",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Anthropic continues compute-gobbling streak in $45B deal with Nscale",
+        "link": "https://techcrunch.com/2026/08/26/anthropic-continues-compute-gobbling-streak-in-45-billion-deal-with-nscale/",
+        "date": "Wed, 26 Aug 2026 21:37:39 +0000",
+        "source": "TechCrunch AI",
+        "description": "The new deal with the infrastructure provider is the latest example of Anthropic's white-hot compute-gobbling streak.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Z.ai Releases GLM-5.3-Flash: A 320B-A18B Natively Multimodal MoE With a 1M-Token Context",
+        "link": "https://www.marktechpost.com/2026/08/26/z-ai-releases-glm-5-3-flash-a-320b-a18b-natively-multimodal-moe-with-a-1m-token-context/",
+        "date": "Wed, 26 Aug 2026 21:33:23 +0000",
+        "source": "MarkTechPost",
+        "description": "Z.ai has released GLM-5.3-Flash, the first natively multimodal model in the GLM-5 series — a 320B-total / 18B-active MoE with a 1,048,576-token context window, MIT-licensed weights on Hugging Face,...",
+        "is_important": true,
+        "tags": []
+    },
+    {
+        "title": "AI agents meant to replace Meta workers made “large-scale, disruptive actions”",
+        "link": "https://arstechnica.com/ai/2026/08/metas-scrapped-plans-to-go-ai-native-included-slashing-teams-by-60-percent/",
+        "date": "Wed, 26 Aug 2026 21:25:27 +0000",
+        "source": "Ars Technica AI",
+        "description": "Report shows Meta's challenges replacing people with AI agents.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "NVIDIA NVLink Fusion Expands With NVHBM Custom High-Bandwidth Memory",
+        "link": "https://blogs.nvidia.com/blog/nvlink-fusion-nvhbm-custom-high-bandwidth-memory/",
+        "date": "Wed, 26 Aug 2026 21:05:30 +0000",
+        "source": "NVIDIA Blog",
+        "description": "The next wave of AI is placing new demands on infrastructure.  As AI agents and trillion-parameter workloads become mainstream, the performance of AI infrastructure depends not only on compute, but...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "PyTorch Ecosystem Landscape Welcomes Perforated, AReaL, TorchJD, RLinf, Miles, SMG, FiftyOne, TokenSpeed, VisualTorch, and TorchSurv",
+        "link": "https://pytorch.org/blog/pytorch-ecosystem-landscape-q3-update/",
+        "date": "Wed, 26 Aug 2026 20:53:37 +0000",
+        "source": "PyTorch Blog",
+        "description": "The PyTorch Ecosystem Working Group is happy to welcome 10 new projects to the PyTorch Ecosystem Landscape including Perforated, AReaL, TorchJD, RLinf, Miles, SMG, FiftyOne, TokenSpeed, VisualTorch...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "NVIDIA Posts $96.2B Quarter as Data Center Revenue Hits $89B",
+        "link": "https://www.unite.ai/nvidia-posts-96-2b-quarter-as-data-center-revenue-hits-89b/",
+        "date": "Wed, 26 Aug 2026 20:45:01 +0000",
+        "source": "Unite.ai",
+        "description": "NVIDIA reported revenue of $96.2 billion for the second quarter of fiscal 2027, ended July 26, 2026, up 18% from the previous quarter and up 106% from a year earlier, according to the company&#039;...",
+        "is_important": false,
+        "tags": [
+            "⚙️ Hardware de IA"
+        ]
+    },
+    {
+        "title": "Qwen 3.8 Flash-Next is Cheap, But There Are Complicating Factors",
+        "link": "https://aibusiness.com/generative-ai/qwen-3-8-flash-next-cheap-there-are-complicating-factors",
+        "date": "Wed, 26 Aug 2026 20:18:16 GMT",
+        "source": "AI Business",
+        "description": "While Alibaba has kept inference and token price low, enterprises need to consider other metrics to determine if this is the right model for them.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Deep Cogito Raises $43M Series A to Build the Post-Training Engine for Self-Improving AI",
+        "link": "https://www.unite.ai/deep-cogito-raises-43m-series-a-to-build-the-post-training-engine-for-self-improving-ai/",
+        "date": "Wed, 26 Aug 2026 20:08:49 +0000",
+        "source": "Unite.ai",
+        "description": "Deep Cogito has raised a $43 million Series A as the San Francisco AI lab looks to scale an increasingly important part of the artificial intelligence stack: what happens after a foundation model h...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Navigating the 11K+ Strong MCP Server Catalog: A Unified Map of the AI Tooling Frontier",
         "link": "https://dev.to/hypernexus/navigating-the-11k-strong-mcp-server-catalog-a-unified-map-of-the-ai-tooling-frontier-4m22",
         "date": "Wed, 26 Aug 2026 19:53:40 +0000",
@@ -7694,6 +7828,15 @@
         "tags": []
     },
     {
+        "title": "Top WSJ Editor Approves AI-Assisted Writing, Says AI is a “Fact of Modern Life” in Major Inflection Point for Media Industry",
+        "link": "https://futurism.com/artificial-intelligence/wsj-ai-writing-fact-of-life",
+        "date": "Wed, 26 Aug 2026 16:07:30 -0400",
+        "source": "Futurism AI",
+        "description": "The WSJ is giving opinion writers a thumbs-up on AI use.\nThe post Top WSJ Editor Approves AI-Assisted Writing, Says AI is a &#8220;Fact of Modern Life&#8221; in Major Inflection Point for Media Ind...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Google Pixel 11 review: Why the base model is still my favorite, even this year",
         "link": "https://www.zdnet.com/article/google-pixel-11-review/",
         "date": "Wed, 26 Aug 2026 15:55:00 GMT",
@@ -7759,6 +7902,15 @@
         "tags": []
     },
     {
+        "title": "Alibaba’s Qwen Team Releases Qwen3.8-Flash-Next: A 125B Multimodal MoE With 6B Active Parameters Previewing the Qwen4 Architecture",
+        "link": "https://www.marktechpost.com/2026/08/26/alibabas-qwen-team-releases-qwen3-8-flash-next-a-125b-multimodal-moe-with-6b-active-parameters-previewing-the-qwen4-architecture/",
+        "date": "Wed, 26 Aug 2026 15:20:00 +0000",
+        "source": "MarkTechPost",
+        "description": "We look at Qwen3.8-Flash-Next, Alibaba's open-weight multimodal Mixture-of-Experts model and an early preview of the Qwen4 architecture. We break down where the 180B parameters actually sit: a 125B...",
+        "is_important": true,
+        "tags": []
+    },
+    {
         "title": "🔬“We have foundation models for language, not for physics” — Anima Anandkumar, Bren Professor of Computing",
         "link": "https://www.latent.space/p/anima",
         "date": "Wed, 26 Aug 2026 15:15:39 GMT",
@@ -7804,6 +7956,15 @@
         "tags": [
             "🤖 Robótica"
         ]
+    },
+    {
+        "title": "What Would Have to Be True for Agentic Coding to Replace Junior Engineers",
+        "link": "https://www.marktechpost.com/2026/08/26/what-would-have-to-be-true-for-agentic-coding-to-replace-junior-engineers/",
+        "date": "Wed, 26 Aug 2026 14:20:35 +0000",
+        "source": "MarkTechPost",
+        "description": "Four falsifiable conditions for agentic coding replacing juniors, tested against METR, OpenAI, DORA and Stanford primary source evidence\nThe post What Would Have to Be True for Agentic Coding to Re...",
+        "is_important": false,
+        "tags": []
     },
     {
         "title": "Surprise: Z.ai is the AI lab behind the mysterious Ox Alpha model",
@@ -8116,6 +8277,15 @@
         "tags": []
     },
     {
+        "title": "Hope and concern swirl for Ohioans around ‘world’s largest datacenter’",
+        "link": "https://www.theguardian.com/us-news/2026/aug/26/ohio-datacenter-reaction",
+        "date": "Wed, 26 Aug 2026 12:00:12 GMT",
+        "source": "The Guardian AI",
+        "description": "Piketon datacenter promises to generate thousands of jobs, but environmental groups voice concern over projectOn a winding road tucked away behind forests in the Appalachian foothills of southern O...",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Hearing tech startup Legato emerges from stealth with $12M and a peek at its AI hearing glasses",
         "link": "https://techcrunch.com/2026/08/26/hearing-tech-startup-legato-emerges-from-stealth-with-12m-and-a-peek-at-its-ai-hearing-glasses/",
         "date": "Wed, 26 Aug 2026 12:00:00 +0000",
@@ -8261,6 +8431,17 @@
         ]
     },
     {
+        "title": "Gatik raises $200M to scale AI-powered autonomous freight",
+        "link": "https://www.artificialintelligence-news.com/news/gatik-200m-ai-autonomous-freight/",
+        "date": "Wed, 26 Aug 2026 10:00:00 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "Autonomous trucking company Gatik has raised $200 million in Series D funding to expand its driverless freight operations across North America. The round was led by Qatar Investment Authority and K...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica"
+        ]
+    },
+    {
         "title": "Have an old PC monitor laying around? Turning it into a TV is easier than you think",
         "link": "https://www.zdnet.com/article/how-to-turn-your-monitor-into-a-tv/",
         "date": "Wed, 26 Aug 2026 09:30:00 GMT",
@@ -8268,6 +8449,19 @@
         "description": "Give your old monitor a second chance at life as a dedicated streaming screen or over-the-air TV with just a few simple steps.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "NVIDIA Jetson Orin Nano 2 brings physical AI to drones and robots",
+        "link": "https://www.artificialintelligence-news.com/news/nvidia-jetson-orin-nano-2-physical-ai-to-drones-and-robots/",
+        "date": "Wed, 26 Aug 2026 09:08:11 +0000",
+        "source": "Artificial Intelligence News",
+        "description": "NVIDIA has unveiled the Jetson Orin Nano 2, an edge robotics computer aimed at bringing physical AI to drones, robots, and vision systems. The company is positioning the new board as an entry-level...",
+        "is_important": false,
+        "tags": [
+            "🤖 Robótica",
+            "👁️ Visión por Computador",
+            "⚙️ Hardware de IA"
+        ]
     },
     {
         "title": "Raised on AI",
@@ -8714,6 +8908,15 @@
         "tags": [
             "💬 LLMs & NLP"
         ]
+    },
+    {
+        "title": "Luce: Relightable Gaussians for 3D Asset Generation",
+        "link": "https://machinelearning.apple.com/research/relightable-gaussians-3d-generation",
+        "date": "Wed, 26 Aug 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "High-fidelity image-to-3D generation requires a 3D representation that captures both geometry and appearance. To support relighting and integration into standard rendering pipelines, the representa...",
+        "is_important": false,
+        "tags": []
     },
     {
         "title": "RENDER: Controlling Reader-Facing Evidence in LLM Memory Evaluation",
@@ -23981,219 +24184,6 @@
         "is_important": false,
         "tags": [
             "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Best Strategy Frameworks Every Product Leader Should Know",
-        "link": "https://dev.to/david_moralesweaver_3807/best-strategy-frameworks-every-product-leader-should-know-27hi",
-        "date": "Wed, 19 Aug 2026 01:31:25 +0000",
-        "source": "Dev.to AI",
-        "description": "Product leaders have no shortage of frameworks.\n\nThere are frameworks for prioritization, discovery, roadmapping, growth, pricing, positioning, customer interviews, experimentation, and almost ever...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Google Gemini Adds Free Full-Length SAT Practice Tests With Instant Study Feedback",
-        "link": "https://dev.to/alifar/google-gemini-adds-free-full-length-sat-practice-tests-with-instant-study-feedback-25d4",
-        "date": "Wed, 19 Aug 2026 01:30:30 +0000",
-        "source": "Dev.to AI",
-        "description": "Google Gemini now lets users take free, full-length SAT practice tests directly in the Gemini app. The feature combines vetted test content from education partners including The Princeton Review wi...",
-        "is_important": true,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "FaceFizz: Building a Privacy-First Camera Inside the Browser",
-        "link": "https://dev.to/_b6417cbb54ddfef4c4fd0/facefizz-building-a-privacy-first-camera-inside-the-browser-14e5",
-        "date": "Wed, 19 Aug 2026 01:30:00 +0000",
-        "source": "Dev.to AI",
-        "description": "I have made the source code for FaceFizz.fun publicly available on GitHub. FaceFizz is a browser photo booth: no app installation and no account are required. After granting camera access, a user c...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Pointing Claude Code at an AI gateway: what actually breaks (and the 4 env vars that fix it)",
-        "link": "https://dev.to/yansen_zhu_9b0dae1c4cc0da/pointing-claude-code-at-an-ai-gateway-what-actually-breaks-and-the-4-env-vars-that-fix-it-2knp",
-        "date": "Wed, 19 Aug 2026 01:29:24 +0000",
-        "source": "Dev.to AI",
-        "description": "Disclosure: I work on ApiFlux, an AI router with native Anthropic, OpenAI and Gemini endpoints. Everything below applies to any gateway that speaks the Anthropic Messages protocol — the config is n...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "A Local Video Dubber, Fully Running, in About Ten Minutes",
-        "link": "https://dev.to/syed_masoodshah_1984/a-local-video-dubber-fully-running-in-about-ten-minutes-424j",
-        "date": "Wed, 19 Aug 2026 01:29:13 +0000",
-        "source": "Dev.to AI",
-        "description": "I've sat through a lot of \"10-minute setup\" tutorials that secretly take an hour. So let me be straight with you up front: this one really took me about ten minutes, mostly because nothing here fig...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "OpenAI falls further behind Anthropic, with disappointing revenue growth and mounting losses",
-        "link": "https://siliconangle.com/2026/08/18/openai-falls-further-behind-anthropic-with-disappointing-revenue-growth-and-mounting-losses/",
-        "date": "Wed, 19 Aug 2026 01:25:23 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "OpenAI Group PBC is falling further behind its rival Anthropic PBC, if its latest financials are any indication. The artificial intelligence model maker told investors that its revenue rose 18% on ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Claude Workbench to Playground Migration Checklist",
-        "link": "https://dev.to/ahab_indieseek/claude-workbench-to-playground-migration-checklist-1g11",
-        "date": "Wed, 19 Aug 2026 01:24:24 +0000",
-        "source": "Dev.to AI",
-        "description": "Claude Workbench is now Playground: export saved prompts before September 1\n\n\n\n  \n  \n  Quick answer\n\n\nClaude Workbench (legacy) retired on August 17, 2026. Anthropic renamed the current Console tes...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Changes to LLM pricing: Baidu, GMICloud, Google, Novita and StreamLake",
-        "link": "https://dev.to/narevbot/changes-to-llm-pricing-baidu-gmicloud-google-novita-and-streamlake-al9",
-        "date": "Wed, 19 Aug 2026 01:21:28 +0000",
-        "source": "Dev.to AI",
-        "description": "Model price changes detected for Baidu, GMICloud, Google, Novita and StreamLake. Details below.",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "How To Decrease Fat By Exercise",
-        "link": "https://dev.to/the_strugglersentertainm/how-to-decrease-fat-by-exercise-581c",
-        "date": "Wed, 19 Aug 2026 01:19:37 +0000",
-        "source": "Dev.to AI",
-        "description": "Looking for an effective way to reduce fat and improve your overall fitness? In this video, How To Decrease Fat By Exercise, you'll discover simple yet powerful exercises that can help you burn cal...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "I moved my drafting off ChatGPT to a local model. Here's where it's actually good",
-        "link": "https://dev.to/syed_masoodshah_1984/i-moved-my-drafting-off-chatgpt-to-a-local-model-heres-where-its-actually-good-4b0e",
-        "date": "Wed, 19 Aug 2026 01:19:06 +0000",
-        "source": "Dev.to AI",
-        "description": "Three weeks ago I got tired of pasting client emails into a cloud chat and wondering, on a slow Tuesday night, whether anyone was doing anything interesting with them. So I rebuilt my little drafti...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Cybersecurity concerns prompt OpenAI to pause some AI training runs",
-        "link": "https://siliconangle.com/2026/08/18/openai-paused-some-ai-training-runs-over-cybersecurity-concerns/",
-        "date": "Wed, 19 Aug 2026 01:18:39 +0000",
-        "source": "SiliconANGLE AI",
-        "description": "OpenAI Group PBC recently paused some of its artificial intelligence training workloads over concerns that they could cause cybersecurity issues. The ChatGPT developer disclosed the move in a blog ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Examining Human-Like Behaviors in LLMs: A Multi-Dimensional Analysis of Model Behaviors, User Factors, and System Prompts",
-        "link": "https://machinelearning.apple.com/research/human-like-behaviors-llms",
-        "date": "Wed, 19 Aug 2026 00:00:00 GMT",
-        "source": "Apple Machine Learning",
-        "description": "Large language models (LLMs) exhibit a wide range of human-like behaviors, from expressing thoughts and emotions, to engaging in relationship-building with users, to refusing requests and maintaini...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "The P-Completeness of Inverted Index Traversal: On the Complexity of Evaluating Boolean Query DAGs",
-        "link": "https://machinelearning.apple.com/research/the-p-completeness-of-inverted-index-traversal",
-        "date": "Wed, 19 Aug 2026 00:00:00 GMT",
-        "source": "Apple Machine Learning",
-        "description": "Modern AI agents increasingly rely on search infrastructure to execute complex, neuro-symbolic reasoning workflows. These workflows often compile into deeply nested, non-monotonic Boolean queries o...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "GxP-Agent: Process-DAG Topology for Reliable Clinical Trial Programming with LLM Agents",
-        "link": "https://arxiv.org/abs/2608.16890",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2608.16890v1 Announce Type: new \nAbstract: Clinical trial programming -- transforming study protocols into analysis-ready datasets under CDISC standards -- is a bottleneck in regulatory submi...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Runtime Governance for Agentic AI: Action-Boundary Control with Trusted Provenance and Fail-Closed Execution",
-        "link": "https://arxiv.org/abs/2608.16891",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2608.16891v1 Announce Type: new \nAbstract: Agentic AI systems request tool actions that can modify files, send messages, launch jobs, or change workflow state. This shifts the safety problem ...",
-        "is_important": false,
-        "tags": [
-            "⚖️ Ética y Regulación"
-        ]
-    },
-    {
-        "title": "The Price of Thinking: Reasoning Effort as a Model-Specific API Contract",
-        "link": "https://arxiv.org/abs/2608.16956",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2608.16956v1 Announce Type: new \nAbstract: API buyers purchase a dated contract, not a model name alone: the contract includes the requested and served model, reasoning-effort term or its omi...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "FedPref: Federated Preference Learning for Structured Radiology Report Extraction",
-        "link": "https://arxiv.org/abs/2608.16971",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2608.16971v1 Announce Type: new \nAbstract: Radiology reports describe findings and locations in free text, but downstream search and analysis require these relations in a fixed schema. Learni...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "The Problem Is the Problem: Towards Scalable Mathematical Discovery",
-        "link": "https://arxiv.org/abs/2608.16977",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2608.16977v1 Announce Type: new \nAbstract: AI systems are increasingly capable of contributing to mathematical research. In research practice, frontier-model reasoning is a limited resource, ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "SkillEffect: Checked Lowering for Memory-Bounded Agent Tools",
-        "link": "https://arxiv.org/abs/2608.17007",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2608.17007v1 Announce Type: new \nAbstract: Agent Skills can specify procedural and resource obligations for tool use, and language models instantiate them as concrete programs. However, when ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Memory Is Communication: The Frontier Between Remembering and Signaling",
-        "link": "https://arxiv.org/abs/2608.17053",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2608.17053v1 Announce Type: new \nAbstract: A bounded agent may obtain information for a decision from its own past, from peers, or from both sources. Retaining task-relevant history can reduc...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "DiSCO: Defending text-to-image generation through distribution-guided contrastive prompt optimization",
-        "link": "https://arxiv.org/abs/2608.17067",
-        "date": "Wed, 19 Aug 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.AI)",
-        "description": "arXiv:2608.17067v1 Announce Type: new \nAbstract: As text-to-image generative models advance, they raise critical safety concerns, particularly the generation of Not-Safe-For-Work (NSFW) content suc...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador",
-            "⚖️ Ética y Regulación"
         ]
     }
 ]
