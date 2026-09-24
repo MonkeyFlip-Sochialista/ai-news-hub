@@ -15181,6 +15181,89 @@
         "is_important": true
     },
     {
+        "title": "America’s A.I. Leaders Warn U.N. of Possible Peril Absent a Global Response",
+        "link": "https://www.nytimes.com/2026/09/23/us/politics/ai-leaders-united-nations-global-response.html",
+        "date": "Wed, 23 Sep 2026 23:54:20 +0000",
+        "source": "NYT Tech",
+        "description": "Sam Altman of OpenAI and Dario Amodei of Anthropic told the Security Council that international cooperation was needed to ensure that A.I. remains under human control.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta VR Glasses, Ray-Ban Meta Audio, Ray-Ban Meta Gen 3: Specs, Features, Prices",
+        "link": "https://www.wired.com/story/metas-answer-to-the-meta-creep-camera-free-smart-glasses/",
+        "date": "Wed, 23 Sep 2026 23:42:44 +0000",
+        "source": "Wired AI",
+        "description": "At its Meta Connect event, CEO Mark Zuckerberg announced a handful of new smart glasses, including a slimmed-down VR headset and the company’s first camera-free glasses.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Meta introduces camera-free AI glasses",
+        "link": "https://techcrunch.com/2026/09/23/meta-introduces-camera-free-ai-glasses/",
+        "date": "Wed, 23 Sep 2026 23:39:44 +0000",
+        "source": "TechCrunch AI",
+        "description": "Meta says the camera-free glasses will be lighter and have up to 12 hours battery life.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Containment is dead: Five takeaways from the AI ROI in Contact Center Summit",
+        "link": "https://siliconangle.com/2026/09/23/containment-is-dead-five-takeaways-from-the-ai-roi-in-contact-center-summit/",
+        "date": "Wed, 23 Sep 2026 23:18:36 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Every vendor event has a center of gravity, and at theCUBE Research&#8217;s AI ROI in Contact Center Summit, it wasn&#8217;t a product. It was a metric this industry is finally ready to abandon. I ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Indians are discovering the thrill of shopping without paying",
+        "link": "https://www.bbc.co.uk/news/articles/cwn741v5rdpxo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 23 Sep 2026 23:14:10 GMT",
+        "source": "BBC Tech",
+        "description": "Dopamine sites mimic shopping’s thrill without the spending, turning the ritual of consumption into a digital game.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "UiPath introduces new workflow automation, software testing features",
+        "link": "https://siliconangle.com/2026/09/23/uipath-introduces-new-workflow-automation-software-testing-features/",
+        "date": "Wed, 23 Sep 2026 22:45:06 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "UiPath Inc. is updating its namesake automation platform with more than a dozen new features designed to save time for knowledge workers. The company debuted the enhancements today at its FUSION co...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "US rejects pleas from OpenAI, Anthropic for global AI standards",
+        "link": "https://www.bbc.co.uk/news/articles/ck87v27vdn1po?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 23 Sep 2026 22:35:14 GMT",
+        "source": "BBC Tech",
+        "description": "OpenAI's Sam Altman has called for risk evaluation standards, as have Anthropic's Dario Amodei and Hugging Face's Clement Delangue.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The Transformation Edge: Why AI is forcing the CFO and CHRO to rewrite the enterprise together",
+        "link": "https://siliconangle.com/2026/09/23/workforce-economics-ai-csuite-ibm-ibmtransformationedgeseries/",
+        "date": "Wed, 23 Sep 2026 22:18:27 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "There was a time when the org chart told you how the company worked. Finance managed capital. Human resources managed people. Information technology managed systems. Operations managed workflows.  ...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Anthropic says its biology lab has already found something big",
+        "link": "https://techcrunch.com/2026/09/23/anthropic-says-its-biology-lab-has-already-found-something-big/",
+        "date": "Wed, 23 Sep 2026 22:17:39 +0000",
+        "source": "TechCrunch AI",
+        "description": "But maybe the biggest reveal is that Anthropic has not let Claude run loose in its biology lab. Humans are still, so far, in the loop.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "Workforce economics emerges as AI reshapes the C-suite",
         "link": "https://siliconangle.com/2026/09/23/workforce-economics-ai-strategy-ibmtransformationedgeseries/",
         "date": "Wed, 23 Sep 2026 21:18:50 +0000",
@@ -16488,6 +16571,17 @@
         ]
     },
     {
+        "title": "ChatGPT Ads expands to Southeast Asia and Taiwan",
+        "link": "https://openai.com/index/chatgpt-ads-expands-southeast-asia-taiwan",
+        "date": "Wed, 23 Sep 2026 02:00:00 GMT",
+        "source": "OpenAI",
+        "description": "ChatGPT Ads is expanding to Southeast Asia and Taiwan, giving eligible businesses new ways to reach people across more than 60 countries.",
+        "is_important": false,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
         "title": "US criticises Australia's proposed algorithm opt-out laws as 'censorship'",
         "link": "https://www.bbc.co.uk/news/articles/cqj3dgy8x3vro?at_medium=RSS&at_campaign=rss",
         "date": "Wed, 23 Sep 2026 01:35:56 GMT",
@@ -16542,6 +16636,17 @@
         "description": "OpenAI and Grab launch GO Forward with AI, a regional programme helping 30,000 partners build practical AI skills across Southeast Asia.",
         "is_important": false,
         "tags": []
+    },
+    {
+        "title": "How to Guide Your Language Flow",
+        "link": "https://machinelearning.apple.com/research/guide-language-flow",
+        "date": "Wed, 23 Sep 2026 00:00:00 GMT",
+        "source": "Apple Machine Learning",
+        "description": "We introduce a new method to guide flow matching models. Our approach, which we call probe guidance, uses the frozen internal states of an existing diffusion model to construct a guidance signal. T...",
+        "is_important": false,
+        "tags": [
+            "👁️ Visión por Computador"
+        ]
     },
     {
         "title": "Didactic knowledge or Clinical Cases? How Data Types Shape Medical Large Language Models",
@@ -24145,120 +24250,6 @@
         "is_important": false,
         "tags": [
             "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Position: Uncertainty Quantification in LLMs is Just Unsupervised Clustering",
-        "link": "https://arxiv.org/abs/2605.19220",
-        "date": "Wed, 20 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.19220v1 Announce Type: new \nAbstract: Uncertainty Quantification (UQ) is widely regarded as the primary safeguard for deploying Large Language Models (LLMs) in high-stakes domains. Howev...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Fine-tuning language encoding models on slow fMRI improves prediction for fast ECoG",
-        "link": "https://arxiv.org/abs/2605.19224",
-        "date": "Wed, 20 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.19224v1 Announce Type: new \nAbstract: Neuroscientists have recently turned to intracranial brain recording methods, like electrocorticography (ECoG), for human experiments because of the...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Diagnosing Multi-step Reasoning Failures in Black-box LLMs via Stepwise Confidence Attribution",
-        "link": "https://arxiv.org/abs/2605.19228",
-        "date": "Wed, 20 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.19228v1 Announce Type: new \nAbstract: Large Language Models have achieved strong performance on reasoning tasks with objective answers by generating step-by-step solutions, but diagnosin...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "AI Technologies in Language Access: Attitudes Towards AI and the Human Value of Language Access Managers",
-        "link": "https://arxiv.org/abs/2605.19234",
-        "date": "Wed, 20 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.19234v1 Announce Type: new \nAbstract: The rapid emergence of AI technologies is reshaping translation practices and theory across the board. This paper deals with the impact of AI in lan...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "FormalASR: End-to-End Spoken Chinese to Formal Text",
-        "link": "https://arxiv.org/abs/2605.19266",
-        "date": "Wed, 20 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.19266v1 Announce Type: new \nAbstract: Automatic speech recognition (ASR) systems are typically optimized for verbatim transcription, which preserves disfluencies, filler words, and infor...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "DECOR: Auditing LLM Deception via Information Manipulation Theory",
-        "link": "https://arxiv.org/abs/2605.19270",
-        "date": "Wed, 20 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.19270v1 Announce Type: new \nAbstract: Large language models can deceive by subtly manipulating truthful information -- omitting key facts, shifting focus, or obscuring meaning -- making ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Lost in Interpretation: The Plausibility-Faithfulness Trade-off in Cross-Lingual Explanations",
-        "link": "https://arxiv.org/abs/2605.19274",
-        "date": "Wed, 20 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.19274v1 Announce Type: new \nAbstract: LLMs deployed multilingually are often audited via English explanations for non-English inputs. We evaluate extractive explanations ''where the mode...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "OpenCompass: A Universal Evaluation Platform for Large Language Models",
-        "link": "https://arxiv.org/abs/2605.19276",
-        "date": "Wed, 20 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.19276v1 Announce Type: new \nAbstract: In recent years, the field of artificial intelligence has undergone a paradigm shift from task-specific small-scale models to general-purpose large ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "MotionMERGE: A Multi-granular Framework for Human Motion Editing, Reasoning, Generation, and Explanation",
-        "link": "https://arxiv.org/abs/2605.18956",
-        "date": "Wed, 20 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2605.18956v1 Announce Type: new \nAbstract: Recent motion-language models unify tasks like comprehension and generation but operate at a coarse granularity, lacking fine-grained understanding ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Harnessing Self-Supervised Features for Art Classification",
-        "link": "https://arxiv.org/abs/2605.18974",
-        "date": "Wed, 20 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2605.18974v1 Announce Type: new \nAbstract: Classifying artworks presents a significant challenge due to the complex interplay of fine-grained details and abstract features that condition the ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Artifact-Bench: Evaluating MLLMs on Detecting and Assessing the Artifacts of AI-Generated Videos",
-        "link": "https://arxiv.org/abs/2605.18984",
-        "date": "Wed, 20 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CV)",
-        "description": "arXiv:2605.18984v1 Announce Type: new \nAbstract: Recent video generative models have greatly improved the realism of AI-generated videos, yet their outputs still exhibit artifacts such as temporal ...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "⚙️ Hardware de IA"
         ]
     }
 ]
