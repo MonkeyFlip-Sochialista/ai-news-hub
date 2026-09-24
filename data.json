@@ -15264,6 +15264,15 @@
         ]
     },
     {
+        "title": "FBI investigates claim by hackers they stole data on all agency staff",
+        "link": "https://www.bbc.co.uk/news/articles/c9n74574elljo?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 23 Sep 2026 21:30:22 GMT",
+        "source": "BBC Tech",
+        "description": "The hackers claim they have every agent's name, role, badge number and personal details including home address, phone numbers and spouse information.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Workforce economics emerges as AI reshapes the C-suite",
         "link": "https://siliconangle.com/2026/09/23/workforce-economics-ai-strategy-ibmtransformationedgeseries/",
         "date": "Wed, 23 Sep 2026 21:18:50 +0000",
@@ -24239,17 +24248,6 @@
         "tags": [
             "💬 LLMs & NLP",
             "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Time to REFLECT: Can We Trust LLM Judges for Evidence-based Research Agents?",
-        "link": "https://arxiv.org/abs/2605.19196",
-        "date": "Wed, 20 May 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.CL)",
-        "description": "arXiv:2605.19196v1 Announce Type: new \nAbstract: Deep research agents increasingly automate complex information-seeking tasks, producing evidence-grounded reports via multi-step reasoning, tool use...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
         ]
     }
 ]
