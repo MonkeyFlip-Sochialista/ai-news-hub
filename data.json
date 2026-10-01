@@ -104,6 +104,55 @@
         "is_important": false
     },
     {
+        "title": "Google releases Gemini 4 Argon, called its most powerful model yet",
+        "link": "https://techcrunch.com/2026/09/30/google-releases-gemini-4-argon-called-its-most-powerful-model-yet/",
+        "date": "Wed, 30 Sep 2026 23:43:07 +0000",
+        "source": "TechCrunch AI",
+        "description": "Google has released its latest Gemini model, marketing it as a workhorse for coding and cybersecurity work.",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Tiny image sparks big backlash in Nikon photo contest",
+        "link": "https://www.bbc.co.uk/news/articles/ck4gjn1yzprno?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 30 Sep 2026 23:10:19 GMT",
+        "source": "BBC Tech",
+        "description": "Dr Ning Xu denies he broke the rules of Nikon's annual Small World In Motion contest.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "The AI telling farmers when to harvest",
+        "link": "https://www.bbc.co.uk/news/articles/cgk53dkmyxko?at_medium=RSS&at_campaign=rss",
+        "date": "Wed, 30 Sep 2026 23:02:21 GMT",
+        "source": "BBC Tech",
+        "description": "Will farmers want AI tools to help judge when to pick fruit, or is their own intuition enough?",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google’s new frontier AI model Gemini 4 Argon goes to cybersecurity defenders first",
+        "link": "https://siliconangle.com/2026/09/30/googles-new-frontier-ai-model-gemini-4-argon-goes-to-cybersecurity-defenders-first/",
+        "date": "Wed, 30 Sep 2026 22:31:12 +0000",
+        "source": "SiliconANGLE AI",
+        "description": "Google LLC today began rolling out Gemini 4 Argon, a frontier artificial intelligence model that beats rival models from Anthropic PBC and OpenAI Group PBC on most of Google&#8217;s benchmarks, to ...",
+        "is_important": true,
+        "tags": [
+            "💬 LLMs & NLP"
+        ]
+    },
+    {
+        "title": "Why Dwarkesh is Wrong about Computer Use + How OpenAI shipped its Jev competitor in 1 Week",
+        "link": "https://www.latent.space/p/devday-2026",
+        "date": "Wed, 30 Sep 2026 22:23:40 GMT",
+        "source": "Latent Space",
+        "description": "Our DevDay coverage - the first pod on the DevDay lineup - dives in with the leaders of OpenAI&#8217;s CUA team and API platform.",
+        "is_important": false,
+        "tags": []
+    },
+    {
         "title": "Optimizing Pull Request Reviews: Balancing Code Volume and Efficiency in AI-Assisted Development",
         "link": "https://dev.to/denlava/optimizing-pull-request-reviews-balancing-code-volume-and-efficiency-in-ai-assisted-development-413n",
         "date": "Wed, 30 Sep 2026 22:02:38 +0000",
@@ -224,6 +273,15 @@
         "date": "Wed, 30 Sep 2026 21:22:56 +0000",
         "source": "Dev.to AI",
         "description": "When an AI agent asks Verax for something there is no rule for, the answer is no. Nothing is allowed by default.\n\nThat covers the obvious case, like an agent trying to export your customer list. It...",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Google Wants Hollywood to Stop Being So Afraid of Technology",
+        "link": "https://www.nytimes.com/2026/09/30/business/media/google-hollywood-krya-sedgwick.html",
+        "date": "Wed, 30 Sep 2026 21:18:56 +0000",
+        "source": "NYT Tech",
+        "description": "100 Zeros, a collaboration between Google and Range Media Partners, aims to give the tech giant a foothold in movies, TV and emerging forms of entertainment.",
         "is_important": false,
         "tags": []
     },
@@ -372,6 +430,15 @@
         "date": "Wed, 30 Sep 2026 19:00:00 +0000",
         "source": "Wired AI",
         "description": "In her new book on biological warfare, Annie Jacobsen didn’t even discuss AI because scientists can already warp Mother Nature to create extinction-level events.",
+        "is_important": false,
+        "tags": []
+    },
+    {
+        "title": "Here’s the Email You Get When an OpenAI Model Hacks Your Organization",
+        "link": "https://futurism.com/artificial-intelligence/email-openai-model-hacks-your-organization",
+        "date": "Wed, 30 Sep 2026 18:47:53 -0400",
+        "source": "Futurism AI",
+        "description": "OpenAI will wish you the \"best\" after hacking into your company.\nThe post Here&#8217;s the Email You Get When an OpenAI Model Hacks Your Organization appeared first on Futurism.",
         "is_important": false,
         "tags": []
     },
@@ -24234,79 +24301,6 @@
         "description": "arXiv:2604.18728v1 Announce Type: new \nAbstract: Many neural network (NN) verification systems represent the network's input-output relation as a constraint program. Sound and complete, representat...",
         "is_important": false,
         "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Discrete Tilt Matching",
-        "link": "https://arxiv.org/abs/2604.18739",
-        "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2604.18739v1 Announce Type: new \nAbstract: Masked diffusion large language models (dLLMs) are a promising alternative to autoregressive generation. While reinforcement learning (RL) methods h...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
-            "👁️ Visión por Computador"
-        ]
-    },
-    {
-        "title": "Beyond Coefficients: Forecast-Necessity Testing for Interpretable Causal Discovery in Nonlinear Time-Series Models",
-        "link": "https://arxiv.org/abs/2604.18751",
-        "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2604.18751v1 Announce Type: new \nAbstract: Nonlinear machine-learning models are increasingly used to discover causal relationships in time-series data, yet the interpretation of their output...",
-        "is_important": false,
-        "tags": [
-            "⚙️ Hardware de IA"
-        ]
-    },
-    {
-        "title": "Handling and Interpreting Missing Modalities in Patient Clinical Trajectories via Autoregressive Sequence Modeling",
-        "link": "https://arxiv.org/abs/2604.18753",
-        "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2604.18753v1 Announce Type: new \nAbstract: An active challenge in developing multimodal machine learning (ML) models for healthcare is handling missing modalities during training and deployme...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Towards Understanding the Robustness of Sparse Autoencoders",
-        "link": "https://arxiv.org/abs/2604.18756",
-        "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2604.18756v1 Announce Type: new \nAbstract: Large Language Models (LLMs) remain vulnerable to optimization-based jailbreak attacks that exploit internal gradient structure. While Sparse Autoen...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP"
-        ]
-    },
-    {
-        "title": "Multi-Level Temporal Graph Networks with Local-Global Fusion for Industrial Fault Diagnosis",
-        "link": "https://arxiv.org/abs/2604.18765",
-        "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2604.18765v1 Announce Type: new \nAbstract: Fault detection and diagnosis are critical for the optimal and safe operation of industrial processes. The correlations among sensors often display ...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Streaming Structured Inference with Flash-SemiCRF",
-        "link": "https://arxiv.org/abs/2604.18780",
-        "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2604.18780v1 Announce Type: new \nAbstract: Semi-Markov Conditional Random Fields (semi-CRFs) assign labels to segments of a sequence rather than to individual positions, enabling exact infere...",
-        "is_important": false,
-        "tags": []
-    },
-    {
-        "title": "Efficient Mixture-of-Experts LLM Inference with Apple Silicon NPUs",
-        "link": "https://arxiv.org/abs/2604.18788",
-        "date": "Wed, 22 Apr 2026 00:00:00 -0400",
-        "source": "ArXiv (cs.LG)",
-        "description": "arXiv:2604.18788v1 Announce Type: new \nAbstract: Apple Neural Engine (ANE) is a dedicated neural processing unit (NPU) present in every Apple Silicon chip. Mixture-of-Experts (MoE) LLMs improve inf...",
-        "is_important": false,
-        "tags": [
-            "💬 LLMs & NLP",
             "⚙️ Hardware de IA"
         ]
     }
